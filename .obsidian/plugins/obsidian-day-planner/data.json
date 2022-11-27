@@ -1,0 +1,20 @@
+{
+  "customFolder": "Day Planners",
+  "mode": 1,
+  "mermaid": false,
+  "notesToDates": [
+    {
+      "notePath": "学习记录/2022-11-24.md",
+      "date": "Thu Nov 24 2022"
+    },
+    {
+      "notePath": "学习记录/2022-11-25.md",
+      "date": "Fri Nov 25 2022"
+    }
+  ],
+  "completePastItems": true,
+  "circularProgress": true,
+  "nowAndNextInStatusBar": true,
+  "showTaskNotification": true,
+  "timelineZoomLevel": 4
+}

@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "7259667b8f5bdee2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8c1deff9c4a794ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46b4028299ff82d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习记录/2022-11-27.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dad6ac64b56b906b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8201dfdfd238859b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a59753b4784e3576",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ffc2db0d12688bb7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#笔记",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1f145b4f75956ec",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "617127011ede853a",
+    "type": "split",
+    "children": [
+      {
+        "id": "48e4df7056d011b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3ff613d8b4842cb2",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "学习记录/2022-11-27.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "8456fea1d36da9b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "学习记录/2022-11-27.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2bf4200a55a7a205",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "学习记录/2022-11-27.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39371486e0d803c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4713a21889e76e49",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "学习记录/2022-11-27.md"
+              }
+            }
+          },
+          {
+            "id": "dbbca4e000bceca9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "211d214ae49428f0",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "a31d90521da04f88",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "66037266f21e4971",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 346.5,
+    "collapsed": true
+  },
+  "active": "46b4028299ff82d2",
+  "lastOpenFiles": [
+    "学习记录/2022-11-25.md",
+    "学习记录/2022-11-24.md",
+    "Templates/Daily Plan.md",
+    "资源分享/工具推荐：一款好用且免费的笔记软件 Obsidian-2.md",
+    "开发工具/Obsidian-使用指南.md",
+    "开发工具/Obsidian-插件功能.md",
+    "问题目标/Questions-关于笔记的思考.md",
+    "学习记录/2022-11-17.md",
+    "学习记录/分享方法总结.md",
+    "资源分享/工具推荐：一款好用且免费的笔记软件 Obsidian-1.md"
+  ]
+}
