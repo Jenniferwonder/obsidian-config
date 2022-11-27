@@ -4,11 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8c1deff9c4a794ce",
+        "id": "30d31c88e35b0f54",
         "type": "tabs",
+        "dimension": 35.45816733067729,
         "children": [
           {
-            "id": "46b4028299ff82d2",
+            "id": "e563bfb63766059a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,6 +20,47 @@
                 "source": false
               }
             }
+          }
+        ]
+      },
+      {
+        "id": "8c1deff9c4a794ce",
+        "type": "tabs",
+        "dimension": 34.9003984063745,
+        "children": [
+          {
+            "id": "46b4028299ff82d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习记录/2022-11-25.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "242d45e79188c33e",
+        "type": "tabs",
+        "dimension": 29.64143426294821,
+        "children": [
+          {
+            "id": "43c90fb33137d1a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "问题目标/Questions.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            },
+            "group": "aa8c98bb197db13e"
           }
         ]
       }
@@ -70,7 +112,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "617127011ede853a",
@@ -86,7 +129,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "学习记录/2022-11-27.md",
+                "file": "学习记录/2022-11-25.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -109,7 +152,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 1,
+                  "scale": 0.6717561918911797,
                   "close": true
                 }
               }
@@ -121,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习记录/2022-11-27.md",
+                "file": "学习记录/2022-11-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习记录/2022-11-27.md",
+                "file": "学习记录/2022-11-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习记录/2022-11-27.md"
+                "file": "学习记录/2022-11-25.md"
               }
             }
           },
@@ -204,25 +247,61 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "dcc1c1a8b117154e",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "问题目标/Questions.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "aa8c98bb197db13e"
           }
         ],
         "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 300.5
   },
   "active": "46b4028299ff82d2",
   "lastOpenFiles": [
-    "学习记录/2022-11-25.md",
     "学习记录/2022-11-27.md",
+    "学习记录/2022-11-25.md",
+    "问题目标/Questions.md",
+    "问题目标/Questions-关于分享的思考.md",
     "Templates/Daily Plan.md",
-    "Day Planners/Day Planner-20221124.md",
-    "学习记录/2022-11-17.md",
-    "学习记录/2022-11-06.md",
-    "学习记录/2022-11-08.md",
-    "学习记录/2022-11-10.md",
-    "学习记录/2022-11-12.md",
-    "学习记录/2022-11-15.md"
+    "学习记录/2022-11-24.md",
+    "学习记录/2022-11-23.md",
+    "学习记录/2022-11-22.md",
+    "学习记录/2022-11-21.md",
+    "学习记录/2022-11-20.md"
   ]
 }
