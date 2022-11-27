@@ -1,9 +1,9 @@
 ---
 title: 如何写项目README.md
-tags: 
+tags: [Markdown, GitHub]
 status: 
-started: 
-closed: 
+started: 2022-10-31
+closed: 2022-10-31
 aliases: 
 ---
 创作时间：2022 年 10 月 31 日

@@ -196,25 +196,33 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "fe2355858dd23345",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 329.5
   },
   "active": "46b4028299ff82d2",
   "lastOpenFiles": [
     "学习记录/2022-11-25.md",
-    "学习记录/2022-11-24.md",
+    "学习记录/2022-11-27.md",
     "Templates/Daily Plan.md",
-    "资源分享/工具推荐：一款好用且免费的笔记软件 Obsidian-2.md",
-    "开发工具/Obsidian-使用指南.md",
-    "开发工具/Obsidian-插件功能.md",
-    "问题目标/Questions-关于笔记的思考.md",
+    "Day Planners/Day Planner-20221124.md",
     "学习记录/2022-11-17.md",
-    "学习记录/分享方法总结.md",
-    "资源分享/工具推荐：一款好用且免费的笔记软件 Obsidian-1.md"
+    "学习记录/2022-11-06.md",
+    "学习记录/2022-11-08.md",
+    "学习记录/2022-11-10.md",
+    "学习记录/2022-11-12.md",
+    "学习记录/2022-11-15.md"
   ]
 }

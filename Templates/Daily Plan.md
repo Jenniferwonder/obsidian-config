@@ -4,7 +4,6 @@ tags: 学习记录
 status: Doing
 started: 2022-11
 closed: 2022-11-25
-aliases: [[2022-S3(11.16-11.26)]]
 ---
 # Daily Plan
 ## 今日目标

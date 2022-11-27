@@ -15,15 +15,12 @@ sorting-spec: |
  问题目标
  学习记录
  阶段反思
- 双语能力
- 生活攻略
- 职业发展
+ 工具方法
  技术笔记
- 前端资源
  编程项目
- 开发流程
- 开发工具
- 视频记录
+ 资源分享
+ 职业发展
+ 快捷键
  with-metadata: started
  > a-z by-metadata: started
 ---

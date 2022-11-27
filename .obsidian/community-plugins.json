@@ -19,12 +19,12 @@
   "metaedit",
   "tag-wrangler",
   "number-headings-obsidian",
-  "periodic-notes",
   "obsidian-pandoc",
   "obsidian-git",
   "obsidian-day-planner",
   "obsidian-outliner",
   "darlal-switcher-plus",
   "obsidian-checklist-plugin",
-  "obsidian-dynamic-toc"
+  "obsidian-dynamic-toc",
+  "periodic-notes"
 ]
