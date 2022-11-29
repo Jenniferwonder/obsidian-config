@@ -3,7 +3,7 @@ title: JD
 tags: 
 status: 
 started: 
-closed: 
+due: 
 aliases: 
 ---
 **TEG15- 前端开发工程师**

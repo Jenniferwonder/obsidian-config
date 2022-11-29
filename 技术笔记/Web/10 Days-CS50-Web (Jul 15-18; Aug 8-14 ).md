@@ -3,7 +3,7 @@ title: 10 Days-CS50-Web (Jul 15-18; Aug 8-14 )
 tags: 技术/Web
 status: Done
 started: 2022-07-15
-closed: 2022-08-14
+due: 2022-08-14
 aliases: 
 ---
 ## ✅Big Event

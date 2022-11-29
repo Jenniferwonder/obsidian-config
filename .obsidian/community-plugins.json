@@ -2,7 +2,6 @@
   "obsidian-style-settings",
   "nldates-obsidian",
   "obsidian-minimal-settings",
-  "obsidian-imgur-plugin",
   "obsidian-contextual-typography",
   "calendar",
   "table-editor-obsidian",
@@ -27,5 +26,6 @@
   "obsidian-checklist-plugin",
   "obsidian-dynamic-toc",
   "periodic-notes",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "better-word-count"
 ]

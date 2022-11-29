@@ -3,7 +3,7 @@ title: 工具推荐：一款好用且免费的笔记软件 Obsidian-1
 tags: [工具方法/Obsidian, 图文]
 status: Done
 started: 2022-11-24
-closed: 2022-11-25
+due: 2022-11-25
 aliases: [[2022-11-24]] 
 ---
 > [!attention]  

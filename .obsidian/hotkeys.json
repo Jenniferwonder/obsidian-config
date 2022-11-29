@@ -436,5 +436,30 @@
       ],
       "key": "G"
     }
+  ],
+  "obsidian-tasks-plugin:toggle-done": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "obsidian-tasks-plugin:edit-task": [],
+  "obsidian-auto-link-title:enhance-url-with-title": [],
+  "obsidian-excalidraw-plugin:insert-link-to-element": [],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "obsidian-excalidraw-plugin:save": [],
+  "obsidian-excalidraw-plugin:toggle-lock": [],
+  "editor:follow-link": [],
+  "editor:open-link-in-new-leaf": [],
+  "editor:toggle-checklist-status": [],
+  "cmenu-plugin:editor:toggle-checklist-status": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
   ]
 }

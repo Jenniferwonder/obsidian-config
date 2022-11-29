@@ -3,7 +3,7 @@ title: 6 Days_ Modern JS (Oct 19- 24)
 tags: 
 status: 
 started: 
-closed: 
+due: 
 aliases: 
 ---
 ## Task for This Sprint

@@ -3,7 +3,7 @@ title: Forkify-JS MVC Async(Sept 30-Oct 8)
 tags: 
 status: 
 started: 
-closed: 
+due: 
 aliases: 
 ---
 ## Project Overview

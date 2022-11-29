@@ -3,7 +3,7 @@ title: Natours-Responsive Design (Sept 8)
 tags: 
 status: 
 started: 
-closed: 
+due: 
 aliases: 
 ---
 ## What I have learned

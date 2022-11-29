@@ -3,7 +3,7 @@ title: 0727-Table, Painting, Piano
 tags: 
 status: 
 started: 
-closed: 
+due: 
 aliases: 
 ---
 ### Goal

@@ -3,7 +3,7 @@ title: 7 Days_ ZTM-Web (Aug15-21)
 tags: 
 status: 
 started: 
-closed: 
+due: 
 aliases: 
 ---
 ## 🎯Goal for This Week

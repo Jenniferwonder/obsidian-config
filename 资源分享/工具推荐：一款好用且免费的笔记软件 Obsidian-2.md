@@ -3,7 +3,7 @@ title: 工具推荐：一款好用且免费的笔记软件 Obsidian-2
 tags: [工具方法/Obsidian, 图文]
 status: 
 started: 2022-11-25
-closed: 2022-11-25
+due: 2022-11-25
 aliases: 
 ---
 ## 前言
@@ -28,7 +28,7 @@ aliases:
 #### Obsidian 界面效果图（可自定义主题）
 ![](https://cdn.nlark.com/yuque/0/2022/png/29677165/1669290486575-4a3d3b02-8311-4a0f-a0be-273db6779bd2.png)
 
-### Typora 转 Obsidian，图片格式兼容吗？
+## Typora 转 Obsidian，图片格式兼容吗？
 亲测兼容没问题，Obsidian (v1.0.3) 与 Typora 均支持并兼容三种 Markdown 或 HTML 本地及外链图片插入方法！
 ### 图片插入与尺寸调节方法
 #### 1. Markdown 本地图片链接
@@ -51,18 +51,17 @@ aliases:
 <img src="https://cdn.nlark.com/yuque/0/2022/png/29677165/1669290486575-4a3d3b02-8311-4a0f-a0be-273db6779bd2.png" style="zoom: 60%" /> //Typora
 ```
 
-#### 如何替换不兼容的图片尺寸参数？
+### 如何替换不兼容的图片尺寸参数？
 可用 VS Code 打开笔记文件夹，`CTRL + SHIFT + F` 一键查找全局替换，比如：Typora HTML 图片标签中的 `zoom` 可替换为 `height` / `width` 。  
 Typora `style="zoom:50%"` 约相当于 Obs `style="height:50%"` 。  
-#### 效果展示
+### 效果展示
 - ![|400](https://cdn.nlark.com/yuque/0/2022/gif/29677165/1669345223674-b01bf6c6-aa61-433d-9ae4-d2c0e6df9a3e.gif)  
 注：以上为个人使用体验，仅供大家参考！大家可根据自身情况，选择最适合自己的笔记软件。😄
 
---- 
-### 参考链接
+## 参考链接
 1. [Image zoom: click + hold to expand images - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/image-zoom-click-hold-to-expand-images/5164)
 2. [Workflow: Typora & Obsidian - Share & showcase - Obsidian Forum](https://forum.obsidian.md/t/workflow-typora-obsidian/650/12)
-### 原文链接
+## 原文链接
 1. 掘金：[工具推荐：一款好用且免费的笔记软件 Obsidian - 掘金](https://juejin.cn/post/7169838406933938212)
 2. 知乎：[工具推荐：一款好用且免费的笔记软件 Obsidian - 知乎](https://zhuanlan.zhihu.com/p/586626931)
 3. 知识星球 - 编程导航：[有语雀、Typora，笔记软件为什么用Obsidian？- 知识星球-编程导航](https://articles.zsxq.com/id_j880bpo7922w.html)

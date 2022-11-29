@@ -3,7 +3,7 @@ title: ZTM JS Note
 tags: 
 status: 
 started: 
-closed: 
+due: 
 aliases: 
 ---
 ### Goals

@@ -3,7 +3,7 @@ title: 0726-Review and Plan
 tags: 
 status: 
 started: 
-closed: 
+due: 
 aliases: 
 ---
 ### Review

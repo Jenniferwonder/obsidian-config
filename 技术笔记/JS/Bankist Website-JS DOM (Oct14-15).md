@@ -3,7 +3,7 @@ title: Bankist Website-JS DOM (Oct14-15)
 tags: 
 status: 
 started: 
-closed: 
+due: 
 aliases: 
 ---
 ## Project Overview

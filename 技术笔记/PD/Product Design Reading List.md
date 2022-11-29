@@ -3,7 +3,7 @@ title: Product Design Reading List
 tags: 
 status: 
 started: 
-closed: 
+due: 
 aliases: 
 ---
 Blog

@@ -3,7 +3,7 @@ title: Goal Overview (Oct 13 Update)
 tags: 
 status: 
 started: 2022-10-13
-closed: 2022-11-23, 1:00:13 pm
+due: 2022-11-23, 1:00:13 pm
 aliases: 
 ---
 ## PM 设计管理

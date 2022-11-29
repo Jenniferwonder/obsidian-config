@@ -3,7 +3,7 @@ title: Bankist App-JS Arr, Date, Intl(Oct 16-17)
 tags: 
 status: 
 started: 
-closed: 
+due: 
 aliases: 
 ---
 ## Project Overview

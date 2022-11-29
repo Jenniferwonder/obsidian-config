@@ -4,7 +4,7 @@
   "promptDelete": true,
   "vimMode": false,
   "useMarkdownLinks": false,
-  "newFileLocation": "current",
+  "newFileLocation": "root",
   "attachmentFolderPath": "./assets",
   "showLineNumber": false,
   "foldHeading": true,

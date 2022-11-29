@@ -3,7 +3,7 @@ title: 1 Day-React Note (Aug 18)
 tags: 
 status: 
 started: 
-closed: 
+due: 
 aliases: 
 ---
 #### Time: Aug 18

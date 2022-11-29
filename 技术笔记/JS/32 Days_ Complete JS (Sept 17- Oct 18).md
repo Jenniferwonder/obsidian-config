@@ -3,7 +3,7 @@ title: 32 Days_ Complete JS (Sept 17- Oct 18)
 tags: 
 status: 
 started: 
-closed: 
+due: 
 aliases: 
 ---
 ## Task for This Sprint

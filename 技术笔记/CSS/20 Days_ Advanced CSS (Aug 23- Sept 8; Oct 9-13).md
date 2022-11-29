@@ -3,7 +3,7 @@ title: 20 Days_ Advanced CSS (Aug 23- Sept 8; Oct 9-13)
 tags: 
 status: 
 started: 
-closed: 
+due: 
 aliases: 
 ---
 ## 🎯Goal for This Sprint

@@ -3,21 +3,38 @@ title: Daily Plan
 tags: 学习记录/周
 status: Doing
 started: 2022-11
-closed: 2022-11
+due: 2022-11
+modified: 
 ---
 # Daily Plan
 ## 今日目标
-#### ❓问题思考
-1. [[Questions|如何高效追踪学习进展、巩固成果?]]
-2. [[Questions|如何建立笔记 GitHub 备份？]]
-#### ✔️问题回顾
-## 今日收获
-#### 🏠完善知识总结
-- #Questions/Note  #Questions/Share 
-#### 🚀提高技术能力
-#### 🛠️熟悉工具
-#### ✍️提高笔记能力
-#### 👯提高分享能力
+#### ❓[[Questions]]
+1. 
+## 今日笔记
+### ✍️创建笔记
+
+```dataview
+TABLE title, started, status
+WHERE started = "2022-11-29 Tue"
+SORT started ASC
+```
+
+### 📝完善笔记
+
+```dataview
+TABLE title, started, status
+WHERE modified = "2022-11-29 Tue" AND started != "2022-11-29 Tue"
+SORT started ASC
+```
+### 🌍English-Time
+```dataview
+TABLE title, started, status
+FROM "English-Time"
+WHERE started = "2022-11-29 Tue"
+SORT started ASC
+```
+### 🗺️Graph View of Today
+
 ## 反思提升
 - [ ] 
 ## 任务追踪
@@ -35,4 +52,5 @@ closed: 2022-11
 - [ ] 18:30 Dinner
 ### Evening Break
 - [ ] 19:00 Sports
-- [ ] 20:00 BREAK
+- [ ] 20:00 笔记备份 `ALT + G`
+- [ ] 20:30 BREAK

@@ -3,7 +3,7 @@ title: Goal Update (Sept 14)
 tags: 
 status: 
 started: 2022-09-14
-closed: 2022-11-23, 1:00:13 pm
+due: 2022-11-23, 1:00:13 pm
 aliases: 
 ---
 ## Health& Fitness

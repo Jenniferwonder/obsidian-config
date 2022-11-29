@@ -3,7 +3,7 @@ title: 0803-0804 Homepage (Bootstrap) 1
 tags: 
 status: 
 started: 
-closed: 
+due: 
 aliases: 
 ---
 ### Goal

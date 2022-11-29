@@ -3,7 +3,7 @@ title: 0730-0802 Web Design Tasks
 tags: 
 status: 
 started: 
-closed: 
+due: 
 aliases: 
 ---
 ### Goal

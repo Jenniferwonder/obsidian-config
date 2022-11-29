@@ -3,7 +3,7 @@ title: Mapty- JS Class(Oct 18)
 tags: 
 status: 
 started: 
-closed: 
+due: 
 aliases: 
 ---
 ## Project Overview

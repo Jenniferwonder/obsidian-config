@@ -3,7 +3,7 @@ title: CS50x Final Project
 tags: 技术/Web
 status: Done
 started: 2022-09-12
-closed: 
+due: 
 aliases: 
 ---
 ### Final Project (Aug 11- Sept 19) : **Full-fledged Website**3 Days

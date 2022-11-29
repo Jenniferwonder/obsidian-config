@@ -3,7 +3,7 @@ title: 0728-0729-VS Code, Git and Github
 tags: 
 status: 
 started: 
-closed: 
+due: 
 aliases: 
 ---
 ### Goal
