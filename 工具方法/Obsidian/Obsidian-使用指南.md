@@ -1,6 +1,6 @@
 ---
 title: Obsidian-使用指南
-tags: 笔记软件/Obsidian
+tags: 工具方法/Obsidian
 status: Doing
 started: 2022-11-21
 closed: 2022-11-25

@@ -1,6 +1,6 @@
 ---
 title: CS50x Final Project
-tags: 技术笔记/Web
+tags: 技术/Web
 status: Done
 started: 2022-09-12
 closed: 

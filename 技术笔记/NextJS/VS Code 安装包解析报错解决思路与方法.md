@@ -1,6 +1,6 @@
 ---
 title: VS Code 安装包解析报错解决思路与方法
-tags: [技术笔记/NextJS]
+tags: [技术/NextJS]
 status: Done
 started: 2022-11-11
 closed: 

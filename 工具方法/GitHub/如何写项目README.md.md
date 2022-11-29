@@ -1,6 +1,6 @@
 ---
 title: 如何写项目README.md
-tags: [Markdown, GitHub]
+tags: [技术/Markdown, 工具方法/GitHub]
 status: 
 started: 2022-10-31
 closed: 2022-10-31

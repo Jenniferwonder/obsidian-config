@@ -37,5 +37,7 @@
   "minimal-style@@row-alt": false,
   "minimal-style@@h5-weight": 600,
   "minimal-style@@h5-variant": "normal",
-  "minimal-style@@h6-size": "0.9em"
+  "minimal-style@@h6-size": "0.9em",
+  "minimal-style@@color-yellow@@light": "#FFF3A3A6",
+  "minimal-style@@hl2@@light": "#FFF3A3A6"
 }

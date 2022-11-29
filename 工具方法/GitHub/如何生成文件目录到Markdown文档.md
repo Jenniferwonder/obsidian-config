@@ -1,6 +1,6 @@
 ---
 title: 如何生成文件目录到Markdown文档
-tags: [Markdown, GitHub]
+tags: [技术/Markdown, 工具方法/GitHub]
 status: 
 started: 
 closed: 

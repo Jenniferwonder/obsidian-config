@@ -1,6 +1,6 @@
 ---
 title: Obsidian-插件功能
-tags: 笔记软件/Obsidian
+tags: 工具方法/Obsidian
 status: Doing
 started: 2022-11-24
 closed: 2022-11-24

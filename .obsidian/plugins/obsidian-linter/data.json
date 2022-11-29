@@ -22,10 +22,10 @@
     },
     "Insert YAML attributes": {
       "Inserts the given YAML attributes into the YAML frontmatter. Put each attribute on a single line.": true,
-      "Text to insert": "title: \ntags:   \nstarted: \nclosed: \nstatus: "
+      "Text to insert": "title: \ntags:   \nstarted: \nclosed: \nmodified: \nstatus: "
     },
     "Move Tags to Yaml": {
-      "Move all tags to Yaml frontmatter of the document.": false,
+      "Move all tags to Yaml frontmatter of the document.": true,
       "Body tag operation": "Nothing",
       "Tags to ignore": ""
     },
@@ -35,17 +35,17 @@
     },
     "YAML Key Sort": {
       "Sorts the YAML keys based on the order and priority specified. Note: may remove blank lines as well.": true,
-      "YAML Key Priority Sort Order": "title tags aliases started closed status",
+      "YAML Key Priority Sort Order": "title tags started closed modified status",
       "Priority Keys at Start of YAML": true,
-      "YAML Sort Order for Other Keys": "Descending Alphabetical"
+      "YAML Sort Order for Other Keys": "None"
     },
     "YAML Timestamp": {
       "Keep track of the date the file was last edited in the YAML front matter. Gets dates from file metadata.": true,
       "Date Created": false,
       "Date Created Key": "started",
       "Date Modified": true,
-      "Date Modified Key": "closed",
-      "Format": "YYYY-MM-DD"
+      "Date Modified Key": "modified",
+      "Format": "YYYY-MM-DD ddd"
     },
     "YAML Title": {
       "Inserts the title of the file into the YAML frontmatter. Gets the title from the first H1 or filename if there is no H1.": true,

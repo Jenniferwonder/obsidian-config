@@ -2,7 +2,7 @@
 title: Goal Update (Sept 14)
 tags: 
 status: 
-started: 
+started: 2022-09-14
 closed: 2022-11-23, 1:00:13 pm
 aliases: 
 ---

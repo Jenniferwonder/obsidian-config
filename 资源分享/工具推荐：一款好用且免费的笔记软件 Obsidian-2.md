@@ -1,6 +1,6 @@
 ---
 title: 工具推荐：一款好用且免费的笔记软件 Obsidian-2
-tags: [笔记软件/Obsidian, 分享]
+tags: [工具方法/Obsidian, 图文]
 status: 
 started: 2022-11-25
 closed: 2022-11-25
@@ -69,7 +69,7 @@ Typora `style="zoom:50%"` 约相当于 Obs `style="height:50%"` 。
 4. 知识星球 - 前端宝藏：[有语雀、Typora，笔记软件为什么用Obsidian？- 知识星球-前端宝藏](https://articles.zsxq.com/id_lw6x3omws27c.html)
 
 ---
-#笔记软件/Obsidian #分享  
+#工具方法/Obsidian #图文  
 
 
 

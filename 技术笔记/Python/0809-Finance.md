@@ -1,6 +1,6 @@
 ---
 title: 0809-Finance
-tags: 技术笔记/Python
+tags: 技术/Python
 status: Done
 started: 2022-08-08
 closed: 2022-08-14

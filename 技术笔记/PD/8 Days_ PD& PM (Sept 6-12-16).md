@@ -1,6 +1,6 @@
 ---
 title: 8 Days_ PD& PM (Sept 6-12-16)
-tags: 技术笔记/PD
+tags: 技术/PD
 status: Done
 started: 2022-09-06
 closed: 

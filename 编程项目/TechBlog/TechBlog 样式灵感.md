@@ -1,6 +1,6 @@
 ---
 title: TechBlog 样式灵感
-tags: 主打项目/TechBlog
+tags: 项目/TechBlog
 status: Doing
 started: 2022-11-01
 closed: 

@@ -4,17 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "30d31c88e35b0f54",
+        "id": "943becbbedd2ba1f",
         "type": "tabs",
-        "dimension": 38.30678960603521,
         "children": [
           {
-            "id": "e563bfb63766059a",
+            "id": "c81ef2bad8ad3f91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习记录/2022-11-27.md",
+                "file": "学习记录/2022-11-29.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,17 +23,16 @@
         ]
       },
       {
-        "id": "8c1deff9c4a794ce",
+        "id": "1bf8f2b4359d4a88",
         "type": "tabs",
-        "dimension": 33.02598491198659,
         "children": [
           {
-            "id": "46b4028299ff82d2",
+            "id": "5ac2caef0525dd7e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习记录/2022-11-25.md",
+                "file": "学习记录/2022-11-28.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,12 +42,11 @@
         ]
       },
       {
-        "id": "f180c787215286fd",
+        "id": "2c25ff341391f3db",
         "type": "tabs",
-        "dimension": 28.667225481978203,
         "children": [
           {
-            "id": "60e218fa97e8723c",
+            "id": "3b9ca5abb2c56d39",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -90,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#笔记",
+                "query": "tag:#SPORTS",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "学习记录/2022-11-27.md",
+                "file": "学习记录/2022-11-29.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -163,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习记录/2022-11-27.md",
+                "file": "学习记录/2022-11-29.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习记录/2022-11-27.md",
+                "file": "学习记录/2022-11-29.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习记录/2022-11-27.md"
+                "file": "学习记录/2022-11-29.md"
               }
             }
           },
@@ -253,7 +250,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "学习记录/2022-11-27.md",
+                "file": "学习记录/2022-11-29.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -287,19 +284,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 200
   },
-  "active": "e563bfb63766059a",
+  "active": "c81ef2bad8ad3f91",
   "lastOpenFiles": [
-    "问题目标/Questions.md",
-    "学习记录/2022-11-27.md",
-    "学习记录/2022-11-25.md",
-    "问题目标/Questions-关于分享的思考.md",
     "Templates/Daily Plan.md",
-    "学习记录/2022-11-24.md",
-    "学习记录/2022-11-23.md",
-    "学习记录/2022-11-22.md",
-    "学习记录/2022-11-21.md",
-    "学习记录/2022-11-20.md"
+    "学习记录/2022-11-29.md",
+    "问题目标/Questions.md",
+    "学习记录/2022-11-28.md",
+    "学习记录/Demo.md",
+    "问题目标/分享汇总.md",
+    "问题目标/Goal Update (Sept 14).md",
+    "阶段反思/2022-S3(11.17).md",
+    "阶段反思/2022-S2(11.05).md",
+    "问题目标/Goal Overview (Oct 13 Update).md"
   ]
 }
