@@ -10,7 +10,7 @@ modified:
 ## 今日目标
 #### ❓[[Questions]]
 1. 
-## 今日笔记
+## 今日收获
 ### ✍️创建笔记
 
 ```dataview
@@ -45,12 +45,13 @@ SORT started ASC
 - [ ] 09:20 Note Review/Update
 - [ ] 12:20 Lunch
 ### Afternoon Task
-- [ ] 13:00 
-	- [ ] 
-- [ ] 16:00 Reflection
-- [ ] 18:00 BREAK
+- [ ] 13:00 Tech & Project
+- [ ] 16:30 English-Time
 - [ ] 18:30 Dinner
 ### Evening Break
-- [ ] 19:00 Sports
+- [ ] 19:00 Reflection
+	- [ ] Graph View of Today
+	- [ ] 反思提升
+	- [ ] Update Template 
 - [ ] 20:00 笔记备份 `ALT + G`
 - [ ] 20:30 BREAK

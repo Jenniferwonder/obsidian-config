@@ -6,7 +6,7 @@
       {
         "id": "119a83f7d0802e80",
         "type": "tabs",
-        "dimension": 34.596375617792425,
+        "dimension": 30.64250411861614,
         "children": [
           {
             "id": "da4b52458daf7b70",
@@ -26,7 +26,7 @@
       {
         "id": "235bd777a1cd8666",
         "type": "tabs",
-        "dimension": 23.72322899505766,
+        "dimension": 32.8665568369028,
         "children": [
           {
             "id": "ef0daee5a291bad6",
@@ -46,7 +46,7 @@
       {
         "id": "4614430fed6c1164",
         "type": "tabs",
-        "dimension": 41.680395387149915,
+        "dimension": 36.49093904448105,
         "children": [
           {
             "id": "871d078d23298b3c",
@@ -291,10 +291,10 @@
   },
   "active": "ef0daee5a291bad6",
   "lastOpenFiles": [
-    "学习记录/2022-11-29.md",
-    "Templates/Daily Plan.md",
-    "笔记能力/笔记方法.md",
     "Dashboard/Questions.md",
+    "Templates/Daily Plan.md",
+    "学习记录/2022-11-29.md",
+    "笔记能力/笔记方法.md",
     "English-Time/AU-20221129.md",
     "sortspec.md",
     "English-Time/English 30mins Challenge.md",
