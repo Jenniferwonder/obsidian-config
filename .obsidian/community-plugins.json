@@ -9,7 +9,6 @@
   "custom-sort",
   "obsidian-linter",
   "highlightr-plugin",
-  "cmenu-plugin",
   "supercharged-links-obsidian",
   "obsidian-auto-link-title",
   "dataview",
@@ -27,5 +26,6 @@
   "obsidian-dynamic-toc",
   "periodic-notes",
   "obsidian-excalidraw-plugin",
-  "better-word-count"
+  "better-word-count",
+  "cmenu-plugin"
 ]

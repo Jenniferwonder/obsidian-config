@@ -1,10 +1,10 @@
 ---
 title: Daily Plan
 tags: 学习记录/周
-status: Doing
 started: 2022-11
 due: 2022-11
 modified: 
+status: Doing
 ---
 # Daily Plan
 ## 今日目标
@@ -12,19 +12,18 @@ modified:
 1. 
 ## 今日收获
 ### ✍️创建笔记
-
 ```dataview
 TABLE title, started, status
-WHERE started = "2022-11-29 Tue"
-SORT started ASC
+WHERE file.cday = date(2022-12-01)
+SORT file.mday DESC
 ```
 
 ### 📝完善笔记
 
 ```dataview
 TABLE title, started, status
-WHERE modified = "2022-11-29 Tue" AND started != "2022-11-29 Tue"
-SORT started ASC
+WHERE file.mday = date(2022-12-01) AND file.cday != date(2022-12-01) AND contains(modified, "2022-12-01")
+SORT file.mday ASC
 ```
 ### 🌍English-Time
 ```dataview

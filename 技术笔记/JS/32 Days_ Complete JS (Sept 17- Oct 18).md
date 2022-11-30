@@ -42,6 +42,6 @@ aliases:
 - [x] Bankist App
 - [x] Bankist Website
 - [x] Mapty App
-- [ ] Pinky Game
+- [x] Pinky Game
  |
 | --- | --- |

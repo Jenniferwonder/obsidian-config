@@ -1,10 +1,10 @@
 ---
-title: TechBlog 双语博客立项说明
+title: TechBlog 双语技术博客立项说明
 tags: 项目/TechBlog
 status: Done
-started: 2022-11-1
+started: 2022-11-01
 due: 2022-11-11
-modified: 2022-11-29 Tue
+modified: 2022-11-30 Wed
 aliases: 
 ---
 ## 项目时间

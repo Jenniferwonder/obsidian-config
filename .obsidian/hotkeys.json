@@ -453,13 +453,13 @@
   "obsidian-excalidraw-plugin:toggle-lock": [],
   "editor:follow-link": [],
   "editor:open-link-in-new-leaf": [],
-  "editor:toggle-checklist-status": [],
-  "cmenu-plugin:editor:toggle-checklist-status": [
+  "editor:toggle-checklist-status": [
     {
       "modifiers": [
         "Mod"
       ],
       "key": "L"
     }
-  ]
+  ],
+  "cmenu-plugin:editor:toggle-checklist-status": []
 }

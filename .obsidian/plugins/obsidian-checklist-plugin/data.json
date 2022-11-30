@@ -1,5 +1,5 @@
 {
-  "todoPageName": "todo\n学习记录",
+  "todoPageName": "todo\n学习记录\n阶段反思",
   "showChecked": false,
   "showAllTodos": true,
   "autoRefresh": true,
@@ -10,6 +10,9 @@
   "sortDirectionSubGroups": "new->old",
   "includeFiles": "",
   "lookAndFeel": "classic",
-  "_collapsedSections": [],
+  "_collapsedSections": [
+    "学习记录/2022-11-29.md",
+    "Templates/Daily Plan.md"
+  ],
   "_hiddenTags": []
 }

@@ -4,57 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "119a83f7d0802e80",
+        "id": "c488112a8231ee25",
         "type": "tabs",
-        "dimension": 30.64250411861614,
         "children": [
           {
-            "id": "da4b52458daf7b70",
+            "id": "4dfcc0953c280871",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习记录/2022-11-29.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "235bd777a1cd8666",
-        "type": "tabs",
-        "dimension": 32.8665568369028,
-        "children": [
-          {
-            "id": "ef0daee5a291bad6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Daily Plan.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4614430fed6c1164",
-        "type": "tabs",
-        "dimension": 36.49093904448105,
-        "children": [
-          {
-            "id": "871d078d23298b3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dashboard/Questions.md",
+                "file": "学习记录/2022-11-30.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -111,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "617127011ede853a",
@@ -128,7 +86,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/Daily Plan.md",
+                "file": "学习记录/2022-11-30.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -163,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Daily Plan.md",
+                "file": "学习记录/2022-11-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Daily Plan.md",
+                "file": "学习记录/2022-11-30.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily Plan.md"
+                "file": "学习记录/2022-11-30.md"
               }
             }
           },
@@ -253,7 +211,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Templates/Daily Plan.md",
+                "file": "学习记录/2022-11-30.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -287,19 +245,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 386.5
   },
-  "active": "ef0daee5a291bad6",
+  "active": "4dfcc0953c280871",
   "lastOpenFiles": [
+    "学习记录/assets/Pasted image 20221130224258.png",
+    "学习记录/2022-11-30.md",
     "Dashboard/Questions.md",
-    "Templates/Daily Plan.md",
-    "学习记录/2022-11-29.md",
     "笔记能力/笔记方法.md",
-    "English-Time/AU-20221129.md",
-    "sortspec.md",
-    "English-Time/English 30mins Challenge.md",
-    "学习记录/2022-11-28.md",
-    "项目开发/Windows/Windows Commands.md",
-    "Dashboard/Homepage.md"
+    "JS-Operators.md",
+    "技术笔记/JS/JS 算法与数据结构.md",
+    "技术笔记/JS/JavaScript.md",
+    "JS-Data Types.md",
+    "JS-DevTool.md",
+    "Templates/Daily Plan.md"
   ]
 }
