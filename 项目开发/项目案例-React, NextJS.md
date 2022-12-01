@@ -1,51 +1,44 @@
 ---
-title: 博客项目案例
-tags: TechBlog
+title: 项目案例-React, Next.js
+tags: [React, NextJS, 项目案例]
 started: 2022-11-29 Tue
 due: 
-modified: 2022-11-29 Tue
+modified: 2022-12-01 Thu
 status: 
 ---
 ## Medium-Clone
-##### 1. 教程
+##### 0.1. 教程
 - [YouTube- Medium-Clone-2.0](https://www.youtube.com/results?search_query=build+medium+clone) 
-##### 2. 功能
+##### 0.2. 功能
 - 内容预览、展示、评论；
-##### 3. 页面布局
+##### 0.3. 页面布局
 - 弹性盒
-##### 4. 技术栈
+##### 0.4. 技术栈
 - [[Next.js]]
 ## Twitter-Clone
-##### 1. 教程
+##### 0.1. 教程
 - [YouTube- Medium-Clone-2.0](https://www.youtube.com/results?search_query=build+medium+clone) 
-##### 2. 功能
+##### 0.2. 功能
 - 注册、登录、图片上传及展示、评论优化；
-##### 3. 页面布局
+##### 0.3. 页面布局
 - 网格：圣杯式布局
-##### 4. 技术栈
+##### 0.4. 技术栈
 - [[Next.js]]
 ## TikTok-Clone
-##### 1. 教程
+##### 0.1. 教程
 - [YouTube- Medium-Clone-2.0](https://www.youtube.com/results?search_query=build+medium+clone) 
-##### 2. 功能
+##### 0.2. 功能
 - 点赞、收藏、视频上传及展示、标签搜索；
-##### 3. 页面布局
+##### 0.3. 页面布局
 - 网格：圣杯式布局
-##### 4. 技术栈
+##### 0.4. 技术栈
 - [[Next.js]]
 ## NetFlix-Clone
-##### 1. 教程
+##### 0.1. 教程
 - [YouTube- Medium-Clone-2.0](https://www.youtube.com/results?search_query=build+medium+clone) 
-##### 2. 功能
+##### 0.2. 功能
 - 支付；
-##### 3. 页面布局
+##### 0.3. 页面布局
 - 网格：圣杯式布局
-##### 4. 技术栈
+##### 0.4. 技术栈
 - [[Next.js]]
-## Blog
-- [YouTube-Node.js, MongoDB- Blog](https://www.youtube.com/watch?v=1NrHkjlWVhM&list=RDCMUCFbNIlppjAuEX4znoulh0Cw&start_radio=1&t=138s)
-	- [[NodeJS, MongoDB]]
-- [YouTube- JS, jQuery- Blog](https://www.youtube.com/watch?v=gZHjMVE_e10&t=1531s)
-	- [[jQuery]]
-- [GitHub - Blogging-site using HTML, CSS and JS, Node.js, and Firebase as its databse.](https://github.com/kunaal438/blogging-site)
-	- [[Firebase]]

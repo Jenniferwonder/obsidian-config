@@ -57,8 +57,8 @@ aliases:
 - 可自动检测时间，更新任务状态，提高任务追踪效率
 #### Checklist
 - 提高任务清单效率
-#### Task
-- 定义检索任务状态
+~~#### Task~~
+- ~~定义检索任务状态~~
 ## ⬇️图片上传插件
 #### Imgur Plugin
 - 可自动上传图片至 Imgur
@@ -68,6 +68,7 @@ aliases:
 ## ⬇️表格插件
 #### Tableview
 - 自定义生成表格
+- 时间格式：file.cday/ file.ctime; file.mday/ file.mtime
 #### Advanced Table
 - 快速创建表格
 ## ⬇️模板插件

@@ -24,4 +24,12 @@ sorting-spec: |
  快捷键
  with-metadata: started
  > a-z by-metadata: started
+ target-folder: 技术笔记
+ HTML
+ CSS
+ JS
+ ...
+ TypeScript
+ with-metadata: modified
+ > a-z by-metadata: modified
 ---

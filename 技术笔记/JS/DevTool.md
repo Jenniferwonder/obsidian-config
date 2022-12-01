@@ -1,9 +1,9 @@
 ---
-title: JS-DevTool
+title: DevTool
 tags: JS
 started: 2022-11-30 Wed
 due: 
-modified: 2022-11-30 Wed
+modified: 2022-12-01 Thu
 status: 
 ---
 ## Set-up

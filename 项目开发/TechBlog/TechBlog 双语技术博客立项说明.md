@@ -1,6 +1,6 @@
 ---
 title: TechBlog 双语技术博客立项说明
-tags: 项目/TechBlog
+tags: 项目案例/TechBlog
 status: Done
 started: 2022-11-01
 due: 2022-11-11
@@ -46,7 +46,7 @@ A bilingual Tech Blog website with quality translation support.
 参考：[[博客网站功能]]
 ## 技术方案调研
 参考：
-- [[博客项目案例]]
+- [[项目案例-React, NextJS]]
 - [[低代码建站方案]]
 ## 如何部署上线
 参考：

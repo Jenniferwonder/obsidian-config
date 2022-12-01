@@ -1,6 +1,6 @@
 ---
 title: 02-圣杯式布局：Twitter主页
-tags: [技术/NextJS, 项目/Twitter-Clone]
+tags: [技术/NextJS, 项目案例/Twitter-Clone]
 status: Done
 started: 2022-11-11
 due: 

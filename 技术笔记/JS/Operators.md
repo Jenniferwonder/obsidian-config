@@ -1,9 +1,9 @@
 ---
-title: JS-Operators
+title: Operators
 tags: JS
 started: 2022-11-29 Tue
 due: 
-modified: 2022-11-30 Wed
+modified: 2022-12-01 Thu
 status: 
 ---
 ## Operators
