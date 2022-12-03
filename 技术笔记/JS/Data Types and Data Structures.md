@@ -1,32 +1,21 @@
 ---
-title: Data Types
+title: Data Types and Data Structures
 tags: JS
 started: 2022-11-30 Wed
 due: 
-modified: 2022-12-01 Thu
+modified: 2022-12-02 Fri
 status: 
 number headings: auto, first-level 4, max 6, 1._.1.1.
 ---
-## Value and Variable
-#### 1. Value
-- [[Data Types#Primitive Data Type]]
-#### 2. Variable
-- Dynamic Data Type
-##### 2.1. Three ways to declare variables
-```js
-let
-//Only needed when create a variable for the first time
-const
-//By default
-//Unable to change the value
-var
-//Old
-```
+>[JavaScript data types and data structures - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 ## Primitive Data Type
+>Copied by the value  
+>Changing the copied value will not change the original variable value
 #### 1. [[Number]]  
 #### 2. [[String]]  
 #### 3. Boolean  
 ##### 3.1. Falsy value  
+
 ```js
 0  
 ''  
@@ -34,6 +23,7 @@ undefined
 null  
 NaN  
 ```
+
 #### 4. Undefined  
 #### 5. Null  
 #### 6. NaN  
@@ -45,6 +35,9 @@ NaN
 - Numbers are represented as 64 bits  
 - Only 53 bits are used in JS to store the digits; the rest are used to store decimals  
 ## Reference Type
+> Copied by their reference  
+> will not independently copy the value, but only refer to the original  
+> Changing the value will change the original 
 #### 1. [[Function]]  
 #### 2. [[Object]] 
 #### 3. [[Array]]
@@ -53,10 +46,13 @@ NaN
 #### 6. ...
 ## Type Conversion and Coersion
 #### 1. Check value type
+
 ```js
 .typeof
 ```
+
 #### 2. Convertion
+
 ```js
 //Convert a number into big int
 BigInt( )  
@@ -67,7 +63,9 @@ String()
 //Convert to boolean
 Boolean()  
 ```
+
 #### 3. Type coersion
+
 ```js
 +''
 //convert a string to number  

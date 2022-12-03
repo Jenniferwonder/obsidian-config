@@ -41,5 +41,6 @@
   "minimal-style@@color-yellow@@light": "#FFF3A3A6",
   "minimal-style@@hl2@@light": "#FFF3A3A6",
   "minimal-style@@code-normal@@light": "#4D4D4D",
-  "minimal-style@@code-function@@light": "#2E4F8D"
+  "minimal-style@@code-function@@light": "#2E4F8D",
+  "minimal-style@@spacing-p": "0"
 }

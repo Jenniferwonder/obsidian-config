@@ -51,4 +51,4 @@ number headings: auto, first-level 4, max 6, 1._.1.1.
 //to repeat the string 5 times
 ```
 #### 7. Convert Number to String
-- [[Data Types#Type Conversion and Coersion]]
+- [[Data Types and Data Structures#Type Conversion and Coersion]]

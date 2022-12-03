@@ -7,6 +7,8 @@ modified: 2022-12-01 Thu
 status: 
 number headings: auto, first-level 4, max 6, 1._.1.1.
 ---
+## Reference
+>[Functions - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
 ## Basics
 #### 1. Promp and Alert
 ```js

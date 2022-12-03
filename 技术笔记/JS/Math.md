@@ -7,6 +7,7 @@ modified: 2022-12-01 Thu
 status: 
 number headings: auto, first-level 4, max 6, 1._.1.1.
 ---
+>[Basic math in JavaScript — numbers and operators - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math)
 ## Math Methods
 #### 1. Random number 
 ```js

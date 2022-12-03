@@ -9,7 +9,7 @@ number headings: auto, first-level 4, max 6, 1._.1.1.
 ---
 ## Number Methods
 ### Convert
-- [[Data Types#Type Conversion and Coersion]]
+- [[Data Types and Data Structures#Type Conversion and Coersion]]
 ### Parse
 #### 1. Parse number from string
 ```js

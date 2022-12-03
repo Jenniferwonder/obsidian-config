@@ -59,9 +59,8 @@ number headings: auto, first-level 4, max 6, 1._.1.1.
 ## 🚀PROJECT
 ### 项目案例
 #### 1. [[JS 项目案例]]
-#### 2. [[项目案例-React, NextJS]]
-### 项目笔记
-#### 1. Medium-Clone
+#### 2. [[React, NextJS-项目案例]]
+#### 3. Medium-Clone
 
 ```dataview
 TABLE title, started, status
@@ -69,7 +68,7 @@ WHERE contains(tags, "Medium-Clone")
 SORT started DESC
 ```
 
-#### 2. Twitter-Clone
+#### 4. Twitter-Clone
 
 ```dataview
 TABLE title, started, status
@@ -77,7 +76,7 @@ WHERE contains(tags, "Twitter-Clone")
 SORT started DESC
 ```
 
-#### 3. 个人主页
+#### 5. 个人主页
 
 ```dataview
 TABLE title, started, status
@@ -85,7 +84,7 @@ WHERE contains(tags, "个人主页")
 SORT started DESC
 ```
 
-#### 4. 资源导航网（英语/前端）
+#### 6. 资源导航网（英语/前端）
 
 ```dataview
 TABLE title, started, status
@@ -93,7 +92,7 @@ WHERE contains(tags, "资源导航")
 SORT started DESC
 ```
 
-#### 5. TechBlog 双语技术博客
+#### 7. TechBlog 双语技术博客
 
 ```dataview
 TABLE title, started, status
@@ -103,6 +102,9 @@ SORT started DESC
 
 ## 🛠️TECH-STACK
 ### 装机备份
+### 网页开发基础
+#### 1. [[Web Fundamentals]]
+#### 2. [[算法与数据结构]]
 ### 前端基础
 #### 1. [[HTML]]
 #### 2. [[CSS]] 
@@ -121,10 +123,6 @@ SORT started DESC
 #### 2. [[Parcel and Webpack]]
 ### 部署上线
 #### 1. [[部署上线]]？
-### 理论基础
-#### 1. [[Code Structure]]
-#### 2. [[Communication Protocols]]
-#### 3. [[JS 算法与数据结构]]？
 ### 开发流程与方法
 ## 📈FOOD & SPORTS
 #### 1. 怎样更好地休息和运动——周末活动？

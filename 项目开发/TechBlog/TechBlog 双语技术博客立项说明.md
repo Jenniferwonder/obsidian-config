@@ -46,7 +46,7 @@ A bilingual Tech Blog website with quality translation support.
 参考：[[博客网站功能]]
 ## 技术方案调研
 参考：
-- [[项目案例-React, NextJS]]
+- [[React, NextJS-项目案例]]
 - [[低代码建站方案]]
 ## 如何部署上线
 参考：

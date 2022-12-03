@@ -3,9 +3,12 @@ title: CSS
 tags:   
 started: 2022-11-29 Tue
 due: 
-modified: 2022-11-29 Tue
+modified: 2022-12-02 Fri
 status: 
 ---
+>[CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+
   - 布局、样式（字体、颜色）、图片、形状、动画；
   - 代码结构规范：框架
   - 优先级原理

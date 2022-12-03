@@ -6,6 +6,8 @@ due:
 modified: 2022-12-01 Thu
 status: 
 ---
+>[Basic math in JavaScript — numbers and operators - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math#types_of_numbers)
+
 ## Operators
 ### Mathematical
 

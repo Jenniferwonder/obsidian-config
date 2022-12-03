@@ -18,6 +18,8 @@ new Date(2022, 10, 19, 15, 23, 5)
 ##### 2.1. get the current time stamp
 ```JS
 Date.now()
+currentTime = new Date()
+currentTimeStamp = currentTime.getTime()
 ```
 ##### 2.2. convert a time stamp to a time
 ```JS
