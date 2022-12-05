@@ -3,7 +3,7 @@ title: Object
 tags: JS
 started: 2022-12-01 Thu
 due: 
-modified: 2022-12-01 Thu
+modified: 2022-12-05 Mon
 status: 
 number headings: auto, first-level 4, max 6, 1._.1.1.
 ---
@@ -11,21 +11,15 @@ number headings: auto, first-level 4, max 6, 1._.1.1.
 ### Reference
 - [Working with objects - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
 - [Introducing JavaScript objects - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
-### Tutorials
-- [Object-oriented Programming in JavaScript: Made Super Simple | Mosh - YouTube](https://www.youtube.com/watch?v=PFmuCDHHpwk)
-## OOP Principles
-#### 1. Abstraction
-- Hide the details and show the essentials
-#### 2. Encapsulation
-#### 3. Polymorphism
-#### 4. Inheritance
+
 ## What is Object in JS?
 - A collection of **Key-Value** Pairs, composed of
-	- Key/ Property- [[Object#Properties]]
+	- Key/ Property (属性)- [[Object#Properties]]
 	- Value
 - A Reference Type- [[Data Types and Data Structures#Reference Type]]
 - There are many Built-in Objects in JS- [[Object#2. Built-in Objects in JS]]
-- Every Object has a property called 'constructor', refering to the [[Object#3. Constructor Function|Constructor Function]] that is used to create that object
+- Every Object has a property called 'constructor', refering to the [[Object#3. ✅Constructor(构造器) Function|Constructor Function]] that is used to create that object
+
 ```js
 let x = {} // let x = new Object{};
 // Other built-in constructors and literals
@@ -35,6 +29,7 @@ new Number(); // 1, 2, 3...
 new Function(`arg`,``) // function(`arg`){}
 new Error()
 ```
+
 ## Built-in Objects in JS
 >[Standard built-in objects - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects)
 - [[Array]]
@@ -43,9 +38,12 @@ new Error()
 - [[Math]]
 - [[Date]]
 - [[Function]]
+- [[JSON]]
+- [[Fetch API]] - Request, Response
 ## How to Create Object?
-#### 1. Object literal syntax: `{ }`
+#### 1. ⛔Object literal (对象字面量) syntax: `{ }`
 - [[Value and Variables]]
+
 ```js
 // Object literal syntax
 const circle = {
@@ -60,7 +58,9 @@ const circle = {
 } ;
 circle.draw();
 ```
-#### 2. Factory Function 
+
+#### 2. ⛔Factory Function 
+
 ```js
 // Factory Function
 function createCircle(radius){
@@ -74,7 +74,8 @@ function createCircle(radius){
 const circle = createCircle(1);
 ```
 
-#### 3. Constructor Function
+#### 3. ✅Constructor(构造器) Function
+
 ```js
 // Constructor Function
 function Circle(radius) {
@@ -87,29 +88,34 @@ const another = new Circle(1);
 ```
 
 #### 4. Destructuring
+
 ```js
 const {key:`varName`} = variable
 //store the property value of an object into a variable based on the property key
 ```
+
 ## Properties
 #### 1. Add/ Remove Property
-- dot `obj.propname = ...`
+- dot notation (点表示法) `obj.propname = ...`
 - bracket notation: `obj['propname'] = ...`
 	- can be used when property name is **invalid** to be accessed by dot
 	- can be used when property name is **dynamically** changing
 - Delete property
 	- `delete obj.propname/ obj['propname']`  
 #### 2. How to access value?
-- dot
+- dot notation
 - bracket notation: `[' ']`
 #### 3. How to access key/property?
+
 ```js
 for (let key in circle) {
 	console.log(key, circle[key]); // return key and value
 }
 const keys = Object.keys(obj); // return an array of keys` 
 ```
+
 #### 4. Private Properties
+
 ```js
 function Circle(radius) {
 	this.radius = radius;
@@ -125,7 +131,9 @@ function Circle(radius) {
 const circle = new Circle(10);
 circle.draw();
 ```
+
 #### 5. Getters/ Setters
+
 ```js
 {
 	Object.defineProperty(this, 'defaultlocation', {
@@ -142,8 +150,10 @@ circle.draw();
 const circle = new Circle(10);
 circle.defaultLocation = 1; // Return error message
 ```
+
 #### 6. CASE - Stop Watch
 Reference: [[Date]]
+
 ```js
 // Stopwatch Constructor Function
 function Stopwatch(){
@@ -176,10 +186,12 @@ function Stopwatch(){
 const sw = new Stopwatch()
 sw.start
 ```
+
 ## Methods
 #### 1. ES6 enhanced object literals
 - Create [[Function]] as **methods** inside an object
 #### 2. Object Built-in Methods
+
 ```js
 this.
 //Refer to the object calling the function (except arrow function in which 'this' refers to its parent object)

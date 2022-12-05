@@ -3,10 +3,11 @@ title: Array
 tags: JS
 started: 2022-12-01 Thu
 due: 
-modified: 2022-12-01 Thu
+modified: 2022-12-05 Mon
 status: 
 number headings: auto, first-level 4, max 6, 1.1.
 ---
+>[Arrays - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)
 ## Array Methods
 #### 1. Return array index
 ##### 1.1. based on value

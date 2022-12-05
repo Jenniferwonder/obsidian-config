@@ -1,10 +1,10 @@
 ---
-title: 快捷键
+title: Keyboard-Shortcuts
 tags: [工具方法/VSCode, 工具方法/Windows, 工具方法/Figma, 工具方法/Browser]
 status: Doing
-started: 2022-11-22
+started: 2022-11-22 Tue
 due: 
-modified: 2022-11-28 Mon
+modified: 2022-12-05 Mon
 ---
 ## VS Code Keyboard Shortcuts
 ### Edit
@@ -12,25 +12,25 @@ modified: 2022-11-28 Mon
 > [!info] 参考链接  
 [Basic Editing in Visual Studio Code](https://code.visualstudio.com/docs/editor/codebasics#_find-and-replace)
 
-#### Undo: `ctrl`+`z`
-#### Redo: `ctrl`+ `y`
-#### Add multiple cursors: `alt`+`Click`
-#### Select & Replace
+#### 1. Undo: `ctrl`+`z`
+#### 2. Redo: `ctrl`+ `y`
+#### 3. Add multiple cursors: `alt`+`Click`
+#### 4. Select & Replace
 - Select items: `ctrl`+`shift`+`arrow`
 - Select the same word next to the cursor: `ctrl`+`D`
 - **Select and replace** the same elements at one time (**Select** the same element next to the cursor): 
 	- select all same items: `ctrl`+`shift`+`L`
 	- select the next same items: `ctrl`+`D`
-#### Find & Replace
+#### 5. Find & Replace
 - `ctrl+shift+F`
-#### Replace value with variable name in SCSS
+#### 6. Replace value with variable name in SCSS
 - Download: SCSS Refactoring `ctrl`+`alt`+`E`
-#### Paste multiple lines with correct indentation
+#### 7. Paste multiple lines with correct indentation
 - Download: <mark style="background: #FFF3A3A6;">indent on paste</mark>
-#### Duplicate a line: 
+#### 8. Duplicate a line: 
    - Shift + Alt + Up Arrow Key 
    - Shift + Alt +Down Arrow Key
-#### Delete a line: Shift + Ctrl + K
+#### 9. Delete a line: Shift + Ctrl + K
 ### Tab control
 - Open keyboard shortcut
    - `ctrl+K ctrl+S`
@@ -68,7 +68,7 @@ Put window to the left/ right: `win`+`<`/`>`
 Search: `win`+ `s`  
 Rename folder: `fn`+`F2`  
 Old start menu: `windows`+`x`
-#### Windows app
+#### 1. Windows app
 **Voice typing: `win`**+`H`  
 **Sticky notes**  
 **Video editor**  
@@ -77,12 +77,12 @@ Step recorder
 Calculator  
 Additional Clock  
 **Quick assist** for remote assistance
-#### Editing shortcuts:
+#### 2. Editing shortcuts:
 Emoji: `win`+`;`😊  
 Move cursor word by word: `ctrl`+ `<`/`>`  
 Delete word by word: `ctrl`+ `backspace`  
 Paste multiple items: `win`+`V`
-#### Basic Editing
+#### 3. Basic Editing
  • CTRL + C to Copy  
  • CTRL + V to Paste  
  • CTRL + X to Cut  
@@ -90,10 +90,10 @@ Paste multiple items: `win`+`V`
  • CTRL + Y to Redo  
  • CTRL + D to Delete  
  • Alt + Shift + Up/Down Arrow to move bullets up and down
-#### Find and Search
+#### 4. Find and Search
  • CTRL + F to find text  
  • Windows Key + Q or Windows Key or Windows Key + S to search or just press the windows key
-#### Selection
+#### 5. Selection
  • CTRL + A to Select all  
  • CTRL + Click to select multiple individual items  
  • Shift + Click to select multiple items  
@@ -101,36 +101,36 @@ Paste multiple items: `win`+`V`
  • Select text: `shift`+`<`/`>`  
  • Select to the end of a sentence: `shift`+`end`  
  • Select to the start of a sentence: `shift`+`home`
-#### Windows Management
+#### 6. Windows Management
  • Alt + Tab to jump between open windows  
  • Alt + F4/ `ctrl`+`W` to close a window  
  • Windows + # key to bring up app on task bar where the # corresponds with the position on the taskbar  
  • Windows Key + arrow keys to snap a window in different positions  
  • Windows + D to see desktop. Toggle back and forth  
  • Windows + M to minimize all windows
-#### Browser Navigation
+#### 7. Browser Navigation
  • Alt + left or Alt + right arrow to navigate forward or back  
  • CTRL + T to open a new tab  
  • CTRL + Shift + T to bring up due tab in browser  
  • CTRL + Tab to move to next tab  
  • CTRL + Shift + Tab to move to previous tab  
  • F5 or CTRL + R to refresh a web page
-#### Zoom
+#### 8. Zoom
  • Windows + or Windows - to zoom in or out
-#### Virtual Desktop
+#### 9. Virtual Desktop
  • Windows + Tab to open task view  
  • Windows + CTRL + D to add a virtual desktop  
  • Windows + CTRL + Left or Right Arrow Keys move between them  
  • Windows + CTRL + F4 to close virtual desktop 
-#### Display
+#### 10. Display
  • Windows + P to project to an external monitor
-#### Others
+#### 11. Others
  • CTRL + Shift + ESC opens task manager  
  • CTRL + P prints  
  • Windows + L to lock your PC  
  • Windows + E to launch File Explorer  
  • Windows + G brings up Game Bar which allows you to screen record
-#### Task Bar
+#### 12. Task Bar
 ## 浏览器网页全屏截图
 - Edge: `ctrl`+`shift`+`S`
 - Chrome

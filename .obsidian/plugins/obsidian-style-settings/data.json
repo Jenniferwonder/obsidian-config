@@ -42,5 +42,8 @@
   "minimal-style@@hl2@@light": "#FFF3A3A6",
   "minimal-style@@code-normal@@light": "#4D4D4D",
   "minimal-style@@code-function@@light": "#2E4F8D",
-  "minimal-style@@spacing-p": "0"
+  "minimal-style@@spacing-p": "0",
+  "minimal-style@@base@@dark": "#292A36",
+  "minimal-style@@bg1@@dark": "#292A36",
+  "minimal-style@@bg2@@dark": "#21222C"
 }

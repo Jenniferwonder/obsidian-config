@@ -9,15 +9,11 @@ status: Doing
 # Daily Plan
 ## 今日目标
 #### 1. [[Questions#🚀TECH| Tech]]
-1. **JavaScript** 技术总结、应用与提升
+- **JavaScript** 技术总结、应用与提升
 #### 2. [[Questions#🚀PROJECT|Project]]
-1. [[JS 项目案例]] 总结
+- [[JS 项目案例]] 总结
 #### 3. [[Questions#🌍ENGLISH|English]]
-1. 程序员英语？
-2. 每日英语习惯？
-3. 英文技术播客？
-4. 英语学习频道？
-5. 英文输出方向与质量？
+
 ## 今日收获
 ### ✍️创建笔记
 ```dataview

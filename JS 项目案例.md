@@ -3,9 +3,15 @@ title: JS 项目案例
 tags: [JS, 项目案例]
 started: 2022-12-01 Thu
 due: 
-modified: 2022-12-01 Thu
+modified: 2022-12-05 Mon
 status: 
 ---
+>[GitHub - Jenniferwonder/js-projects: Practice code from modern JS course](https://github.com/Jenniferwonder/js-projects)
+## 简单项目
+1. Stop watch- [[ES6 Class]]
+2. Guess the number - [[Value and Variables]]
+3. Story-generator - [[String]], [[Array]] ^0714cb
+4. Heroes - [[JSON]]
 ## 静态单页面
 #### 1. Bankist Website
 #### 2. Bankist App

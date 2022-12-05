@@ -3,7 +3,7 @@ title: JavaScript
 tags: JS
 started: 2022-11-29 Tue
 due: 2022-12-02
-modified: 2022-12-01 Thu
+modified: 2022-12-05 Mon
 status: Doing
 number headings: auto, first-level 4, max 6, 1._.1.1.
 ---
@@ -23,7 +23,7 @@ number headings: auto, first-level 4, max 6, 1._.1.1.
 - ZTM-JS Algorithm and Data Structure
 ## 核心知识
 ### JS OVERVIEW
->[JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+>[JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 >[JavaScript technologies overview - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview)
 ### BASICS
 >[JavaScript basics - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
@@ -44,21 +44,25 @@ number headings: auto, first-level 4, max 6, 1._.1.1.
 #### 4. [[Number]]
 #### 5. [[Math]]
 #### 6. [[Date]]
-#### 7. [[Error]]
+#### 7. [[Error]] ❓(try...catch)
 #### 8. [[Function]]
 #### 9. [[Sets and Maps]]
 ### Prototype & Class
 #### 1. [[Prototype Inheritance]]
-#### 2. [[ES6 Class]]
+#### 2. [[OOP]]
+#### 3. [[ES6 Class]]
 ### Better Code
 #### 1. [[Modules]]
 #### 2. [[Code Structure]]
-### Web APIs
+### DOM Manipulation
 #### 1. [[DOM]]
-#### 2. [[Web APIs]]
 ### Data Request
-#### 1. Async JS and Promise
-#### 2. API
+#### 1. [[JSON]]
+#### 2. [[Fetch API]] 
+#### 3. [[Web APIs]]
+#### 4. CORS (跨域)
+#### 5. Async JS and Promise
+#### 6. API
 ## 算法与数据结构训练
   - 数据结构 (Array, Object)、OOP、JSON
   - **后台数据获取及推送**、页面路由、页面渲染、HTML template

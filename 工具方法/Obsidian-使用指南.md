@@ -36,8 +36,8 @@ aliases:
 ##### 8. Delete: 快速删除整行？`CTRL + D`
 ##### 9. [[Obsidian-插件功能#Admonition|Callouts]]: `CTRL + ALT + O`
 ##### 10. 全局查找替换，删除所有空行 (blank line)?
-- [[快捷键#VS Code Keyboard Shortcuts|VS Code]]：🟩
-	- [[快捷键#VS Code Keyboard Shortcuts|快捷键]]：打开“查找与替换” `ctrl + shift + F`
+- [[Keyboard-Shortcuts#VS Code Keyboard Shortcuts|VS Code]]：🟩
+	- [[Keyboard-Shortcuts#VS Code Keyboard Shortcuts|快捷键]]：打开“查找与替换” `ctrl + shift + F`
 	- 查找 > 输入 `^$\n`
 	- 替换 > 不输入任何内容
 	- 确认：`ctrl + alt + enter`
