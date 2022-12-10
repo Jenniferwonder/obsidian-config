@@ -3,10 +3,13 @@ title: JavaScript
 tags: JS
 started: 2022-11-29 Tue
 due: 2022-12-02
-modified: 2022-12-05 Mon
+modified: 2022-12-06 Tue
 status: Doing
 number headings: auto, first-level 4, max 6, 1._.1.1.
 ---
+## Questions
+- 结合项目熟悉相关技术？
+- 怎样做项目？写项目文档、笔记？
 ## 学习途径
 ### Reference
 - [JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -22,18 +25,22 @@ number headings: auto, first-level 4, max 6, 1._.1.1.
 - JS Algorithm and Data Structure
 - ZTM-JS Algorithm and Data Structure
 ## 核心知识
+### JS Projects
+>[[JS 项目案例]] 
 ### JS OVERVIEW
 >[JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 >[JavaScript technologies overview - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview)
+>[Beginner JavaScript Notes - Wes Bos](https://wesbos.com/javascript)
 ### BASICS
 >[JavaScript basics - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 #### 1. [[DevTool]]
-#### 2. [[Data Types and Data Structures]]
-#### 3. [[Value and Variables]]
-#### 4. [[Operators]]
-#### 5. [[Script Loading]]
-#### 6. [[Scope]]
-#### 7. [[Closures]]
+#### 2. [[Call Stack and Event Loop]]
+#### 3. [[Script Loading]]
+#### 4. [[Data Types and Data Structures]]
+#### 5. [[Value and Variables]]
+#### 6. [[Operators]]
+#### 7. [[Scope]]
+#### 8. [[Closures]]
 ### Control Flow
 #### 1. [[Conditionals]]
 #### 2. [[Loops]]
@@ -42,27 +49,30 @@ number headings: auto, first-level 4, max 6, 1._.1.1.
 #### 2. [[Array]]
 #### 3. [[String]]
 #### 4. [[Number]]
-#### 5. [[Math]]
-#### 6. [[Date]]
+#### 5. [[Date]]
+#### 6. [[Math]]
 #### 7. [[Error]] ❓(try...catch)
 #### 8. [[Function]]
 #### 9. [[Sets and Maps]]
 ### Prototype & Class
-#### 1. [[Prototype Inheritance]]
+#### 1. [[Prototype Chain]]
 #### 2. [[OOP]]
 #### 3. [[ES6 Class]]
+### DOM Manipulation
+#### 1. [[DOM]]
+### Async JS Techniques
+#### 1. [[Async JS]]
+#### 2. [[Callbacks]]
+#### 3. [[Promise]]
+#### 4. [[Async...await]]
+### Data Request
+#### 1. [[JSON]]
+#### 2. CORS (跨域)
+#### 3. [[Fetch API]] 
+#### 4. [[Web APIs]]
 ### Better Code
 #### 1. [[Modules]]
 #### 2. [[Code Structure]]
-### DOM Manipulation
-#### 1. [[DOM]]
-### Data Request
-#### 1. [[JSON]]
-#### 2. [[Fetch API]] 
-#### 3. [[Web APIs]]
-#### 4. CORS (跨域)
-#### 5. Async JS and Promise
-#### 6. API
 ## 算法与数据结构训练
   - 数据结构 (Array, Object)、OOP、JSON
   - **后台数据获取及推送**、页面路由、页面渲染、HTML template

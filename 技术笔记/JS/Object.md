@@ -87,7 +87,7 @@ function Circle(radius) {
 const another = new Circle(1);
 ```
 
-#### 4. Destructuring
+#### 4. Destructuring 🟨
 
 ```js
 const {key:`varName`} = variable
@@ -188,7 +188,7 @@ sw.start
 ```
 
 ## Methods
-#### 1. ES6 enhanced object literals
+#### 1. ES6 enhanced object literals 🟨
 - Create [[Function]] as **methods** inside an object
 #### 2. Object Built-in Methods
 

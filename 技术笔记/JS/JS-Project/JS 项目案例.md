@@ -1,31 +1,32 @@
 ---
 title: JS 项目案例
-tags: [JS, 项目案例]
+tags: [JS, 项目案例, JS-Project]
 started: 2022-12-01 Thu
 due: 
-modified: 2022-12-05 Mon
+modified: 2022-12-08 Thu
 status: 
 ---
->[GitHub - Jenniferwonder/js-projects: Practice code from modern JS course](https://github.com/Jenniferwonder/js-projects)
+>[GitHub - Jenniferwonder/js-projects: Projects to practice vanilla JavaScript, HTML, and CSS](https://github.com/Jenniferwonder/js-projects)
 ## 简单项目
-1. Stop watch- [[ES6 Class]]
-2. Guess the number - [[Value and Variables]]
-3. Story-generator - [[String]], [[Array]] ^0714cb
-4. Heroes - [[JSON]]
+#### 1. [[Number Guessing Game]] 
+#### 2. [[Silly Story Generator]] 
+#### 3. [[Stop Watch]]
+#### 4. Pig Game
+#### 5. Timer Clock- **Class, SVG** 
+#### 6. Heroes - [[JSON]], [[Fetch API]]
 ## 静态单页面
 #### 1. Bankist Website
 #### 2. Bankist App
-#### 3. Pinky Game
-#### 4. Mapty App
+#### 3. Mapty App
 - Leaflet
-#### 5. Forkify App
+#### 4. Forkify App
 - Recipe API
-#### 6. Movie Fight 
+- MVC
+#### 5. Movie Fight 
 - API, [[Code Structure]], DOM 
-#### 7. Secret Message Sharing App 
-#### 8. E-Commerce App
-#### 9. Timer Clock- **Class, SVG** 
-#### 10. Maze- Canvas API 
+#### 6. Secret Message Sharing App 
+#### 7. E-Commerce App
+#### 8. Maze- Canvas API 
 ## 静态多页面
 #### 1. Blog-JS, jQuery
 - [YouTube- JS, jQuery- Blog](https://www.youtube.com/watch?v=gZHjMVE_e10&t=1531s)

@@ -57,6 +57,8 @@ number headings: auto, first-level 4, max 6, 1._.1.1.
 - 视频：PR, 剪映
 - 公众号编辑：了解秀米等编辑器
 ## 🚀PROJECT
+### 项目方法
+#### 1. 高效绘制 Flow Chart?
 ### 项目案例
 #### 1. [[JS 项目案例]]
 #### 2. [[React, NextJS-项目案例]]

@@ -1,0 +1,26 @@
+---
+title: HTML
+tags: HTML   
+started: 2022-11-29 Tue
+due: 
+modified: 2022-12-06 Tue
+status: 
+---
+>[HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)  
+>[HTML reference - HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
+## HTML Elements
+### Link
+#### 1. [[HTML-Link]]
+- Link to css stylesheet?
+### Form
+#### 1. [[Input and label]]
+#### 2. [[Button]]
+## Global Attributes
+## Attributes
+
+
+
+
+- 
+- SEO
+- 语义化标签

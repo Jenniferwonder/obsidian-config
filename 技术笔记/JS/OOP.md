@@ -15,7 +15,7 @@ status:
 - Hide the details and show the essentials
 #### 2. Inheritance
 - JS-constructors- [[Object]]
-- JS-prototype chain-[[Prototype Inheritance]]
+- JS-prototype chain-[[Prototype Chain]]
 	- The prototype chain's behavior is less like inheritance and more like **delegation**.
 - JS-[[ES6 Class]]
 	- a syntac sugar

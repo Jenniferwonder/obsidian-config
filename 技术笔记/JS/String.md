@@ -3,7 +3,7 @@ title: String
 tags: JS
 started: 2022-12-01 Thu
 due: 
-modified: 2022-12-05 Mon
+modified: 2022-12-06 Tue
 status: 
 number headings: auto, first-level 4, max 6, 1._.1.1.
 
@@ -15,6 +15,17 @@ number headings: auto, first-level 4, max 6, 1._.1.1.
 - Multiple lines  
 	- `\n\`  
 	- `hit enter  
+## String Concatenation
+#### 1. How to join strings?
+- Use [[Operators]] :  `+=`
+
+```js
+if (guessCount === 1) {
+	guesses.textContent = `Previous guesses: `;
+}
+guesses.textContent += ` ${guess}`;
+```
+
 ## String Methods
 #### 1. Case Matter
 

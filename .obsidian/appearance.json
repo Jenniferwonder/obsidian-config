@@ -1,10 +1,10 @@
 {
   "accentColor": "",
-  "theme": "obsidian",
+  "theme": "moonstone",
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "config"
   ],
   "textFontFamily": "Microsoft YaHei",
-  "baseFontSize": 18
+  "baseFontSize": 13
 }
