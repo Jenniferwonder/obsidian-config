@@ -25,12 +25,12 @@ immediately invoked function expression
 #### 4. Closures
 to give a function access to all variables of its parent function, even after that parent function has returned
 ## Create a function
-#### 1. Function declaration
+#### 1. Function declaration 函数声明
 Able to call the function before declaring it
 ```js
 funtion funName (parameter> argument) { }
 ```
-#### 2. Function expression
+#### 2. Function expression 函数表达式
 An expression produces a value
 ```js
 const funName = funtion (parameter> argument) { }
@@ -58,20 +58,3 @@ const newFunName = funName.bind(`newObjectName/ argument to event handlers`)
 //create a new function to apply the function with "this" inside an object to a new object
 const newFunName = funName.bind(`newObjectName`, `pre-set parameter`)
 ```
-## Timer Functions
-#### 1. setTimeout(`callback function`, `mileseconds`, `arg1`, `arg2`)
-- to execute a function after certain mileseconds
-```js
-setTimeout(
-(ing1, ing2) => console.log (`Here are ${ing1} and ${ing2}`), 
-3000, 
-'olives', 
-'spinach');
-//after 3000 mileseconds/ 3 seconds, the console will execute console.log
-```
-#### 2. clearTimeout(setTimeout())
-- to not execute the setTimeout function
-#### 3. setInterval(`callback function`, `mileseconds`)
-- to repeat executing a function after a certain mileseconds
-#### 4. clearInterval(setInterval())
-- to stop executing the setInterval function

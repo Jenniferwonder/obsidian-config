@@ -8,6 +8,7 @@ status:
 ---
 >[HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)  
 >[HTML reference - HTML: HyperText Markup Language | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference)
+>[All The Tags](https://allthetags.com/) | All HTML tags briefly explained. |
 ## HTML Elements
 ### Link
 #### 1. [[HTML-Link]]
@@ -15,6 +16,7 @@ status:
 ### Form
 #### 1. [[Input and label]]
 #### 2. [[Button]]
+#### 3. [[Form]]
 ## Global Attributes
 ## Attributes
 

@@ -22,6 +22,7 @@ sorting-spec: |
  资源分享
  职业发展
  快捷键
+ JS-Project
  with-metadata: started
  > a-z by-metadata: started
  target-folder: 技术笔记
@@ -29,7 +30,6 @@ sorting-spec: |
  CSS
  JS
  ...
- TypeScript
  with-metadata: modified
  > a-z by-metadata: modified
 ---

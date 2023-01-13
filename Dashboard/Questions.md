@@ -3,7 +3,7 @@ title: Questions
 tags: [Questions, 英语学习, 工具方法, 图文/知识星球, 图文/公众号, 视频/B站, 图文/掘金, 图文/开源中国, 图文/头条, 图文/知乎]
 started: 2022-11-23 Wed
 due: 2022-11-28 Mon
-modified: 2022-12-01 Thu
+modified: 2022-12-14 Wed
 status: Doing
 number headings: auto, first-level 4, max 6, 1._.1.1.
 ---
@@ -15,6 +15,7 @@ number headings: auto, first-level 4, max 6, 1._.1.1.
 #### 5. 🟨[[笔记内容可视化]]？
 ## 🌍ENGLISH
 #### 1. 英文输出准确性、流畅性、逻辑性?
+- [[English Speach]]
 #### 2. 英文输出方向与质量？
 #### 3. 英语学习资源？
 - 英文技术播客？
@@ -55,54 +56,25 @@ number headings: auto, first-level 4, max 6, 1._.1.1.
 #### 10. 编辑工具？
 - 图片：PS, Figma
 - 视频：PR, 剪映
-- 公众号编辑：了解秀米等编辑器
+- 公众号编辑：了解秀米等编辑器、MDNice
+## 🤖AI
+#### 1. OpenAI- ==ChatGPT==
+#### 2. Tensorflow.js
+#### 3. Python
 ## 🚀PROJECT
-### 项目方法
-#### 1. 高效绘制 Flow Chart?
-### 项目案例
-#### 1. [[JS 项目案例]]
-#### 2. [[React, NextJS-项目案例]]
-#### 3. Medium-Clone
-
-```dataview
-TABLE title, started, status
-WHERE contains(tags, "Medium-Clone")
-SORT started DESC
-```
-
-#### 4. Twitter-Clone
-
-```dataview
-TABLE title, started, status
-WHERE contains(tags, "Twitter-Clone")
-SORT started DESC
-```
-
-#### 5. 个人主页
-
-```dataview
-TABLE title, started, status
-WHERE contains(tags, "个人主页")
-SORT started DESC
-```
-
-#### 6. 资源导航网（英语/前端）
-
-```dataview
-TABLE title, started, status
-WHERE contains(tags, "资源导航")
-SORT started DESC
-```
-
-#### 7. TechBlog 双语技术博客
-
-```dataview
-TABLE title, started, status
-WHERE contains(tags, "TechBlog")
-SORT started DESC
-```
-
+#### 1. [[项目方法]]
+#### 2. [[JS 项目案例]]
+#### 3. [[React, NextJS-项目案例]]
+### [[设计工具]]
+#### 1. [[Figma]]
+#### 2. [[Excalidraw]]
+#### 3. [[Draw.io]]
+#### 4. [[PS]]
+#### 5. [[README & QR Tool]]
+### [[设计原理]]
 ## 🛠️TECH-STACK
+### 人工智能
+#### 1. [[AI-ChatGPT]]
 ### 装机备份
 ### 网页开发基础
 #### 1. [[Web Fundamentals]]
@@ -113,19 +85,18 @@ SORT started DESC
 #### 3. [[JavaScript]]
 #### 4. [[React]]
 #### 5. Vue3
-#### 6. SASS
-#### 7. Tailwind CSS
-#### 8. ~~[[jQuery]]~~
-#### 9. [[TypeScript]]
+#### 6. ~~[[jQuery]]~~
+#### 7. [[TypeScript]]
 ### 数据请求
 #### 1. [[Next.js]]
-#### 2. [[NodeJS, MongoDB]]
-### 开发工具
+#### 2. [[Node&Express]]
+#### 3. [[API Resources]]
+### [[前端工程化]]
 #### 1. Vite
-#### 2. [[Parcel and Webpack]]
-### 部署上线
-#### 1. [[部署上线]]？
-### 开发流程与方法
+#### 2. [[Parcel and Webpack Bug Fix]]
+#### 3. [[部署上线]]？
+### [[性能优化]]
+### [[前端面试]]
 ## 📈FOOD & SPORTS
 #### 1. 怎样更好地休息和运动——周末活动？
 - 运动

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "846e46a5d23170b5",
+        "id": "b326801e5fb00e70",
         "type": "tabs",
-        "dimension": 40.81769436997319,
+        "dimension": 28.91949152542373,
         "children": [
           {
-            "id": "d1972524db70eb05",
+            "id": "ce09c31eb895b340",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习记录/2022-12-09.md",
+                "file": "学习记录/2023-01-11.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,17 +24,57 @@
         ]
       },
       {
-        "id": "74e0722c434957a4",
+        "id": "08b6ab1c063a5891",
         "type": "tabs",
-        "dimension": 59.18230563002681,
+        "dimension": 22.775423728813557,
         "children": [
           {
-            "id": "16bd501b4d1b84be",
+            "id": "65f7c053562d4cde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习记录/2022-12-10.md",
+                "file": "English Speach.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6b6d4003bafadaaa",
+        "type": "tabs",
+        "dimension": 22.775423728813557,
+        "children": [
+          {
+            "id": "2dd43b9a87c06aa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "学习记录/2023-01-13.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1fc4028052499cfa",
+        "type": "tabs",
+        "dimension": 25.52966101694915,
+        "children": [
+          {
+            "id": "50bd19bd0f9bda5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "技术笔记/React/React.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Questions/Note",
+                "query": "tag:#开发流程",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -109,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "学习记录/2022-12-10.md",
+                "file": "学习记录/2023-01-13.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -144,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习记录/2022-12-10.md",
+                "file": "学习记录/2023-01-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习记录/2022-12-10.md",
+                "file": "学习记录/2023-01-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习记录/2022-12-10.md"
+                "file": "学习记录/2023-01-13.md"
               }
             }
           },
@@ -233,19 +273,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 233.5
   },
-  "active": "16bd501b4d1b84be",
+  "active": "2dd43b9a87c06aa5",
   "lastOpenFiles": [
-    "阶段反思/2022-W49.md",
-    "学习记录/2022-12-08.md",
-    "学习记录/2022-12-07.md",
-    "学习记录/2022-12-09.md",
-    "笔记能力/笔记方法.md",
-    "技术笔记/JS/JavaScript.md",
-    "Callbacks.md",
-    "Promise.md",
-    "Async/Async...await.md",
-    "Async JS.md"
+    "English Speach.md",
+    "学习记录/2023-01-12.md",
+    "学习记录/2023-01-11.md",
+    "2023-01-12.md",
+    "技术笔记/React/React.md",
+    "学习记录/2023-01-10.md",
+    "React 项目案例.md",
+    "学习记录/2023-01-09.md",
+    "阶段反思/2023-W01.md",
+    "学习记录/2023-01-07.md"
   ]
 }

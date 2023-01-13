@@ -1,24 +1,24 @@
 ---
 title: Daily Plan
 tags: 学习记录/周
-started: 2022-12
-due: 2022-12
+started: 2023-01
+due: 2023-01
 modified: 
 status: Doing
 ---
 # Daily Plan
 ## 今日目标
 #### 1. [[Questions#🚀TECH| Tech]]
-- **[[JavaScript]]** 技术总结、应用与提升
+- **[[React]]** 技术总结、应用与提升
 #### 2. [[Questions#🚀PROJECT|Project]]
-- [[JS 项目案例]] 总结
+- [[React 项目案例]] 总结
 #### 3. [[Questions#🌍ENGLISH|English]]
 
 ## 今日收获
 ### ✍️创建笔记
 ```dataview
 TABLE title, started, status
-WHERE file.cday = date(2022-12-02)
+WHERE file.cday = date(2023-01-09)
 SORT file.mday DESC
 ```
 
@@ -26,14 +26,13 @@ SORT file.mday DESC
 
 ```dataview
 TABLE title, started, status
-WHERE file.mday = date(2022-12-02) AND file.cday != date(2022-12-02) AND contains(modified, "2022-12-02")
+WHERE file.mday = date(2023-01-09) AND file.cday != date(2023-01-09) AND contains(modified, "2023-01-09")
 SORT file.mday ASC
 ```
 ### 🌍English-Time
 ```dataview
 TABLE title, started, status
-FROM "English-Time"
-WHERE started = "2022-11-29 Tue"
+WHERE tags = "英语学习"
 SORT started ASC
 ```
 ### 🗺️Graph View of Today
