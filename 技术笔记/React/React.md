@@ -6,7 +6,8 @@ due:
 modified: 2023-01-07 Sat
 status: 
 ---
-## Questions
+## Topics
+- What do you know about React?
 ## 参考资料
 ### Reference
 [Getting Started – React](https://reactjs.org/docs/getting-started.html)
@@ -15,6 +16,8 @@ status:
 ### Courses
 - [Online Courses - Learn Anything, On Your Schedule | Udemy](https://www.udemy.com/course/react-front-to-back-2022/learn/lecture/29767718#reviews)
 - [React Website Tutorial for Beginners | Responsive React Website Using Styled Components - YouTube](https://www.youtube.com/watch?v=9_s_Essow6s&list=PLj-4DlPRT48nfYgDK00oTjlDF4O0ZZyG8&index=16)
+### Speech
+- [[JSConfUS 2013] Tom Occhino and Jordan Walke: JS Apps at Facebook - YouTube](https://www.youtube.com/watch?v=GW0rj4sNH2w&t=12s)
 ### Tools/ Resources
 ## 学习前提
 #### 1. [[JavaScript]]

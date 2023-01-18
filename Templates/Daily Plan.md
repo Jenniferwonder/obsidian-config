@@ -7,39 +7,38 @@ modified:
 status: Doing
 ---
 # Daily Plan
-## 今日目标
-#### 1. [[Questions#🚀TECH| Tech]]
+## What's my goal today?
+#### 1. [[Front-End Engineering]]
 - **[[React]]** 技术总结、应用与提升
-#### 2. [[Questions#🚀PROJECT|Project]]
 - [[React 项目案例]] 总结
-#### 3. [[Questions#🌍ENGLISH|English]]
+#### 2. [[Main Topics in Life]]
 
-## 今日收获
-### ✍️创建笔记
+## What're my biggest achievements?
+### ✍️New Notes
 ```dataview
 TABLE title, started, status
-WHERE file.cday = date(2023-01-09)
+WHERE file.cday = date(2023-01-17)
 SORT file.mday DESC
 ```
 
-### 📝完善笔记
+### 📝Modified Notes
 
 ```dataview
 TABLE title, started, status
-WHERE file.mday = date(2023-01-09) AND file.cday != date(2023-01-09) AND contains(modified, "2023-01-09")
+WHERE file.mday = date(2023-01-17) AND file.cday != date(2023-01-17) AND contains(modified, "2023-01-17")
 SORT file.mday ASC
 ```
 ### 🌍English-Time
 ```dataview
 TABLE title, started, status
-WHERE tags = "英语学习"
+WHERE tags = "英语学习" and contains(started, "2023-01-17") or contains(modified,"2023-01-17") 
 SORT started ASC
 ```
 ### 🗺️Graph View of Today
 
-## 反思提升
+## Where can I improve?
 - [ ] 
-## 任务追踪
+## Task Tracking
 ### Morning Prep
 - [ ] 07:30 Note Review/Update
 - [ ] 08:40 Breakfast

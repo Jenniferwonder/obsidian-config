@@ -85,7 +85,7 @@ status:
 ## [[Color-颜色与背景]]
 ## [[Images-图片与背景]]
 ## [[UI Graphics]]
-## [[Videos-视频]]
+## [[Video Resources-视频资源]]
 ## [[Music-音乐音效]]
 ## [[Icon-图标]]
 ## [[Logo]]
