@@ -9,6 +9,7 @@ status:
 ## [[Time, Plans and Goals]]
 ## [[Job, Work, Career]]
 - [[Front-End Engineering]]
+- [[Designing]]
 ## [[Health& Fitness]]
 - [[Sleep]]
 - [[Food]]
@@ -26,8 +27,9 @@ status:
 	- 羊了个羊？
 	- Why is it popular?
 	- What do you think of children playing video games?
-## [[Technology]]
-
+## [[Learning or Life Efficiency]]
+- [[Note-Taking]]
+- [[Community Impact]]
 ## Progress
 
 ```dataview
@@ -36,30 +38,3 @@ WHERE contains(tags, "学习记录") AND contains(title,"English")
 SORT started ASC
 ```
 
-## Checklist
-#### 1. Think> Do> 
-- Speaking
-- Writing
-#### 2. Reflect> 
-- Writing
-#### 3. Learn, Compare, Practice> 
-- Shadowing
-	- Focus on pronunciation
-	- Focus on Facial expressions, getsures 
-	- Focus on words and expressions
-	- Focus on natural delivery
-- Retelling
-	- Focus on smooth application of better words and expressions
-	- Focus on natural delivery
-#### 4. Refine, Improve> 
-- Reading and Revising
-- Speaking
-#### 5. Do Again, do more.
-- Speaking
-- Writing
-#### 6. Sharing
-
-## Tools
-- Voice Typing `win + H`  
-- Better Word Count
-- 

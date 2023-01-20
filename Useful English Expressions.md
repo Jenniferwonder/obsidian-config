@@ -26,11 +26,3 @@ How would you **take** it?
 Your arms are not listening to you.
 the whole thing
 pro and amateur
-## Tech Blog
-[Web Design Trends 2023 - Red Stapler](https://redstapler.co/web-design-trends-2023/)
-- design trend
-- make a statement
-- grab attention
-- make sth. stand out
-- typography vs heavy visual effects
-- speed up performance

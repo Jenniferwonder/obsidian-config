@@ -6,7 +6,7 @@
       {
         "id": "3a77a60a53449b89",
         "type": "tabs",
-        "dimension": 21.428571428571427,
+        "dimension": 18.87550200803213,
         "children": [
           {
             "id": "143d5d76ac1b2e2b",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习记录/2023-01-18.md",
+                "file": "学习记录/2023-01-19.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +26,7 @@
       {
         "id": "0e701b25b4b9ed60",
         "type": "tabs",
-        "dimension": 14.339019189765459,
+        "dimension": 18.005354752342704,
         "children": [
           {
             "id": "f45a2680a0e22286",
@@ -44,17 +44,17 @@
         ]
       },
       {
-        "id": "2d285d7a889f9c65",
+        "id": "6b8fa64aff2debfd",
         "type": "tabs",
-        "dimension": 22.01492537313433,
+        "dimension": 13.386880856760374,
         "children": [
           {
-            "id": "a7da894e306a6b09",
+            "id": "a4dcdaf81be73b8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Useful English Expressions.md",
+                "file": "Front-End Engineering.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -64,17 +64,37 @@
         ]
       },
       {
-        "id": "d35b23d5ae186213",
+        "id": "e0ff4049f23568bc",
         "type": "tabs",
-        "dimension": 42.217484008528785,
+        "dimension": 26.84069611780455,
         "children": [
           {
-            "id": "5ba5c7cf0bc1d4bf",
+            "id": "04391cc2d586acd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-End Engineering.md",
+                "file": "项目开发/VS Code/Keyboard-Shortcuts.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "f50fc6928d879f1a",
+        "type": "tabs",
+        "dimension": 22.89156626506024,
+        "children": [
+          {
+            "id": "5379a036f08f9bdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Designing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -148,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "学习记录/2023-01-18.md",
+                "file": "项目开发/VS Code/Keyboard-Shortcuts.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +203,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习记录/2023-01-18.md",
+                "file": "项目开发/VS Code/Keyboard-Shortcuts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +220,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习记录/2023-01-18.md",
+                "file": "项目开发/VS Code/Keyboard-Shortcuts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +232,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习记录/2023-01-18.md"
+                "file": "项目开发/VS Code/Keyboard-Shortcuts.md"
               }
             }
           },
@@ -274,17 +294,17 @@
     "direction": "horizontal",
     "width": 427.5
   },
-  "active": "143d5d76ac1b2e2b",
+  "active": "04391cc2d586acd2",
   "lastOpenFiles": [
-    "Useful English Expressions.md",
-    "Main Topics in Life.md",
-    "学习记录/2023-01-18.md",
     "Front-End Engineering.md",
-    "Templates/Daily Plan.md",
-    "Sports.md",
-    "Movies and Videos.md",
-    "Country and Traveling.md",
-    "Traveling.md",
-    "English Learning.md"
+    "Designing.md",
+    "学习记录/2023-01-19.md",
+    "工具方法/Figma.md",
+    "Main Topics in Life.md",
+    "笔记能力/Note-Taking.md",
+    "Learning or Life Efficiency.md",
+    "Community Impact.md",
+    "English Learning.md",
+    "Design and UI Tools.md"
   ]
 }

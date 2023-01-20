@@ -1,18 +1,20 @@
 ---
-title: 设计工具
+title: Design and UI Tools
 tags: [Design, CSS]   
 started: 2022-12-16 Fri
 due: 
-modified: 2022-12-16 Fri
+modified: 2023-01-19 Thu
 status: 
 ---
 ## How-to
 #### 1. Code > Image
+
 | [Ray.so](https://ray.so/)           | Online tool to create beautiful images of your code.    |
 | ----------------------------------- | ------------------------------------------------------- |
 | [Codepng](https://www.codepng.app/) | Convert your source code into awesome shareable images. |
 | [Showcode](https://showcode.app) | Beautiful code screenshot generator. |                                    |                                                         |
-#### 2. Remove Image Background
+
+#### 2. Remove Image Background  
 [RemoveBG](https://www.remove.bg/)| Remove image backgrounds |
 ## Online Design Tool 
 
@@ -91,6 +93,7 @@ status:
 | [Visily](https://www.visily.ai)| Tool that empowers *non-designers* to design web and mobile app mockups |
 | [okso.app](https://okso.app) | The drawing app with a nested "drawing-inside-the-drawing" structure |
 | [Calc Generator](https://fpece.com/calc-generator) | Tool for easily creating precise Calc() CSS functions |
+
 ## Downloadable Design Software
 
 >Free software for UI, photo, 3d modeling, etc. Alternatives to paid software like Photoshop

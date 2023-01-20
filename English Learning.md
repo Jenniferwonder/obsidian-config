@@ -3,11 +3,14 @@ title: English Learning
 tags: 英语学习   
 started: 2023-01-16 Mon
 due: 
-modified: 2023-01-18 Wed
+modified: 2023-01-19 Thu
 status: 
 ---
 ## Purpose, Goal and Motivation
 #### 1. ==Why== do you wanna learn English? Is it for work?
+- Because I think it's often mind-opening and inspiring to communicate with people from different countries and cultures.
+- Learning a new language is like learning a new way of thinking. People say you speak two languages, you have two souls. How cool is that!
+- English is my major as well. I wanna learn it well. It's another motivation.
 ##### 1.1. ==Why== do you want to speak English fluently?/ ==What== do you want to do with English?
 - **People** and **Opportunities**
 - **Impact**
@@ -26,10 +29,10 @@ status:
 	- Be able to speak **smoothly, effectively, comfortably and professionally** just like a native
 	- Be able to talk with native speakers like an equal
 ## Problems
-#### 1. What problems are people facing in improving English?
-#### 2. English for programmars and engineers
+#### 1. English for programmars and engineers
 - How to improve [[English Learning]] and [[Front-End Engineering]] at the same time?
 	- Is it possible?
+#### 2. What problems are people facing in improving English?
 #### 3. What makes good spoken English good?
 - Which aspect is more important?
 - Which aspect takes more effort? 
@@ -55,12 +58,12 @@ status:
 - Name items at home in English
 - Do [[House Work]] in English
 #### 4. Using Chat App
+- Not get hooked up
 #### 5. Watching [[Movies and Videos]] and Speaking
 - [[Shadowing and Retelling]]
 - Discuss on the video
 - Note down [[Useful English Expressions]]
-#### 6. Writing and Speaking
-- Record [[Time, Plans and Goals]]
+#### 6. Reading, Writing and Speaking
 - [[Recording English Videos]]
 ### ==How== to use chat apps to better improve English?
 - What do you wanna talk about?
@@ -72,4 +75,29 @@ status:
 	- Tandem 注册
 	- 潜在风险？聊天须知？
 ### English learning resources and tools?
+- Voice Typing `win + H`  
+- Better Word Count
+- 
+### Checklist
+#### 1. Think> Do> 
+- Speaking
+- Writing
+#### 2. Reflect> 
+- Writing
+#### 3. Learn, Compare, Practice> 
+- Shadowing
+	- Focus on pronunciation
+	- Focus on Facial expressions, getsures 
+	- Focus on words and expressions
+	- Focus on natural delivery
+- Retelling
+	- Focus on smooth application of better words and expressions
+	- Focus on natural delivery
+#### 4. Refine, Improve> 
+- Reading and Revising
+- Speaking
+#### 5. Do Again, do more.
+- Speaking
+- Writing
+#### 6. Sharing
 

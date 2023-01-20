@@ -21,7 +21,7 @@ status:
 ## Speech
 #### 1. Life Experience 
 - [[Steve Jobs Speech at Stanford]]
-#### 2. [[Technology]]
+#### 2. [[Learning or Life Efficiency]]
 ## Talk Show/ Interview
 - Jackson Wang
 ## [[Main Topics in Life]]
