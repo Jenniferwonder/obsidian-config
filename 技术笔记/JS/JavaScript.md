@@ -33,7 +33,7 @@ number headings: auto, first-level 4, max 6, 1._.1.1.
 #### 2. [[HTML]]
 #### 3. [[CSS]]
 ## 项目案例
->[[JS 项目案例]] 
+>[[JS Projects]] 
 ## 核心知识
 ### JS OVERVIEW
 >[JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  

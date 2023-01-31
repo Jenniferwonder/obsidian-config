@@ -10,7 +10,7 @@ status: Doing
 ## What's my goal today?
 #### 1. [[Front-End Engineering]]
 - **[[React]]** 技术总结、应用与提升
-- [[React 项目案例]] 总结
+- [[React Projects]] 总结
 #### 2. [[Main Topics in Life]]
 
 ## What're my biggest achievements?
@@ -31,7 +31,7 @@ SORT file.mday ASC
 ### 🌍English-Time
 ```dataview
 TABLE title, started, status
-WHERE tags = "英语学习" and contains(started, "2023-01-17") or contains(modified,"2023-01-17") 
+WHERE tags = "英语学习" and contains(started, "2023-01-30") or tags = "英语学习" and contains(modified,"2023-01-30") 
 SORT started ASC
 ```
 ### 🗺️Graph View of Today

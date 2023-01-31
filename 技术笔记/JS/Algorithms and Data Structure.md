@@ -1,9 +1,9 @@
 ---
-title: JS 算法与数据结构
+title: Algorithms and Data Structure
 tags:   
 started: 2022-11-30 Wed
 due: 
-modified: 2022-11-30 Wed
+modified: 2023-01-30 Mon
 status: 
 ---
 ## 学习途径

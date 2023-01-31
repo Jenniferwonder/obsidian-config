@@ -4,17 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "3a77a60a53449b89",
+        "id": "703d740ce8eed7e7",
         "type": "tabs",
-        "dimension": 18.87550200803213,
+        "dimension": 24.84008528784648,
         "children": [
           {
-            "id": "143d5d76ac1b2e2b",
+            "id": "4f78a8d4dd7d043a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习记录/2023-01-19.md",
+                "file": "学习记录/2023-01-30.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "2417e0284156992a",
+        "type": "tabs",
+        "dimension": 27.132196162046906,
+        "children": [
+          {
+            "id": "8ba2504458e2b8fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "技术笔记/React/React.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -26,7 +46,7 @@
       {
         "id": "0e701b25b4b9ed60",
         "type": "tabs",
-        "dimension": 18.005354752342704,
+        "dimension": 48.027718550106606,
         "children": [
           {
             "id": "f45a2680a0e22286",
@@ -35,66 +55,6 @@
               "type": "markdown",
               "state": {
                 "file": "Main Topics in Life.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "6b8fa64aff2debfd",
-        "type": "tabs",
-        "dimension": 13.386880856760374,
-        "children": [
-          {
-            "id": "a4dcdaf81be73b8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front-End Engineering.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "e0ff4049f23568bc",
-        "type": "tabs",
-        "dimension": 26.84069611780455,
-        "children": [
-          {
-            "id": "04391cc2d586acd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目开发/VS Code/Keyboard-Shortcuts.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "f50fc6928d879f1a",
-        "type": "tabs",
-        "dimension": 22.89156626506024,
-        "children": [
-          {
-            "id": "5379a036f08f9bdc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Designing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -168,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "项目开发/VS Code/Keyboard-Shortcuts.md",
+                "file": "技术笔记/React/React.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目开发/VS Code/Keyboard-Shortcuts.md",
+                "file": "技术笔记/React/React.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目开发/VS Code/Keyboard-Shortcuts.md",
+                "file": "技术笔记/React/React.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目开发/VS Code/Keyboard-Shortcuts.md"
+                "file": "技术笔记/React/React.md"
               }
             }
           },
@@ -292,19 +252,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 427.5
+    "width": 399.5
   },
-  "active": "04391cc2d586acd2",
+  "active": "8ba2504458e2b8fa",
   "lastOpenFiles": [
-    "Front-End Engineering.md",
-    "Designing.md",
-    "学习记录/2023-01-19.md",
-    "工具方法/Figma.md",
+    "学习记录/2023-01-30.md",
+    "技术笔记/React/React.md",
     "Main Topics in Life.md",
-    "笔记能力/Note-Taking.md",
-    "Learning or Life Efficiency.md",
-    "Community Impact.md",
+    "阶段反思/2023-W01.md",
     "English Learning.md",
-    "Design and UI Tools.md"
+    "Templates/Daily Plan.md",
+    "技术笔记/NextJS/React, NextJS Projects.md",
+    "学习记录/2023-01-14.md",
+    "Dashboard/Questions.md",
+    "学习记录/2023-01-15.md"
   ]
 }

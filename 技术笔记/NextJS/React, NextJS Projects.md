@@ -1,9 +1,9 @@
 ---
-title: 项目案例-React, Next.js
+title: React, NextJS Projects
 tags: [React, NextJS, 项目案例]
 started: 2022-11-29 Tue
 due: 
-modified: 2022-12-01 Thu
+modified: 2023-01-30 Mon
 status: 
 ---
 ## Medium-Clone

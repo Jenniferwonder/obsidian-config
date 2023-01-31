@@ -100,7 +100,7 @@ A bilingual Tech Blog website with quality translation support.
 - ⭐ 翻译校正
 ## 技术方案调研
 参考：
-- [[React, NextJS-项目案例]]
+- [[React, NextJS Projects]]
 - [[低代码建站方案]]
 ## 如何部署上线
 参考：

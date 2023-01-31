@@ -32,7 +32,7 @@ status:
 ## 项目目的 Project Purpose
 - 熟悉 [[HTML]], [[CSS]], [[JavaScript]] 
 - 熟悉项目工作流：[[Project Plan]]
-- 提高解决问题能力：[[项目方法]]
+- 提高解决问题能力：[[Project Workflow]]
 ## 灵感板 Moodboard
 ![[Stop Watch 2022-12-13 16.13.09.excalidraw]]
 ## 项目资源 Resource

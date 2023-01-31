@@ -9,7 +9,7 @@ status:
 ## Purpose, Goal and Motivation
 #### 1. ==Why== do you wanna learn English? Is it for work?
 - Because I think it's often mind-opening and inspiring to communicate with people from different countries and cultures.
-- Learning a new language is like learning a new way of thinking. People say you speak two languages, you have two souls. How cool is that!
+- Learning a new language is like learning a new way of thinking. People say if you can speak two languages, you have two souls. How cool is that!
 - English is my major as well. I wanna learn it well. It's another motivation.
 ##### 1.1. ==Why== do you want to speak English fluently?/ ==What== do you want to do with English?
 - **People** and **Opportunities**
@@ -57,7 +57,7 @@ status:
 #### 3. Home Chat
 - Name items at home in English
 - Do [[House Work]] in English
-#### 4. Using Chat App
+#### 4. Use Chat App
 - Not get hooked up
 #### 5. Watching [[Movies and Videos]] and Speaking
 - [[Shadowing and Retelling]]

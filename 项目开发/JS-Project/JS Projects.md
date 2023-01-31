@@ -1,12 +1,12 @@
 ---
-title: JS 项目案例
+title: JS Projects
 tags: [项目案例, JS-Project]
 started: 2022-12-01 Thu
 due: 
-modified: 2023-01-05 Thu
+modified: 2023-01-30 Mon
 status: 
 ---
->[30 JS Projects | Wes Bos](https://courses.wesbos.com/account)
+>[30 JS Projects | Wes Bos](https://courses.wesbos.com/account)  
 >[GitHub - Jenniferwonder/js-projects: Projects to practice vanilla JavaScript, HTML, and CSS](https://github.com/Jenniferwonder/js-projects)
 
 ## 通用功能
@@ -20,9 +20,9 @@ status:
 #### 8. Music Player
 #### 9. Video Player
 ## 简单项目
-#### 1. [[Number Guessing Game]] 
-#### 2. [[Pig Game]]
-#### 3. [[Stop Watch & Countdown Timer]]
+#### 1. [[Stop Watch & Countdown Timer]]
+#### 2. [[Number Guessing Game]] 
+#### 3. [[Pig Game]]
 #### 4. [[Silly Story Generator]] 
 ## 静态单页面
 #### 1. [[Bankist App]] - [[Array]], [[Date]]
