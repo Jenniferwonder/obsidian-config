@@ -6,6 +6,60 @@ due:
 modified: 2022-12-06 Tue
 status: 
 ---
+## Shortcuts
+### Edit
+
+> [!info] 参考链接  
+[Basic Editing in Visual Studio Code](https://code.visualstudio.com/docs/editor/codebasics#_find-and-replace)
+
+#### 1. Undo: `ctrl`+`z`
+#### 2. Redo: `ctrl`+ `y`
+#### 3. Add multiple cursors: `alt`+`Click`
+#### 4. Select & Replace
+- Select items: `ctrl`+`shift`+`arrow`
+- Select the same word next to the cursor: `ctrl`+`D`
+- **Select and replace** the same elements at one time (**Select** the same element next to the cursor): 
+	- select all same items: `ctrl`+`shift`+`L`
+	- select the next same items: `ctrl`+`D`
+#### 5. Find & Replace
+- `ctrl+shift+F`
+#### 6. Replace value with variable name in SCSS
+- Download: SCSS Refactoring `ctrl`+`alt`+`E`
+#### 7. Paste multiple lines with correct indentation
+- Download: <mark style="background: #FFF3A3A6;">indent on paste</mark>
+#### 8. Duplicate a line: 
+   - Shift + Alt + Up Arrow Key 
+   - Shift + Alt +Down Arrow Key
+#### 9. Delete a line: Shift + Ctrl + K
+### Tab control
+- Open keyboard shortcut
+   - `ctrl+K ctrl+S`
+- Open/ Close Sidebar: 
+   - `ctrl+ B`
+- Open extension: 
+   - `ctrl+ shift+ x`
+- Open command palette:
+   - `ctrl+ shift+ P`
+### Comments
+- Add comments:
+   - `ctrl`+`K`+`C`
+- Remove comments:
+   - Download extension: <mark style="background: #FFF3A3A6;">remove comments</mark>
+   - Remove line comments: `ctrl+ K ctrl+ U`
+- SCSS comment
+   - Add multi-line comment /* : `shift`+`alt`+`A`
+   - Add toggle-line comment //: `ctrl`+`/`
+   - ? No-response: Download: <mark style="background: #FFF3A3A6;">Auto Comment Block </mark>`shift`+`enter`
+## Extensions
+### React Extensions
+### SASS
+<mark style="background: #FFF3A3A6;">SASS web color</mark>
+### General
+<mark style="background: #FFF3A3A6;">minimap</mark>
+<mark style="background: #FFF3A3A6;">bookmarks</mark>
+   `ctrl`+`B`+`ctrl`+`K`
+   go to next: `ctrl`+`alt`+`N`
+## Error handling
 #### 1. ShortCut
 - Open the bottom status bar
 #### 2. Expression expected

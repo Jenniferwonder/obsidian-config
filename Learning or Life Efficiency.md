@@ -17,6 +17,7 @@ status:
 - What's your favorite app/ software?
 ### [[Note-Taking]]
 ### [[Community Impact]]
+### [[AI-ChatGPT]]
 ### Social Apps
 - 换头像
 - Funny name - woof/ Joker

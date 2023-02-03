@@ -3,71 +3,57 @@ title: React
 tags: React    
 started: 2022-11-29 Tue
 due: 
-modified: 2023-01-30 Mon
+modified: 2023-01-31 Tue
 status: 
 ---
-## Topics
-- What do you know about React?
-## 参考资料
-### Reference
-[Getting Started – React](https://reactjs.org/docs/getting-started.html)  
-[Home v6.6.1 | React Router](https://reactrouter.com/en/main)
-### Tutorials
-### Courses
+## Why React?
+- ~~What do you know about React?~~
+- ~~What is React?~~
+- Why do you want to learn and use React?
+## How to be good at React?
+#### 1. Reference
+- New- [Start a New React Project • React](https://beta.reactjs.org/learn/start-a-new-react-project#)
+- Old- [Getting Started – React](https://reactjs.org/docs/getting-started.html) 
+#### 2. Tutorials
 - [Online Courses - Learn Anything, On Your Schedule | Udemy](https://www.udemy.com/course/react-front-to-back-2022/learn/lecture/29767718#reviews)
 - [React Website Tutorial for Beginners | Responsive React Website Using Styled Components - YouTube](https://www.youtube.com/watch?v=9_s_Essow6s&list=PLj-4DlPRT48nfYgDK00oTjlDF4O0ZZyG8&index=16)
-### Speech
+#### 3. Speech
 - [[JSConfUS 2013] Tom Occhino and Jordan Walke: JS Apps at Facebook - YouTube](https://www.youtube.com/watch?v=GW0rj4sNH2w&t=12s)
-### Tools/ Resources
-## 学习前提
-#### 1. [[JavaScript]]
-## 项目案例
-[[React Projects]]
-## 核心知识
+#### 4. React Projects
+- [[React Projects]]
+## How to start a new React project?
+- For learning/ building a SPA (Single Page Application) with React?
+	- [Create React App](https://create-react-app.dev/)
+	- [Vite](https://vitejs.dev/guide/)
+	- [Parcel](https://parceljs.org/getting-started/webapp/)
+- For starting a static and server-rendered applications
+	- [Next.js](https://nextjs.org/)
+- Editor Setup
+	- [[VSCode#React Extensions]]
+## Core Concepts
 ### Basics
-#### 1. Initializing React
-- create react app
-- index.html > index.js
-	- use `index.js` to insert html into `index.html` `<div id="root"></div>`
-- 
+#### 1. JSX
 #### 2. Components
-#### 3. JSX
-#### 4. Props (proptypes, defaultprops, etc)
-#### 5. State (Component & App Level)
-#### 6. Styling
-#### 7. Handling Events
-#### 8. Lists & Keys
-#### 9. Forms
-#### 10. Context API
-#### 11. HTTP Requests
-1. [Understand React](https://reactjs.org/tutorial/tutorial.html#what-is-react)
-2. How To Set Up Your DevEnv
-3. JSX
-4. Components
-5. State
-6. Props
-7. Lists/Keys
-8. Lifecycle Methods
-
-### Advanced React Concepts
-
-1. Styling
-2. Form Handling
-3. Data Handling
-4. Reconciliation Process
-5. Hooks
-6. Custom Hooks
-7. Context
-
+#### 3. Props (proptypes, defaultprops, etc)
+#### 4. State (Component & App Level)
+#### 5. Lists & Keys
+#### 6. Lifecycle Methods
+### Advanced Concepts
+#### 1. Styling
+#### 2. Form Handling
+#### 3. Data Handling
+#### 4. Reconciliation Process
+#### 5. Hooks
+#### 6. Custom Hooks
+#### 7. Context API
 ### Mastering React
-
-1. Lazy Loading
-2. Portals
-3. State Management
-4. Routing
-5. Theming
-6. Patterns
-7. Anti-Patterns
+#### 1. Lazy Loading
+#### 2. Portals
+#### 3. State Management
+#### 4. Routing
+#### 5. Theming
+#### 6. Patterns
+#### 7. Anti-Patterns
 ## Intro
 React, a JS library for building UIs.  
 Developed at Facebook and released in 2013, it's safe to say that React has been the most influential UI library in recent memory [Fireship-as of 2020].  
