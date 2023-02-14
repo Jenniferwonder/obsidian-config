@@ -1,6 +1,6 @@
 ---
 title: HTTP
-tags: [Web, JS]   
+tags: [Front-End/Web, Front-End/JS]   
 started: 2022-12-10 Sat
 due: 
 modified: 2022-12-10 Sat

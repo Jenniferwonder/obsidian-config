@@ -1,6 +1,6 @@
 ---
 title: MERN Blog
-tags: React-Project  
+tags: Projects/React-Project  
 started: 2023-01-09 Mon
 due: 
 modified: 2023-01-09 Mon

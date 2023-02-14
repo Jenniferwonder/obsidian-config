@@ -9,16 +9,16 @@ status:
 ## Questions
 - **Why** do I wanna work as a front-end engineer?
 - What do I want to do with the skills I'm learning?  
-## 1. Projects
+## Projects
 #### 1. [[Project Workflow]]
 #### 2. [[JS Projects]]
 #### 3. [[React Projects]]
 #### 4. [[React, NextJS Projects]]
 ## Tech Stack
-### 1. Fundamentals 
+### Fundamentals 
 #### 1. [[Web Fundamentals]]
 #### 2. [[Algorithms and Data Structure]]
-### 1. Front-End Basics 
+### Front-End Basics 
 #### 1. [[HTML]]
 #### 2. [[CSS]] 
 #### 3. [[JavaScript]]
@@ -26,12 +26,12 @@ status:
 #### 5. Vue3
 #### 6. ~~[[jQuery]]~~
 #### 7. [[TypeScript]]
-### 1. Data Request 
+### Data Request 
 #### 1. [[Next.js]]
 #### 2. [[Node&Express]]
 #### 3. [[MongoDB, Mongoose]]
 #### 4. [[API Resources]]
-### 1. [[前端工程化]]
+### [[前端工程化]]
 #### 1. Vite
 #### 2. [[Parcel and Webpack Bug Fix]]
 #### 3. [[部署上线]]？

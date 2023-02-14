@@ -1,6 +1,6 @@
 ---
 title: Object
-tags: JS
+tags: Front-End/JS
 started: 2022-12-01 Thu
 due: 
 modified: 2022-12-05 Mon

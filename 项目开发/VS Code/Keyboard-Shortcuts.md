@@ -1,6 +1,6 @@
 ---
 title: Keyboard-Shortcuts
-tags: [工具方法/VSCode, 工具方法/Windows, 工具方法/Figma, 工具方法/Browser]
+tags: [Tools/VSCode, Tools/Windows, Tools/Figma, Tools/Browser]
 status: Doing
 started: 2022-11-22 Tue
 due: 

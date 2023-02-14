@@ -1,6 +1,6 @@
 ---
 title: React Projects
-tags: React   
+tags: Front-End/React   
 started: 2023-01-07 Sat
 due: 
 modified: 2023-01-30 Mon
@@ -22,6 +22,8 @@ status:
 #### 1. [[FruitFit-水果商城]]
 ### Tool and Visulization
 #### 1. [[DashBoard]]
+### Game
+#### 1. [[Tic-Tac-Toe]]
 ## 简单项目
 #### 1. React Feedback App
 ## Clone 项目

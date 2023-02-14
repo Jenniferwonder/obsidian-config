@@ -1,6 +1,6 @@
 ---
 title: VSCode
-tags: VSCode  
+tags: Tools/VSCode  
 started: 2022-12-06 Tue
 due: 
 modified: 2022-12-06 Tue

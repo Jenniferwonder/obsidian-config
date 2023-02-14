@@ -1,6 +1,6 @@
 ---
 title: Web Worker
-tags: JS  
+tags: Front-End/JS  
 started: 2022-12-16 Fri
 due: 
 modified: 2022-12-16 Fri

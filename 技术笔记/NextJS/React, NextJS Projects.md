@@ -1,6 +1,6 @@
 ---
 title: React, NextJS Projects
-tags: [React, NextJS, 项目案例]
+tags: [Front-End/React, Front-End/NextJS, Projects]
 started: 2022-11-29 Tue
 due: 
 modified: 2023-01-30 Mon

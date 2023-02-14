@@ -1,6 +1,6 @@
 ---
 title: Scope
-tags: JS
+tags: Front-End/JS
 started: 2022-11-30 Wed
 due: 
 modified: 2022-12-01 Thu

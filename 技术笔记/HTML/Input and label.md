@@ -1,6 +1,6 @@
 ---
 title: Input
-tags: HTML   
+tags: Front-End/HTML   
 started: 2022-12-06 Tue
 due: 
 modified: 2022-12-06 Tue

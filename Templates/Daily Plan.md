@@ -11,7 +11,7 @@ status: Doing
 #### 1. [[Front-End Engineering]]
 - **[[React]]** 技术总结、应用与提升
 - [[React Projects]] 总结
-#### 2. [[Main Topics in Life]]
+#### 2. [[My Goals in 2023]]
 
 ## What're my biggest achievements?
 ### ✍️New Notes

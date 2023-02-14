@@ -1,13 +1,13 @@
 ---
 title: English 30mins Challenge
-tags: 英语学习
+tags: Reflections/English
 status: 
 started: 2022-11-22 Tue
 due: 
 modified: 2022-11-29 Tue
 ---
-#### Take This Chanllenge and See What Will Happen!
-#### Day 1: Aug 16 Remember You are Not Alone! 
+#### 1. Take This Chanllenge and See What Will Happen!
+#### 2. Day 1: Aug 16 Remember You are Not Alone! 
 I started recording radio again.  
 In recent three days, I started practice pronunciation again.  
 I realize there are still many problems and imperfections in my pronunciation and way of speaking English. I would still make uncouscious mistake as I speak English.  

@@ -1,6 +1,6 @@
 ---
 title: README.md
-tags: 项目案例/TechBlog
+tags: Projects/TechBlog
 status: Doing
 started: 2022-11-01
 due: 

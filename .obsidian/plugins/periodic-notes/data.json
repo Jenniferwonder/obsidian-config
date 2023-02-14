@@ -11,13 +11,14 @@
   "weekly": {
     "format": "",
     "template": "",
-    "folder": "阶段反思",
-    "enabled": true
+    "folder": "",
+    "enabled": false
   },
   "monthly": {
     "format": "",
     "template": "",
-    "folder": ""
+    "folder": "Milestones",
+    "enabled": true
   },
   "quarterly": {
     "format": "",

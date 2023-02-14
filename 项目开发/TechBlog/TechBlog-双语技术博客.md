@@ -1,6 +1,6 @@
 ---
 title: TechBlog-双语技术博客
-tags: 项目案例/TechBlog
+tags: Projects/TechBlog
 status: Doing
 started: 2022-11-17 Thu
 due: 2022-11-11

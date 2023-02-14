@@ -1,6 +1,6 @@
 ---
 title: CS50x Final Project
-tags: 技术/Web
+tags: Front-End/Web
 status: Done
 started: 2022-09-12
 due: 

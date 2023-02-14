@@ -1,6 +1,6 @@
 ---
 title: CES Lenovo Duo-Screen Laptop
-tags: 英语学习/Tech     
+tags: Reflections/Tech     
 started: 2023-01-14 Sat
 due: 
 modified: 2023-01-14 Sat

@@ -1,6 +1,6 @@
 ---
 title: TypeScript
-tags: TS  
+tags: Front-End/TS  
 started: 2022-11-29 Tue
 due: 
 modified: 2022-12-16 Fri

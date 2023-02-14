@@ -1,6 +1,6 @@
 ---
 title: 8 Days_ PD& PM (Sept 6-12-16)
-tags: 技术/PD
+tags: Tools/Design
 status: Done
 started: 2022-09-06
 due: 
@@ -16,12 +16,12 @@ aliases:
 | **New Issues Added** | <ul><li>Health& Fitness (D+1)<ul><li>🥰Mid-Autumn Festival> Chat> Cooking> ...<li>❤️Period Start> Rest> Pinpong</ul><li>PM (D+2)<ul><li>Retrospect > Template<li>Sprint Review > Template</ul></ul> |
 
 ### SCOPE
-#### S1- Product Design
+#### 1. S1- Product Design
 - [x] PD-Learn and apply Layout and Typography in Figma Sept 9
 - [x] PD-Learn and apply Color and Photo editing in Figma Sept 12
 - [x] PD-Learn Design Process: Brief> Mood Board> Wireframe> Design Sept 13
 - [x] PD-Learn Design Tricks and Mimicking Pros Sept 14
-#### S0- Product> Project> Time Management
+#### 2. S0- Product> Project> Time Management
 - [x] Learn PM Methods: Agile Sept 6
 - [x] Learn PM Tools:
   - **Jira**, and build PR in Jira (Roadmap> Backlog> Kanban) Sept 7
@@ -90,4 +90,4 @@ aliases:
 - Books: see in browser bookmarks
 - **Grid** in Nexter
 - Responsive design: mixins and media queries
-####
+#### 1. ####

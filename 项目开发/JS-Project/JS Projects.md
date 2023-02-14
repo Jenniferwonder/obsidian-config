@@ -1,6 +1,6 @@
 ---
 title: JS Projects
-tags: [项目案例, JS-Project]
+tags: [Projects, Projects/JS-Project]
 started: 2022-12-01 Thu
 due: 
 modified: 2023-01-30 Mon

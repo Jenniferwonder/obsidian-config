@@ -1,6 +1,6 @@
 ---
 title: CORS (跨域)
-tags: [JS, Web]   
+tags: [Front-End/JS, Front-End/Web]   
 started: 2022-12-16 Fri
 due: 
 modified: 2022-12-16 Fri

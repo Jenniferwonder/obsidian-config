@@ -1,7 +1,7 @@
 ---
 due: 
 title: Note-Taking
-tags: [图文/知识星球, 图文/公众号, 图文/掘金, 图文/知乎, 视频/B站]
+tags: Reflections/Note
 started: 2022-11-29 Tue
 closed: 
 modified: 2023-01-19 Thu

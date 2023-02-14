@@ -1,6 +1,6 @@
 ---
 title: Promise
-tags: JS   
+tags: Front-End/JS   
 started: 2022-12-09 Fri
 due: 
 modified: 2022-12-09 Fri

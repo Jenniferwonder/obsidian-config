@@ -1,12 +1,17 @@
 ---
 title: House Work
-tags: 英语学习   
+tags: Reflections/Life   
 started: 2023-01-16 Mon
 due: 
-modified: 2023-01-16 Mon
+modified: 2023-02-08 Wed
 status: 
 ---
-## Topics
+## Decluttering
+- Kitchen
+- Food
+- Clothes
+## Shopping
+
 ## Experience
 #### 1. Kitchen
 - 洗电饭煲锅、盖

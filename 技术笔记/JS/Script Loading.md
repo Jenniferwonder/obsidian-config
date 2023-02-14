@@ -1,6 +1,6 @@
 ---
 title: JS-Script Loading
-tags: JS
+tags: Front-End/JS
 started: 2022-11-30 Wed
 due: 
 modified: 2022-11-30 Wed

@@ -1,6 +1,6 @@
 ---
 title: Web Fundamentals
-tags: Web  
+tags: Front-End/Web  
 started: 2022-12-02 Fri
 due: 
 modified: 2022-12-02 Fri

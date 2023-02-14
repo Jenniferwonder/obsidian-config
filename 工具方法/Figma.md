@@ -1,6 +1,6 @@
 ---
 title: Figma
-tags: 工具方法/Figma
+tags: Tools/Figma
 status: 
 started: 2022-11-28 Mon
 modified: 2023-01-19 Thu

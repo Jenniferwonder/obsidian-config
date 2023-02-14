@@ -1,6 +1,6 @@
 ---
 title: How I Stop Worrying and Start Living
-tags: [Writing, 阶段反思]    
+tags: Reflections/Life 
 started: 2023-02-02 Thu
 due: 
 modified: 2023-02-02 Thu

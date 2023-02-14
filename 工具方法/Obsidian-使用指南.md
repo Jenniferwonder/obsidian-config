@@ -1,6 +1,6 @@
 ---
 title: Obsidian-使用指南
-tags: 工具方法/Obsidian
+tags: Tools/Obsidian
 status: Doing
 started: 2022-11-21
 due: 2022-11-25

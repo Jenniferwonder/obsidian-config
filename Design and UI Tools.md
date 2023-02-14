@@ -1,6 +1,6 @@
 ---
 title: Design and UI Tools
-tags: [Design, CSS]   
+tags: [Tools/Design, Front-End/CSS]   
 started: 2022-12-16 Fri
 due: 
 modified: 2023-01-19 Thu

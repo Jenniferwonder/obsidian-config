@@ -1,6 +1,6 @@
 ---
 title: AI-ChatGPT
-tags: AI   
+tags: Tools/AI   
 started: 2022-12-13 Tue
 due: 
 modified: 2022-12-13 Tue
@@ -11,3 +11,7 @@ status:
 - 有了AI之后，人负责做什么？
 ## 相关公司
 OpenAI, DeepMind
+## Tools
+#### 1. OpenAI- ==ChatGPT==
+#### 2. Tensorflow.js
+#### 3. Python

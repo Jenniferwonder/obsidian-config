@@ -1,6 +1,6 @@
 ---
 title: Stop Watch & Countdown Timer
-tags: JS-Project  
+tags: Projects/JS-Project  
 started: 2022-12-06 Tue
 due: 
 modified: 2022-12-14 Wed

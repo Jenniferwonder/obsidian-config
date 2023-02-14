@@ -1,6 +1,6 @@
 ---
 title: Debounce and Throttle-防抖节流
-tags: JS  
+tags: Front-End/JS  
 started: 2022-12-15 Thu
 due: 
 modified: 2022-12-16 Fri

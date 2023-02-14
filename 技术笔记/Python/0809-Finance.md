@@ -1,6 +1,6 @@
 ---
 title: 0809-Finance
-tags: 技术/Python
+tags: Front-End/Python
 status: Done
 started: 2022-08-08
 due: 2022-08-14

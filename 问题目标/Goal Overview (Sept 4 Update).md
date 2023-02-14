@@ -12,8 +12,8 @@ aliases:
 ## Portfolio
 ## Programming
 ### CS50x 2022 Certification & FCC: Responsive Web Design
-#### Programming Basics (Jan 27- Jul 14: 49 Days)✅
-##### 1. algorithms and data structure (1 月 27 日 -6 月 27 日 35 Days)
+#### 1. Programming Basics (Jan 27- Jul 14: 49 Days)✅
+##### 1.1. algorithms and data structure (1 月 27 日 -6 月 27 日 35 Days)
 Lecture Note
 - [Week 0](https://cs50.harvard.edu/x/2022/weeks/0/) Scratch
 - [Week 1](https://cs50.harvard.edu/x/2022/weeks/1/) C
@@ -39,15 +39,15 @@ Filter: 给 BMP 图片文件添加四种滤镜 (filter)：灰度 greyscale, 镜�
 Recover: 恢复删除的图片文件
 Inheritance: 模拟三代血型遗传过程
 Speller: 识别文本中拼写错误的单词
-##### 2. Python (6 月 28 日 -7 月 2 日 5 Days)  
+##### 1.2. Python (6 月 28 日 -7 月 2 日 5 Days)  
 用 Python 编写程序，解决 Hello, Mario, Cash, Readability 问题
 World Cup: 模拟计算球队获胜概率（要读取 CSV 文件）
 DNA: 判断 DNA 序列 (.txt) 属于数据库 (.csv) 中的哪一个人（要读取 CSV 文件）
-##### 3. SQL (SQLite) (Jul 3- Jul 10; Jul 14 9 Days)
+##### 1.3. SQL (SQLite) (Jul 3- Jul 10; Jul 14 9 Days)
 Lab 7: Movie
 Pset 7: Fiftyville
-##### 4. Web Application Basics (Jul 15- Aug 10 27 Days)
-##### 5. HTML, CSS, JavaScript (Jul 15- Aug 4: 21 Days) ✅
+##### 1.4. Web Application Basics (Jul 15- Aug 10 27 Days)
+##### 1.5. HTML, CSS, JavaScript (Jul 15- Aug 4: 21 Days) ✅
 
 - CS50 Projects (Using **Bootstrap**)
    - Trivia 
@@ -78,16 +78,16 @@ Pset 7: Fiftyville
       8. Ferris Wheel (CSS animation)
       9. Penguin (CSS transform)
       10. **Personal Portfolio Webpage Aug 4**✅
-##### 6. Flask (Aug 5- 9 5 Days)✅
+##### 1.6. Flask (Aug 5- 9 5 Days)✅
 
 - CS50 Projects
    - Birthday (python, flask, SQLite, ~~json, Ajax~~)
    - Finance (python, flask, SQLite, API, ~~json, Ajax~~)
-##### 7. Git and Github (Jul 25) ✅
-##### 8. IDE: VS Code (Jul 28)✅
-##### 9. Emoji, Cybersecurity and Seminar AI (Aug 10 1 Day)✅
-#### Final Project (Aug 11- Sept 19) : **Full-fledged Website**3 Days
-##### 1. Project Design
+##### 1.7. Git and Github (Jul 25) ✅
+##### 1.8. IDE: VS Code (Jul 28)✅
+##### 1.9. Emoji, Cybersecurity and Seminar AI (Aug 10 1 Day)✅
+#### 2. Final Project (Aug 11- Sept 19) : **Full-fledged Website**3 Days
+##### 2.1. Project Design
 - [ ] Product management
 - [ ] Project Management: **Agile **Scrum Methodology (Kanban/ Trello)
       - Whole web development process > architecture and setup
@@ -129,7 +129,7 @@ Pset 7: Fiftyville
    - Online code editor: Codepen
    - Editor: VS Code
    - Design tools: Figma; Canva
-##### 2. Skills Prep: 
+##### 2.2. Skills Prep: 
 - [ ] HTML, CSS (flexbox, color, font, grid, animation, bootstrap...)
    - To improve web layout
    - Efforts:
@@ -146,17 +146,17 @@ Pset 7: Fiftyville
 - [ ] Front-end Libraries (React, Redux)
 - [ ] Back-end Deployment and APIs
 ### ZTM: Complete Web Developer in 2022 (Jul 19- Sept 19)
-#### ZTM Part 1: HTML, CSS (Jul 19- Aug 4 17 Days)✅
+#### 1. ZTM Part 1: HTML, CSS (Jul 19- Aug 4 17 Days)✅
 Product Landing Page (Background image)
 Robotfriend (animation)
 Project Layout and Prettify (hover effect; navigation bar)
-#### ZTM Part 2: JavaScript and React (Aug 11- 21 10 Days) Half done✅
-#### ZTM Part 4: Back-end Deployment and APIs (Sept 8- 19 12 Days)
+#### 2. ZTM Part 2: JavaScript and React (Aug 11- 21 10 Days) Half done✅
+#### 3. ZTM Part 4: Back-end Deployment and APIs (Sept 8- 19 12 Days)
 ### FCC: Web Developer Certification
-#### JavaScript Algorithms and Data Structure (Aug-) 
-#### Front-end Development Libraries (Aug-)
-#### Data Visualization with D3
-#### Back-end Development and APIs
+#### 1. JavaScript Algorithms and Data Structure (Aug-) 
+#### 2. Front-end Development Libraries (Aug-)
+#### 3. Data Visualization with D3
+#### 4. Back-end Development and APIs
 ### Quality Assurance
 ### Scientic Computing with Python
 ### Data Analysis with Python

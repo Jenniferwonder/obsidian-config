@@ -1,6 +1,6 @@
 ---
 title: Steve Jobs Speech at Stanford
-tags: 英语学习/Tech     
+tags: Reflections/Tech     
 started: 2023-01-13 Fri
 due: 
 modified: 2023-01-13 Fri

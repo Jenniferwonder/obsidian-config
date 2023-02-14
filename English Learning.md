@@ -1,11 +1,28 @@
 ---
 title: English Learning
-tags: 英语学习   
+tags: Reflections/English   
 started: 2023-01-16 Mon
 due: 
 modified: 2023-01-19 Thu
 status: 
 ---
+## Now
+I treat English as my **working language** whther in note-taking, daily reflection or video recording.
+I think this is the only way I can improve and excel in English.
+## The Only Goal
+I wanna figure out-
+How can I <u>improve my English speaking and writing</u> while learning <u>programing skills</u>?
+## Why English and Programming?
+I hope one day I can have my own channel sharing 
+- help **programmers** learn and improve English
+- help **English major** know how to learn programming in English
+- my study vlog in English
+- beautiful moments in life
+- small tips 
+- **my life/ things I care** in English.
+
+Because English is my major. It's something I care about and I'm interested in. It's something I'm capable of doing. English has become a part of my life and I don't want to just lose it and let it rot. 
+
 ## Purpose, Goal and Motivation
 #### 1. ==Why== do you wanna learn English? Is it for work?
 - Because I think it's often mind-opening and inspiring to communicate with people from different countries and cultures.
@@ -21,7 +38,7 @@ status:
 #### 4. ==What== have you learned or gained through English? 
 #### 5. ==What== do you wanna share in English/ Chinese?
 - What can you share?
-- [[Main Topics in Life]]
+- [[My Goals in 2023]]
 #### 6. What's your ==goal== for your spoken English? 
 - How can we set a proper goal for spoken English?
 - What kind of goal can we set for spoken English?
@@ -51,7 +68,7 @@ status:
 ##### 3.4. Facial expression, body gesture and intonation
 ## Methods
 ### ==How== to connect with people in English?
-#### 1. **Find [[Main Topics in Life]]**
+#### 1. **Find Topics [[My Goals in 2023]]**
 #### 2. Use [[Conversation Techniques]]
 - Be confident: It's OK to be not perfect and make mistakes. 
 #### 3. Home Chat
@@ -101,3 +118,10 @@ status:
 - Writing
 #### 6. Sharing
 
+## Progress
+
+```dataview
+TABLE title, started, status
+WHERE contains(tags, "学习记录") AND contains(title,"English")
+SORT started ASC
+```

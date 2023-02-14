@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "703d740ce8eed7e7",
+        "id": "02490e0cb0636f0e",
         "type": "tabs",
-        "dimension": 15.13859275053305,
+        "dimension": 15.20428667113195,
         "children": [
           {
-            "id": "4f78a8d4dd7d043a",
+            "id": "479746ead75004e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习记录/2023-02-03.md",
+                "file": "学习记录/2023-02-14.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,17 +24,17 @@
         ]
       },
       {
-        "id": "4b8d1f2eea5b08ba",
+        "id": "2b3057bac6848583",
         "type": "tabs",
-        "dimension": 56.823027718550115,
+        "dimension": 13.395847287340926,
         "children": [
           {
-            "id": "5fff710bc1ec3800",
+            "id": "97d8642549927277",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Main Topics in Life.md",
+                "file": "Dashboard/My Goals in 2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,12 +44,12 @@
         ]
       },
       {
-        "id": "2417e0284156992a",
+        "id": "0218ca2765727099",
         "type": "tabs",
-        "dimension": 10.660980810234541,
+        "dimension": 31.279303415941058,
         "children": [
           {
-            "id": "8ba2504458e2b8fa",
+            "id": "80bc990356f17510",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -64,17 +64,17 @@
         ]
       },
       {
-        "id": "63dc78b59ee1a072",
+        "id": "6a6ae812d55a3000",
         "type": "tabs",
-        "dimension": 17.3773987206823,
+        "dimension": 40.12056262558607,
         "children": [
           {
-            "id": "c30bcdd1dd6e0550",
+            "id": "9f0b7925f03c690f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-End Engineering.md",
+                "file": "Managing State.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,8 +100,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#阶段反思",
-                "matchingCase": false,
+                "query": "",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Main Topics in Life.md",
+                "file": "Managing State.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -183,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Topics in Life.md",
+                "file": "Managing State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Topics in Life.md",
+                "file": "Managing State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Main Topics in Life.md"
+                "file": "Managing State.md"
               }
             }
           },
@@ -272,19 +272,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 242.5
   },
-  "active": "5fff710bc1ec3800",
+  "active": "9f0b7925f03c690f",
   "lastOpenFiles": [
-    "Front-End Engineering.md",
-    "Main Topics in Life.md",
-    "学习记录/2023-02-03.md",
     "技术笔记/React/React.md",
-    "学习记录/2023-02-02.md",
-    "Time, Plans and Goals.md",
-    "Learning or Life Efficiency.md",
-    "How I Stay Focused and Improving Learning Efficiency.md",
-    "How I Stop Worrying and Start Living.md",
-    "Have a baby with Victor.md"
+    "Dashboard/My Goals in 2023.md",
+    "学习记录/2023-02-14.md",
+    "学习记录/2023-02-13.md",
+    "技术笔记/JS/Algorithms and Data Structure.md",
+    "学习记录/2023-02-10.md",
+    "Love and Fun.md",
+    "学习记录/2023-02-11.md",
+    "学习记录/2023-02-09.md",
+    "技术笔记/JS/Array.md"
   ]
 }

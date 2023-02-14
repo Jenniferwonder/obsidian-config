@@ -1,6 +1,6 @@
 ---
 title: Value and Variables
-tags: JS   
+tags: Front-End/JS   
 started: 2022-12-02 Fri
 due: 
 modified: 2022-12-15 Thu

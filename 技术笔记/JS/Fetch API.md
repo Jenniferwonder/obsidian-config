@@ -1,6 +1,6 @@
 ---
 title: Fetch API
-tags: JS   
+tags: Front-End/JS   
 started: 2022-12-05 Mon
 due: 
 modified: 2022-12-05 Mon

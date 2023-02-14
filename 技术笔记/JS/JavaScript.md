@@ -1,6 +1,6 @@
 ---
 title: JavaScript
-tags: JS
+tags: Front-End/JS
 started: 2022-11-29 Tue
 due: 2022-12-02
 modified: 2022-12-14 Wed

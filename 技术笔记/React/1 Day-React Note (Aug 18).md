@@ -2,12 +2,12 @@
 title: 1 Day-React Note (Aug 18)
 tags: 
 status: 
-started: 
+started: 2022-08-18 
 due: 
 aliases: 
 ---
-#### Time: Aug 18
-#### Learning Roadmap:
+#### 1. Time: Aug 18
+#### 2. Learning Roadmap:
 1. What and why?
    - To create and reuse independent components
 2. Download:
@@ -331,7 +331,7 @@ h1 {
       - Mounting
       - Updating
       - Unmounting 
-#### Resources:
+#### 3. Resources:
 - Github portfolio template: [https://github.com/cobiwave/simplefolio](https://github.com/cobiwave/simplefolio)
 - Libraries: npm install tachyon 
 - VS Code React Extension Pack 

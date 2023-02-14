@@ -1,6 +1,6 @@
 ---
 title: Obsidian-插件功能
-tags: 工具方法/Obsidian
+tags: Tools/Obsidian
 status: Doing
 started: 2022-11-24
 due: 2022-11-24

@@ -1,15 +1,15 @@
 ---
-title: Have a baby with Victor
-tags: Love  
+title: Baby Prep
+tags: Reflections/Life  
 started: 2023-02-02 Thu
 due: 
-modified: 2023-02-02 Thu
+modified: 2023-02-03 Fri
 status: 
 ---
 ## Reflection
-We've taken a series of test to find out why I am still not prenant.
-The lastest appointment is on Feb 6 next monday when I'm going to take a surgery to find out whether my fallopian tubes are blocked or not. 
-Before taking that treatment, I have to wash and apply medicine to my virgina for five days day and night to cure and prevent possible infections.
+We've taken a series of test to find out why I am still not prenant.  
+The lastest appointment is on Feb 6 next monday when I'm going to take a surgery to find out whether my fallopian tubes are blocked or not.  
+Before taking that treatment, I have to wash and apply medicine to my virgina for five days day and night to cure and prevent possible infections.  
 The total cost of this fallopian tubes testing is nearly 1700, which does not include the previous testing ...
 ## How to have a healthy and smart baby?
 - Age

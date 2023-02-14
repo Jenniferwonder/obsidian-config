@@ -1,6 +1,6 @@
 ---
 title: Job, Work, Career
-tags: 英语学习    
+tags: Reflections/Career    
 started: 2023-01-16 Mon
 due: 
 modified: 2023-01-18 Wed
@@ -11,6 +11,11 @@ status:
 	- [[Front-End Engineering]]
 - What's the difference between working and being a student?
 - Why do you want to switch your career?
+- [[Front-End Engineering]]
+- [[English Learning]]
+- [[UI, UX Design]]
+- [[Video Editing]]
+- Photographing
 ## College Major
 - What's your major?/ What do you major in?
 	- I don't even want to admit that I major in English... I don't think I'm good enough in English.
