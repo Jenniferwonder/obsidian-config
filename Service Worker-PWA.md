@@ -12,10 +12,8 @@ status:
 -   [PWA Lavas 文档](https://link.juejin.cn?target=https%3A%2F%2Flavas.baidu.com%2Fpwa%2FREADME "https://lavas.baidu.com/pwa/README")
 -   [PWA 学习手册](https://link.juejin.cn?target=https%3A%2F%2Fpwa.alienzhou.com%2F "https://pwa.alienzhou.com/")
 -   [面试官：请你实现一个PWA](https://juejin.cn/post/6844904052166230030#heading-24 "https://juejin.cn/post/6844904052166230030#heading-24")
-
-  
-
-作者：axuebin  
-链接：https://juejin.cn/post/6844904116339261447  
-来源：稀土掘金  
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+## What is PWA
+[Progressive Web Apps in 100 Seconds // Build a PWA from Scratch - YouTube](https://www.youtube.com/watch?v=sFsRylCQblw)
+Progressive Web App
+## Web Features Into PWA
+[7 Web Features You Didn’t Know Existed - YouTube](https://www.youtube.com/watch?v=ppwagkhrZJs&list=RDCMUCsBjURrPoezykLs9EqgamOA&start_radio=1&rv=ppwagkhrZJs&t=29)

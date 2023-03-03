@@ -6,6 +6,9 @@ due:
 modified: 2022-12-16 Fri
 status: 
 ---
+[TypeScript Deep Dive-EN](https://basarat.gitbook.io/typescript/getting-started)
+[TypeScript Deep Dive-CN](https://jkchao.github.io/typescript-book-chinese/typings/generices.html#%E9%85%8D%E5%90%88-axios-%E4%BD%BF%E7%94%A8)
+[TypeScript: Documentation - TypeScript for the New Programmer](https://www.typescriptlang.org/docs/handbook/typescript-from-scratch.html)
 数据类型
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d44490ffdf064cf0bd17f5109b6c6844~tplv-k3u1fbpfcp-zoom-in-crop-mark:4536:0:0:0.awebp)
 

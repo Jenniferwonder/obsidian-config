@@ -6,6 +6,9 @@ due:
 modified: 2023-01-18 Wed
 status: 
 ---
+## Quotes
+- *Fair Lady*
+- *Dead Poets Society*
 ## Movies
 ### Topics
 - Do you like watching movies?
@@ -17,7 +20,6 @@ status:
 - How many scores will you give to that movie? Why? 
 - How can we improve [[My Goals in 2023]] by watching movies?
 ### Favorite Movies
-- *Fair Lady*
 ## Speech
 #### 1. Life Experience 
 - [[Steve Jobs Speech at Stanford]]

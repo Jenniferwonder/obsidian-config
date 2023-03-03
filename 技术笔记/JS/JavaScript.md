@@ -26,6 +26,7 @@ number headings: auto, first-level 4, max 6, 1._.1.1.
 - JS Algorithm and Data Structure
 - ZTM-JS Algorithm and Data Structure
 ### Tools/ Resources
+- [JavaScript on Exercism](https://exercism.org/tracks/javascript)
 - [PlayCode](https://playcode.io/) | Javascript playground.  
 - [kangax-js-compat-table](https://kangax.github.io/compat-table/es6/) | Check JavaScript versions (ES5, ES6, ES2016+ etc.) compatibility across different compilers, servers/runtimes and platforms (Desktop and Mobile).|
 ## 学习前提
@@ -36,6 +37,7 @@ number headings: auto, first-level 4, max 6, 1._.1.1.
 >[[JS Projects]] 
 ## 核心知识
 ### JS OVERVIEW
+>[Exploring ES6](https://exploringjs.com/es6/index.html#toc_ch_symbols)
 >[JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)  
 >[JavaScript technologies overview - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/JavaScript_technologies_overview)  
 >[Beginner JavaScript Notes - Wes Bos](https://wesbos.com/javascript)
@@ -64,7 +66,8 @@ number headings: auto, first-level 4, max 6, 1._.1.1.
 #### 6. [[Math]]
 #### 7. [[Function]]
 #### 8. [[Sets and Maps]]
-#### 9. [[Error]] ❓(try...catch)
+#### 9. [[Symbol]]
+#### 10. [[Error]] ❓(try...catch)
 ### Prototype & Class
 #### 1. [[OOP]]
 #### 2. [[Prototype Chain]]
@@ -118,4 +121,4 @@ number headings: auto, first-level 4, max 6, 1._.1.1.
 #### 3. 渲染模式？
 - SSR：数据预加载
 - ISR：动态渲染
-#### 4. 缓存与状态：session, cookie?
+#### 4. 缓存与状态：Session, [[Cookies]]?

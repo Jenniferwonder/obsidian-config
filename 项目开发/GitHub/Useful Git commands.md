@@ -6,6 +6,10 @@ due:
 modified: 2023-02-07 Tue
 status: 
 ---
+### Download
+#### 1. Download Git/ WSL for Windows
+- [Git for Windows](https://gitforwindows.org/)
+- [Install WSL | Microsoft Learn](https://docs.microsoft.com/en-us/windows/wsl/install-win10)
 ### Config
 #### 1. Install> git initial configuration
 - `git config --global user.name "Jennifer"`
@@ -28,8 +32,8 @@ status:
 - `git checkout <new branch name>`
 #### 6. Add, Commit and Push change to remote repository
 - `git commit -am "<message>"`
-   - `git add <filename>`/ `git add . `/`git add -A` (to add all files)
-   - `git commit -m"<message>" `
+- `git add <filename>`/ `git add . `/`git add -A` (to add all files)
+- `git commit -m"<message>" `
 - `git push`
 #### 7. Untrack file
 - `git rm -r --cached <filename>`
@@ -45,10 +49,10 @@ status:
 - `git reset --hard origin/master` (the version currently on Github)
 - `git reset --hard HEAD` (restore to the previous commit)
 ### Work with Remote Repository
-#### 1. PULL before PUSH
-#### 2. Connect local repository to remote Github repository
+#### 1. Connect local repository to remote Github repository
 - Create a new repository on Github:  
 - `git remote add origin https://github.com/Jenniferwonder/Forkify-Project.git`
+#### 2. <mark style="background: #FFF3A3A6;">PULL before PUSH</mark>!!!
 #### 3. Push the master branch to the remote repository :
 - `git branch -M main `
 - `git push -u origin main`
@@ -73,12 +77,15 @@ Reference:
 - git clone  
 #### 3. Keep fork in sync before UPDATE change to the remote repository
 - Before you make any changes, [keep your fork in sync](https://www.freecodecamp.org/news/how-to-sync-your-fork-with-the-original-git-repository/) to avoid merge conflicts:  
-`git remote add upstream https://github.com/zero-to-mastery/start-here-guidelines.git `  
-`git pull upstream master`
+- `git remote add upstream https://github.com/zero-to-mastery/start-here-guidelines.git `  
+- `git pull upstream master`
 #### 4. Update change from remote to local repository
 - `git pull <repository http>`
 #### 5. List all your remote 
 - `git remote -v`
+#### 6. Pull Error -unrelated history
+- `git pull origin branchname --allow-unrelated-histories`
+- ![[Pasted image 20230216170600.png]]
 ### GIT GUI
 gitk (使用这个工具，可以在 GUI 下确认提交记录。)  
 PAT Ubuntu 不能执行 **git clone 或 git pull** 操作，退出用 windows cmd 执行，执行前：  

@@ -24,11 +24,11 @@ What hinders my way of speaking?
 - I think too much while speaking
 - I'm not confident enough about my speaking 
 - I'm not sure about what I'm trying to say
-- There's lack of word fluency and choices in my speaking, but I just need to accept that imperfection when I'm already speaking.
-- There's lack of practice in terms of deep and logical thinking which has nothing to do with which language we use
+- There's lack of **word fluency and choices** in my speaking, but I just need to accept that imperfection when I'm already speaking.
+- There's lack of practice in terms of **deep and logical thinking** which has nothing to do with which language we use
 How should I overcome the problems I have in speaking?
 - Accept imperfections and mistakes
-- Focus on the content we trully want to deliver
+- Focus on the **content** we trully want to deliver
 - Don't invest time and energy in figuring out the perfect approprite words or expressions
 When and how can we improve the accurary and efficiency of our speaking?
 - Reflect on the videos we have recorded

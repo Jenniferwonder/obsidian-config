@@ -21,6 +21,7 @@ status:
 - Advanced CSS
 ### Tools
 [Can I Use](https://caniuse.com/) | Check cross-browser compatibility of frontend technologies. |
+[Keyframes.app](https://keyframes.app/) For animation(key-frame, color, character and shadows)
 ### CSS Methodologies
 >CSS methodologies to help write modular, reusable and scalable code
 
@@ -39,7 +40,7 @@ status:
 ## ⭐[[CSS 样式库]]
 #### 1. [[BootStrap]]
 >[Bootstrap CheatSheet](https://bootstrap-cheatsheet.themeselection.com/) | An interactive list of Bootstrap classes, variables, and mixins. The only Bootstrap CheatSheet you will ever need. |
-#### 2. [[TailwindCSS]]
+#### 2. [[Tailwind CSS]]
 ## ⭐[[样式灵感与模板]]
 
 ## [[UI Componenets-通用样式与组件]]
@@ -83,7 +84,7 @@ status:
 - position: fixed
 ## [[Font-字体]]
 ## [[Color-颜色与背景]]
-## [[Images-图片与背景]]
+## [[Photo Editing]]
 ## [[UI Graphics]]
 ## [[Video Resources-视频资源]]
 ## [[Music-音乐音效]]

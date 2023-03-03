@@ -15,7 +15,7 @@
     "enabled": false
   },
   "monthly": {
-    "format": "",
+    "format": "YYYY-MM",
     "template": "",
     "folder": "Milestones",
     "enabled": true

@@ -8,7 +8,7 @@ status:
 number headings: auto, first-level 4, max 6, 1._.1.1.
 ---
 >[JavaScript data types and data structures - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
-## Primitive Data Type
+## Primitive Data Type 基本数据类型/原始数据类型
 >Copied by the value  
 >Changing the copied value will not change the original variable value
 #### 1. [[Number]]  
@@ -29,12 +29,12 @@ NaN
 #### 6. NaN  
 - not a number  
 #### 7. Infinity: 23 / 0  
-#### 8. Symbol(ES2015)  
+#### 8. [[Symbol]](ES2015)  
 #### 9. BigInt(ES2020)  
 - The biggest number: `2 ** 53 - 1`  
 - Numbers are represented as 64 bits  
 - Only 53 bits are used in JS to store the digits; the rest are used to store decimals  
-## Reference Type
+## Reference Type 引用数据类型
 > Copied by their reference  
 > will not independently copy the value, but only refer to the original  
 > Changing the value will change the original 

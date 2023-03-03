@@ -10,7 +10,7 @@ number headings: auto, first-level 4, max 6, 1._.1.1.
 >[Useful string methods - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods)
 >
 ## String Format
-- Template literals `I'm ${firstName}`  
+- Template literals (模板字面量/字符串) `I'm ${firstName}`  
 - Multiple lines  
 	- `\n\`  
 	- `hit enter  

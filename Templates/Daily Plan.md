@@ -10,14 +10,14 @@ status: Doing
 ## What's my goal today?
 #### 1. [[Front-End Engineering]]
 - **[[React]]** 技术总结、应用与提升
-- [[React Projects]] 总结
+- [[React, Next.js Projects]] 总结
 #### 2. [[My Goals in 2023]]
 
 ## What're my biggest achievements?
 ### ✍️New Notes
 ```dataview
 TABLE title, started, status
-WHERE file.cday = date(2023-01-17)
+WHERE file.cday = date(2023-03-03)
 SORT file.mday DESC
 ```
 
@@ -25,16 +25,9 @@ SORT file.mday DESC
 
 ```dataview
 TABLE title, started, status
-WHERE file.mday = date(2023-01-17) AND file.cday != date(2023-01-17) AND contains(modified, "2023-01-17")
+WHERE file.mday = date(2023-03-03) AND file.cday != date(2023-03-03) AND contains(modified, "2023-03-03")
 SORT file.mday ASC
 ```
-### 🌍English-Time
-```dataview
-TABLE title, started, status
-WHERE tags = "英语学习" and contains(started, "2023-01-30") or tags = "英语学习" and contains(modified,"2023-01-30") 
-SORT started ASC
-```
-### 🗺️Graph View of Today
 
 ## Where can I improve?
 - [ ] 

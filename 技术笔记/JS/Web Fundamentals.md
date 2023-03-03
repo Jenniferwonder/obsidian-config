@@ -6,6 +6,7 @@ due:
 modified: 2022-12-02 Fri
 status: 
 ---
+[100+ Web Development Things you Should Know - YouTube](https://www.youtube.com/watch?v=erEgovG9WBs&list=PL0vfts4VzfNjQOM9VClyL5R0LeuTxlAR3&index=13)
 ## 网络
 
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/eb26dc993bc548d790a76e0ccefdb673~tplv-k3u1fbpfcp-zoom-in-crop-mark:4536:0:0:0.awebp)
@@ -80,6 +81,8 @@ status:
 -   [可信前端之路：代码保护](https://link.juejin.cn?target=https%3A%2F%2Fwww.freebuf.com%2Farticles%2Fweb%2F102269.html "https://www.freebuf.com/articles/web/102269.html")
 -   [前端如何给 JavaScript 加密（不是混淆）？](https://link.juejin.cn?target=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F47047191 "https://www.zhihu.com/question/47047191")
 -   [常见 Web 安全攻防总结](https://link.juejin.cn?target=https%3A%2F%2Fzoumiaojiang.com%2Farticle%2Fcommon-web-security%2F "https://zoumiaojiang.com/article/common-web-security/")
-
+## Analytic Tools
+- [[Cookies]]
+- Session
   
 
