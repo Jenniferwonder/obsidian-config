@@ -22,50 +22,32 @@ Frontend: – ReactJS – NextJS – Tailwind CSS
 Backend: – Hasura – **GraphQL** – Express – Node.js  
 Database: – PostgreSQL  
 Mobile: – React Native, Flutter
-### Front-End Basics 
+## Fundamentals
+#### 1. [[Web Fundamentals]]
+#### 2. [[Algorithms and Data Structure]]
+#### 3. [[Front-End Interviews]]
+## Front-End Basics 
 #### 1. [[HTML]]
 #### 2. [[CSS]] & [[Tailwind CSS]]
 #### 3. [[JavaScript]]
-### Frameworks > Data Request  
+## Front-End Frameworks > Data Request  
 #### 1. [[React]] & [[Next.js]]
 #### 2. Vue3 & Nuxt
 #### 3. Svelte & SvelteKit
 #### 4. Remix
 #### 5. Solid.js
 #### 6. Gatsby
-### Server and [[Database]]
-#### 1. [[Node&Express]]
-#### 2. [[MongoDB, Mongoose]]
-#### 3. Serverless Platform > Firebase
-#### 4. CMS
-- WordPress
-- [[Sanity]]
-#### 5. GraphQL or Groq?
-- [Sanity, GROQ, and GraphQL - Espen Hovlandsdal @ An Evening of Sanity, 19.06.2018 - YouTube](https://www.youtube.com/watch?v=Jcfubj2zRI0)
-- [[GraphQL]]
-#### 6. PostgreSQL
-#### 7. Docker
-#### 8. Apollo
-#### 9. [[API Resources]]
-#### 10. Authentication and Analytics
-### [[How to Deploy]]
-### Workflow
+## Workflow
 #### 1. [[Useful Git commands]]
 #### 2. [[Testing]]
-- Jest
-- [[Performance Optimization]]
-- SEO
-#### 3. [[Compilers and Bundlers]]
-- [[Vite]]
-- [[Parcel and Webpack Bug Fix]]
-### Fundamentals and Interviews
-#### 1. [[Web Fundamentals]]
-- HTTP
-- DNS
-- APIs
-#### 2. [[Algorithms and Data Structure]]
-#### 3. [[Front-End Interviews]]
-### Cross-Platform
+#### 3. [[Performance Optimization]]
+#### 4. [[Compilers and Bundlers]]
+#### 5. [[Deploying]]
+## [[Server-Side Frameworks]] > Data Response
+#### 1. [[Database and Query Languages]] 
+#### 2. Authentication
+#### 3. [[User Analytics]]
+## Cross-Platform
 #### 1. Mini-program 
 - uni-app
 #### 2. Mobile App
@@ -74,7 +56,7 @@ Mobile: – React Native, Flutter
 #### 3. Desktop 
 - Electron
 #### 4. [[Service Worker-PWA]] - Progressive Web App
-### <mark style="background: #BBFABBA6;">Visualization</mark>
+## <mark style="background: #BBFABBA6;">Visualization</mark>
 #### 1. Three.js/ WebGL/ D3
 #### 2. Canvas
 #### 3. [[DashBoard]]

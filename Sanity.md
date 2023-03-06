@@ -29,3 +29,10 @@ Config `.env.local` when using Sanity-v3 with Vite?
 - in `sanity.config.ts`, add value `import.meta.env.SANITY_STUDIO_PROJECT_ID`
 	- See reference [Environment Variables](https://www.sanity.io/docs/environment-variables)
 - Bug fix: [Property 'env' does not exist on type 'ImportMeta' in 3.0.0 · Issue #9539 · vitejs/vite · GitHub](https://github.com/vitejs/vite/issues/9539)
+- [x] How to hide token/secrets in [[Sanity]] - Prevent environment variables bugs?
+## Schema and Groq
+- [x] How to create and design **Schemas** in Sanity?
+- [x] How to CRUD Sanity data through Front-end operations?
+	- [[Fetch API]]
+	- [[Axios]]
+	- Use `groq`

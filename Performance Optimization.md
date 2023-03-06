@@ -6,11 +6,21 @@ due:
 modified: 2023-03-01 Wed
 status: 
 ---
-## 5. 性能优化
+## 性能优化
+Source: [企业级实战思路 - 什么是亮点 | 大圣前端进阶指南](https://shengxinjing.cn/react/arch/01.arch.html)
+1. 性能指标
+2. 更快的加载和执行
+3. 交互反馈
+4. 骨架屏 ...
+5. 用大文件上传来举例
+6. 懒加载 & 执行
+7. 分批执行
+8. 不断地思考如何优化（面试官喜欢的场景）
+9. [[SEO]]
 
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/58082bb8d51e463291a98012efd26c55~tplv-k3u1fbpfcp-zoom-in-crop-mark:4536:0:0:0.awebp)
 
-### 5.1 打包阶段
+### 打包阶段
 
 - [Webpack优化——将你的构建效率提速翻倍](https://juejin.cn/post/6844903924806189070 "https://juejin.cn/post/6844903924806189070")
 - [性能优化篇---Webpack构建速度优化](https://link.juejin.cn?target=https%3A%2F%2Fsegmentfault.com%2Fa%2F1190000018493260 "https://segmentfault.com/a/1190000018493260")
@@ -35,7 +45,7 @@ status:
 - [Front-End Performance Checklist 2020](https://link.juejin.cn?target=https%3A%2F%2Fwww.smashingmagazine.com%2F2020%2F01%2Ffront-end-performance-checklist-2020-pdf-pages%2F%23top "https://www.smashingmagazine.com/2020/01/front-end-performance-checklist-2020-pdf-pages/#top")
 - [（译）2019年前端性能优化清单 — 上篇](https://juejin.cn/post/6844903765682683911 "https://juejin.cn/post/6844903765682683911")
 
-### 5.2 其它优化
+### 其它优化
 
 - [网站性能优化实战——从12.67s到1.06s的故事](https://juejin.cn/post/6844903655330562062 "https://juejin.cn/post/6844903655330562062")
 - [浏览器页面资源加载过程与优化](https://juejin.cn/post/6844903545016156174 "https://juejin.cn/post/6844903545016156174")
@@ -50,3 +60,10 @@ status:
 - [Front-End Performance Checklist](https://link.juejin.cn?target=https%3A%2F%2Fgithub.com%2Fthedaviddias%2FFront-End-Performance-Checklist "https://github.com/thedaviddias/Front-End-Performance-Checklist")
 - [图片与视频懒加载的详细指南](https://link.juejin.cn?target=https%3A%2F%2Fdevelopers.google.com%2Fweb%2Ffundamentals%2Fperformance%2Flazy-loading-guidance%2Fimages-and-video%2F "https://developers.google.com/web/fundamentals/performance/lazy-loading-guidance/images-and-video/")
 - [使用 Intersection Observer 来懒加载图片](https://link.juejin.cn?target=http%3A%2F%2Fdeanhume.com%2Flazy-loading-images-using-intersection-observer%2F "http://deanhume.com/lazy-loading-images-using-intersection-observer/")
+### 4.6 前端监控
+
+- [5 分钟撸一个前端性能监控工具](https://juejin.cn/post/6844903662020460552 "https://juejin.cn/post/6844903662020460552")
+- [把前端监控做到极致](https://link.juejin.cn?target=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F32262716 "https://zhuanlan.zhihu.com/p/32262716")
+- [GMTC 大前端时代前端监控的最佳实践](https://juejin.cn/post/6844903629573324807 "https://juejin.cn/post/6844903629573324807")
+- [前端监控和前端埋点方案设计](https://juejin.cn/post/6844903650603565063 "https://juejin.cn/post/6844903650603565063")
+- [腾讯CDC团队：前端异常监控解决方案](https://link.juejin.cn?target=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FW0i-Iu6nqkWttsGZ-RmOqw "https://mp.weixin.qq.com/s/W0i-Iu6nqkWttsGZ-RmOqw")

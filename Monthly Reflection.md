@@ -15,7 +15,7 @@ status:
 - Improve [[Video Editing]] and [[Photo Editing]] skills
 - Upload a video to Bilibili [[Learn Front-End Technology in English]]
 #### 2. How to Be Job Ready ASAP?
-
+- [[Learning Efficiency]]
 ## Reflection, Jan
 #### 1. Biggest Achievements
 - Build up [[My Goals in 2023]]

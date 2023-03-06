@@ -1,11 +1,21 @@
 ---
-title: 如何生成文件目录到Markdown文档
+title: Markdown Tools
 tags: Tools/Markdown
 status: 
 started: 2022-11-22 Tue
-modified: 2023-02-07 Tue
+modified: 2023-03-06 Mon
 due: 
 ---
+## Markdown 微信公众号编辑器 - mdnice
+#### 1. How to Download and Run?
+- 破解版下载：[Markdown Nice破解版下载-Markdown Nice编辑器v0.1.2免激活版-沃下载](http://www.wodown.com/soft/30111.html)
+	- 先打开运行 hook
+	- 再运行 mdnice
+#### 2. How to use Style/ Template?
+- 官网：[墨滴 | 看颜值的文章社区](https://mdnice.com/)
+	- 订阅主题，运行软件
+
+## 如何生成文件目录到 Markdown 文档
 #### 1. 命令行输入：
 - 打开对应文件夹终端
 - 在终端输入 `tree > text.md`，即可在新的.md 文档中生成文件目录

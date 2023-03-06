@@ -1,23 +1,14 @@
 ---
-title: Learning Efficieny
+title: Learning Efficiency
 tags: Blog    
 started: 2023-03-03 Fri
 due: 
-modified: 2023-03-03 Fri
+modified: 2023-03-06 Mon
 status: 
 ---
-## Source
-Title: How to Boost Learning Efficiency: 9 Tips You Should Know  
-Publish on: 
-- [How to Boost Learning Efficiency: 9 Tips You Should Know - DEV Community](https://dev.to/jenniferwonder/how-to-boost-learning-efficiency-9-tips-you-should-know-368i)  
-Related Topics: 
-- [What Non-Technical Skills Do You Need for a Successful Career in Tech? - DEV Community](https://dev.to/codenewbieteam/what-non-technical-skills-do-you-need-for-a-successful-career-in-tech-59md)
-- [What's the biggest mistake you've ever made while coding? - DEV Community](https://dev.to/michaeltharrington/whats-the-biggest-mistake-youve-ever-made-while-coding-12n2)
-- [Why You Need To Code Every Day When You’re Learning To Program | by Clive Thompson | Mar, 2023 | Better Programming](https://medium.com/better-programming/why-you-need-to-code-every-day-when-youre-learning-to-pro-a4d022e70459)
-## Content
-### Intro
+### How to Boost Learning Efficiency?
 When we start off learning programming or any new technologies, a common mistake we'll make is that we try to learn it fast. We may speed up the video course we're watching or reading a tutorial as fast as we can. But the **hard truth** is we'll end up forgetting faster. How can we avoid learning fast and forgetting faster?  
-In this artical, I've summarized 9 techniques to boost our learning efficiency.
+Here are some techniques that can help boost our learning efficiency.
 #### 1. Understand your GOAL and TIME
 - Long-Term Goal > Be Optimistic
 	- What you want to achieve ideally in the long run
@@ -39,10 +30,9 @@ In this artical, I've summarized 9 techniques to boost our learning efficiency.
 	- What value you want to/can bring
 	- How many people can benefit from? 
 	- How to bring that value to them efficiently and consistently
-#### 3. Divide your problem into smaller pieces by asking questions
-Each problem/task must be concret and crucial and be **divided** into small pieces that are independent from one another, so that you can solve them individually in a reasonably short amount of time.  
-It's a crucial step to solving bigger and complex problem!  
-For example, to build projects as efficiently as possible, you can list the questions or tasks you need to solve. Ask yourself:
+#### 3. Divide your problem into smaller pieces
+Each problem/task must be concret and crucial and be **divided** into small pieces that are independent from one another, so that you can solve them individually in a reasonably short amount of time.  It's a crucial step to solving bigger and complex problem!  
+To build projects as efficiently as possible, you can list the questions or tasks you need to solve. Ask yourself:
 - **What projects** do I want/need to build?
 - How to build them **fast**? > Be Resourceful
 - What **skills or tools** do I use to <u>build, test and deploy</u> them?
@@ -52,7 +42,7 @@ For example, to build projects as efficiently as possible, you can list the ques
 	- What aspects do I **improve**?
 	- What problems/bugs do I **fix**?
 	- What features do I **add**?
-#### 4. Be Resourceful to Save Time
+#### 4. Be Resourceful
 - Don't start from scratch. 
 	- Use **tools**/ **existing resources** to solve problems smartly
 	- Stand on the shoulder of Giants
@@ -60,11 +50,11 @@ For example, to build projects as efficiently as possible, you can list the ques
 	- You don't need to be the smartest one.
 - Avoid reinventing the wheel
 	- If you don't like something, improve it or provide your better solutions. 
-#### 5. Set a Deadline for Each Task but Don't Rush
+#### 5. Set a Deadline but don't rush
 You need to know when you are ready enough to move to the next step. There must be **No RUSH**!  
 Make sure you have a note of the **problem**, your **thinking**, your **questions**, the efforts you've made, the resources and **solutions** you find, the result you get, other **options**, potential **risks and possible improvements**. It's for future reference and self-improvement, and also an utmost step to prevent learning and forgetting.  
 Have a **deadline** in mind. Accept the fact that what you've done is not perfect. It's OK to leave room for future improvements. Just make sure you have at least a skeleton or something coming out first.
-#### 6. Share for futher improvements
+#### 6. Share as much as you can
 Once we solve a problem, it's important to **consolidate** our knowledge and experience into something we can share, and share in a way that's easy to **spread, understand and consume**.  
 Because only by sharing, our thinking or solutions can **benefit** or **be improved** by more people, and finnally become a **collective wisdom** to make the world a better place, and we ourselves will benefit from it to a greater extent. As a side bonus, it'll help build up reputation for our career portfolio.  
 The ultimate goal of learning is to **Contribute more than we consume**. That means we have to make something more valuable with the **existing technology or resources** we benefit from, which is never easy but at least we can create as much value as we can.  
@@ -73,7 +63,7 @@ There are many ways of sharing:
 - Answering Qs
 - Showing **support** to others' posts by sharing, liking or commenting  
 But **don't get too invloved** in sharing alone. **Solve actual problem** first! 
-#### 7. Practice with a Purpose
+#### 7. Practice with a purpose
 Practice makes perfect, but we can't afford to practice as much as we can. It's important to know the **purpose and the expected outcome** of each practice we want to start before we jumping into it.  
 Know your **goal** first and learn the necessary knowledge or skills to help you achieve the goal. There are many ways of practice, but without a goal in mind you'll simply waste your time:
 - Brainlessly <u>coding along</u> is stupid.
@@ -99,4 +89,12 @@ Hope to learn from you and share more tips and lessons with you in this journey.
 
 ---
 _I'm [Jenniferwonder](https://github.com/Jenniferwonder), a self-taught front-end engineer from China, currently learning React and Next.js and this is my first blog on DEV Community. If you have any suggestions, please leave a comment below. If you benefit from this article, please feel free to share it with other people. I will very appreciate it._
+## Source
+Title: How to Boost Learning Efficiency: 9 Tips You Should Know  
+Publish on: 
+- [How to Boost Learning Efficiency: 9 Tips You Should Know - DEV Community](https://dev.to/jenniferwonder/how-to-boost-learning-efficiency-9-tips-you-should-know-368i)  
+Related Topics: 
+- [What Non-Technical Skills Do You Need for a Successful Career in Tech? - DEV Community](https://dev.to/codenewbieteam/what-non-technical-skills-do-you-need-for-a-successful-career-in-tech-59md)
+- [What's the biggest mistake you've ever made while coding? - DEV Community](https://dev.to/michaeltharrington/whats-the-biggest-mistake-youve-ever-made-while-coding-12n2)
+- [Why You Need To Code Every Day When You’re Learning To Program | by Clive Thompson | Mar, 2023 | Better Programming](https://medium.com/better-programming/why-you-need-to-code-every-day-when-youre-learning-to-pro-a4d022e70459)
 

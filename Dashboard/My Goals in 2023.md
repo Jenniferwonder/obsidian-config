@@ -70,11 +70,10 @@ status:
 ## How to Be Job Ready ASAP?
 I know clearly, I'm not ready yet. Why? And **WHEN** can I be ready? > You don't have infinite amount of time!
 #### 1. **What do <mark style="background: #BBFABBA6;">I need to make/ create/ contribute</mark>**? 
-#### 2. **What can I make/ create/ contribute**? 
-#### 3. **What ==have I made/ created/ contributed==**? 
+#### 2. **What ==have I made/ created/ contributed==**? 
 - **Projects** with core tech-stack
 - **Community Impact - Blogs**
-#### 4. **What have I learned or need to learn?**
+#### 3. **What have I learned or need to learn?**
 - **CS50** > Notion
 	- C, Algorithm and Data Structure, Python, SQL
 	- GitHub Codespace
@@ -89,24 +88,38 @@ I know clearly, I'm not ready yet. Why? And **WHEN** can I be ready? > You don't
 	- Node.js, Express
 	- MongoDB, Mongoose
 ## Projects
-#### 1. PS & Figma
-#### 2. Mobile App
-#### 3. Mini-Program
-#### 4. Vue Projects
-#### 5. Node, Express, MongoDB, Mongoose
-#### 6. [[React, Next.js Projects]]
+#### 1. [[React, Next.js Projects]]
 - [[Portfolio-个人主页]] with [[React]], [[Next.js]] and [[Sanity]]
 	- [x] Build
 	- [ ] Deploy
 	- [ ] Improve
-##### 6.1. Timeline
+- [[Deploying]] 
+- [[UI Componenets-通用样式与组件]]
+	- How to use React Component, Hooks?
+- [[CSS]] 
+	- Best practices? 
+- [[Database and Query Languages]]
+- [[Server-Side Frameworks]] Choices?
+- HTTP/ TCP/ IP
+- Authentication
+- Testing - Unit Testing
+	- Jest
+	- Storybook
+- Performance optimization
+- CI, CD
+##### 1.1. Timeline
 - [[2023-02-21]] Build up the initial [[Next.js]] front-end and [[Sanity]] backend for [[Portfolio-个人主页]]
 - [[2023-02-16]] Start building my [[Portfolio-个人主页]] website with [[React]] and initiate a git repository for the project
 - [[2023-01-31]] Start Learning [[React]] Systematically from official tutorial 
-#### 7. [[Algorithms and Data Structure]]
+#### 2. [[Algorithms and Data Structure]]
 - Started on [[2023-02-13]]
-##### 7.1. Timeline
+##### 2.1. Timeline
 - [[2023-02-13]] Start solving [[Algorithms and Data Structure]] problems on Leetcode 
+#### 3. Vue Projects
+#### 4. Mobile App
+#### 5. Mini-Program
+#### 6. PS & Figma
+#### 7. Node, Express, MongoDB, Mongoose
 ### Reflections
 - My Journey of Learning React> 2023-02-10 Video
 	- When and How did I start?
@@ -115,11 +128,19 @@ I know clearly, I'm not ready yet. Why? And **WHEN** can I be ready? > You don't
 	- Bottom-up and Top-down approach, which one should you use? 
 	- How to prevent learning by books and then forgetting? 背字典式学习？（用的时候要知道有什么，在哪查，具体步骤和细节越用越熟，不用必忘，为什么要花时间纠结细节与难点！？）
 ## [[Blogs and Social Platforms]] 
+### Why & For Whom?
+- Chinese Programmers
+- Chinese Non-Programmers
+- English Programmers
 ### How-to
 - [[Video Editing]]
 - [[Photo Editing]]
+- 10 Blogs
+- 5 Videos
 ### Timeline
-- [[2023-02-24]] Upload a video on Bilibili [[Learn Front-End Technology in English]]
+- [[2023-03-06]] Download **Wechat Public Account** Markdown Editor- Mdnice [[Markdown Tools]]
+- [[2023-03-03]] Publish an **English Blog** [[Learning Efficiency]] on Dev.to
+- [[2023-02-24]] Upload a **English Long Video** on Bilibili [[Learn Front-End Technology in English]]
 - [[2023-02-16]] Start thinking about PR Editflow and learn how to crop a video and adjust the speed of a video
 ### Reflections
 

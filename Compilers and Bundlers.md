@@ -6,6 +6,9 @@ due:
 modified: 2023-03-01 Wed
 status: 
 ---
+- [[Vite]]
+- [[Parcel and Webpack Bug Fix]]
+
 ![](https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/df3cf7bce9c4475db94aa28556e73886~tplv-k3u1fbpfcp-zoom-in-crop-mark:4536:0:0:0.awebp)
 
 ### 4.1 Webpack
@@ -46,10 +49,6 @@ status:
 - [JavaScript template engine in just 20 lines](https://link.juejin.cn?target=https%3A%2F%2Fkrasimirtsonev.com%2Fblog%2Farticle%2FJavascript-template-engine-in-just-20-line "https://krasimirtsonev.com/blog/article/Javascript-template-engine-in-just-20-line")
 - [Understanding JavaScript Micro-Templating](https://link.juejin.cn?target=https%3A%2F%2Fmedium.com%2Fwdstack%2Funderstanding-javascript-micro-templating-f37a37b3b40e "https://medium.com/wdstack/understanding-javascript-micro-templating-f37a37b3b40e")
 
-### 4.4 前端发布
-
-- [大公司里怎样开发和部署前端代码？](https://link.juejin.cn?target=https%3A%2F%2Fwww.zhihu.com%2Fquestion%2F20790576 "https://www.zhihu.com/question/20790576")
-- [前端高级进阶：前端部署的发展历程](https://juejin.cn/post/6844904086823780366 "https://juejin.cn/post/6844904086823780366")
 
 ### 4.5 weex
 
@@ -60,12 +59,6 @@ status:
 - [JSBridge 介绍及实现原理](https://link.juejin.cn?target=http%3A%2F%2Fcoolnuanfeng.github.io%2Fjsbridge "http://coolnuanfeng.github.io/jsbridge")
 - [移动混合开发中的 JSBridge](https://link.juejin.cn?target=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FI812Cr1_tLGrvIRb9jsg-A "https://mp.weixin.qq.com/s/I812Cr1_tLGrvIRb9jsg-A")
 
-### 4.6 前端监控
 
-- [5 分钟撸一个前端性能监控工具](https://juejin.cn/post/6844903662020460552 "https://juejin.cn/post/6844903662020460552")
-- [把前端监控做到极致](https://link.juejin.cn?target=https%3A%2F%2Fzhuanlan.zhihu.com%2Fp%2F32262716 "https://zhuanlan.zhihu.com/p/32262716")
-- [GMTC 大前端时代前端监控的最佳实践](https://juejin.cn/post/6844903629573324807 "https://juejin.cn/post/6844903629573324807")
-- [前端监控和前端埋点方案设计](https://juejin.cn/post/6844903650603565063 "https://juejin.cn/post/6844903650603565063")
-- [腾讯CDC团队：前端异常监控解决方案](https://link.juejin.cn?target=https%3A%2F%2Fmp.weixin.qq.com%2Fs%2FW0i-Iu6nqkWttsGZ-RmOqw "https://mp.weixin.qq.com/s/W0i-Iu6nqkWttsGZ-RmOqw")
 
   

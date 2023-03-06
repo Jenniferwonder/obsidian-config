@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2435c9b869bc8dc4",
+        "id": "6da9796debff5c7d",
         "type": "tabs",
-        "dimension": 20.727522306108444,
+        "dimension": 25.53619302949062,
         "children": [
           {
-            "id": "de5ad2f786106b15",
+            "id": "c2e73c2959ad4ab8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learning Efficieny.md",
+                "file": "Dashboard/My Goals in 2023.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,17 +24,17 @@
         ]
       },
       {
-        "id": "cdbb8165dba11793",
+        "id": "63c4a45fe6a02624",
         "type": "tabs",
-        "dimension": 15.923129718599863,
+        "dimension": 23.994638069705093,
         "children": [
           {
-            "id": "06aa4faf97346e3e",
+            "id": "6223765462cd463e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "资源分享/Blogs and Social Platforms.md",
+                "file": "Portfolio-个人主页.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -44,57 +44,17 @@
         ]
       },
       {
-        "id": "7c8a95f9f897d743",
+        "id": "b3b2450dd0e31915",
         "type": "tabs",
-        "dimension": 14.344543582704187,
+        "dimension": 50.469168900804284,
         "children": [
           {
-            "id": "ed69ef5e37324d85",
+            "id": "4bfaf2b58c5f8720",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Learn Front-End Technology in English.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "38053d85b35c477d",
-        "type": "tabs",
-        "dimension": 13.726835964310228,
-        "children": [
-          {
-            "id": "dc17f071de96b435",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习记录/2023-03-02.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "6ab4b82b12974764",
-        "type": "tabs",
-        "dimension": 35.27796842827728,
-        "children": [
-          {
-            "id": "e75690bbe1501a2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习记录/2023-03-03.md",
+                "file": "Front-End Engineering.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -168,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "学习记录/2023-03-03.md",
+                "file": "Front-End Engineering.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -203,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习记录/2023-03-03.md",
+                "file": "Front-End Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -220,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习记录/2023-03-03.md",
+                "file": "Front-End Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -232,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习记录/2023-03-03.md"
+                "file": "Front-End Engineering.md"
               }
             }
           },
@@ -292,19 +252,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 419.5
+    "width": 348.5
   },
-  "active": "e75690bbe1501a2e",
+  "active": "4bfaf2b58c5f8720",
   "lastOpenFiles": [
-    "Learning Efficieny.md",
-    "学习记录/2023-03-03.md",
-    "学习记录/2023-03-02.md",
-    "Learn Front-End Technology in English.md",
-    "资源分享/Blogs and Social Platforms.md",
-    "资源分享/工具推荐：一款好用且免费的笔记软件 Obsidian-2.md",
-    "Coding Reflection.md",
-    "工具方法/Obsidian-使用指南.md",
-    "How to Stop Worrying and Start Living.md",
-    "Monthly Reflection.md"
+    "Server-Side Frameworks.md",
+    "Front-End Engineering.md",
+    "技术笔记/JS/Web Fundamentals.md",
+    "Browser.md",
+    "Server.md",
+    "Protocols.md",
+    "项目开发/Deploying.md",
+    "Dashboard/My Goals in 2023.md",
+    "学习记录/2023-03-06.md",
+    "Performance Optimization.md"
   ]
 }

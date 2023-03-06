@@ -15,3 +15,4 @@ API Authentication - OAUTH 2.0
 API Keys
 ## How to use?
 API key
+## Restful API

@@ -7,6 +7,7 @@ modified: 2023-03-01 Wed
 status: 
 ---
 [Test-Driven Development // Fun TDD Introduction with JavaScript - YouTube](https://www.youtube.com/watch?v=Jv2uxzhPFl4)
+[如何使用React Testing Library和Jest测试React应用 · Issue #16 · vortesnail/blog · GitHub](https://github.com/vortesnail/blog/issues/16)
 ## Why Testing?
 A well-designed suite of **automation** tests is effective in allowing you to 
 - Discover defects or bugs before delivery to the client
@@ -26,6 +27,7 @@ A JS test runner that lets you access an artificial DOM called jsdom. While jsdo
 - Powerful features, like **mocking** modules so you can have more control over how the code executes, to make sure your unit testing is standalone.
 #### 2. React Testing Library
 A set of **utilities** that let you test React components without relying on their implementation details, designed to fulfill the best practices for us to get a **well-configured testing environment** out of the box and are able to focus on the business logic your tests need to run assertions on.
+#### 3. Storybook
 ## TDD-Test Drivern Development Philosophy
 #### 1. End-To-End
 #### 2. Integration
