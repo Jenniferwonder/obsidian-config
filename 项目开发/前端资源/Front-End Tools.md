@@ -1,11 +1,21 @@
 ---
-title: 前端优质资源工具库
-tags: 
+title: 前端优质博客资源
+tags: Front-End 
 status: 
-started: 
+started: 2022-11-22 Tue
+modified: 2023-03-07 Tue
 due: 
 aliases: 
 ---
+创作时间：2022 年 10 月 31 日
+### 参考资料
+#### 1. 前端开发指南
+- 
+#### 2. 前端技术栈
+- 
+### 技术博客
+- 
+#### 1. 
 ## 任务时间
 
 | **启动时间** | 2022 年 10 月 31 日 |
@@ -19,15 +29,15 @@ aliases:
 
 ### 学习资源|Learning Resources
 ### CSS 学习资源
-#### CSS 推荐指南
+#### 1. CSS 推荐指南
 - 英文指南： 
    - 系统讲解 CSS 模块化架构原理，浅白易懂，有助于提升 CSS 代码编写效率和质量
    - ⭐⭐⭐
 - 中文指南：
-#### CSS 布局
+#### 2. CSS 布局
 - 
 -  
-#### CSS 案例
+#### 3. CSS 案例
 - 
 - 
 - 
@@ -39,7 +49,7 @@ aliases:
 ### 图片|Pictures 
 ### 视频|Videos
 ### 字体|Font
-#### 中文字体 - Chinese Font
+#### 1. 中文字体 - Chinese Font
 - 有字库
 - PS 家园网：
-#### 英文字体 - English Font
+#### 2. 英文字体 - English Font

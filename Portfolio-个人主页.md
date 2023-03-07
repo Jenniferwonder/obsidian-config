@@ -7,7 +7,7 @@ modified: 2023-03-06 Mon
 status: Doing
 ---
 ## Why do I want to build a portfolio website?
-- Demo > Full-Stack App
+- **Demo** > Full-Stack App
 - Understand and master the **Front-End skills** needed to build a portfolio website 
 - **Showcase** my <u>work and skills</u>
 - Benefit me and people alike
@@ -56,25 +56,22 @@ status: Doing
 	- [Imperative API | Format.JS](https://formatjs.io/docs/react-intl/api)
 		- [Add Multiple Languages in React Apps | Internalization Basics - YouTube](https://www.youtube.com/watch?v=J0dij6eufOY)
 - [ ] Dynamic visitor data and feedback
-- [[React]] 组件化和hooks封装 (复用)
+- How to use React Component, Hooks?
+- [[UI Componenets-通用样式与组件]]
+- [[React]] 组件化和 hooks 封装 (复用)
 #### 2. [[Testing]]
 - Jest
 - Storybook
-- 联调 (多人协作效率)
-- 单元测试 （代码帮你测试代码）
-- 监控报警 （线上问题提前预支）
-#### 3. Back-End
-- [[Database and Query Languages]] 
-- Database Integration
+- Joint Debugging 联调 (多人协作效率)
+- Unit Test 单元测试 （代码帮你测试代码）
+- Monitor 监控报警 （线上问题提前预支）
+#### 3. [[Deploy (CI-CD)]]
+#### 4. Back-End
+- [[Database]] 
 - [[Server-Side Frameworks]]
+- [[Authentication]]
 - [[User Analytics]]
-#### 4. CI/CD - GitHub Actions (Auto Deploy)
-- Github Workflow? How to set up?
-	- GitHub actions?
-	- Continuous intergration/ CI?
-	- CD?
-#### 5. [[Deploying]]
-#### 6. [[Performance Optimization]]
+#### 5. [[Performance Optimization]]
 ## Prep Basics
 #### 1. Front-End Framework, Tools
 - Why do I choose the tech-stack/tools?
@@ -86,14 +83,14 @@ status: Doing
 	- prettier
 	- eslint
 	- react-code-snippets
-- 代码Review ( 多人协作规范)
-- 规范 (统一代码、Git风格、开发规则) ...
+- 代码 Review ( 多人协作规范)
+- 规范 (统一代码、Git 风格、开发规则) ...
 #### 2. Git Repository Set Up
 - Pull <u>the new one</u> from remote
 - Push <u>the local v1</u> to the remote
 - [[Useful Git commands]]
 #### 3. Project Initiation 
--  脚手架 （多个项目初始化效率）
+- 脚手架 （多个项目初始化效率）
 ##### 3.1. Install NextJS, TailwindCSS
 - [[How to start a React, NextJS and TailwindCSS project]] (Configuration and Toolchain)
 ##### 3.2. Install Sanity CMS 
@@ -102,6 +99,9 @@ status: Doing
 - [[Dependency Installation Error]]
 #### 4. GitHub Version Control and Contribute
 - How to contribute to a git repo?
+## Milestones
+- [[2023-02-21]] Build up the initial [[Next.js]] front-end and [[Sanity]] backend for [[Portfolio-个人主页]]
+- [[2023-02-16]] Start building my [[Portfolio-个人主页]] website with [[React]] and initiate a git repository for the project
 ## Logs
 
 ```dataview

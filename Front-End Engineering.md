@@ -3,7 +3,7 @@ title: Front-End Engineering
 tags: Front-End 
 started: 2023-01-17 Tue
 due: 
-modified: 2023-03-01 Wed
+modified: 2023-03-06 Mon
 status: 
 ---
 ## Questions
@@ -16,12 +16,6 @@ status:
 #### 1. [[Project Workflow]]
 #### 2. [[JS Projects]]
 #### 3. [[React, Next.js Projects]]
-## Tech Stack
-### Overall
-Frontend: – ReactJS – NextJS – Tailwind CSS  
-Backend: – Hasura – **GraphQL** – Express – Node.js  
-Database: – PostgreSQL  
-Mobile: – React Native, Flutter
 ## Fundamentals
 #### 1. [[Web Fundamentals]]
 #### 2. [[Algorithms and Data Structure]]
@@ -37,18 +31,18 @@ Mobile: – React Native, Flutter
 #### 4. Remix
 #### 5. Solid.js
 #### 6. Gatsby
+## [[Server-Side Frameworks]] > Data Response
+#### 1. [[Database]] 
+#### 2. [[Authentication]]
+#### 3. [[User Analytics]]
 ## Workflow
 #### 1. [[Useful Git commands]]
 #### 2. [[Testing]]
 #### 3. [[Performance Optimization]]
 #### 4. [[Compilers and Bundlers]]
-#### 5. [[Deploying]]
-## [[Server-Side Frameworks]] > Data Response
-#### 1. [[Database and Query Languages]] 
-#### 2. Authentication
-#### 3. [[User Analytics]]
+#### 5. [[Deploy (CI-CD)]]
 ## Cross-Platform
-#### 1. Mini-program 
+#### 1. Mini-Program 
 - uni-app
 #### 2. Mobile App
 - React Native

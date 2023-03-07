@@ -31,9 +31,17 @@ status:
 - 高端remote工作(号称只接受全球top 3% freelancer)：[toptal.com](http://toptal.com/)
 - 创业公司： [startup.jobs](https://startup.jobs/)
 - Bold Jobs: [www.bolejobs.co/?s=05](http://www.bolejobs.co/?s=05)
+## CV
+- [[Front-End CV]]
+- [[CV-Front-End-Post]]
+## Reflection
+- [[Career Reflection-2022]]
+- [[星球自我介绍]]
+- [[编程之路-2.0]]
+- [[编程之路-1.0]]
+- [[编程之路-0.0]]
 ## Jobs and Career
 - What do you do for a living?/ What's your job/ profession?
-	- [[Front-End Engineering]]
 - What's the difference between working and being a student?
 - Why do you want to switch your career?
 - [[Front-End Engineering]]

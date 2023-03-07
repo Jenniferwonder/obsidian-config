@@ -6,6 +6,7 @@ due:
 modified: 2023-03-06 Mon
 status: 
 ---
+[How to Learn to Code - 8 Hard Truths - YouTube](https://www.youtube.com/watch?v=NtfbWkxJTHw)
 ### How to Boost Learning Efficiency?
 When we start off learning programming or any new technologies, a common mistake we'll make is that we try to learn it fast. We may speed up the video course we're watching or reading a tutorial as fast as we can. But the **hard truth** is we'll end up forgetting faster. How can we avoid learning fast and forgetting faster?  
 Here are some techniques that can help boost our learning efficiency.

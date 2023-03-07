@@ -6,11 +6,13 @@ due:
 modified: 2023-02-17 Fri
 status: 
 ---
-#### 1. 安装依赖方案 For Windows：
+#### 1. parsing error: cannot find module '@babel/preset-env'
+- [[VS Code 安装包解析报错解决思路与方法]]
+#### 2. 安装依赖方案 For Windows：
 ✅Using win cmd> While installing `npm i`, hit 
 - 🐛bug 1. [reactjs - Could not resolve dependency error peer react@"^16.8.0 || ^17.0.0" from @material-ui/core@4.12.4 - Stack Overflow](https://stackoverflow.com/questions/72596908/could-not-resolve-dependency-error-peer-react16-8-0-17-0-0-from-materia)
 - `npm config set legacy-peer-deps true`
-#### 2. 安装依赖方案二 For Ubuntu：
+#### 3. 安装依赖方案二 For Ubuntu：
 ✅Trying to use Ubuntu in VSCode to run `npm i` 
 - 🐛bug 1 again, the same solution as above.
 - 🐛bug 2. [dependencies - Npm can't find module "semver" error in Ubuntu 19.04 - Ask Ubuntu](https://askubuntu.com/questions/1152570/npm-cant-find-module-semver-error-in-ubuntu-19-04)

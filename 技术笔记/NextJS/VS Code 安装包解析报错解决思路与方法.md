@@ -6,6 +6,7 @@ started: 2022-11-11
 due: 
 aliases: 
 ---
+VS Code 安装包解析报错解决思路与方法
 创作时间：2022 年 11 月 11 日
 ### 前言
 代码报错，遇到 BUG，是很好锻炼解决问题能力的机会，比如当 VS Code 中出现 @babel/preset-env 安装包解析报错，可采取如下解决思路：
@@ -20,8 +21,8 @@ aliases:
 ❗注意：
 - 如果项目为使用 Next.js, Sanity 前后端初始化自动生成的文件夹，可排除原因一。
 - 如果尝试原因一解决办法后未解决，亦可排除原因一
-### 原因一解决办法
-#### 重新下载安装包：`npm install --save-dev @babel/preset-env`
+### 1. 原因一解决办法
+#### 1. 重新下载安装包：`npm install --save-dev @babel/preset-env`
 - 参考资料：
    - StackOverflow: 
    - NPM 官网：[NPM：@babel/preset-env](https://www.npmjs.com/package/@babel/preset-env)；

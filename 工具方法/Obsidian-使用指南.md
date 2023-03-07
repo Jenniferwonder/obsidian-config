@@ -47,7 +47,7 @@ aliases:
 	- 打开对应文档，输入 `:%s/^$\n*//g`
 	- 参考链接：[Remove All Blank Lines In File - Resolved help - Obsidian Forum](https://forum.obsidian.md/t/remove-all-blank-lines-in-file/35082)
 ## 样式
-##### 1. 快速调整[[工具推荐：一款好用且免费的笔记软件 Obsidian-2|图片样式、尺寸]]？🟩
+##### 1. 快速调整[[Obsidian Post-2|图片样式、尺寸]]？🟩
 ##### 2. [[Obsidian-插件功能#Linter|自动纠正]] 文本样式（列表序号，Yaml 时间）？`ALT + L`
 ##### 3. 自动 [[Obsidian-插件功能#MetaEdit|设置Yaml]] 内容？
 ##### 4. 自动为文档 [[Obsidian-插件功能#Number Heading|标题编号]]？

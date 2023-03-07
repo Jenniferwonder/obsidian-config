@@ -63,9 +63,17 @@ status:
 <mark style="background: #FFF3A3A6;">bookmarks</mark>  
    `ctrl`+`B`+`ctrl`+`K`  
    go to next: `ctrl`+`alt`+`N`
+
+[[VS Code 代码注释美化]]
 ## Error handling
 #### 1. ShortCut
 - Open the bottom status bar
 #### 2. Expression expected
 >[visual studio code - Expression expected.ts(1109) after TypeScript upgrade to 3.7.2 - Stack Overflow](https://stackoverflow.com/questions/58820889/expression-expected-ts1109-after-typescript-upgrade-to-3-7-2)  
 ![[Pasted image 20221206124519.png]]
+
+#### 3. [[Dependency Installation Error]]
+
+
+
+

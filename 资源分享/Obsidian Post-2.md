@@ -1,11 +1,13 @@
 ---
-title: 工具推荐：一款好用且免费的笔记软件 Obsidian-2
-tags: Tools/Obsidian
+modified: 2023-03-07 Tue
+title: Obsidian Post-2
+tags: [Tools/Obsidian]
 status: 
-started: 2022-11-25
+started: 2022-11-25 Fri
 due: 2022-11-25
 aliases: 
 ---
+工具推荐：一款好用且免费的笔记软件 Obsidian-2
 ## 前言
 语雀是国内目前纯净好用功能强大的一款笔记软件，但其开始针对个人用户按月收费，免费笔记数量受限，给大家推荐一款国外开源的笔记软件 **Obsidian**，支持 Markdown，多种视图及内容关联，功能强大，几乎可平替语雀，好用无广告、安全纯净且免费，支持大量好用插件，有中文版，社区活跃，感兴趣小伙伴可以下载尝试！（官方下载链接：[Obsidian](https://obsidian.md/)）
 ## 笔记软件使用体验对比

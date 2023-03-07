@@ -3,9 +3,11 @@ title: Front-End Interviews
 tags: Front-End/前端面试   
 started: 2022-12-16 Fri
 due: 
-modified: 2023-03-01 Wed
+modified: 2023-03-07 Tue
 status: 
 ---
+## CV
+- [[Front-End CV]]
 ## 面试
 
 - [一年半经验如何准备阿里巴巴 P6 前端面试](https://juejin.cn/post/6844904072345026574 "https://juejin.cn/post/6844904072345026574")

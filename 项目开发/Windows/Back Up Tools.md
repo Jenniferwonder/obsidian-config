@@ -1,11 +1,13 @@
 ---
-title: 重装系统
-tags: 
+title: Back Up Tools
+tags: Tools 
 status: 
-started: 
+modified: 2023-03-07 Tue
+started: 2022-11-22 Tue
 due: 
 aliases: 
 ---
+## 重装系统
 1. 换新机软件安装：
 - **Git: ** mkdir >git init > git remote upstream> git pull/ git clone > ... 
 - **收藏夹**：可通过 Microsoft Edge, Chrome 浏览器账户同步功能 **同步**

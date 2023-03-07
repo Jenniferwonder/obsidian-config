@@ -3,7 +3,7 @@ title: My Goals in 2023
 tags: Goals/2023    
 started: 2023-01-09 Mon
 due: 
-modified: 2023-02-26 Sun
+modified: 2023-03-06 Mon
 status: 
 ---
 ## Monthly Reflections
@@ -89,24 +89,7 @@ I know clearly, I'm not ready yet. Why? And **WHEN** can I be ready? > You don't
 	- MongoDB, Mongoose
 ## Projects
 #### 1. [[React, Next.js Projects]]
-- [[Portfolio-个人主页]] with [[React]], [[Next.js]] and [[Sanity]]
-	- [x] Build
-	- [ ] Deploy
-	- [ ] Improve
-- [[Deploying]] 
-- [[UI Componenets-通用样式与组件]]
-	- How to use React Component, Hooks?
-- [[CSS]] 
-	- Best practices? 
-- [[Database and Query Languages]]
-- [[Server-Side Frameworks]] Choices?
-- HTTP/ TCP/ IP
-- Authentication
-- Testing - Unit Testing
-	- Jest
-	- Storybook
-- Performance optimization
-- CI, CD
+- [[Portfolio-个人主页]]
 ##### 1.1. Timeline
 - [[2023-02-21]] Build up the initial [[Next.js]] front-end and [[Sanity]] backend for [[Portfolio-个人主页]]
 - [[2023-02-16]] Start building my [[Portfolio-个人主页]] website with [[React]] and initiate a git repository for the project
@@ -157,20 +140,20 @@ SORT file.cday DESC
 		- English
 	- 02 Build and deploy a **React** app in 30 days (1 day left)
 		- [[Baby Prep]] - Check fallopian tubes
-		- React
-		- Next.js
-		- Sanity
-		- Canvas/ Three.js
-		- **AI**-Tool
-		- Node, Express, MongoDB
-		- Jest
+		- React > React Basics/ Core Concepts
+		- Next.js > Set up
+		- Sanity > Set up
 		- Writing and Video
 	- 03 Build and deploy a **Vue** app in 20 days
+		- Jest
+		- Node, Express, MongoDB
+		- **AI**-Tool
+		- Canvas/ Three.js
+	- 04 Find a job as a **Front-end engineer** before April, 2023.
 		- Vue
 		- App (Flutter/ React Native)
 		- Mini-program
 		- Be Pregnant?
-	- 04 Find a job as a **Front-end engineer** before April, 2023.
 		- Interview and Job
 	- 05 Find a job as a **Front-end engineer** before April, 2023.
 - 2022

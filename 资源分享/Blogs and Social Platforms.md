@@ -70,23 +70,18 @@ status: Doing
 - ⭐[[Learn Front-End Technology in English]]
 #### 2. [[Front-End Engineering]]
 - [[Job, Work, Career]]
-- [[编程之路-2.0]]
-- [[编程之路-1.0]]
-- [[编程之路-0.0]]
-- [[星球自我介绍]]
-- [2022年，值得思考的教育行业现象](https://mp.weixin.qq.com/s/gv7SqZBfpVh5CIYxminVrg)
 #### 3. Learning Efficiency
 - ⭐[[Learning Efficiency]]
 - [[How to Stop Worrying and Start Living]]
 - [[Monthly Reflection]]
-- [[English Learning]]
+- ⭐[[English Learning]]
 	- [[Recording English Videos]]
 	- [[Conversation Techniques]]
 	- [[Pronunciation]]
 	- [[Shadowing and Retelling]]
 	- [[Useful English Expressions]]
 	- [[AU-20221129]]
-- [[Note-Taking]]
+- ⭐[[Note-Taking]]
 - 学习记录模板：[[Daily Plan]]
 #### 4. Tech Skills
 - CSS 样式方法总结 01：[Medium主页：弹性盒布局方法总结](https://juejin.cn/post/7164717886722801677)

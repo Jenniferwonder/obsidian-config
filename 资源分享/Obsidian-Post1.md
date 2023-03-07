@@ -1,14 +1,15 @@
 ---
-title: 工具推荐：一款好用且免费的笔记软件 Obsidian-1
+modified: 2023-03-07 Tue
+title: Obsidian-Post1
 tags: Tools/Obsidian
 status: Done
-started: 2022-11-24
+started: 2022-11-24 Thu
 due: 2022-11-25
 aliases: [[2022-11-24]] 
 ---
 > [!attention]  
 > 本文已修改，请参考：  
-> [[工具推荐：一款好用且免费的笔记软件 Obsidian-2]]
+> [[Obsidian Post-2]]
 
 语雀开始 [[2022-11-17|按月收费]]，发现一款国外开源的笔记软件 [[Obsidian-使用指南|Obsidian]]，支持 Markdown，多种视图，以及内容关联，功能强大，几乎可平替语雀，好用无广告、安全纯净且免费，支持大量好用插件，有中文版，社区活跃，感兴趣小伙伴可以下载尝试哦！ 
 #### 1. 温馨提示：
