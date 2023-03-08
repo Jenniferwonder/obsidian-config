@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8bb5284e50640950",
+        "id": "d1b091c31ca3a51b",
         "type": "tabs",
-        "dimension": 22.32704402515723,
+        "dimension": 45.806451612903224,
         "children": [
           {
-            "id": "3482dc45d0bc42f0",
+            "id": "ab9d2c51e2621bbb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目开发/开发流程/System Design.md",
+                "file": "Front-End Engineering.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,37 +24,17 @@
         ]
       },
       {
-        "id": "f01dc6d7be2b175b",
+        "id": "23e0855674cbe805",
         "type": "tabs",
-        "dimension": 45.990566037735846,
+        "dimension": 54.19354838709678,
         "children": [
           {
-            "id": "23da45493f7988e2",
+            "id": "68bd35e6a4c38756",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习记录/2023-03-07.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "01d9868a532e29ed",
-        "type": "tabs",
-        "dimension": 31.68238993710692,
-        "children": [
-          {
-            "id": "676a68ddfd0d7908",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database.md",
+                "file": "项目开发/Deploy.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -128,7 +108,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "学习记录/2023-03-07.md",
+                "file": "Front-End Engineering.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -163,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习记录/2023-03-07.md",
+                "file": "Front-End Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习记录/2023-03-07.md",
+                "file": "Front-End Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习记录/2023-03-07.md"
+                "file": "Front-End Engineering.md"
               }
             }
           },
@@ -254,17 +234,17 @@
     "direction": "horizontal",
     "width": 220.5
   },
-  "active": "23da45493f7988e2",
+  "active": "ab9d2c51e2621bbb",
   "lastOpenFiles": [
-    "项目开发/开发流程/System Design.md",
-    "Database.md",
-    "Learning Efficiency.md",
-    "UML.md",
-    "Project Workflow.md",
-    "项目开发/开发流程/D3-前后端协作.md",
+    "项目开发/Deploy.md",
     "Front-End Engineering.md",
-    "Front-End Interviews.md",
-    "职业发展/个人简历/Front-End CV.md",
-    "项目开发/Windows/Back Up Tools.md"
+    "Performance Optimization.md",
+    "Database.md",
+    "Authentication.md",
+    "技术笔记/JS/Web APIs.md",
+    "Server-Side Frameworks.md",
+    "技术笔记/NextJS/Next.js.md",
+    "SSG Frameworks.md",
+    "项目开发/开发流程/System Design.md"
   ]
 }

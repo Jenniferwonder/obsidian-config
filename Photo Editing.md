@@ -17,30 +17,36 @@ status:
 
 #### 3. 如何溶解图片某部分？
 ![[Pasted image 20230225175514.png]]
-#### 4. 中文字体与配色与排版？
+#### 4. 标题醒目
+![[Pasted image 20230308114534.png]]
+#### 5. 中文字体与配色与排版？
 - 红白；黑黄；黑白
 - ![[Inspiration-1.png]]
 - ![[Inspiration-2.png]]  
 ![[Pasted image 20230225175154.png]]
-#### 5. 如何设置背景图片形状？
+#### 6. 如何设置背景图片形状？
 ![[Pasted image 20230225174835.png]]
 ### ✅How-to
-#### 1. Remove Background/ 抠图
+#### 1. [[Color-颜色与背景]]
+#### 2. Remove Background/ 抠图
+- [[PS]]
+	- [Photoshop 2021 : How to Remove Background (Fast Tutorial) - YouTube](https://www.youtube.com/watch?v=8zx9i_Ut1Gk)
+	- 
 - [[Figma]]
 	- [Upload Your Images to BG Remover | Wondershare PixCut](https://pixcut.wondershare.com/upload.html)
 	- [API & Command Line – remove.bg](https://www.remove.bg/tools-api/api-commandline)
-#### 2. Shape
+#### 3. Shape
 Crop photo to a circle shape and use transparent photo background?
 - [[Figma ]]Use Mask
 	- Create a circle shape
 	- Select it and the photo, Click mask
 - [Circle Crop Images Online in Seconds - Free Circle Cropper](https://www.fotor.com/features/circle-crop/)
-#### 3. Logo
+#### 4. Logo
 - [Search results for Thumbsup - Flaticon](https://www.flaticon.com/search?word=thumbsup)
-#### 4. Size
+#### 5. Size
 Resize Image
 - [PicResize - Crop, Resize, Edit images online for free!](https://picresize.com/en/results)
-#### 5. Format
+#### 6. Format
 JPEG to PNG
 - [JPG to PNG | CloudConvert](https://cloudconvert.com/jpg-to-png)
 

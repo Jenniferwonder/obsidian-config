@@ -8,6 +8,8 @@ status:
 ---
 [Test-Driven Development // Fun TDD Introduction with JavaScript - YouTube](https://www.youtube.com/watch?v=Jv2uxzhPFl4)
 [如何使用React Testing Library和Jest测试React应用 · Issue #16 · vortesnail/blog · GitHub](https://github.com/vortesnail/blog/issues/16)
+## What
+![[Pasted image 20230308094955.png]]
 ## Why Testing?
 A well-designed suite of **automation** tests is effective in allowing you to 
 - Discover defects or bugs before delivery to the client

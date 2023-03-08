@@ -18,6 +18,11 @@ status:
 [[How to start a React, NextJS and TailwindCSS project]]
 ## What?
 - Next.js is a popular, lightweight framework for **static and server‑rendered applications**❓ built with React. It comes pre-packaged with features like routing, styling, and server-side rendering, getting your project up and running quickly.
+- Next.js is a solution for running react application server side.It also makes React development very simple. Some core features of Next.js are:
+	1.  Server rendering React Apps.
+	2.  Automatic code splitting and lazy loading.
+	3.  Built in CSS support.
+	4.  Hot Reloading support.
 ### Different Satges  
 - The environment **where** your code runs: **Development vs. Production**
 - **When** your code runs: **Build Time vs. Runtime**
@@ -72,16 +77,41 @@ For each part of your application, you will need to decide whether you will buil
 - 90 KB baseline of client-side JS (just for warm-up)
 	- Other framework that can ship 0 JS app: Astro, Quick
 ## Rendering Methods
+[Client Side Rendering Vs Server Side Rendering in React js & Next js | by Yudhajit Adhikary | Medium](https://yudhajitadhikary.medium.com/client-side-rendering-vs-server-side-rendering-in-react-js-next-js-b74b909c7c51)
 view-source: https://...
 #### 1. CSR
 - CSR-Client Side Rendering 客户端渲染
+- ![[Pasted image 20230308102356.png]]
+- Instead of getting all the content from the HTML document itself, a bare-bones HTML document with a JavaScript file in initial loading itself is received, which renders the rest of the site using the browser.
+- With client-side rendering, the initial page load is naturally a bit slow. However, after that, every subsequent page load is very fast.
+- Communication with server happens only for **getting the run-time data**. Moreover, there is no need to reload the entire UI after every call to the server. The client-side framework manages to update UI with changed data by re-rendering only that particular DOM element.
+- **Pros of Client Side Rendering:**
+	1.  Rich site interactions
+	2.  Fast website rendering after the initial load.
+	3.  Great for web applications.
+	4.  Robust selection of JavaScript libraries.
+- **Cons of Client Side Rendering:**
+	1.  Low SEO if not implemented correctly.
+	2.  Initial load might require more time.
+	3.  In most cases, requires an external library.
 #### 2. SSG
 - SSG-Static Site Generation 静态页面生成
-- By default, all pages will be cached to provide the performance of a static site 
+- In Next.js, by default, all pages will be cached to provide the performance of a static site 
+- [[SSG Frameworks]]
 #### 3. SSR
 - SSR-Server Side Rendering 服务端渲染
+- ![[Pasted image 20230308102929.png]]
 - But if you want new data on every request like SSR, you can add `{cache: 'no-store'}` option to fetch, or for ISR , use the `{next:{revalidate:420}}` option with the number of revalidate seconds. 
-- Good for SEO
+- In **server-side rendering** when a user makes a request to a webpage, the server prepares an HTML page by fetching user-specific data and sends it to the user’s machine over the internet. The browser then constructs the content and displays the page. This entire process of fetching data from the database, creating an HTML page and sending it to client happens in mere milliseconds.
+- **Pros of Server Side Rendering** :
+	1.  Search engines can crawl the site for better SEO.
+	2.  The initial page load is faster.
+	3.  Great for **static sites**.
+- **Cons of Server Side Rendering:**
+	1.  Frequent server requests.
+	2.  An overall slow page rendering.
+	3.  Full page reloads.
+	4.  Non-rich site interactions
 #### 4. ISR
 - ISR-Incremental Static Regeneration 增量静态重生成
 - The UI can be incrementally streamed in thanks to React suspense. Just need to define a `loading.js` file to define the UI. If a component is still awaiting data, it'll automatically show it at the component level, while rendering everything else in the application.

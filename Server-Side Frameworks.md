@@ -24,8 +24,32 @@ status:
 - Provide a way to dynamically insert data from your database into HTML  
 ❗The framework you choose is going to dictate your life for the next 10 years.  
 Together, they make MVC, the most common approach when building a full-stack web app.
+## Full Stack Frameworks
+- Next.js (React) [https://nextjs.org/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjFXcmgxTGdmRUMxTnFRMHhWaHd1bE5zbXNhUXxBQ3Jtc0trZ0dxYXIzT0g3ZEdjclpVRVR5VU81dG12UE5MTlJPeEdRZUJsa1gwOWhnTjMzazlxY08wZlFnNGMwUG5rSVdfY2Q2R042QXJUSjRxVGNYZWRheFpaNGRxVm9KbWg2a1JyX25SckVtWWQtQmZVYTROQQ&q=https%3A%2F%2Fnextjs.org%2F&v=FQPlEnKav48)
+	- Redwood
+		- Prisma, GraphQL, Jest, Storybook
+		- End-to-end workflow **great for startups**
+	- Blitz
+		- NextJS Toolkit
+		- Typesafe Data layer, and Scaffolding
+		- Authentication
+- Remix (React)
+	- Native form component, loading states
+- Nuxt.js (Vue)
+	- Comparable to Next.js
+	- Hybrid rendering, Nitro server engine
+- Sveltekit (Svelte)
+	- SSR, SSG, Routing...
+	- Hydrating the page: (骨架屏？)
+		- Loads components **on server** first and send it to the client as HTMl, and render the components on the page again **in the browser** to make it interactive
+	- You can control what you want to render on the server as well as the client
+	- User faced page - Server rendered vs Admin panel - SPA, **Why**?
+	- 
+- Blazor (C#, WASM/ Web Assembly)
+	- Hot reload, lazy loading, virtualization
+- ![[Pasted image 20230308095920.png]]
 ## Server-Side Framework Choices
-- Next.js [https://nextjs.org/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjFXcmgxTGdmRUMxTnFRMHhWaHd1bE5zbXNhUXxBQ3Jtc0trZ0dxYXIzT0g3ZEdjclpVRVR5VU81dG12UE5MTlJPeEdRZUJsa1gwOWhnTjMzazlxY08wZlFnNGMwUG5rSVdfY2Q2R042QXJUSjRxVGNYZWRheFpaNGRxVm9KbWg2a1JyX25SckVtWWQtQmZVYTROQQ&q=https%3A%2F%2Fnextjs.org%2F&v=FQPlEnKav48) 
+![[Pasted image 20230308194505.png]]
 - Go Gin [https://gin-gonic.com/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTAzakYtRWZjRElhaVlkcmdfMzh0bUNHcHF5QXxBQ3Jtc0trVmxodWhiM004X3MxbmlGdFZiVlNzN2IwQzgyUDJqdzBMU2FRZTZ3M0JLSVFPWDh3T01hOUVoTGRHYUd2c2ZWdzB2VFduS3RsZFVMU0swU2hubTJReUV4VS14NTlYbktGMzdySV85ckFpSFJfT090OA&q=https%3A%2F%2Fgin-gonic.com%2F&v=FQPlEnKav48) 
 - Swift Vapor [https://vapor.codes/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbkdFa2xHb3J4UEphMzloQVZRbUltZ2NwbnlXQXxBQ3Jtc0ttVG5uMndsWjFYTjZwR0FVc0NMUktmLTlsYktlNG9VYmRHVnBZWFZJbU1pUi0zSHhsSUthWkdsSnptSmJORTJwekhsYTA5VU1ZT24xUkRJbnBmVVBLTVlsSFYzaDVrdVVEZHVjbjdsSXFhZzZLd0F1MA&q=https%3A%2F%2Fvapor.codes%2F&v=FQPlEnKav48) 
 - Java Spring [https://spring.io/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbG52Nm82VnA5M2hMUVAtc1M4ZkpoV0lCUEV2d3xBQ3Jtc0tuUHllNE41WG1HOUl6QlZBdlRSSWYtVkdocEdfSzRLRXdJcjM3bkFYSk1ieXFUa1dOb1JrcktWZjEtSTJBMi1ZTzJ1NC05TnFjbThOOGVadUNMeG42UWh0czRQVXBKZ2V1NEV4OG00ZFI5OEFGRDV0NA&q=https%3A%2F%2Fspring.io%2F&v=FQPlEnKav48) 

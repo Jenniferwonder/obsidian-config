@@ -8,7 +8,9 @@ status:
 ---
 ## Questions
 - **Why** do I wanna work as a front-end engineer?
-- What do I want to do with the skills I'm learning?  
+- What do I want to do with the skills I'm learning?
+- ![[Pasted image 20230308092930.png]]
+- ![[Pasted image 20230308193714.png]]  
 ## Resources
 - [20 Amazing Collections for Self-Taught Developers 🎓 | Alicia's Notes 🚀](https://notes.aliciasykes.com/42310/20-amazing-collections-for-self-taught-developers)
 - [Bundlephobia | Size of npm dependencies](https://bundlephobia.com/)
@@ -26,21 +28,62 @@ status:
 #### 3. [[JavaScript]]
 ## Front-End Frameworks > Data Request  
 #### 1. [[React]] & [[Next.js]]
+- ![[Pasted image 20230308093733.png]]
+- React UI
+	- ![[Pasted image 20230308094553.png]]
 #### 2. Vue3 & Nuxt
+- ![[Pasted image 20230308093800.png]]
+- Vue UI
+	- ![[Pasted image 20230308094618.png]]
 #### 3. Svelte & SvelteKit
-#### 4. Remix
-#### 5. Solid.js
-#### 6. Gatsby
+- Svelte UI
+	- ![[Pasted image 20230308094823.png]]
+#### 4. Solid.js
+#### 5. Quick
+## [[SSG Frameworks]]/ Static Site Generators (SSG)
+#### 1. Astro
+#### 2. Gatsby
+#### 3. Gridsome
+#### 4. Jekyll
+#### 5. Hugo
+#### 6. Hexo
+#### 7. Pelican
 ## [[Server-Side Frameworks]] > Data Response
-#### 1. [[Database]] 
-#### 2. [[Authentication]]
-#### 3. [[User Analytics]]
+#### 1. [[Authentication]]
+#### 2. [[User Analytics]]
+## [[Database]] 
+## DEVOPS Skills
+- [[CI-CD]]
+	- Jenkins, 
+	- Travis CI, 
+	- Circle CI
+- Terminal/ Linux Commands
+- Web Servers
+	- Nginx, 
+	- Apache configuration
+- Containerization & Virtualization
+	- Docker, 
+	- Kubernetes, 
+	- Vagrant
+- Assets& File Storage
+- Infrastructure as Code (IaC)
+	- Terraform
+	- CloudFormation
+	- Pulumi
 ## Workflow
 #### 1. [[Useful Git commands]]
 #### 2. [[Testing]]
 #### 3. [[Performance Optimization]]
 #### 4. [[Compilers and Bundlers]]
-#### 5. [[Deploy (CI-CD)]]
+#### 5. [[Deploy]]
+#### 6. Jamstack
+![[Pasted image 20230308183740.png]]
+#### 7. No-Code Tools
+Kajabi for video platform
+Wordpress
+Webflow
+Wix
+Shopify
 ## Cross-Platform
 #### 1. Mini-Program 
 - uni-app

@@ -94,6 +94,7 @@ _I'm [Jenniferwonder](https://github.com/Jenniferwonder), a self-taught front-e
 Title: How to Boost Learning Efficiency: 9 Tips You Should Know  
 Publish on: 
 - [How to Boost Learning Efficiency: 9 Tips You Should Know - DEV Community](https://dev.to/jenniferwonder/how-to-boost-learning-efficiency-9-tips-you-should-know-368i)  
+- [How to Boost Learning Efficiency: 9 Tips You Should Know | by Jenniferwonder | Mar, 2023 | Medium](https://medium.com/@jenniferwonder_12/how-to-boost-learning-efficiency-9-tips-you-should-know-ad10beb4876b)
 Related Topics: 
 - [What Non-Technical Skills Do You Need for a Successful Career in Tech? - DEV Community](https://dev.to/codenewbieteam/what-non-technical-skills-do-you-need-for-a-successful-career-in-tech-59md)
 - [What's the biggest mistake you've ever made while coding? - DEV Community](https://dev.to/michaeltharrington/whats-the-biggest-mistake-youve-ever-made-while-coding-12n2)
