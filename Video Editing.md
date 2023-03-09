@@ -35,10 +35,30 @@ status:
 #### 9. Export (Size/Format)
 - **剪映**/ **PR**
 #### 10. Audio Quality
-- Microphone
+- Microphone/ NVIDA Broadcast
 #### 11. Removing Video Background
-- OBS Studio  
-- NVIDA Broadcast
+- 佳能相机连电脑：EOS Webcam Utility
+- YY开播 > **滤镜美颜**
+	- 选自带/相机摄像头
+- NVIDA Broadcast > **虚拟背景**
+	- 选YY开播摄像头（Virtual Camera）
+- OBS Studio > **镜头形状/背景色/描边** & **场景切换、窗口选择、添加水印/Logo** 
+	- 添加镜头 > 对镜头添加滤镜 filter > mask 
+	- 添加阴影/背景图片/背景颜色
+	- 将镜头与背景组合为一组/ Group together
+	- ✅Setting > 
+		- Output > Path; Format (Mp4)
+		- Hotkeys 
+	- 🐛延迟 > Output > Recording > 调动态参数 
+		- Rate: CQP (CQ Level: 20)
+		- Tuning: Low Latency 
+	- 🐛模糊 > Output/ Video > 调分辨率与电脑一致 
+	- 🐛录屏颜色泛白 >
+		- Add Filter > Color correction 颜色矫正
+	- `alt` + drag to crop the screen
+	- `shift` 自定义调节视频尺寸
+	- `ctrl` 固定比例调节视频尺寸
+	- [Background Removal - Portrait Segmentation | OBS Forums](https://obsproject.com/forum/resources/background-removal-portrait-segmentation.1260/) 
 ## Inspiration
 1. Animated Logo
 	- ![[Pasted image 20230227171524.png]]

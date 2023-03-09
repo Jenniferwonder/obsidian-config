@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d1b091c31ca3a51b",
+        "id": "23e0855674cbe805",
         "type": "tabs",
-        "dimension": 45.806451612903224,
+        "dimension": 54.05224380442063,
         "children": [
           {
-            "id": "ab9d2c51e2621bbb",
+            "id": "68bd35e6a4c38756",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-End Engineering.md",
+                "file": "学习记录/2023-03-09.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,17 +24,37 @@
         ]
       },
       {
-        "id": "23e0855674cbe805",
+        "id": "eb9ff39576ecde09",
         "type": "tabs",
-        "dimension": 54.19354838709678,
+        "dimension": 15.807099799062291,
         "children": [
           {
-            "id": "68bd35e6a4c38756",
+            "id": "a879f6d789d38a3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目开发/Deploy.md",
+                "file": "资源分享/Blogs and Social Platforms.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "22c8fb8687a8ce45",
+        "type": "tabs",
+        "dimension": 30.14065639651708,
+        "children": [
+          {
+            "id": "8628d1f7f7ccdaef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Video Editing.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Front-End Engineering.md",
+                "file": "学习记录/2023-03-09.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-End Engineering.md",
+                "file": "学习记录/2023-03-09.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-End Engineering.md",
+                "file": "学习记录/2023-03-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-End Engineering.md"
+                "file": "学习记录/2023-03-09.md"
               }
             }
           },
@@ -234,17 +254,17 @@
     "direction": "horizontal",
     "width": 220.5
   },
-  "active": "ab9d2c51e2621bbb",
+  "active": "68bd35e6a4c38756",
   "lastOpenFiles": [
+    "Video Editing.md",
+    "资源分享/Blogs and Social Platforms.md",
+    "学习记录/2023-03-09.md",
     "项目开发/Deploy.md",
     "Front-End Engineering.md",
     "Performance Optimization.md",
     "Database.md",
     "Authentication.md",
     "技术笔记/JS/Web APIs.md",
-    "Server-Side Frameworks.md",
-    "技术笔记/NextJS/Next.js.md",
-    "SSG Frameworks.md",
-    "项目开发/开发流程/System Design.md"
+    "Server-Side Frameworks.md"
   ]
 }
