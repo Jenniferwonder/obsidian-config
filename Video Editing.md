@@ -22,7 +22,7 @@ status:
 - 百度翻译开放平台 [百度翻译开放平台](http://api.fanyi.baidu.com/)
 	- APP ID：20170610000057105
 	- 密钥：`_3SwvOql530jk0VesEgY`
-#### 4. Add an video Intro
+#### 4. Add a video Intro
 - ClipChamp in win11
 #### 5. Crop the video 
 - Effect > Crop

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "23e0855674cbe805",
+        "id": "c23879f81fca5563",
         "type": "tabs",
-        "dimension": 54.05224380442063,
+        "dimension": 13.404825737265417,
         "children": [
           {
-            "id": "68bd35e6a4c38756",
+            "id": "45ce3d63e944d86a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习记录/2023-03-09.md",
+                "file": "Portfolio-个人主页.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,37 +24,17 @@
         ]
       },
       {
-        "id": "eb9ff39576ecde09",
+        "id": "dfe6c938663f8eb8",
         "type": "tabs",
-        "dimension": 15.807099799062291,
+        "dimension": 86.59517426273459,
         "children": [
           {
-            "id": "a879f6d789d38a3e",
+            "id": "80fa4b5138019cb3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "资源分享/Blogs and Social Platforms.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "22c8fb8687a8ce45",
-        "type": "tabs",
-        "dimension": 30.14065639651708,
-        "children": [
-          {
-            "id": "8628d1f7f7ccdaef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Video Editing.md",
+                "file": "学习记录/2023-03-10.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -107,11 +87,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 232.5,
     "collapsed": true
   },
   "right": {
@@ -128,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "学习记录/2023-03-09.md",
+                "file": "学习记录/2023-03-10.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -163,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习记录/2023-03-09.md",
+                "file": "学习记录/2023-03-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习记录/2023-03-09.md",
+                "file": "学习记录/2023-03-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习记录/2023-03-09.md"
+                "file": "学习记录/2023-03-10.md"
               }
             }
           },
@@ -254,17 +235,17 @@
     "direction": "horizontal",
     "width": 220.5
   },
-  "active": "68bd35e6a4c38756",
+  "active": "80fa4b5138019cb3",
   "lastOpenFiles": [
-    "Video Editing.md",
-    "资源分享/Blogs and Social Platforms.md",
-    "学习记录/2023-03-09.md",
-    "项目开发/Deploy.md",
+    "学习记录/2023-03-10.md",
+    "Portfolio-个人主页.md",
     "Front-End Engineering.md",
+    "Project Workflow.md",
+    "Photo Editing.md",
+    "资源分享/Blogs and Social Platforms.md",
+    "技术笔记/JS/Algorithms and Data Structure.md",
     "Performance Optimization.md",
-    "Database.md",
-    "Authentication.md",
-    "技术笔记/JS/Web APIs.md",
-    "Server-Side Frameworks.md"
+    "Testing.md",
+    "Vue.md"
   ]
 }

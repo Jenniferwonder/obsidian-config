@@ -7,11 +7,10 @@ modified: 2022-12-14 Wed
 status: 
 ---
 ## Questions
-## 学习前提
-#### 1. [[Web Fundamentals]]
-#### 2. [[HTML]]
-## 参考资料
-### Reference
+## Overview
+![[Pasted image 20230310112422.png]]
+## Reference
+### Official Reference
 >[CSS: Cascading Style Sheets | MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)
 >[CSS Reference](https://cssreference.io/) | A collection of all css properties and definitions in detail |
 ### Tutorials
@@ -20,8 +19,8 @@ status:
 ### Courses
 - Advanced CSS
 ### Tools
-[Can I Use](https://caniuse.com/) | Check cross-browser compatibility of frontend technologies. |
-[Keyframes.app](https://keyframes.app/) For animation(key-frame, color, character and shadows)
+- [Can I Use](https://caniuse.com/) | Check cross-browser compatibility of frontend technologies. |
+- [Keyframes.app](https://keyframes.app/) For animation(key-frame, color, character and shadows)
 ### CSS Methodologies
 >CSS methodologies to help write modular, reusable and scalable code
 
@@ -32,8 +31,6 @@ status:
 | [BEM](http://getbem.com/) | Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development. |
 | [SMACSS](http://smacss.com/) | SMACSS is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process. |
 
-## [[JS Projects]]
->[[JS Projects]] 
 ## 预处理器
 #### 1. [[SASS]]
 >[Gerillass](https://gerillass.com/) | Gerillass is a website development tool built on top of Sass with a set of Sass mixins and functions for frontend developers to generate scalable CSS outputs. |

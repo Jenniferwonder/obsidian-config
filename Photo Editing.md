@@ -21,6 +21,7 @@ status:
 ![[Pasted image 20230308114534.png]]
 #### 5. 中文字体与配色与排版？
 - 红白；黑黄；黑白
+- ![[Pasted image 20230310163649.png]]
 - ![[Inspiration-1.png]]
 - ![[Inspiration-2.png]]  
 ![[Pasted image 20230225175154.png]]

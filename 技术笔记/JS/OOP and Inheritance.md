@@ -1,19 +1,20 @@
 ---
-title: Class-based/ Classical OOP
+title: OOP and In heritance
 tags: Front-End/JS   
 started: 2022-12-05 Mon
 due: 
-modified: 2022-12-05 Mon
+modified: 2023-03-10 Fri
 status: 
 ---
-# Class-based/ Classical OOP
 ## Reference
+### Class-based/ Classical OOP
 - [Object-oriented programming - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming)
 - [Object-oriented Programming in JavaScript: Made Super Simple | Mosh - YouTube](https://www.youtube.com/watch?v=PFmuCDHHpwk)
 ## OOP Principles
 #### 1. Abstraction
 - Hide the details and show the essentials
 #### 2. Inheritance
+- ![[Pasted image 20230310113854.png]]
 - JS-constructors- [[Object]]
 - JS-prototype chain-[[Prototype Chain]]
 	- The prototype chain's behavior is less like inheritance and more like **delegation**.

@@ -6,6 +6,13 @@ started: 2022-11-22 Tue
 modified: 2023-03-06 Mon
 due: 
 ---
+## Editing
+[Organizing information with tables - GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)
+Insert Table
+| we  | are |
+| --- | --- |
+Add Dropdown
+- ["Dropdowns" in Markdown · GitHub](https://gist.github.com/citrusui/07978f14b11adada364ff901e27c7f61)
 ## Markdown 微信公众号编辑器 - mdnice
 #### 1. How to Download and Run?
 - 破解版下载：[Markdown Nice破解版下载-Markdown Nice编辑器v0.1.2免激活版-沃下载](http://www.wodown.com/soft/30111.html)

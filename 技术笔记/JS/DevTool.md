@@ -18,8 +18,3 @@ console.warn
 console.error  
 console.table  
 console.dir(functionName)
-## Node.js and NPM
->[Node.js](https://nodejs.org)
-
--  `node -v`, to know the version installed
-- `npm -v` 

@@ -6,7 +6,13 @@ due:
 modified: 2023-03-01 Wed
 status: 
 ---
+## Criteria
+![[Pasted image 20230310120346.png]]
+## Monitoring Tools
+![[Pasted image 20230310120426.png]]
 ## 性能优化
+- ![[Pasted image 20230310120449.png]]
+- ![[Pasted image 20230310120508.png]]
 Source: [企业级实战思路 - 什么是亮点 | 大圣前端进阶指南](https://shengxinjing.cn/react/arch/01.arch.html)
 1. 性能指标
 2. 更快的加载和执行

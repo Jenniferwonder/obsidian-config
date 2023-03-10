@@ -11,7 +11,6 @@ number headings: auto, first-level 4, max 6, 1._.1.1.
 ### Reference
 - [Working with objects - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)
 - [Introducing JavaScript objects - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects)
-
 ## What is Object in JS?
 - A collection of **Key-Value** Pairs, composed of
 	- Key/ Property (属性)- [[Object#Properties]]
@@ -19,6 +18,7 @@ number headings: auto, first-level 4, max 6, 1._.1.1.
 - A Reference Type- [[Data Types and Data Structures#Reference Type]]
 - There are many Built-in Objects in JS- [[Object#2. Built-in Objects in JS]]
 - Every Object has a property called 'constructor', refering to the [[Object#3. ✅Constructor(构造器) Function|Constructor Function]] that is used to create that object
+- ![[Pasted image 20230310114133.png]]
 
 ```js
 let x = {} // let x = new Object{};
@@ -41,6 +41,7 @@ new Error()
 - [[JSON]]
 - [[Fetch API]] - Request, Response
 ## How to Create Object?
+![[Pasted image 20230310114304.png]]
 #### 1. ⛔Object literal (对象字面量) syntax: `{ }`
 - [[Value and Variables]]
 
@@ -201,3 +202,5 @@ Object.freeze({})
 //make property in the object immutable. i.e. unable to add new properties, but the value inside a deeper level is mutable
 //work better in strict mode
 ```
+## [[OOP and Inheritance]]
+![[Pasted image 20230310113854.png]]

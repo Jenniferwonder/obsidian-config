@@ -10,9 +10,9 @@ number headings: auto, first-level 4, max 6, 1._.1.1.
 ## Questions
 - 结合项目熟悉相关技术？
 - 怎样做项目？写项目文档、笔记？
-- 高效绘制 Flow Chart?？
-## 参考资料
-### Reference
+- 高效绘制 Flow Chart? > [[System Design]]
+## Reference
+### Official Reference
 - [JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [JavaScript language overview - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Language_Overview) 
 - [JavaScript — Dynamic client-side scripting - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript)🟩
@@ -29,10 +29,6 @@ number headings: auto, first-level 4, max 6, 1._.1.1.
 - [JavaScript on Exercism](https://exercism.org/tracks/javascript)
 - [PlayCode](https://playcode.io/) | Javascript playground.  
 - [kangax-js-compat-table](https://kangax.github.io/compat-table/es6/) | Check JavaScript versions (ES5, ES6, ES2016+ etc.) compatibility across different compilers, servers/runtimes and platforms (Desktop and Mobile).|
-## 学习前提
-#### 1. [[Web Fundamentals]]
-#### 2. [[HTML]]
-#### 3. [[CSS]]
 ## 项目案例
 >[[JS Projects]] 
 ## 核心知识
@@ -68,11 +64,13 @@ number headings: auto, first-level 4, max 6, 1._.1.1.
 #### 8. [[Sets and Maps]]
 #### 9. [[Symbol]]
 #### 10. [[Error]] ❓(try...catch)
-### Prototype & Class
-#### 1. [[OOP]]
-#### 2. [[Prototype Chain]]
-#### 3. [[ES6 Class]]
+#### 11. RegExp
+#### 12. Boolean
+### [[OOP and Inheritance]]
+#### 1. [[Prototype Chain]]
+#### 2. [[ES6 Class]]
 ### [[DOM]] Manipulation
+### [[BOM]]?
 ### [[Async JS]] 
 #### 1. [[Callbacks]]
 #### 2. [[Promise]]
@@ -80,14 +78,14 @@ number headings: auto, first-level 4, max 6, 1._.1.1.
 #### 4. [[Timer-计时器函数]]
 #### 5. [[Debounce and Throttle-防抖节流]]
 ### Data Request
-#### 1. [[HTTP]]
+#### 1. [[Protocols]]
 #### 2. [[JSON]]
-#### 3. [[Fetch API]] 
-#### 4. [[Axios]]
-#### 5. [[CORS (跨域)]]
-#### 6. [[API Resources]]
-#### 7. [[Web APIs]]
-#### 8. [[Service Worker-PWA]]
+#### 3. [[Ajax]]
+#### 4. [[Fetch API]] 
+#### 5. [[Axios]]
+#### 6. [[CORS (跨域)]]
+#### 7. [[API Resources]]
+#### 8. [[Web APIs]]
 #### 9. [[Web Worker]]
 ### Data Storage
 #### 1. Local storage --Todo App
@@ -97,7 +95,8 @@ number headings: auto, first-level 4, max 6, 1._.1.1.
 #### 3. [[函数式编程]]
 #### 4. Publish-Subscribe Pattern
 ### ES6/ES7/ES8/ES2020/ES2022
--   [近一万字的ES6语法知识点补充](https://juejin.cn/post/6844903775329583112 "https://juejin.cn/post/6844903775329583112")
+-  ![[Pasted image 20230310114951.png]]
+-  [近一万字的ES6语法知识点补充](https://juejin.cn/post/6844903775329583112 "https://juejin.cn/post/6844903775329583112")
 -   [ES6、ES7、ES8特性一锅炖(ES6、ES7、ES8学习指南)](https://juejin.cn/post/6844903679976275976 "https://juejin.cn/post/6844903679976275976")
 -   [解锁多种JavaScript数组去重姿势](https://juejin.cn/post/6844903608467587085 "https://juejin.cn/post/6844903608467587085")
 -   [Here’s how you can make better use of JavaScript arrays](https://link.juejin.cn?target=https%3A%2F%2Fwww.freecodecamp.org%2Fnews%2Fheres-how-you-can-make-better-use-of-javascript-arrays-3efd6395af3c%2F "https://www.freecodecamp.org/news/heres-how-you-can-make-better-use-of-javascript-arrays-3efd6395af3c/")

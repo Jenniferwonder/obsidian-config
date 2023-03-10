@@ -1,9 +1,9 @@
 ---
-title: Web Fundamentals
+title: Web, Network, Internet
 tags: Front-End/Web  
 started: 2022-12-02 Fri
 due: 
-modified: 2023-03-06 Mon
+modified: 2023-03-10 Fri
 status: 
 ---
 [100+ Web Development Things you Should Know - YouTube](https://www.youtube.com/watch?v=erEgovG9WBs&list=PL0vfts4VzfNjQOM9VClyL5R0LeuTxlAR3&index=13)
@@ -16,7 +16,7 @@ status:
 - Web: A collection of Documents that will be requested by a [[Browser]] from a [[Server]]
 ## How does Web work?
 >Video: [Web Demystified - YouTube](https://www.youtube.com/playlist?list=PLo3w8EB99pqLEopnunz-dOOBJ8t-Wgt2g)  
->Reference: 
+>Reference:  
 >[How the web works - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)
 
 #### 1. [[Server]] 
@@ -24,8 +24,7 @@ status:
 - [[DNS]]
 #### 2. [[Browser]] 
 - Mix documents to render web pages
-#### 3. Request > Response
-- [[Protocols]]
+#### 3. [[Protocols]]
 - Web Request -> Server Response
 #### 4. Internet
 >[How does the Internet work? - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)

@@ -6,12 +6,14 @@ due:
 modified: 2023-03-06 Mon
 status: Doing
 ---
-## Why do I want to build a portfolio website?
-- **Demo** > Full-Stack App
+## Project Plan
+### Why do I want to build a personal portfolio/ blog website?
+- Enhance/ Apply the **Front-end Tech** skills I've learned about React, JS, HTML, CSS
+- ⭐~~Demo~~ > ~~Full-Stack App~~ > Use GitHub **repo** and **issues** to sync/push my `.md` notes to a website (My personal website)  
+- **Showcase** my <u>work and skills and blogs</u>
 - Understand and master the **Front-End skills** needed to build a portfolio website 
-- **Showcase** my <u>work and skills</u>
 - Benefit me and people alike
-## Design/ Inspiration
+### Design/ Inspiration
 - What kind of portfolio website do I need/want to build?
 - A Portfolio Website
 - Production-ready project - Static and server-rendered app✅
@@ -20,6 +22,7 @@ status: Doing
 - [[Photo Editing]]
 #### 2. Inspirations
 ##### 2.1. Reference
+- [Dezhi Yu](https://halfrost.me/)
 - [大圣前端进阶指南 | 解决前端进阶的难点](https://shengxinjing.cn/)
 - [coderZ-首页](https://coderzblog.cn/)
 - Vue: [cdn.jsdelivr.net 凉了引发的一系列风波RBlog](https://raxcl.cn/blog/6)
@@ -43,6 +46,25 @@ status: Doing
 - [[02-数据请求与预览卡片渲染]]
 - [[03-预加载与富文本内容展示]]
 - [[04-如何实现评论功能？]]
+### Wireframe
+
+### Tech Choices
+
+## Function Module Diagram ([[UML]])
+
+## Tech Architecture Diagram
+
+## Table-Schema Design
+
+## Requirement Table
+ | Function | Module   | Description | Priority | Current Stats | Expect to Finish | Finished |
+ | -------- | -------- | ----------- | -------- | ------------- | ---------------- | -------- |
+ |          | Homepage |             |          |               |                  |          |
+ |          | Blogs/Projects    |             |          |               |                  |          |
+ |          | About    |             |          |               |                  |          |
+ |          | Contact  |             |          |               |                  |          |
+ |          | Links    |             |          |               |                  |          |
+
 ## Development (Quality and Efficiency)
 - How to build a React Portfolio Website in 15 days?
 #### 1. Building Reusable UI Components 
@@ -72,7 +94,7 @@ status: Doing
 - [[Authentication]]
 - [[User Analytics]]
 #### 5. [[Performance Optimization]]
-## Prep Basics
+## Prep Basics - Next.js, TailwindCSS, Sanity
 #### 1. Front-End Framework, Tools
 - Why do I choose the tech-stack/tools?
 - 前端：[[React]], [[Next.js]], [[TypeScript]], 

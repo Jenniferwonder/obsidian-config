@@ -44,6 +44,7 @@ status:
 	- [Storybook: Frontend workshop for UI development](https://storybook.js.org/)
 	- [The Fastest Frontend for the Headless Web | Gatsby](https://www.gatsbyjs.com/)
 ## Core Concepts
+![[Pasted image 20230310120115.png]]
 ### Testing
 - [[Testing]]
 ### Basics
