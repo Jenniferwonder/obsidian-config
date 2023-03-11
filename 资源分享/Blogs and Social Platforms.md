@@ -22,6 +22,7 @@ status: Doing
 - [User Jenniferwonder - Stack Overflow](https://stackoverflow.com/users/19379980/jenniferwonder)
 #### 6. Social
 - [Jenniferwonder (@Jennifer_coding) / Twitter](https://twitter.com/Jennifer_coding)
+- LinkedIn
 #### 7. 中文技术博客社区：
 - 掘金：[https://juejin.cn/](https://juejin.cn/)
 - CSDN：[https://www.csdn.net/](https://www.csdn.net/)

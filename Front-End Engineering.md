@@ -66,6 +66,7 @@ status:
 #### 5. Hugo
 #### 6. Hexo
 #### 7. Pelican
+#### 8. VuePress2 
 ## [[Server-Side Frameworks]] > Data Response
 #### 1. [[Authentication]]
 #### 2. [[User Analytics]]

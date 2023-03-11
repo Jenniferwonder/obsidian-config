@@ -6,17 +6,29 @@ due:
 modified: 2023-03-06 Mon
 status: Doing
 ---
-## Project Plan
+## Purpose
 ### Why do I want to build a personal portfolio/ blog website?
 - Enhance/ Apply the **Front-end Tech** skills I've learned about React, JS, HTML, CSS
 - ⭐~~Demo~~ > ~~Full-Stack App~~ > Use GitHub **repo** and **issues** to sync/push my `.md` notes to a website (My personal website)  
 - **Showcase** my <u>work and skills and blogs</u>
 - Understand and master the **Front-End skills** needed to build a portfolio website 
 - Benefit me and people alike
-### Design/ Inspiration
-- What kind of portfolio website do I need/want to build?
+### What kind of portfolio website do I need/want to build?
 - A Portfolio Website
-- Production-ready project - Static and server-rendered app✅
+- Production-ready project - Static and server-rendered app?
+- Blog Site
+	- [Halfrost's Field | 冰霜之地](https://halfrost.com/)
+- Portfolio Website 
+	- [Dezhi Yu](https://halfrost.me/)
+	- Home (About)- SPA; 
+	- Accomplishments (Certification)
+	- Projects/ ->Rich Content/.md Format 
+- Books
+	- [Books](https://books.halfrost.com/)
+- Share Talk/ Speech PPT 
+	- [halfrost (@halfrost) on Speaker Deck](https://speakerdeck.com/halfrost/)
+## Design 
+### Inspiration
 #### 1. UI Function and Feature
 - **Photo/ Image**/ Logo/ Font editing (Resizing, format from jpeg to png, compressing, reshaping, changing/ removing background, anime, placeholder) 
 - [[Photo Editing]]
@@ -47,37 +59,85 @@ status: Doing
 - [[03-预加载与富文本内容展示]]
 - [[04-如何实现评论功能？]]
 ### Wireframe
-
-### Tech Choices
-
-## Function Module Diagram ([[UML]])
-
-## Tech Architecture Diagram
-
-## Table-Schema Design
-
-## Requirement Table
+## How to Build
+### Tech Choices (Static Site Generator)
+- GitHub Pages (Jekyll- 访问速度慢的实在不能忍 > 自购阿里云服务器 > Ghost)
+- [Ghost 博客搭建日记](https://halfrost.com/ghost_build/)
+- [VuePress2](https://v2.vuepress.vuejs.org/) 
+	- What?
+		- A VuePress site is in fact a single-page application (SPA) powered by [Vue](https://vuejs.org/) and [Vue Router](https://router.vuejs.org/).
+		- Routes are generated according to the relative path of your markdown files. Each Markdown file is compiled into HTML with [markdown-it](https://github.com/markdown-it/markdown-it) and then processed as the template of a Vue component. This allows you to directly use Vue inside your Markdown files and is great when you need to embed dynamic content.
+		- During development, we start a normal dev-server, and serve the VuePress site as a normal SPA. If you’ve used Vue before, you will notice the familiar development experience when you are writing and developing with VuePress.
+		- During build, we create a server-rendered version of the VuePress site and render the corresponding HTML by virtually visiting each route. This approach is inspired by [Nuxt](https://nuxtjs.org/)'s `nuxt generate` command and other projects like [Gatsby](https://www.gatsbyjs.org/)
+	- Why not ...?
+		- Nuxt (Designed for building applications, while VuePress is more **lightweight** and focused on **content-centric static sites**.)
+		- Vitepress (More opinionated and less **configurable**. It does not support plugins.)
+		- Gitbook (Its **development reload performance** is intolerable with a large amount of files. The default **theme** also has a pretty limiting navigation structure, and the theming system is, again, not Vue based. The **team behind** GitBook is also more focused on turning it into a commercial product rather than an open-source tool.)
+		- Hexo (**Theming** system is static and string-based - we want to take advantage of Vue for both the **layout and the interactivity**. Also, Hexo's **Markdown rendering** isn't the most flexible to configure)
+		- Docsify / Docute (Both fully runtime-driven and therefore not **SEO**-friendly. If you don't care for SEO and don't want to mess with **installing dependencies**, these are still great choices.)
+- Gatsby
+### Requirement Table
  | Function | Module   | Description | Priority | Current Stats | Expect to Finish | Finished |
  | -------- | -------- | ----------- | -------- | ------------- | ---------------- | -------- |
- |          | Homepage |             |          |               |                  |          |
- |          | Blogs/Projects    |             |          |               |                  |          |
- |          | About    |             |          |               |                  |          |
- |          | Contact  |             |          |               |                  |          |
- |          | Links    |             |          |               |                  |          |
-
-## Development (Quality and Efficiency)
-- How to build a React Portfolio Website in 15 days?
-#### 1. Building Reusable UI Components 
-- [ ] Interactive Mindmap
-- [ ] Archive/ Timeline
-- [ ] Dual Language > 
+ |          |  |             |          |               |                  |          |
+#### 1. Home (About)
+- Navbar(......)
+- Photo; 
+- Contact; 
+- Summary (Education; Interest;)
+- Cumulative Page Views 65265  | Unique Visitors 37316
+- Dual Language > 
 	- [Advanced Features: Internationalized Routing | Next.js](https://nextjs.org/docs/advanced-features/i18n-routing)
 		- [Translate website content using Next.js internationalization and next-i18next - YouTube](https://www.youtube.com/watch?v=H9O9HdKNytc)
 	- [React.i18next](https://react.i18next.com/)
 		- [Go international with your next app: Using i18next to add multilingual support to your React App - YouTube](https://www.youtube.com/watch?v=baLjPx_wFi4)
 	- [Imperative API | Format.JS](https://formatjs.io/docs/react-intl/api)
 		- [Add Multiple Languages in React Apps | Internalization Basics - YouTube](https://www.youtube.com/watch?v=J0dij6eufOY)
-- [ ] Dynamic visitor data and feedback
+#### 2. Experience
+#### 3. Accomplishments (Certification)
+#### 4. Blogs
+- Temp Posts: Other platforms
+- Read More (Link to **Blog Site** > Archive [Halfrost's Field | 冰霜之地](https://halfrost.com/))
+- Blog Page
+	- Time Read
+	- Date Created
+	- Tags
+	- Author
+	- Share this post
+	- Related Blogs
+	- Comment
+#### 5. Books (Publication)/ Documentation
+- 文档是基于[VuePress2](https://v2.vuepress.vuejs.org/)构建，图使用[Fabric.js](http://fabricjs.com/)绘制，通过Github Actions自动部署, 大家可以在右上角访问Github地址，或者访问每个页面下方的修改链接，随时通过PR的方式共建这个知识图谱， Java，Python等岗位的知识图谱正在制作中，欢迎一起共建一个最好的计算机知识图谱
+- 路线图的数据格式大家可以参考[docs/index.md](https://github.com/shengxinjing/it-roadmap/blob/main/docs/index.md)
+- 这个网站会一直以静态的形式存在，不需要登录，不需要关注公众号，源码和文稿全部在Github，欢迎大家一起来提PR共建
+- 文件夹docs下面就是全部的文档，roadmap组件负责渲染路线图，动态渲染
+- ![[Portfolio-个人主页 2023-03-11 15.12.05.excalidraw]]
+- Interactive Mindmap
+- Link to **Book Site** ([Books](https://books.halfrost.com/))
+	- Edit this page
+	- Last modified
+	- Github Comment
+#### 6. Projects
+- Link to **Github repo**/ demo page ([Github/halfrost](https://github.com/halfrost))
+#### 7. Talks (Channel)
+- Link to channel page 
+- Link to slide page ([halfrost (@halfrost) on Speaker Deck](https://speakerdeck.com/halfrost/))
+#### 8. Skills
+#### 9. Contact
+- [[Blogs and Social Platforms]]
+
+### Function Module Diagram ([[UML]])
+
+### Tech Architecture Diagram
+
+### Table-Schema Design
+
+## Development (Quality and Efficiency)
+- How to build a React Portfolio Website in 15 days?
+#### 1. Building Reusable UI Components 
+- [x] Archive/ Timeline
+- [x] Dynamic visitor data and feedback
+	- Cumulative Page Views 65265  | Unique Visitors 37316
 - How to use React Component, Hooks?
 - [[UI Componenets-通用样式与组件]]
 - [[React]] 组件化和 hooks 封装 (复用)

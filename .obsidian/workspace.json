@@ -6,10 +6,10 @@
       {
         "id": "c23879f81fca5563",
         "type": "tabs",
-        "dimension": 13.404825737265417,
+        "dimension": 56.12860013395847,
         "children": [
           {
-            "id": "45ce3d63e944d86a",
+            "id": "197bcdabdb2a48b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -24,17 +24,17 @@
         ]
       },
       {
-        "id": "dfe6c938663f8eb8",
+        "id": "9105bfa964d5b121",
         "type": "tabs",
-        "dimension": 86.59517426273459,
+        "dimension": 43.87139986604153,
         "children": [
           {
-            "id": "80fa4b5138019cb3",
+            "id": "6f2cd99e65fd7652",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "学习记录/2023-03-10.md",
+                "file": "Front-End Engineering.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "学习记录/2023-03-10.md",
+                "file": "Portfolio-个人主页.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习记录/2023-03-10.md",
+                "file": "Portfolio-个人主页.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习记录/2023-03-10.md",
+                "file": "Portfolio-个人主页.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习记录/2023-03-10.md"
+                "file": "Portfolio-个人主页.md"
               }
             }
           },
@@ -235,17 +235,17 @@
     "direction": "horizontal",
     "width": 220.5
   },
-  "active": "80fa4b5138019cb3",
+  "active": "197bcdabdb2a48b5",
   "lastOpenFiles": [
-    "学习记录/2023-03-10.md",
-    "Portfolio-个人主页.md",
     "Front-End Engineering.md",
-    "Project Workflow.md",
-    "Photo Editing.md",
+    "Portfolio-个人主页.md",
+    "assets/Portfolio-个人主页 2023-03-11 15.12.05.excalidraw.md",
     "资源分享/Blogs and Social Platforms.md",
     "技术笔记/JS/Algorithms and Data Structure.md",
-    "Performance Optimization.md",
-    "Testing.md",
-    "Vue.md"
+    "学习记录/2023-03-11.md",
+    "Reflection on Building a Portfolio Website.md",
+    "学习记录/2023-03-10.md",
+    "Project Workflow.md",
+    "Photo Editing.md"
   ]
 }
