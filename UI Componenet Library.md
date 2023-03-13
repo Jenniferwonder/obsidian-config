@@ -1,9 +1,9 @@
 ---
-title: UI Componenets-通用样式与组件
+title: UI Componenet Library
 tags: Front-End/CSS  
 started: 2022-12-16 Fri
 due: 
-modified: 2022-12-16 Fri
+modified: 2023-03-13 Mon
 status: 
 ---
 ## UI Components & Kits
@@ -58,7 +58,9 @@ status:
 | [SVGR](https://react-svgr.com/)| SVGR is an universal tool to transform a raw SVG into a ready-to-use React components. Available online, in CLI, Node.js, as a webpack/rollup/parcel plugin... |
 | [uiverse](https://uiverse.io)| Hundreds Open-Source UI elements, made with HTML & CSS. Anyone can contribute. Includes buttons, checkboxes, spinners, cards, inputs and more. |
 | [HyperUI](https://www.hyperui.dev/)| Free open source Tailwind CSS components for marketing and ecommerce websites, as well as application UI. |
-## React UI Libraries
+
+## React UI Libraries  
+ ![[Pasted image 20230308094553.png]]
 
 >UI and component libraries for the React JavaScript framework
 
@@ -125,7 +127,9 @@ status:
 | [Radix UI](https://www.radix-ui.com/)| Unstyled, accessible components for building high‑quality design systems and web apps in React |
 | [Materio MUI React NextJS Admin Template](https://github.com/themeselection/materio-mui-react-nextjs-admin-template-free)| Most Powerful & Comprehensive Open-source MUI React NextJS Admin Dashboard Template built for developers. |
 | [Chakra Templates](https://chakra-templates.dev/)| A growing collection of hand-crafted & responsive Chakra UI templates ready to drop into your React project. |
-## Vue UI Libraries
+
+## Vue UI Libraries  
+![[Pasted image 20230308094618.png]]
 
 >UI and component libraries for the Vue JavaScript framework
 
@@ -174,6 +178,7 @@ status:
 | [Vuetensils](https://vuetensils.stegosource.com/) | Vuetensils is a lightweight component library for Vue 2.x that brings some of most common UI features, but only the bare minimum styles to avoid adding any extra bloat. You can work on the branding, and don't have to worry about the accessibility. |
 
 ## Svelte UI Libraries
+![[Pasted image 20230308094823.png]]
 
 >UI and component libraries for the Svelte JavaScript compiler
 
@@ -186,6 +191,7 @@ status:
 | [Attractions](https://illright.github.io/attractions/)| A pretty cool UI kit for Svelte |
 | [Svelteit](https://docs.svelteit.dev)| A minimalistic UI/UX component library for Svelte and Sapper projects |
 | [Carbon Components Svelte](https://carbon-components-svelte.onrender.com/)| A component library that implements the Carbon Design System, an open source design system by IBM.|
+
 ## React Native UI Libraries
 
 >UI and component libraries for the React Native Framework

@@ -34,13 +34,13 @@ status:
 ## 预处理器
 #### 1. [[SASS]]
 >[Gerillass](https://gerillass.com/) | Gerillass is a website development tool built on top of Sass with a set of Sass mixins and functions for frontend developers to generate scalable CSS outputs. |
-## ⭐[[CSS 样式库]]
+## ⭐[[CSS Frameworks]]
 #### 1. [[BootStrap]]
 >[Bootstrap CheatSheet](https://bootstrap-cheatsheet.themeselection.com/) | An interactive list of Bootstrap classes, variables, and mixins. The only Bootstrap CheatSheet you will ever need. |
 #### 2. [[Tailwind CSS]]
 ## ⭐[[样式灵感与模板]]
 
-## [[UI Componenets-通用样式与组件]]
+## [[UI Componenet Library]]
 #### 1. Global Style
 - `*`
 - `html`

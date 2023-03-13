@@ -7,23 +7,35 @@ modified: 2023-03-08 Wed
 status: 
 ---
 ## What
+- Static Site Generators (SSG)
 - Used to create extremely fast and optimized websites.
 - SEO, performance, flexibility, security
 - Can still be dynamic and fetch data from an API or headless CMS
 - All data fetching happens before build time
-## Choices
+## Requirement
+#### 1. Client Side
+- Markdown > HTML
+#### 2. Client Side / CMS
+- Markdown Editing Experience
+## SSG-General
 #### 1. Astro
-- Top level `await`
 ![[Pasted image 20230308175352.png]]
-#### 2. Gatsby
+- Top level `await`
+## SSG-React
+#### 1. Gatsby
 ![[Pasted image 20230308175443.png]]
-#### 3. Gridsome
+## SSG-Vue
+#### 1. VuePress2 
+#### 2. Gridsome
 ![[Pasted image 20230308175509.png]]
-#### 4. Jekyll
-![[Pasted image 20230308175525.png]]
-#### 5. Hugo
-![[Pasted image 20230308181708.png]]
-#### 6. Hexo
+## SSG-Node
+#### 1. Ghost
+#### 2. Hexo
 ![[Pasted image 20230308181728.png]]
-#### 7. Pelican
+## SSG-Other
+#### 1. Jekyll
+![[Pasted image 20230308175525.png]]
+#### 2. Hugo
+![[Pasted image 20230308181708.png]]
+#### 3. Pelican
 ![[Pasted image 20230308181745.png]]

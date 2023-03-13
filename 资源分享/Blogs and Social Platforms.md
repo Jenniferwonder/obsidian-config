@@ -70,7 +70,7 @@ status: Doing
 ## Content
 #### 1. Intro/ Who am I
 - ⭐[[Learn Front-End Technology in English]]
-#### 2. [[Front-End Engineering]]
+#### 2. [[Front-End Tech Stack]]
 - [[Job, Work, Career]]
 #### 3. Learning Efficiency
 - ⭐[[Learning Efficiency]]

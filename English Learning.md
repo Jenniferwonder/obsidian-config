@@ -47,7 +47,7 @@ Because English is my major. It's something I care about and I'm interested in. 
 	- Be able to talk with native speakers like an equal
 ## Problems
 #### 1. English for programmars and engineers
-- How to improve [[English Learning]] and [[Front-End Engineering]] at the same time?
+- How to improve [[English Learning]] and [[Front-End Tech Stack]] at the same time?
 	- Is it possible?
 #### 2. What problems are people facing in improving English?
 #### 3. What makes good spoken English good?

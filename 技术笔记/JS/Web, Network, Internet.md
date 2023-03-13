@@ -29,6 +29,8 @@ status:
 #### 4. Internet
 >[How does the Internet work? - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/How_does_the_Internet_work)
 #### 5. [[CDN]]
+#### 6. Rendering
+- SSG/ CSR/ SSR/ ISR
 ## [[Security]]
 ## [[User Analytics]]
 - [[Cookies]]

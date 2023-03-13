@@ -14,40 +14,11 @@ status:
 #### 2. Database integration
 - Provide an abstraction over your relational database
 	- Have **built-in object relational mapper** that can migrate code from your preferred programming language into SQL code that can be used by the database
-- How to connect local JSON data with UI?
-- How to use mockdata to create UI displaying data? > [[JSON]]
-	- [[Fetch API]]
-	- [[Axios]]
-- How to connect **[[Next.js]]** App with [[Sanity]] data?
-	- [[How to start a React, NextJS and TailwindCSS project]]
 #### 3. Architecture
 - Provide a way to dynamically insert data from your database into HTML  
 ❗The framework you choose is going to dictate your life for the next 10 years.  
 Together, they make MVC, the most common approach when building a full-stack web app.
-## Full Stack Frameworks
-- Next.js (React) [https://nextjs.org/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbjFXcmgxTGdmRUMxTnFRMHhWaHd1bE5zbXNhUXxBQ3Jtc0trZ0dxYXIzT0g3ZEdjclpVRVR5VU81dG12UE5MTlJPeEdRZUJsa1gwOWhnTjMzazlxY08wZlFnNGMwUG5rSVdfY2Q2R042QXJUSjRxVGNYZWRheFpaNGRxVm9KbWg2a1JyX25SckVtWWQtQmZVYTROQQ&q=https%3A%2F%2Fnextjs.org%2F&v=FQPlEnKav48)
-	- Redwood
-		- Prisma, GraphQL, Jest, Storybook
-		- End-to-end workflow **great for startups**
-	- Blitz
-		- NextJS Toolkit
-		- Typesafe Data layer, and Scaffolding
-		- Authentication
-- Remix (React)
-	- Native form component, loading states
-- Nuxt.js (Vue)
-	- Comparable to Next.js
-	- Hybrid rendering, Nitro server engine
-- Sveltekit (Svelte)
-	- SSR, SSG, Routing...
-	- Hydrating the page: (骨架屏？)
-		- Loads components **on server** first and send it to the client as HTMl, and render the components on the page again **in the browser** to make it interactive
-	- You can control what you want to render on the server as well as the client
-	- User faced page - Server rendered vs Admin panel - SPA, **Why**?
-	- 
-- Blazor (C#, WASM/ Web Assembly)
-	- Hot reload, lazy loading, virtualization
-- ![[Pasted image 20230308095920.png]]
+
 ## Server-Side Framework Choices
 ![[Pasted image 20230308194505.png]]
 - Go Gin [https://gin-gonic.com/](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbTAzakYtRWZjRElhaVlkcmdfMzh0bUNHcHF5QXxBQ3Jtc0trVmxodWhiM004X3MxbmlGdFZiVlNzN2IwQzgyUDJqdzBMU2FRZTZ3M0JLSVFPWDh3T01hOUVoTGRHYUd2c2ZWdzB2VFduS3RsZFVMU0swU2hubTJReUV4VS14NTlYbktGMzdySV85ckFpSFJfT090OA&q=https%3A%2F%2Fgin-gonic.com%2F&v=FQPlEnKav48) 

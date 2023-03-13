@@ -6,7 +6,7 @@
       {
         "id": "c23879f81fca5563",
         "type": "tabs",
-        "dimension": 56.12860013395847,
+        "dimension": 24.04554588077696,
         "children": [
           {
             "id": "197bcdabdb2a48b5",
@@ -24,17 +24,57 @@
         ]
       },
       {
-        "id": "9105bfa964d5b121",
+        "id": "47cfe112227f6067",
         "type": "tabs",
-        "dimension": 43.87139986604153,
+        "dimension": 13.395847287340926,
         "children": [
           {
-            "id": "6f2cd99e65fd7652",
+            "id": "d34120ec4cacaba8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-End Engineering.md",
+                "file": "Milestones/2023-03.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4de399852c3ab927",
+        "type": "tabs",
+        "dimension": 33.42263898191561,
+        "children": [
+          {
+            "id": "a1bd1005344efb40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Front-End Tech Stack.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "8536c50bf354a15a",
+        "type": "tabs",
+        "dimension": 29.13596784996651,
+        "children": [
+          {
+            "id": "b28ace057e9205ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Workflow.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -109,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Portfolio-个人主页.md",
+                "file": "Front-End Tech Stack.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -144,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Portfolio-个人主页.md",
+                "file": "Front-End Tech Stack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Portfolio-个人主页.md",
+                "file": "Front-End Tech Stack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Portfolio-个人主页.md"
+                "file": "Front-End Tech Stack.md"
               }
             }
           },
@@ -235,17 +275,17 @@
     "direction": "horizontal",
     "width": 220.5
   },
-  "active": "197bcdabdb2a48b5",
+  "active": "a1bd1005344efb40",
   "lastOpenFiles": [
-    "Front-End Engineering.md",
-    "Portfolio-个人主页.md",
-    "assets/Portfolio-个人主页 2023-03-11 15.12.05.excalidraw.md",
-    "资源分享/Blogs and Social Platforms.md",
-    "技术笔记/JS/Algorithms and Data Structure.md",
-    "学习记录/2023-03-11.md",
-    "Reflection on Building a Portfolio Website.md",
-    "学习记录/2023-03-10.md",
     "Project Workflow.md",
-    "Photo Editing.md"
+    "Front-End Tech Stack.md",
+    "Milestones/2023-03.md",
+    "项目开发/开发流程/D3-前后端协作.md",
+    "项目开发/开发流程/Architecture and System Design.md",
+    "Server.md",
+    "项目开发/前端资源/HTML, CSS 学习资源.md",
+    "CSS Frameworks.md",
+    "D2-System Architecture.md",
+    "Portfolio-个人主页.md"
   ]
 }

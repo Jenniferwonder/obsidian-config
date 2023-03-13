@@ -51,7 +51,7 @@ status:
 - [[jQuery]]
 #### 3. Blog-Node.js, MongoDB
 - [YouTube-Node.js, MongoDB- Blog](https://www.youtube.com/watch?v=1NrHkjlWVhM&list=RDCMUCFbNIlppjAuEX4znoulh0Cw&start_radio=1&t=138s)
-- [[Node&Express]]
+- [[Node.js and Package manager]]
 #### 4. Blog-Node.js, Firebase
 - [GitHub - Blogging-site using HTML, CSS and JS, Node.js, and Firebase as its databse.](https://github.com/kunaal438/blogging-site)
 - [[Firebase]]

@@ -38,7 +38,7 @@ A bilingual Tech Blog website with quality translation support.
 - Create React App
 - [[Vite]]
 #### 3. 后端
-- 🟩[[Node&Express]]
+- 🟩[[Node.js and Package manager]]
 - 🟩[[MongoDB, Mongoose]]
 - [[Sanity]]
 - [[Firebase]]
@@ -104,7 +104,7 @@ A bilingual Tech Blog website with quality translation support.
 - [[低代码建站方案]]
 ## 如何部署上线
 参考：
-- [[Deploy]]
+- [[Deploying]]
 ## 项目开发思路
 - 模仿 > 设计优化 > 创新
 - 侧重：前端 GUI 页面的实现（夯实前端技术基础和核心能力）

@@ -44,7 +44,7 @@ status:
 - What do you do for a living?/ What's your job/ profession?
 - What's the difference between working and being a student?
 - Why do you want to switch your career?
-- [[Front-End Engineering]]
+- [[Front-End Tech Stack]]
 - [[English Learning]]
 - [[UI, UX Design]]
 - [[Video Editing]]

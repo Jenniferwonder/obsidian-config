@@ -22,15 +22,15 @@ Codepen：[https://codepen.io/jenniferwonder](https://codepen.io/jenniferwonder)
 - Learn HTML: 
    - 基于 Dev 社区，浅白易懂，阅读体验较好，适合夯实入门基础
 ### CSS 学习资源
-#### CSS 推荐指南
+#### 1. CSS 推荐指南
 - 英文指南： 
    - 系统讲解 CSS 模块化架构原理，浅白易懂，有助于提升 CSS 代码编写效率和质量
    - ⭐⭐⭐
 - 中文指南：
-#### CSS 布局
+#### 2. CSS 布局
 - 
 -  
-#### CSS 案例
+#### 3. CSS 案例
 - 
 - 
 - 

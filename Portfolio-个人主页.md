@@ -3,9 +3,59 @@ title: Portfolio-个人主页
 tags: Projects/React-Project   
 started: 2023-02-16 Thu
 due: 
-modified: 2023-03-06 Mon
+modified: 2023-03-13 Mon
 status: Doing
 ---
+## Task Backlog
+#### 1. Projects Pool
+- [[Front-End Tech Stack]]
+#### 2. Purpose and Competitive analysis
+- Value
+- Interest
+- Strength
+- **Content**
+#### 3. Requirement Table 
+- Community Interaction (Q&A) > **Premium Content** (Pay/ Subscribe to unlock > Password)
+	- **Note > Book/ Knowledge Base** Website (Why not Yuque?)
+		- Authorization 
+			- Read only (Ban Content Copying)
+		- Free Access 
+- Share; Comment; 
+- Edit
+- Write and Post 
+- Build a **Blog** Website
+- Build a **Portfolio** Website > Blog; Projects (Github); Contact
+#### 4. Inspiration and Design > Wireframe
+- UI/UX
+- Figma; PS
+#### 5. Function Module Diagram > [[UML]] (Flow Chart/ Mindmap)
+- Function (CRUD)
+#### 6. Tech Architecture Diagram
+- SPA/ ~~MPA~~?
+#### 7. Tech Choices (Why & Why not) > Demo
+- Meet UI requirement (Slice SVG to HTML) - 切图
+- Front-end Framework
+- [[SSG Frameworks]]
+- UI Framework/ Libraries
+- Back-end Framework
+	- User Analytics (Visitor; Comments)
+	- Tags
+	- Recommend/ Related
+- Database/ Data Store
+	- Picture/ Music/ Video
+	- Markdown > HTML
+	- User
+	- Post
+	- Author
+- Testing
+- Deploy
+	- CI/CD
+	- Server
+	- DNS
+	- CDN
+	- 备案
+#### 8. Resources
+
 ## Purpose
 ### Why do I want to build a personal portfolio/ blog website?
 - Enhance/ Apply the **Front-end Tech** skills I've learned about React, JS, HTML, CSS
@@ -76,10 +126,7 @@ status: Doing
 		- Hexo (**Theming** system is static and string-based - we want to take advantage of Vue for both the **layout and the interactivity**. Also, Hexo's **Markdown rendering** isn't the most flexible to configure)
 		- Docsify / Docute (Both fully runtime-driven and therefore not **SEO**-friendly. If you don't care for SEO and don't want to mess with **installing dependencies**, these are still great choices.)
 - Gatsby
-### Requirement Table
- | Function | Module   | Description | Priority | Current Stats | Expect to Finish | Finished |
- | -------- | -------- | ----------- | -------- | ------------- | ---------------- | -------- |
- |          |  |             |          |               |                  |          |
+### Function Module Diagram ([[UML]])
 #### 1. Home (About)
 - Navbar(......)
 - Photo; 
@@ -107,10 +154,10 @@ status: Doing
 	- Related Blogs
 	- Comment
 #### 5. Books (Publication)/ Documentation
-- 文档是基于[VuePress2](https://v2.vuepress.vuejs.org/)构建，图使用[Fabric.js](http://fabricjs.com/)绘制，通过Github Actions自动部署, 大家可以在右上角访问Github地址，或者访问每个页面下方的修改链接，随时通过PR的方式共建这个知识图谱， Java，Python等岗位的知识图谱正在制作中，欢迎一起共建一个最好的计算机知识图谱
-- 路线图的数据格式大家可以参考[docs/index.md](https://github.com/shengxinjing/it-roadmap/blob/main/docs/index.md)
-- 这个网站会一直以静态的形式存在，不需要登录，不需要关注公众号，源码和文稿全部在Github，欢迎大家一起来提PR共建
-- 文件夹docs下面就是全部的文档，roadmap组件负责渲染路线图，动态渲染
+- 文档是基于 [VuePress2](https://v2.vuepress.vuejs.org/) 构建，图使用 [Fabric.js](http://fabricjs.com/) 绘制，通过 Github Actions 自动部署, 大家可以在右上角访问 Github 地址，或者访问每个页面下方的修改链接，随时通过 PR 的方式共建这个知识图谱， Java，Python 等岗位的知识图谱正在制作中，欢迎一起共建一个最好的计算机知识图谱
+- 路线图的数据格式大家可以参考 [docs/index.md](https://github.com/shengxinjing/it-roadmap/blob/main/docs/index.md)
+- 这个网站会一直以静态的形式存在，不需要登录，不需要关注公众号，源码和文稿全部在 Github，欢迎大家一起来提 PR 共建
+- 文件夹 docs 下面就是全部的文档，roadmap 组件负责渲染路线图，动态渲染
 - ![[Portfolio-个人主页 2023-03-11 15.12.05.excalidraw]]
 - Interactive Mindmap
 - Link to **Book Site** ([Books](https://books.halfrost.com/))
@@ -126,8 +173,6 @@ status: Doing
 #### 9. Contact
 - [[Blogs and Social Platforms]]
 
-### Function Module Diagram ([[UML]])
-
 ### Tech Architecture Diagram
 
 ### Table-Schema Design
@@ -139,7 +184,7 @@ status: Doing
 - [x] Dynamic visitor data and feedback
 	- Cumulative Page Views 65265  | Unique Visitors 37316
 - How to use React Component, Hooks?
-- [[UI Componenets-通用样式与组件]]
+- [[UI Componenet Library]]
 - [[React]] 组件化和 hooks 封装 (复用)
 #### 2. [[Testing]]
 - Jest
@@ -147,7 +192,7 @@ status: Doing
 - Joint Debugging 联调 (多人协作效率)
 - Unit Test 单元测试 （代码帮你测试代码）
 - Monitor 监控报警 （线上问题提前预支）
-#### 3. [[Deploy]]
+#### 3. [[Deploying]]
 #### 4. Back-End
 - [[Database]] 
 - [[Server-Side Frameworks]]
@@ -170,7 +215,7 @@ status: Doing
 #### 2. Git Repository Set Up
 - Pull <u>the new one</u> from remote
 - Push <u>the local v1</u> to the remote
-- [[Useful Git commands]]
+- [[Git commands]]
 #### 3. Project Initiation 
 - 脚手架 （多个项目初始化效率）
 ##### 3.1. Install NextJS, TailwindCSS

@@ -1,14 +1,16 @@
 ---
-title: Front-End Engineering
+title: Front-End Tech Stack
 tags: Front-End 
 started: 2023-01-17 Tue
 due: 
-modified: 2023-03-10 Fri
+modified: 2023-03-13 Mon
 status: 
 ---
 ## Reference and Resources
 #### 1. General
+- JSConf China 2017
 - [Road 2 Coding](https://r2coding.com/#/?id=%e7%bc%96%e7%a8%8b%e5%ad%a6%e4%b9%a0%e8%b5%84%e6%ba%90%e5%a4%a7%e6%95%b4%e7%90%86)
+- [Halfrost's Field | 冰霜之地](https://halfrost.com/)
 - [GitHub - sdmg15/Best-websites-a-programmer-should-visit: Some useful websites for programmers.](https://github.com/sdmg15/Best-websites-a-programmer-should-visit#internships)
 - [GitHub - Jenniferwonder/AlgoWiki: Repository which contains links and resources on different topics of Computer Science.](https://github.com/Jenniferwonder/AlgoWiki)
 - [GitHub - jwasham/coding-interview-university: A complete computer science study plan to become a software engineer.](https://github.com/jwasham/coding-interview-university#the-daily-plan)
@@ -36,72 +38,69 @@ status:
 ## Fundamentals
 #### 1. [[Algorithms and Data Structure]]
 #### 2. [[Web, Network, Internet]]
-#### 3. [[Project Workflow]]
-- [[System Design]] > [[UML]]
+#### 3. Operating Systems
 #### 4. [[Front-End Interviews]]
-## Front-End Basics 
-#### 1. [[HTML]]
-#### 2. [[CSS]] & [[Tailwind CSS]]
-#### 3. [[JavaScript]]
-#### 4. [[TypeScript]]
-## Front-End Frameworks > Data Request  
-#### 1. [[React]] & [[Next.js]]
-- ![[Pasted image 20230308093733.png]]
-- React UI
-	- ![[Pasted image 20230308094553.png]]
-#### 2. [[Vue]] 3 & Nuxt
-- ![[Pasted image 20230308093800.png]]
-- Vue UI
-	- ![[Pasted image 20230308094618.png]]
-#### 3. Svelte & SvelteKit
-- Svelte UI
-	- ![[Pasted image 20230308094823.png]]
-#### 4. Solid.js
-#### 5. Quick
-## [[SSG Frameworks]]/ Static Site Generators (SSG)
-#### 1. Astro
-#### 2. Gatsby
-#### 3. Gridsome
-#### 4. Jekyll
-#### 5. Hugo
-#### 6. Hexo
-#### 7. Pelican
-#### 8. VuePress2 
-## [[Server-Side Frameworks]] > Data Response
-#### 1. [[Authentication]]
-#### 2. [[User Analytics]]
-## [[Database]] 
-## DEVOPS Skills
-#### 1. [[CI-CD]]
-- Jenkins, 
-- Travis CI, 
-- Circle CI
-#### 2. Terminal/ Linux Commands
+## [[Project Workflow]]
+- [[Project Plan and Research]] 
+- [[Architecture and System Design]] > [[UML]]
+## Client Side Basics
+#### 1. UI Interactions
+- [[JavaScript]]
+	- DOM > jQuery
+	- Modules
+#### 2. UI Styles/ Themes
+- [[HTML]] & [[CSS]]
+	- [[HTML, CSS 学习资源]]
+	- [[SASS]]
+- [[CSS Frameworks]]
+	- [[Tailwind CSS]]
+	- Bootstrap
+- [[UI Componenet Library]]
+#### 3. Data Request (HTTP, Consuming API)
+- [[JavaScript]]
+	- Ajax
+	- async...await
+	- [[Fetch API]]
+	- [[Axios]]
+- Mock Data
+	- How to use mock data to create UI displaying data? 
+- Data Sources and Format
+	- How to connect local [[JSON]] data with UI?
+#### 4. Type Checking
+- [[TypeScript]]
+#### 5. Routing
+#### 6. [[Authentication]]
+#### 7. [[User Analytics]]
+#### 8. [[Front-End Frameworks]]
+## Server Side Basics
+#### 1. [[Database]]
+#### 2. Database Integration
+#### 3. Server Side Logic
+#### 4. API Design (HTTP, Creating API)
+#### 5. SSG, SSR & ISR
+#### 6. [[SSG Frameworks]]
+#### 7. [[Full-Stack Frameworks]]
+#### 8. [[Server-Side Frameworks]]
+## Third-Party Services
+#### 1. [[API Resources]]
+- 直播、短信、视频点播、第三方存储、OCR 文字识别
+## DEVOPS Tools
+#### 1. Dev Prep
+- [[VS Code]]
+- [[Git commands]]
+- [[Node.js and Package manager]]
 - [[Windows Commands and Tools]]
 - [[vim]]
-#### 3. Web Servers
-- Nginx, 
-- Apache configuration
-#### 4. Containerization & Virtualization
+- Style Guide: ESlint; Prettier 
+#### 2. [[Testing]]
+#### 3. [[Performance Optimization]]
+#### 4. [[Compilers and Bundlers]]
+#### 5. [[Deploying]]
+#### 6. Containerization & Virtualization
 - Docker, 
 - Kubernetes, 
 - Vagrant
-#### 5. Assets& File Storage
-#### 6. Infrastructure as Code (IaC)
-- Terraform
-- CloudFormation
-- Pulumi
-## Workflow
-#### 1. [[Useful Git commands]]
-#### 2. [[Node&Express]] & NPM
-#### 3. Style Guide/ Type Checking
-- ESlint; Prettier ; [[TypeScript]]
-#### 4. [[Testing]]
-#### 5. [[Performance Optimization]]
-#### 6. [[Compilers and Bundlers]]
-#### 7. [[Deploy]]
-#### 8. Jamstack
-![[Pasted image 20230308183740.png]]
+
 ## No-Code Tools
 - Kajabi for video platform  
 - Wordpress  

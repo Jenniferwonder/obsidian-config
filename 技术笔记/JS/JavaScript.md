@@ -10,7 +10,7 @@ number headings: auto, first-level 4, max 6, 1._.1.1.
 ## Questions
 - 结合项目熟悉相关技术？
 - 怎样做项目？写项目文档、笔记？
-- 高效绘制 Flow Chart? > [[System Design]]
+- 高效绘制 Flow Chart? > [[Architecture and System Design]]
 ## Reference
 ### Official Reference
 - [JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)

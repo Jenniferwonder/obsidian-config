@@ -10,6 +10,7 @@ status:
 - ~~What do you know about React?~~
 - ~~What is React?~~
 - Why do you want to learn and use React?
+- ![[Pasted image 20230308093733.png]]
 ## How to be good at React?
 #### 1. Install [[VS Code]] Extensions for React
 #### 2. Tools
@@ -20,7 +21,7 @@ status:
 #### 4. React Hooks
 - [GitHub - alibaba/hooks: A high-quality & reliable React Hooks library.](https://github.com/alibaba/hooks)
 #### 5. React Component Libraries
-- [[UI Componenets-通用样式与组件]]
+- [[UI Componenet Library]]
 - [GitHub - brillout/awesome-react-components: Curated List of React Components & Libraries.](https://github.com/brillout/awesome-react-components#ui-frameworks)
 - MUI: [GitHub - mui/material-ui: MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.](https://github.com/mui/material-ui)
 - Ant Design: [GitHub - ant-design/ant-design: An enterprise-class UI design language and React UI library](https://github.com/ant-design/ant-design)

@@ -1,93 +1,13 @@
 ---
-title: System Design
-tags: Projects/Workflow
-status: Done
-modified: 2023-03-07 Tue
-started: 2022-10-31 
+title: D2-System Architecture
+tags: System-Design   
+started: 2023-03-13 Mon
 due: 
-aliases: 
+modified: 2023-03-13 Mon
+status: 
 ---
-## Architecture Overview
-[The Benefits of Functional Architectures | Systems Engineering, Part 3 - YouTube](https://www.youtube.com/watch?v=UTm1ORuZ1dg)
-![[Pasted image 20230308083747.png]]
-#### 1. Functional Architecture
-![[Pasted image 20230308091015.png]]
-##### 1.1. Function Decomposition
-- Verb-Noun Pairing
-	- ![[Pasted image 20230308091126.png]]
-- Back and forth between engineering team and stakeholders (Needs under speficified)
-- 
-### Basics
-[Getting the Basics - Software Architecture Introduction (part 1) - YouTube](https://www.youtube.com/watch?v=8UlLgOf20Ho)  
-Functional Requirements
-- Maintainability
-- Scalability
-- Reliability
-- Efficiency
-Restrictions
-Priorities
-- Time to market vs Features
-- Portability vs Scalability/ Maintainability
-Layered Architecture
-- UI
-	- Presentation Layer
-- Logic
-	- Business Layer
-	- Persistence Layer
-- Store
-	- Database Layer
-## Web App Architecture
-[WEB APP ARCHITECTURE - THE ULTIMATE APPROACH!! - YouTube](https://www.youtube.com/watch?v=PjprIvgGh90)
-![[Pasted image 20230307214310.png]]
-### Server-side development approaches
-#### 1. Monolithic Architecture 单体应用
-[Monolithic架构到微服务 - 腾讯云开发者社区-腾讯云](https://cloud.tencent.com/developer/article/1349624)
-[Monolithic vs Microservices Architecture - Which One Is Right for You?Jelvix](https://jelvix.com/blog/monolith-vs-microservices-architecture)
-![[Pasted image 20230307215154.png]]
-Single codebase but risky for highly scalable platforms
-#### 2. Microservices
-- Isolation
-- Scalability
-- Flexibility
-- Simplified development
-##### 2.1. Disadvantage
-- need for secure algorithm
-- challenge of breaking the architecture into smaller features
-#### 3. Serverless 
-Use servers to run a web app, which are not hosted by the company
-- Don't care about the server
-- pay for used server space only
-- tech support
-#### 4. Best Practices
-1. Find a solution that covers most of your goals
-2. Choose the simplest option with minimalistic architecture
-3. Keep your architecture lightweight
-4. Your architecture should be able to identify and repair issues on its own
-5. Automate process
-6. Pay attention to Data Storing
-### Client-side development approaches
-#### 1. [[Service Worker-PWA]]
-#### 2. SPA
-#### 3. MPA
-- Complex backend development
-- Lower performance speed
-- Complicated debugging
-## System Design
-[System Design for Beginners Course - YouTube](https://www.youtube.com/watch?v=m8Icp_Cid5o)
-### Design Patterns
-A general **reusable solution** to a commonly occuring problem within a given context in software design.
-Convert business requirements into technical solutions
-![[Pasted image 20230310112005.png]]
-#### 1. Publisher-subscriber model
-[Systems Design Interview Concepts (for software engineers / full-stack web) - YouTube](https://www.youtube.com/watch?v=REB_eGHK_P4)  
-- Load Balancing
-- Caching
-- CDN
-- Replication
-- [[Database]] 
-- API Design
-创作时间：2022 年 10 月 31 日
 ## **第二天：如何做好架构师**
+创作时间：2022 年 10 月 31 日  
 00:00:00~00:06:53 组队安排 (看回放的同学直接跳过)  
 00:06:54~00:25:20 项目点评 (看回放的同学直接跳过)
 ### 00:25:21~00:26:50 提出问题：如何做好架构师？
@@ -146,7 +66,6 @@ Convert business requirements into technical solutions
 6. 更加清晰地展示项目用到了哪些技术，便于后期扩展和改造，起到对项目宏观地指导意义
 7. **库表设计** (关键)
 8. 对着 **需求信息表**
-	- ![[Pasted image 20230307175909.png]]
 9. 划分哪些库 - 每个项目一个库
 10. 划分哪些表 - 每个大的功能一个表
 11. 确定每个表有哪些字段
