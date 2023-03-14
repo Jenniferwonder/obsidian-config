@@ -6,7 +6,7 @@
       {
         "id": "c23879f81fca5563",
         "type": "tabs",
-        "dimension": 24.04554588077696,
+        "dimension": 27.07774798927614,
         "children": [
           {
             "id": "197bcdabdb2a48b5",
@@ -24,57 +24,17 @@
         ]
       },
       {
-        "id": "47cfe112227f6067",
+        "id": "3b19f5c4116e252c",
         "type": "tabs",
-        "dimension": 13.395847287340926,
+        "dimension": 72.92225201072387,
         "children": [
           {
-            "id": "d34120ec4cacaba8",
+            "id": "a5e3778597a54503",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Milestones/2023-03.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4de399852c3ab927",
-        "type": "tabs",
-        "dimension": 33.42263898191561,
-        "children": [
-          {
-            "id": "a1bd1005344efb40",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Front-End Tech Stack.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "8536c50bf354a15a",
-        "type": "tabs",
-        "dimension": 29.13596784996651,
-        "children": [
-          {
-            "id": "b28ace057e9205ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Workflow.md",
+                "file": "Project Plan and Research - Portfolio.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -149,7 +109,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Front-End Tech Stack.md",
+                "file": "Project Plan and Research - Portfolio.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -184,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-End Tech Stack.md",
+                "file": "Project Plan and Research - Portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-End Tech Stack.md",
+                "file": "Project Plan and Research - Portfolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +173,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-End Tech Stack.md"
+                "file": "Project Plan and Research - Portfolio.md"
               }
             }
           },
@@ -275,17 +235,17 @@
     "direction": "horizontal",
     "width": 220.5
   },
-  "active": "a1bd1005344efb40",
+  "active": "a5e3778597a54503",
   "lastOpenFiles": [
-    "Project Workflow.md",
+    "Portfolio-个人主页.md",
+    "assets/Project Plan and Research - Portfolio 2023-03-14 10.26.10.excalidraw.md",
+    "Project Plan and Research - Portfolio.md",
+    "assets/Project Plan and Research - Portfolio 2023-03-14 10.04.58.excalidraw.md",
+    "assets/assets/Pasted Image 20230314100526_536.png",
     "Front-End Tech Stack.md",
+    "Architecture and System Design - Portfolio.md",
+    "项目开发/开发流程/Project Plan and Research.md",
     "Milestones/2023-03.md",
-    "项目开发/开发流程/D3-前后端协作.md",
-    "项目开发/开发流程/Architecture and System Design.md",
-    "Server.md",
-    "项目开发/前端资源/HTML, CSS 学习资源.md",
-    "CSS Frameworks.md",
-    "D2-System Architecture.md",
-    "Portfolio-个人主页.md"
+    "学习记录/2023-03-14.md"
   ]
 }
