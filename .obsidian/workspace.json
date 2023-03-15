@@ -6,7 +6,7 @@
       {
         "id": "c23879f81fca5563",
         "type": "tabs",
-        "dimension": 27.07774798927614,
+        "dimension": 27.278820375335123,
         "children": [
           {
             "id": "197bcdabdb2a48b5",
@@ -24,17 +24,37 @@
         ]
       },
       {
-        "id": "3b19f5c4116e252c",
+        "id": "137825189feb1da0",
         "type": "tabs",
-        "dimension": 72.92225201072387,
+        "dimension": 42.828418230563,
         "children": [
           {
-            "id": "a5e3778597a54503",
+            "id": "3a56c82833d1ffd1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Project Plan and Research - Portfolio.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "4f37feeee16b252f",
+        "type": "tabs",
+        "dimension": 29.892761394101875,
+        "children": [
+          {
+            "id": "9eb4cc322dd0ae68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture and System Design - Portfolio.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -235,17 +255,17 @@
     "direction": "horizontal",
     "width": 220.5
   },
-  "active": "a5e3778597a54503",
+  "active": "3a56c82833d1ffd1",
   "lastOpenFiles": [
     "Portfolio-个人主页.md",
-    "assets/Project Plan and Research - Portfolio 2023-03-14 10.26.10.excalidraw.md",
     "Project Plan and Research - Portfolio.md",
-    "assets/Project Plan and Research - Portfolio 2023-03-14 10.04.58.excalidraw.md",
-    "assets/assets/Pasted Image 20230314100526_536.png",
-    "Front-End Tech Stack.md",
-    "Architecture and System Design - Portfolio.md",
     "项目开发/开发流程/Project Plan and Research.md",
-    "Milestones/2023-03.md",
-    "学习记录/2023-03-14.md"
+    "Architecture and System Design - Portfolio.md",
+    "System Design Methodology.md",
+    "项目开发/开发流程/Architecture and System Design.md",
+    "Front-End Tech Stack.md",
+    "Routing.md",
+    "Data Request.md",
+    "UI Styles-Themes.md"
   ]
 }

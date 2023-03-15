@@ -1,13 +1,13 @@
 ---
-title: Windows Commands
-tags: 
+title: Windows Commands and Tools
+tags: Tools
 status: 
-started: 
+started: 2022-11-22 Tue
+modified: 2023-03-15 Wed
 due: 
-aliases: 
 ---
-Create a folder: `mkdir`+`<folderName1>`+`<folderName2>`...
-Rename folder: `ren <folderName><newFolderName>`
+Create a folder: `mkdir`+`<folderName1>`+`<folderName2>`...  
+Rename folder: `ren <folderName><newFolderName>`  
 Create a file: `echo` > test.txt 
 ## Tools
 Typing Efficiency Tool

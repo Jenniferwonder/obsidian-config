@@ -85,7 +85,7 @@ number headings: auto, first-level 4, max 6, 1._.1.1.
 #### 5. [[Axios]]
 #### 6. [[CORS (跨域)]]
 #### 7. [[API Resources]]
-#### 8. [[Web APIs]]
+#### 8. [[Web APIs and API Design Patterns]]
 #### 9. [[Web Worker]]
 ### Data Storage
 #### 1. Local storage --Todo App

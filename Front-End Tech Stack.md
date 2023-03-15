@@ -44,31 +44,11 @@ status:
 - [[Project Plan and Research]] 
 - [[Architecture and System Design]] > [[UML]]
 ## Client Side Basics
-#### 1. UI Interactions
-- [[JavaScript]]
-	- DOM > jQuery
-	- Modules
-#### 2. UI Styles/ Themes
-- [[HTML]] & [[CSS]]
-	- [[HTML, CSS 学习资源]]
-	- [[SASS]]
-- [[CSS Frameworks]]
-	- [[Tailwind CSS]]
-	- Bootstrap
-- [[UI Componenet Library]]
-#### 3. Data Request (HTTP, Consuming API)
-- [[JavaScript]]
-	- Ajax
-	- async...await
-	- [[Fetch API]]
-	- [[Axios]]
-- Mock Data
-	- How to use mock data to create UI displaying data? 
-- Data Sources and Format
-	- How to connect local [[JSON]] data with UI?
-#### 4. Type Checking
-- [[TypeScript]]
-#### 5. Routing
+#### 1. [[UI Interactions]]
+#### 2. [[UI Styles-Themes]]
+#### 3. [[Data Request]] (HTTP, Consuming API)
+#### 4. [[TypeScript]]
+#### 5. [[Routing]]
 #### 6. [[Authentication]]
 #### 7. [[User Analytics]]
 #### 8. [[Front-End Frameworks]]
@@ -77,7 +57,7 @@ status:
 #### 2. Database Integration
 #### 3. Server Side Logic
 #### 4. API Design (HTTP, Creating API)
-#### 5. SSG, SSR & ISR
+#### 5. CSR, SSG, SSR & ISR
 #### 6. [[SSG Frameworks]]
 #### 7. [[Full-Stack Frameworks]]
 #### 8. [[Server-Side Frameworks]]

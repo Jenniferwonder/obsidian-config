@@ -20,9 +20,17 @@ due:
 ## Resources Prep 
 #### 1. [[DNS]]
 #### 2. [[Server]]
+- Storage
+- Bandwidth
 #### 3. [[Database]]
-#### 4. Assets& File Storage
-#### 5. Infrastructure as Code (IaC)
+#### 4. Object Storage
+#### 5. [[CDN]]
+#### 6. [[API Resources]]
+- Github
+- Wechat
+- SMS
+#### 7. Assets& File Storage
+#### 8. Infrastructure as Code (IaC)
 - Terraform
 - CloudFormation
 - Pulumi

@@ -19,15 +19,15 @@ Bandwidth; Storage; CPU; Hard Drive
 5. 服务器 CPU：核心数  
 6. 硬盘大小、云数据库
 ### Server Choices
-#### 1. GitHub
-#### 2. Serverless Platform 
+#### 1. Nginx
+#### 2. Apache configuration
+#### 3. GitHub
+#### 4. Serverless Platform 
 - [探索 Serverless 中的前端开发模式](https://juejin.cn/post/6844903844745330695 "https://juejin.cn/post/6844903844745330695")
 - [「NGW」前端新技术赛场：Serverless SSR 技术内幕](https://juejin.cn/post/6844903998009393160?utm_source=gold_browser_extension "https://juejin.cn/post/6844903998009393160?utm_source=gold_browser_extension")
 - Firebase
 - Vercel
-#### 3. Nginx
-#### 4. Sentry
-#### 5. Apache configuration
+#### 5. Sentry
 #### 6. Heroku
 #### 7. Apollo
 #### 8. AWS
