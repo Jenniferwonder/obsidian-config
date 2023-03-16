@@ -27,7 +27,8 @@ status:
 ![[Pasted image 20230225175154.png]]
 #### 6. 如何设置背景图片形状？
 ![[Pasted image 20230225174835.png]]
-### ✅How-to
+## ✅How-to
+- **Photo/ Image**/ Logo/ Font editing (Resizing, format from jpeg to png, compressing, reshaping, changing/ removing background, anime, placeholder) 
 #### 1. [[Color-颜色与背景]]
 #### 2. Remove Background/ 抠图
 - [[PS]]

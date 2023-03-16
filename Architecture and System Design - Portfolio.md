@@ -8,34 +8,54 @@ status:
 ---
 ## Tech Choices 
 #### 1. Why & Why not > Demo
-#### 2. UI Component
+#### 2. Front-End Frameworks
 - [[React]]
+- [[SSG Frameworks]]
+##### 2.1. UI Component
 - UI Framework/ Libraries
 	- [[Tailwind CSS]]
 	- [[UI Componenet Library]]
-#### 3. [[Data Request]]
+##### 2.2. [[Data Request]]
 - [[Next.js]]
 - React Router?
-#### 4. Create API
+#### 3. Back-End Frameworks
+##### 3.1. [[Authentication]]
+##### 3.2. [[User Analytics]]
+##### 3.3. Create API
 - [[Node.js and Package manager]]
 - Express.js
 - [[API Resources]] > [[GraphQL]]
-#### 5. Database/ Data Store
+##### 3.4. Database/ Data Store
 - [[MongoDB, Mongoose]]
 - Picture/ Music/ Video
 - Markdown > HTML
 - User
 - Post
 - Author
-#### 6. [[Testing]]
+#### 4. [[Testing]]
 - Jest
 - React Testing Library
-#### 7. [[Deploying]]
+#### 5. [[Performance Optimization]]
+- Performance monitoring 
+#### 6. [[Deploying]]
 - [[CI-CD]]
 - Server > Vercel/ Netlify/ Github
 - DNS
 - CDN
 - 备案
+#### 7. Dependency
+- [[Dependency Installation Error]]
+##### 7.1. Dev Tools
+- Code Format：
+	- prettier
+	- eslint
+- Efficiency
+	- react-code-snippets
+- 代码 Review ( 多人协作规范)
+	- Commit standard
+#### 8. GitHub Version Control
+- Set up a Git repo 
+- How to contribute to a git repo?
 ## Resources Prep
 #### 1. [[DNS]]
 #### 2. [[Server]]
@@ -55,14 +75,23 @@ status:
 - Pulumi
 ## System Design 
 只用语言、图描述系统，不写代码  
-#### 1. 功能模块图 
+### 功能模块图 
 - [[UML]] / Flow Charts/ Mindmap
 - 分为哪些功能模块，功能模块图 (类似流程图或者思维导图)
 - 从整体到局部，从大到小，比如（用户前台，管理后台）-》（XX，XX。。）、（XX，XX。。）
 - 功能间关系不大的可用思维导图
-#### 2. 技术架构图
+### 技术架构图
 - 更加清晰地展示项目用到了哪些技术，便于后期扩展和改造，起到对项目宏观地指导意义
-#### 3. 库表设计 (关键)
+### 库表设计 (关键)
+#### 1. Markdown in DB Solutions?
+- [How do you save markdown in database and render it? | Makerlog](https://getmakerlog.com/discussions/waptik-how-do-you-save-markdown-in-database-and-re)
+##### 1.1. MD Editor/Render/Parser (Convert .md to HTML)
+- [GitHub - HarryChen0506/react-markdown-editor-lite: a light-weight Markdown editor based on React. 一款轻量的基于React的markdown编辑器](https://github.com/HarryChen0506/react-markdown-editor-lite)
+- [GitHub - markdown-it/markdown-it: Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed](https://github.com/markdown-it/markdown-it)
+##### 1.2. Raw markdown files in folders not in DB?
+- User created .md input?
+- Other items of a blog post? (title, date, description, cover, tag, author)
+
 1. 对着 **需求信息表** ([[Requirement Table]])
 2. 划分哪些库 - 每个项目一个库
 3. 划分哪些表 - 每个大的功能一个表
@@ -74,7 +103,7 @@ status:
 9. 必要的四件套字段
 10. id(int)、create_time(current_timestamp)、update_time(current_timestamp 并且加 on update current_timestamp)、isDelete（软删除，逻辑删除）
 11. 将设计清晰地记录下来
-#### 4. 每个功能的实现逻辑
+### 每个功能的实现逻辑
 1. 每个需求详细设计
 2. 结构怎么设计
 3. 流程越详细越好

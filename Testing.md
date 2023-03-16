@@ -34,5 +34,8 @@ A set of **utilities** that let you test React components without relying on the
 ## TDD-Test Drivern Development Philosophy
 #### 1. End-To-End
 #### 2. Integration
-#### 3. Unit
+#### 3. Unit Test
+- Unit Test 单元测试 （代码帮你测试代码）
+#### 4. Joint Debugging 联调 (多人协作效率)
+#### 5. Monitor 监控报警 （线上问题提前预知）
 

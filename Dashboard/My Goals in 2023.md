@@ -34,7 +34,7 @@ status:
 	- [[English Learning]] > [[My Goals in 2023]] > [[Learn Front-End Technology in English]]
 - [[2023-02]]
 	- [[Blogs and Social Platforms]] > [[Video Editing]]
-	- [[React]], [[Next.js]] >[[React, Next.js Projects]] > [[Portfolio-个人主页]]
+	- [[React]], [[Next.js]] >[[React, Next.js Projects]] > [[GeekEnglish Platform]]
 #### 2. Logs
 - [[Monthly Reflection]]
 ## [[Baby Prep]]
@@ -89,10 +89,10 @@ I know clearly, I'm not ready yet. Why? And **WHEN** can I be ready? > You don't
 	- MongoDB, Mongoose
 ## Projects
 #### 1. [[React, Next.js Projects]]
-- [[Portfolio-个人主页]]
+- [[GeekEnglish Platform]]
 ##### 1.1. Timeline
-- [[2023-02-21]] Build up the initial [[Next.js]] front-end and [[Sanity]] backend for [[Portfolio-个人主页]]
-- [[2023-02-16]] Start building my [[Portfolio-个人主页]] website with [[React]] and initiate a git repository for the project
+- [[2023-02-21]] Build up the initial [[Next.js]] front-end and [[Sanity]] backend for [[GeekEnglish Platform]]
+- [[2023-02-16]] Start building my [[GeekEnglish Platform]] website with [[React]] and initiate a git repository for the project
 - [[2023-01-31]] Start Learning [[React]] Systematically from official tutorial 
 #### 2. [[Algorithms and Data Structure]]
 - Started on [[2023-02-13]]

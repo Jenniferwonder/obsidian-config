@@ -101,7 +101,7 @@ status:
 - ![[Pasted image 20230310115242.png]]
 #### 1. Three.js/ WebGL/ D3.js
 #### 2. Canvas
-#### 3. [[DashBoard]]
+#### 3. [[GeekEnglish Admin Panel]]
 ## Future
 ![[Pasted image 20230310120615.png]]
 ## Tech Blog

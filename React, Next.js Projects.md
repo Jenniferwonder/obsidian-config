@@ -10,10 +10,10 @@ status:
 - [React Website Tutorial for Beginners | Responsive React Website Using Styled Components - YouTube](https://www.youtube.com/watch?v=9_s_Essow6s&list=PLj-4DlPRT48nfYgDK00oTjlDF4O0ZZyG8&index=16)
 ## 主打项目
 ### Landing Page
-#### 1. [[Portfolio-个人主页]]
+#### 1. [[GeekEnglish Platform]]
 ### AI Tool 
 ### Data Visulization
-#### 1. [[DashBoard]]
+#### 1. [[GeekEnglish Admin Panel]]
 #### 2. Three.js/ D3
 #### 3. Canvas API
 #### 4. Tensorflow.js

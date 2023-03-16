@@ -6,7 +6,7 @@
       {
         "id": "c23879f81fca5563",
         "type": "tabs",
-        "dimension": 27.278820375335123,
+        "dimension": 36.1687876758205,
         "children": [
           {
             "id": "197bcdabdb2a48b5",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Portfolio-个人主页.md",
+                "file": "GeekEnglish Platform.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,37 +24,17 @@
         ]
       },
       {
-        "id": "137825189feb1da0",
+        "id": "4981b361b64e919c",
         "type": "tabs",
-        "dimension": 42.828418230563,
+        "dimension": 63.83121232417951,
         "children": [
           {
-            "id": "3a56c82833d1ffd1",
+            "id": "af2d07eea3405a66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Project Plan and Research - Portfolio.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4f37feeee16b252f",
-        "type": "tabs",
-        "dimension": 29.892761394101875,
-        "children": [
-          {
-            "id": "9eb4cc322dd0ae68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Architecture and System Design - Portfolio.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -80,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "域名",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -107,8 +87,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,19 +232,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 220.5
+    "width": 200
   },
-  "active": "3a56c82833d1ffd1",
+  "active": "af2d07eea3405a66",
   "lastOpenFiles": [
-    "Portfolio-个人主页.md",
+    "GeekEnglish Platform.md",
+    "DNS.md",
     "Project Plan and Research - Portfolio.md",
-    "项目开发/开发流程/Project Plan and Research.md",
-    "Architecture and System Design - Portfolio.md",
-    "System Design Methodology.md",
-    "项目开发/开发流程/Architecture and System Design.md",
-    "Front-End Tech Stack.md",
-    "Routing.md",
-    "Data Request.md",
-    "UI Styles-Themes.md"
+    "学习记录/2023-03-14.md",
+    "学习记录/2023-03-15.md",
+    "学习记录/2023-03-16.md",
+    "GeekEnglish Miniprogram.md",
+    "GeekEnglish App.md",
+    "GeekEnglish Note.md",
+    "GeekEnglish Admin Panel.md"
   ]
 }

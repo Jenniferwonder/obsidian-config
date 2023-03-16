@@ -44,6 +44,14 @@ status:
 - Other Tools/ Frameworks
 	- [Storybook: Frontend workshop for UI development](https://storybook.js.org/)
 	- [The Fastest Frontend for the Headless Web | Gatsby](https://www.gatsbyjs.com/)
+## How to build reusable components?
+- [x] Archive/ Timeline
+- [x] Dynamic visitor data and feedback
+	- Cumulative Page Views 65265  | Unique Visitors 37316
+- How to use React Component, Hooks?
+- [[UI Componenet Library]]
+- [[React]] 组件化和 hooks 封装 (复用)
+
 ## Core Concepts
 ![[Pasted image 20230310120115.png]]
 ### Testing
