@@ -13,3 +13,6 @@ Mix documents to render web pages
 - [Different Types Of Observers Supported By Modern Browsers](https://link.juejin.cn/?target=https%3A%2F%2Fwww.zeolearn.com%2Fmagazine%2Fdifferent-types-of-observers-supported-by-modern-browsers "https://www.zeolearn.com/magazine/different-types-of-observers-supported-by-modern-browsers")
 ## Browser DevTools
 >[What are browser developer tools? - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_are_browser_developer_tools)
+
+#### 1. Chrome Extensions
+- Print Friendly & PDF

@@ -16,6 +16,10 @@ status:
 - [Next.js 13… this changes everything - YouTube](https://www.youtube.com/watch?v=_w0Ikk4JY7U)
 ## How to Set Up?
 [[How to start a React, NextJS and TailwindCSS project]]
+## Environment Variables
+[Basic Features: Environment Variables | Next.js](https://nextjs.org/docs/basic-features/environment-variables)
+## Error handling
+[[Solution] NextJS Router Query Not Working in useEffect | by Felix Lee | Medium](https://leeyoongti.medium.com/fix-nextjs-router-query-not-working-in-useeffect-a2d9d0ac4703)
 ## What?
 - Next.js is a popular, lightweight framework for **static and server‑rendered applications**❓ built with React. It comes pre-packaged with features like routing, styling, and server-side rendering, getting your project up and running quickly.
 - Next.js is a solution for running react application server side.It also makes React development very simple. Some core features of Next.js are:
@@ -23,6 +27,8 @@ status:
 	2.  Automatic code splitting and lazy loading.
 	3.  Built in CSS support.
 	4.  Hot Reloading support.
+- **React Router Dom** is not needed with Next.js
+	- Directory based routing system
 ### Different Satges  
 - The environment **where** your code runs: **Development vs. Production**
 - **When** your code runs: **Build Time vs. Runtime**

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "c23879f81fca5563",
+        "id": "ddf21c5296972874",
         "type": "tabs",
-        "dimension": 36.1687876758205,
+        "dimension": 40.48257372654155,
         "children": [
           {
-            "id": "197bcdabdb2a48b5",
+            "id": "94132edfcccbabb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GeekEnglish Platform.md",
+                "file": "MongoDB, Mongoose.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,17 +24,37 @@
         ]
       },
       {
-        "id": "4981b361b64e919c",
+        "id": "62928fcd758b17b2",
         "type": "tabs",
-        "dimension": 63.83121232417951,
+        "dimension": 29.892761394101875,
         "children": [
           {
-            "id": "af2d07eea3405a66",
+            "id": "84898804fd4e5825",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Plan and Research - Portfolio.md",
+                "file": "技术笔记/NextJS/Next.js.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ea9b79a8dc3330cc",
+        "type": "tabs",
+        "dimension": 29.624664879356565,
+        "children": [
+          {
+            "id": "f5f593a1460c083a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Architecture and System Design - GeekEnglish.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -108,7 +128,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Project Plan and Research - Portfolio.md",
+                "file": "技术笔记/NextJS/Next.js.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -143,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Plan and Research - Portfolio.md",
+                "file": "技术笔记/NextJS/Next.js.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Plan and Research - Portfolio.md",
+                "file": "技术笔记/NextJS/Next.js.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +192,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Plan and Research - Portfolio.md"
+                "file": "技术笔记/NextJS/Next.js.md"
               }
             }
           },
@@ -234,17 +254,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "active": "af2d07eea3405a66",
+  "active": "84898804fd4e5825",
   "lastOpenFiles": [
-    "GeekEnglish Platform.md",
-    "DNS.md",
-    "Project Plan and Research - Portfolio.md",
-    "学习记录/2023-03-14.md",
-    "学习记录/2023-03-15.md",
-    "学习记录/2023-03-16.md",
-    "GeekEnglish Miniprogram.md",
-    "GeekEnglish App.md",
-    "GeekEnglish Note.md",
-    "GeekEnglish Admin Panel.md"
+    "MongoDB, Mongoose.md",
+    "技术笔记/NextJS/Next.js.md",
+    "How to start a React, NextJS and TailwindCSS project.md",
+    "Architecture and System Design - GeekEnglish.md",
+    "技术笔记/React/React.md",
+    "学习记录/2023-03-20.md",
+    "Dashboard/My Goals in 2023.md",
+    "Project Plan and Research - GeekEnglish.md",
+    "学习记录/2023-03-19.md",
+    "assets/Project Plan and Research - GeekEnglish 2023-03-17 20.04.08.excalidraw.md"
   ]
 }

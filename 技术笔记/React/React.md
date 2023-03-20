@@ -11,6 +11,8 @@ status:
 - ~~What is React?~~
 - Why do you want to learn and use React?
 - ![[Pasted image 20230308093733.png]]
+## Error handling
+- [React报错之Objects are not valid as a React child - chuckQu - 博客园](https://www.cnblogs.com/chuckQu/p/16552571.html)
 ## How to be good at React?
 #### 1. Install [[VS Code]] Extensions for React
 #### 2. Tools

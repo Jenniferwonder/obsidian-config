@@ -22,6 +22,10 @@ status:
 	- `npx create-next-app --example with-tailwindcss <项目名>`
 
 ## How to start a project with [[Next.js]]?
+### Initiate Next.js with TailwindCSS
+#### 1. Step 1 (🐛tailwindCSS not installed)
+![[Pasted image 20230320130514.png]]
+### Optional
 #### 1. Step 1: npx create-next-app
 `npx create-next-app@latest my-project --typescript --eslint`
 - When prompted to install `create-next-app@13.1.6`, hit `y`

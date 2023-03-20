@@ -1,9 +1,9 @@
 ---
-title: Architecture and System Design - Portfolio
-tags: Projects/Portfolio   
-started: 2023-03-14 Tue
+title: Architecture and System Design - GeekEnglish
+tags: Projects/GeekEnglish 
 due: 
-modified: 2023-03-15 Wed
+started: 2023-03-14 Tue
+modified: 2023-03-20 Mon
 status: 
 ---
 ## Tech Choices 
@@ -17,6 +17,7 @@ status:
 	- [[UI Componenet Library]]
 ##### 2.2. [[Data Request]]
 - [[Next.js]]
+	- Connect with [[MongoDB, Mongoose]]? > [How to connect your NextJs app to MongoDB - YouTube](https://www.youtube.com/watch?v=mOvW3iheF14)
 - React Router?
 #### 3. Back-End Frameworks
 ##### 3.1. [[Authentication]]
@@ -27,11 +28,16 @@ status:
 - [[API Resources]] > [[GraphQL]]
 ##### 3.4. Database/ Data Store
 - [[MongoDB, Mongoose]]
+	- Why? > [Comparing The Differences - MongoDB Vs MySQL | MongoDB](https://www.mongodb.com/compare/mongodb-mysql) 
+	- Username: Jenniferwonder
+	- MM: mCyj7qiT9ntjxl0h
 - Picture/ Music/ Video
 - Markdown > HTML
 - User
-- Post
 - Author
+- Post
+- Quiz
+- Tags
 #### 4. [[Testing]]
 - Jest
 - React Testing Library
@@ -40,7 +46,7 @@ status:
 #### 6. [[Deploying]]
 - [[CI-CD]]
 - Server > Vercel/ Netlify/ Github
-- DNS
+- [[DNS]]
 - CDN
 - 备案
 #### 7. Dependency
