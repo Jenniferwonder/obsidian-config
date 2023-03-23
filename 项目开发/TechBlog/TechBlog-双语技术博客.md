@@ -39,7 +39,7 @@ A bilingual Tech Blog website with quality translation support.
 - [[Vite]]
 #### 3. 后端
 - 🟩[[Node.js and Package manager]]
-- 🟩[[MongoDB, Mongoose]]
+- 🟩[[MongoDB]]
 - [[Sanity]]
 - [[Firebase]]
 ## 同类项目分析

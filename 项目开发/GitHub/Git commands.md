@@ -8,6 +8,7 @@ status:
 ---
 ## Tools
 - [前端工程化 | 使用 commitizen 规范你的 commit message！ | 你真是一个美好的人类](https://blog.juanertu.com/archives/5aa66889.html)
+- [Writing Better Commits. Writing better commits with the… | by Erxk | Mar, 2023 | ITNEXT](https://itnext.io/writing-better-commits-6a1691c12772)
 ## Use
 ### Download
 #### 1. Download Git/ WSL for Windows

@@ -16,28 +16,33 @@ status:
 	- [[Tailwind CSS]]
 	- [[UI Componenet Library]]
 ##### 2.2. [[Data Request]]
-- [[Next.js]]
-	- Connect with [[MongoDB, Mongoose]]? > [How to connect your NextJs app to MongoDB - YouTube](https://www.youtube.com/watch?v=mOvW3iheF14)
+- [[Next.js]] > `next/router` / `next/link`
+	- Connect with [[Sanity]]
+	- Connect with [[MongoDB]]
+	- Connect to a Backend using [[MongoDB]]?
+	- Connect to a Backend using MySQL?
 - React Router?
 #### 3. Back-End Frameworks
-##### 3.1. [[Authentication]]
-##### 3.2. [[User Analytics]]
-##### 3.3. Create API
-- [[Node.js and Package manager]]
-- Express.js
-- [[API Resources]] > [[GraphQL]]
-##### 3.4. Database/ Data Store
-- [[MongoDB, Mongoose]]
+##### 3.1. Database/ Data Store
+- [[MongoDB]]
 	- Why? > [Comparing The Differences - MongoDB Vs MySQL | MongoDB](https://www.mongodb.com/compare/mongodb-mysql) 
 	- Username: Jenniferwonder
 	- MM: mCyj7qiT9ntjxl0h
-- Picture/ Music/ Video
-- Markdown > HTML
-- User
-- Author
-- Post
-- Quiz
-- Tags
+- [[Mongoose]]
+- Data Format
+	- Picture/ Music/ Video
+	- Markdown > HTML
+	- User
+	- Author
+	- Post
+	- Quiz
+	- Tags
+##### 3.2. Back-End Logic > Create API
+- [[Node.js and Package manager]]
+- Express.js
+- [[API Resources]] > [[GraphQL]]
+##### 3.3. [[Authentication]]
+##### 3.4. [[User Analytics]]
 #### 4. [[Testing]]
 - Jest
 - React Testing Library
@@ -57,6 +62,7 @@ status:
 	- eslint
 - Efficiency
 	- react-code-snippets
+	- auto-import
 - 代码 Review ( 多人协作规范)
 	- Commit standard
 #### 8. GitHub Version Control

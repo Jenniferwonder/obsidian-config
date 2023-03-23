@@ -19,7 +19,7 @@ status:
 - Redis
 #### 2. Wide Column
 #### 3. Document
-- [[MongoDB, Mongoose]]
+- [[MongoDB]]
 - Cassandra
 - Couchbase
 - DynamoDB
