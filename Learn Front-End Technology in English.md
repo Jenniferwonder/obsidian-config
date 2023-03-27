@@ -13,7 +13,8 @@ status:
 ## Topic
 **Thumnail**: 
 - 学习前端|英语优势
-- Self-taught  
+- Self-taught
+- ![[cover-6.jpg]]  
 **Title**: 用英语学前端，勇就对了！  
 **Time**: 2:49
 - [[2023-02-22]] - [[2023-02-24]]  
@@ -45,7 +46,7 @@ status:
 - Not a bit. 
 - Because despite the challenges, I've also learned so much and I do have grown my skills in a way that I'd never thought of. 
 - There's still a long way to go but I know with the skills I'm learning, I will be able to build something cool with code. I will experience a different life. 
-#### 5. Conclusion 
+### Conclusion 
 - So I'm happy about what I'm learning and hope to share more lessons and stories with you in this journey. 
 - Thanks for your watching. See you next time. Take care! 
 ## Unused Script

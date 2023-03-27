@@ -35,6 +35,9 @@ status:
 - [[2023-02]]
 	- [[Blogs and Social Platforms]] > [[Video Editing]]
 	- [[React]], [[Next.js]] >[[React, Next.js Projects]] > [[GeekEnglish Platform]]
+- [[2023-03]] 
+	- [[AI-ChatGPT]] > GPT4, Copilot
+	- [[MongoDB]], [[Mongoose]]
 #### 2. Logs
 - [[Monthly Reflection]]
 ## [[Baby Prep]]
@@ -42,7 +45,7 @@ status:
 - be pregnant and have a **healthy** and smart child
 ### Timeline
 - [[2023-02-06]] Have a Fallopian Tube Operation
-- 2023-03-02 监测排卵
+- 2023-03-02 ~~监测排卵~~ > 2023-03-23 Period
 ### Reflections
 - [[Love and Fun]]
 - [[Healthy Diet]]
@@ -58,7 +61,7 @@ status:
 	- 17:00 afternoon walk > jogging
 	- 19:00 night walk   
 - I don't wanna spend a whole day sitting in front of my computer staying indoor
-- I hope to connect with different people and see different lives and bigger world 
+- I hope to **connect** with different people and see different lives and bigger world 
 - I hope I can Live Healthy
 	- breathe fresh air and bathe sunshine
 	- be close to nature, see mountains and trees
@@ -67,8 +70,21 @@ status:
 	- enjoy fresh fruit, vegetables and meat
 	- be physically and mentally healthy and rich 
 - Travel and have fun on weekends
+## How to be More Human?
+- **Humor**, Fun
+- Love
+- Passion, Energy
+- **Courage**, **Confidence** (Self& Future), Optimism
+- Compassion, Appreciation
+- **Creativity, Imagination**
+- Curiosity
+- **Connection**
+- Focus, Grit, Tenacity, Persistence, Determination
+- Beauty, Health
+- **Art**, Knowledge
 ## How to Be Job Ready ASAP?
 I know clearly, I'm not ready yet. Why? And **WHEN** can I be ready? > You don't have infinite amount of time!
+### [[Front-End Tech Stack]]
 #### 1. **What do <mark style="background: #BBFABBA6;">I need to make/ create/ contribute</mark>**? 
 #### 2. **What ==have I made/ created/ contributed==**? 
 - **Projects** with core tech-stack
@@ -87,7 +103,7 @@ I know clearly, I'm not ready yet. Why? And **WHEN** can I be ready? > You don't
 	- Vue
 	- Node.js, Express
 	- MongoDB, Mongoose
-## Projects
+### Projects
 #### 1. [[React, Next.js Projects]]
 - [[GeekEnglish Platform]]
 ##### 1.1. Timeline
@@ -138,7 +154,7 @@ SORT file.cday DESC
 	- 01 
 		- React
 		- English
-	- 02 Build and deploy a **React** app in 30 days (1 day left)
+	- 02 Build and deploy a **React** app in 30 days 
 		- [[Baby Prep]] - Check fallopian tubes
 		- React > React Basics/ Core Concepts
 		- Next.js > Set up

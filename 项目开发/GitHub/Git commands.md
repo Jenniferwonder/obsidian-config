@@ -97,3 +97,4 @@ PAT Ubuntu 不能执行 **git clone 或 git pull** 操作，退出用 windows cm
 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  
 [  
 ](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-your-membership-in-organizations/publicizing-or-hiding-organization-membership)
+![[git-cheat-sheet-education.pdf]]
