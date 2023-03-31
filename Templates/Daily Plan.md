@@ -1,8 +1,8 @@
 ---
 title: Daily Plan
-tags: 学习记录/周
-started: 2023-01
-due: 2023-01
+tags: Study-Log/
+started: 
+due: 2023-03
 modified: 
 status: Doing
 ---
@@ -15,6 +15,7 @@ status: Doing
 
 ## What're my biggest achievements?
 ### ✍️New Notes
+
 ```dataview
 TABLE title, started, status
 WHERE file.cday = date(2023-03-03)

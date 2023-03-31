@@ -14,10 +14,10 @@ status: Doing
 #### 3. Blogs > Update Weekly
 - [瞻妮芙 的个人主页 - 动态 - 掘金](https://juejin.cn/user/2925172853329501)
 - [公众号](https://mp.weixin.qq.com/cgi-bin/appmsg?t=media/appmsg_edit&action=edit&type=77&appmsgid=100000453&token=1958442455&lang=zh_CN)
-- ⭐[瞻妮芙 - DEV Community 👩‍💻👨‍💻](https://dev.to/jenniferwonder)  
+- [瞻妮芙 - DEV Community 👩‍💻👨‍💻](https://dev.to/jenniferwonder)  
 #### 4. Channel > Update Bi-weekly
 - [Jenniferwonder - YouTube](https://www.youtube.com/channel/UCeHdIpMNMzrh1pw7FeNCq7w)  
-- ⭐[瞻妮芙的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/397961647?spm_id_from=333.1007.0.0)
+- [瞻妮芙的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/397961647?spm_id_from=333.1007.0.0)
 #### 5. Answers
 - [User Jenniferwonder - Stack Overflow](https://stackoverflow.com/users/19379980/jenniferwonder)
 #### 6. Social
@@ -70,6 +70,7 @@ status: Doing
 ## Content
 #### 1. Intro/ Who am I
 - ⭐[[Learn Front-End Technology in English]]
+- [[Dream Life]]
 #### 2. [[Front-End Tech Stack]]
 - [[Job, Work, Career]]
 #### 3. Learning Efficiency

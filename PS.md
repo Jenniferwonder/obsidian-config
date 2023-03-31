@@ -6,12 +6,29 @@ due:
 modified: 2023-01-19 Thu
 status: 
 ---
-## Shortcuts
+### Shortcuts
 Switch to full screen mode: `F` 
+Real Size: `ctrl` + `1`
+Fit the screen: `ctrl` + `0`
+Zoom: `ctrl` + `alt`
 Create a new layer: `ctrl` +`shift` + `N`
 Switch pointer to hand tool: press `space`
-Zoom: `ctrl` + `alt`
-## Brushes
+Resize/Transform shape: `ctrl` + `t`
+Bend/ Skew Shape
+- Edit > Transform > **Warp** 
+Move/ Align layers: `v`
+Select All: `ctrl` + `a`
+Deselect: `ctrl` + `d`
+Duplicate: `Alt` + Drag
+Add Contrast: 
+- Layer > New Adjustment Layer > Level/ Curve
+Change Color of An Image 
+- Layer > New Adjustment Layer > Hue& Saturation
+
+## Text Effect
+[Photoshop Text effect Compilation: 18 Simple Text Effects for Beginners - YouTube](https://www.youtube.com/watch?v=Z8DehBmFqLc)
+## Drawing in PS
+### Brushes
 [The Best Brush for Digital Painting (Beginners) - YouTube](https://www.youtube.com/watch?v=-Nt9fa8jZUE)
 [70+ Photoshop Brushes For Artists: Best Drawing & Painting Brush Packs](https://conceptartempire.com/photoshop-brushes/)
 [CHEAT Brushes - Complete Set](https://cubebrush.co/mb/products/z5ovjq/cheat-brushes-complete-set?ref=conartemp)
@@ -29,10 +46,10 @@ Beginner struggles
 - ✅Start simple, 2 or 3 colors 
 Opacity jitter
 - Painting like a sculptor: cutting + smoothing
-## Drawing Techniques
+### Drawing Techniques
 squashing and stretching
 
-## Types of Artworks
+### Types of Artworks
 #### 1. Raster Image
 - Think of resolution you need
 - Lose details when scaling up

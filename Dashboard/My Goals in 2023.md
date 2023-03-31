@@ -6,6 +6,16 @@ due:
 modified: 2023-03-06 Mon
 status: 
 ---
+## Fundamental Questions
+What do you want to do with the **skills** you have? Why?
+- to do something **interesting** or **meaningful**
+- to bring **value** to the world in a more **effective** way
+**Who** do you want to benefit from your service or content?
+What do they **need**?
+What can **you** offer to them?
+What's the **structure** of the content or service you prepare to offer?
+Are there any **role models** to learn from, any **inspirations** you can take from? 
+How do you benefit from them in your decision-making process or content creation?
 ## Monthly Reflections
 #### 1. Key Practice
 - 2022-06
@@ -70,18 +80,6 @@ status:
 	- enjoy fresh fruit, vegetables and meat
 	- be physically and mentally healthy and rich 
 - Travel and have fun on weekends
-## How to be More Human?
-- **Humor**, Fun
-- Love
-- Passion, Energy
-- **Courage**, **Confidence** (Self& Future), Optimism
-- Compassion, Appreciation
-- **Creativity, Imagination**
-- Curiosity
-- **Connection**
-- Focus, Grit, Tenacity, Persistence, Determination
-- Beauty, Health
-- **Art**, Knowledge
 ## How to Be Job Ready ASAP?
 I know clearly, I'm not ready yet. Why? And **WHEN** can I be ready? > You don't have infinite amount of time!
 ### [[Front-End Tech Stack]]
@@ -126,22 +124,44 @@ I know clearly, I'm not ready yet. Why? And **WHEN** can I be ready? > You don't
 - What do I want to build? What's my problem?
 	- Bottom-up and Top-down approach, which one should you use? 
 	- How to prevent learning by books and then forgetting? 背字典式学习？（用的时候要知道有什么，在哪查，具体步骤和细节越用越熟，不用必忘，为什么要花时间纠结细节与难点！？）
-## [[Blogs and Social Platforms]] 
-### Why & For Whom?
-- Chinese Programmers
-- Chinese Non-Programmers
-- English Programmers
-### How-to
-- [[Video Editing]]
-- [[Photo Editing]]
-- 10 Blogs
-- 5 Videos
-### Timeline
+## Art- How to be More Human? 
+### Core Value
+- **Humor**, Fun
+- Love
+- Passion, Energy
+- **Courage**, **Confidence** (Self& Future), Optimism
+- Compassion, Appreciation
+- **Creativity, Imagination**
+- Curiosity
+- **Connection**
+- Focus, Grit, Tenacity, Persistence, Determination
+- Beauty, Health
+- **Art**, Knowledge
+### Core Skills
+#### 1. [[Creative Writing]]
+#### 2. Tech Blog
+#### 3. [[Drawing]] 
+- Comic Faces and Motion
+#### 4. Photography 
+- [[Photo Editing]] > [[PS]]
+#### 5. Video 
+- [[Video Editing]]> [[PR]]
+#### 6. Music
+- Music Collection
+#### 7. Reflection
+```dataview
+TABLE title, started, status
+WHERE contains(title, "Art") OR tags ="Art"
+SORT file.cday DESC
+```
+### [[Blogs and Social Platforms]] 
+#### 1. Timeline
+- [[2023-03-28]] Start Learning **Art**- [[Creative Writing]] and [[Drawing]], reflecting on [[Dream Life]]
 - [[2023-03-06]] Download **Wechat Public Account** Markdown Editor- Mdnice [[Markdown Tools]]
 - [[2023-03-03]] Publish an **English Blog** [[Learning Efficiency]] on Dev.to
 - [[2023-02-24]] Upload a **English Long Video** on Bilibili [[Learn Front-End Technology in English]]
 - [[2023-02-16]] Start thinking about PR Editflow and learn how to crop a video and adjust the speed of a video
-### Reflections
+#### 2. Reflections
 
 ```dataview
 TABLE title, started, status

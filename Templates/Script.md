@@ -1,3 +1,5 @@
+```toc
+```
 ## Topic
 **Title**: 用英语学前端，勇就对了！  
 **Thumnail**: 
@@ -10,9 +12,9 @@
 - Screenshot
 - Youtube Examples  
 **Link**: 
-## Script
-### Intro
+## Intro
 - Hi! My name is Jennifer. I used to be an English teacher. But now I have spent months learning something I feel excited about - programming, specifically speaking, front-end engineering. 
+## Body
 #### 1. Why do I decide to make a career shift?
 - I know how incredible this sounds like for an English teacher trying to learn something seemingly irrelevant to her major.
 - But I've constantly asked myself "Is teaching students how to pass English examinations or doing translation the only thing I can do?" 
@@ -33,6 +35,6 @@
 - Not a bit. 
 - Because despite the challenges, I've also learned so much and I do have grown my skills in a way that I'd never thought of. 
 - There's still a long way to go but I know with the skills I'm learning, I will be able to build something cool with code. I will experience a different life. 
-### Conclusion 
+## Conclusion 
 - So I'm happy about what I'm learning and hope to share more lessons and stories with you in this journey. 
 - Thanks for your watching. See you next time. Take care! 
