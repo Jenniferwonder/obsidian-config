@@ -11,23 +11,24 @@ sorting-spec: |
  // To play with more examples go to https://github.com/SebastianMC/obsidian-custom-sort#readme
 
  target-folder: /*
- Dashboard
  问题目标
  学习记录
- English-Time
  阶段反思
- 项目开发
- 技术笔记
- 工具方法
- 资源分享
- 职业发展
- 快捷键
- JS-Project
+ 效率方法
+ 编程能力
+ 编程项目
+ 编程博客
+ 编程视频
+ 生活攻略
  with-metadata: started
  > a-z by-metadata: started
- target-folder: 技术笔记
- HTML
- CSS
+ target-folder: 编程能力
+ Front-End
+ Database
+ Full-Stack
+ Web
+ System Design
+ Algorithm and Data Structure
  JS
  ...
  with-metadata: modified

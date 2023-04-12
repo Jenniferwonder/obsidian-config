@@ -1,19 +1,20 @@
 ```toc
 ```
 ## Topic
-**Title**: 用英语学前端，勇就对了！  
-**Thumnail**: 
-- 学习前端|英语优势
-- Self-taught  
-**Time**: 2:49
-- [[2023-02-22]] - [[2023-02-24]]  
-**Footage**:
-- Talkhead (手机美图秀秀录制)
-- Screenshot
-- Youtube Examples  
-**Link**: 
+
 ## Intro
+```start-multi-column
+ID: ID_nlfb
+Number of Columns: 2
+Largest Column: standard
+Border: disabled
+```
+
+### Srcipt
 - Hi! My name is Jennifer. I used to be an English teacher. But now I have spent months learning something I feel excited about - programming, specifically speaking, front-end engineering. 
+--- column-end ---
+### Shot
+=== end-multi-column
 ## Body
 #### 1. Why do I decide to make a career shift?
 - I know how incredible this sounds like for an English teacher trying to learn something seemingly irrelevant to her major.
@@ -38,3 +39,15 @@
 ## Conclusion 
 - So I'm happy about what I'm learning and hope to share more lessons and stories with you in this journey. 
 - Thanks for your watching. See you next time. Take care! 
+## Editing
+**Title**: 用英语学前端，勇就对了！  
+**Thumnail**: 
+- 学习前端|英语优势
+- Self-taught  
+**Time**: 2:49
+- [[2023-02-22]] - [[2023-02-24]]  
+**Footage**:
+- Talkhead (手机美图秀秀录制)
+- Screenshot
+- Youtube Examples  
+**Link**: 

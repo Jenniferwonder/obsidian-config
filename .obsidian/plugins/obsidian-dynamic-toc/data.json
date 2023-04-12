@@ -1,5 +1,5 @@
 {
-  "style": "number",
+  "style": "bullet",
   "min_depth": 2,
   "max_depth": 6,
   "externalStyle": "None",

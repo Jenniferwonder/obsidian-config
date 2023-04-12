@@ -17,7 +17,7 @@
   "monthly": {
     "format": "YYYY-MM",
     "template": "",
-    "folder": "Milestones",
+    "folder": "阶段反思",
     "enabled": true
   },
   "quarterly": {

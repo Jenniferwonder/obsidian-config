@@ -1,6 +1,6 @@
 ---
 title: Health& Fitness
-tags: Reflections/Life  
+tags: Life-Tricks  
 status: 
 started: 2022-11-22 Tue
 modified: 2023-01-16 Mon

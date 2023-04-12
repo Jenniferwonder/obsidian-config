@@ -1,6 +1,6 @@
 ---
 title: Goal Update (Sept 4 Update)
-tags: 
+tags: Goals
 status: 
 started: 
 due: 2022-11-23, 1:00:13 pm

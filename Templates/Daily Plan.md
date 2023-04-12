@@ -2,18 +2,20 @@
 title: Daily Plan
 tags: Study-Log/
 started: 
-due: 2023-03
+due: 2023-04
 modified: 
 status: Doing
 ---
 # Daily Plan
-## What's my goal today?
+## What's my problem/question today?
 #### 1. [[Front-End Tech Stack]]
 - **[[React]]** 技术总结、应用与提升
 - [[React, Next.js Projects]] 总结
 #### 2. [[My Goals in 2023]]
 
 ## What're my biggest achievements?
+### ✅Achievements
+
 ### ✍️New Notes
 
 ```dataview

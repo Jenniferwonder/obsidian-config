@@ -4,17 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "c575832cb1d32b15",
+        "id": "a56c376f5be1c01c",
         "type": "tabs",
-        "dimension": 31.300268096514746,
         "children": [
           {
-            "id": "865cadce4ede8a8c",
+            "id": "28b7c1e4932fbbd2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dashboard/My Goals in 2023.md",
+                "file": "Templates/Shot Plan Template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -24,17 +23,16 @@
         ]
       },
       {
-        "id": "70cdfdfa3f70079c",
+        "id": "89d08c6649a41341",
         "type": "tabs",
-        "dimension": 68.69973190348524,
         "children": [
           {
-            "id": "c145a8e623068b5d",
+            "id": "6ef07c66bc736f41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PS.md",
+                "file": "学习记录/2023-04-12.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -60,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Study-Log/",
+                "query": "tag:#Scren-Recording",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -92,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5,
+    "width": 281.5,
     "collapsed": true
   },
   "right": {
@@ -109,7 +107,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PS.md",
+                "file": "学习记录/2023-04-12.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -144,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PS.md",
+                "file": "学习记录/2023-04-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PS.md",
+                "file": "学习记录/2023-04-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PS.md"
+                "file": "学习记录/2023-04-12.md"
               }
             }
           },
@@ -233,19 +231,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 309.5
   },
-  "active": "c145a8e623068b5d",
+  "active": "6ef07c66bc736f41",
   "lastOpenFiles": [
-    "Dashboard/My Goals in 2023.md",
-    "学习记录/2023-03-30.md",
-    "学习记录/2023-03-29.md",
-    "Creative Writing.md",
-    "Recording English Videos.md",
-    "学习记录/2023-03-28.md",
-    "学习记录/2023-03-27.md",
-    "Templates/Daily Plan.md",
-    "Templates/Script.md",
-    "Dream Life.md"
+    "Templates/Shot Plan Template.md",
+    "学习记录/2023-04-12.md",
+    "能力拓展/内容创作/Skillshare for Front-End Engineers.md",
+    "能力拓展/内容创作/Davinci Resolve.md",
+    "效率方法/AI/AI Tools.md",
+    "能力拓展/内容创作/Content Workflow.md",
+    "Content Prompt.md",
+    "效率方法/Learning Efficiency.md",
+    "Templates/Video Script Template.md",
+    "Templates/Editing Checklist Template.md"
   ]
 }
