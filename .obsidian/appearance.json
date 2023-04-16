@@ -1,9 +1,26 @@
 {
   "accentColor": "",
   "theme": "moonstone",
-  "cssTheme": "Minimal",
+  "cssTheme": "Blue Topaz",
   "enabledCssSnippets": [
-    "config"
+    "config",
+    "【callout】Custom page preview",
+    "【Linkcard】",
+    "【Query】keep-live",
+    "【分栏】Easy multi-column notes",
+    "【列表】ob列表转换表格",
+    "【卡片视图】cards",
+    "【卡片视图】zettelkasten",
+    "【图标】checkbox",
+    "【图标】双链图标",
+    "【天气】weather",
+    "【日记】periodic日历",
+    "【日记】Time",
+    "【日记】timeline",
+    "【特效】fireworks",
+    "【自定义】多彩进度条",
+    "【自定义】表格样式TableStyles",
+    "custom-admonitions.c9c6cb"
   ],
   "textFontFamily": "Microsoft YaHei",
   "baseFontSize": 14

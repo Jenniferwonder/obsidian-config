@@ -44,5 +44,6 @@
   "minimal-style@@spacing-p": "0",
   "minimal-style@@base@@dark": "#292A36",
   "minimal-style@@bg1@@dark": "#292A36",
-  "minimal-style@@bg2@@dark": "#21222C"
+  "minimal-style@@bg2@@dark": "#21222C",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-topaz-nord"
 }

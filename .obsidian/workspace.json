@@ -4,39 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a56c376f5be1c01c",
+        "id": "65baf99dc6f41bd5",
         "type": "tabs",
         "children": [
           {
-            "id": "28b7c1e4932fbbd2",
+            "id": "db8a69e1b034710b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Shot Plan Template.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "89d08c6649a41341",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "6ef07c66bc736f41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "学习记录/2023-04-12.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -84,14 +60,21 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "93d926517ea78aa6",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 281.5,
-    "collapsed": true
+    "width": 281.5
   },
   "right": {
     "id": "617127011ede853a",
@@ -107,7 +90,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "学习记录/2023-04-12.md",
+                "file": "88-Template/EnablepluginList/View+.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -142,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "学习记录/2023-04-12.md",
+                "file": "88-Template/EnablepluginList/View+.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "学习记录/2023-04-12.md",
+                "file": "88-Template/EnablepluginList/View+.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "学习记录/2023-04-12.md"
+                "file": "88-Template/EnablepluginList/View+.md"
               }
             }
           },
@@ -233,17 +216,17 @@
     "direction": "horizontal",
     "width": 309.5
   },
-  "active": "6ef07c66bc736f41",
+  "active": "d7d55bf1207e42ba",
   "lastOpenFiles": [
+    "88-Template/home.md",
+    "88-Template/EnablepluginList/View+.md",
+    "88-Template/FastStart-GenerateListOfInstalledPlugins.md",
+    "88-Template/FastStart-Plugins-LongDelay.md",
+    "88-Template/FastStart-Plugins-ShortDelay.md",
+    "88-Template/FastStart-Plugins-simple.md",
+    "88-Template/FastStart-StartupScript.md",
+    "学习记录/2023-04-16.md",
     "Templates/Shot Plan Template.md",
-    "学习记录/2023-04-12.md",
-    "能力拓展/内容创作/Skillshare for Front-End Engineers.md",
-    "能力拓展/内容创作/Davinci Resolve.md",
-    "效率方法/AI/AI Tools.md",
-    "能力拓展/内容创作/Content Workflow.md",
-    "Content Prompt.md",
-    "效率方法/Learning Efficiency.md",
-    "Templates/Video Script Template.md",
-    "Templates/Editing Checklist Template.md"
+    "编程能力/Front-End Frameworks/Front-End Frameworks.md"
   ]
 }
