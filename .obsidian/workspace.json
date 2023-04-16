@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "65baf99dc6f41bd5",
+        "id": "ef80f6ae5e6aaebc",
         "type": "tabs",
         "children": [
           {
-            "id": "db8a69e1b034710b",
+            "id": "a250dabf0ef37fed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "学习记录/2023-04-16.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -74,7 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 318.5
   },
   "right": {
     "id": "617127011ede853a",
@@ -90,7 +95,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "88-Template/EnablepluginList/View+.md",
+                "file": "学习记录/2023-04-16.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -125,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "88-Template/EnablepluginList/View+.md",
+                "file": "学习记录/2023-04-16.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "88-Template/EnablepluginList/View+.md",
+                "file": "学习记录/2023-04-16.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "88-Template/EnablepluginList/View+.md"
+                "file": "学习记录/2023-04-16.md"
               }
             }
           },
@@ -214,19 +219,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 431.5
   },
-  "active": "d7d55bf1207e42ba",
+  "active": "a250dabf0ef37fed",
   "lastOpenFiles": [
-    "88-Template/home.md",
-    "88-Template/EnablepluginList/View+.md",
-    "88-Template/FastStart-GenerateListOfInstalledPlugins.md",
-    "88-Template/FastStart-Plugins-LongDelay.md",
-    "88-Template/FastStart-Plugins-ShortDelay.md",
-    "88-Template/FastStart-Plugins-simple.md",
-    "88-Template/FastStart-StartupScript.md",
-    "学习记录/2023-04-16.md",
-    "Templates/Shot Plan Template.md",
-    "编程能力/Front-End Frameworks/Front-End Frameworks.md"
+    "编程视频/2302/2302.01/2302.01-Shot List.md",
+    "编程视频/2302/2302.01/2302.01-Script.md",
+    "编程视频/2302/2302.01/2302.01-Note Inspirations.md",
+    "编程视频/2302/2302.01/2302.01-Publishing Checklist.md",
+    "编程视频/2302/2302.01/2302.01-Editing Checklist.md",
+    "编程视频/2302/2302.01/2302.01-Project.md",
+    "Untitled mindmap.md",
+    "Excalidraw/Untitled 1.md",
+    "效率方法/AI/New Bing.md",
+    "效率方法/笔记能力/Mindmap.md"
   ]
 }
