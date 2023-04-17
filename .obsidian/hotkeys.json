@@ -461,5 +461,14 @@
       "key": "L"
     }
   ],
-  "cmenu-plugin:editor:toggle-checklist-status": []
+  "cmenu-plugin:editor:toggle-checklist-status": [],
+  "obsidian-advanced-new-file:advanced-new-file-new-tab": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "N"
+    }
+  ]
 }

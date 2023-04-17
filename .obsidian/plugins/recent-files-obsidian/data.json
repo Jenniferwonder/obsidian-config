@@ -1,128 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "Coding Prompt",
-      "path": "AI-Tools/Coding Prompt.md"
+      "basename": "编程视频",
+      "path": "编程视频/编程视频.md"
     },
     {
-      "basename": "Content Prompt",
-      "path": "AI-Tools/Content Prompt.md"
-    },
-    {
-      "basename": "AI Tools",
-      "path": "AI-Tools/AI Tools.md"
-    },
-    {
-      "basename": "PKM Workflow",
-      "path": "PKM/PKM Workflow.md"
-    },
-    {
-      "basename": "Obsidian Auto Mover",
-      "path": "PKM/Obsidian Auto Mover.md"
-    },
-    {
-      "basename": "2302.01-Project",
-      "path": "编程视频/2302/2302.01/2302.01-Project.md"
-    },
-    {
-      "basename": "sortspec",
-      "path": "sortspec.md"
-    },
-    {
-      "basename": "Pasted image 20230310114951",
-      "path": "Front-End System/Front-End Basics/JS/assets/Pasted image 20230310114951.png"
-    },
-    {
-      "basename": "2023-04-17",
-      "path": "学习记录/2023-04-17.md"
-    },
-    {
-      "basename": "Project Plan and Research - GeekEnglish",
-      "path": "编程项目/Project Plan and Research - GeekEnglish.md"
-    },
-    {
-      "basename": "Architecture and System Design - GeekEnglish",
-      "path": "编程项目/Architecture and System Design - GeekEnglish.md"
-    },
-    {
-      "basename": "Reflection on Building a Portfolio Website",
-      "path": "编程项目/Reflection on Building a Portfolio Website.md"
-    },
-    {
-      "basename": "Pasted image 20230412194539",
-      "path": "PKM/assets 1/Pasted image 20230412194539.png"
-    },
-    {
-      "basename": "Pasted image 20230412193109",
-      "path": "PKM/assets 1/Pasted image 20230412193109.png"
-    },
-    {
-      "basename": "GeekEnglish Admin Panel",
-      "path": "Front-End Projects/GeekEnglish Admin Panel.md"
-    },
-    {
-      "basename": "GeekEnglish Platform",
-      "path": "Front-End Projects/GeekEnglish Platform.md"
-    },
-    {
-      "basename": "Medium-Clone",
-      "path": "编程项目/Medium-Clone.md"
-    },
-    {
-      "basename": "Twitter-Clone",
-      "path": "编程项目/Twitter-Clone.md"
-    },
-    {
-      "basename": "GeekEnglish Note",
-      "path": "Front-End Projects/GeekEnglish Note.md"
-    },
-    {
-      "basename": "GeekEnglish Miniprogram",
-      "path": "Front-End Projects/GeekEnglish Miniprogram.md"
-    },
-    {
-      "basename": "Front-End Tech Stack",
-      "path": "Front-End System/Front-End Tech Stack.md"
-    },
-    {
-      "basename": "Front-End Frameworks",
-      "path": "Front-End System/Front-End Frameworks/Front-End Frameworks.md"
-    },
-    {
-      "basename": "jQuery",
-      "path": "Front-End System/Front-End Basics/JS/jQuery.md"
-    },
-    {
-      "basename": "JS 方案要点：CSS, HTML，原生 JS, jQuery...",
-      "path": "Front-End System/Front-End Basics/JS/JS 方案要点：CSS, HTML，原生 JS, jQuery....md"
-    },
-    {
-      "basename": "Value and Variables",
-      "path": "Front-End System/Front-End Basics/JS/Value and Variables.md"
-    },
-    {
-      "basename": "ZTM JS Note",
-      "path": "Front-End System/Front-End Basics/JS/ZTM JS Note.md"
-    },
-    {
-      "basename": "UI Componenet Library",
-      "path": "Front-End System/Front-End Basics/CSS/UI Componenet Library.md"
-    },
-    {
-      "basename": "问题目标",
-      "path": "问题目标/问题目标.md"
-    },
-    {
-      "basename": "编程项目",
-      "path": "编程项目/编程项目.md"
+      "basename": "Canvas Demo",
+      "path": "Canvas/Canvas Demo.canvas"
     },
     {
       "basename": "Note in iPhone",
       "path": "Canvas/Note in iPhone.canvas"
     },
     {
-      "basename": "Canvas in Obsidian",
-      "path": "PKM/Canvas in Obsidian.md"
+      "basename": "Untitled 1 2023-04-14 21.47.38.excalidraw",
+      "path": "Excalidraw/Untitled 1 2023-04-14 21.47.38.excalidraw.md"
+    },
+    {
+      "basename": "2023-04-15 2023-04-15 22.08.33.excalidraw",
+      "path": "Excalidraw/2023-04-15 2023-04-15 22.08.33.excalidraw.md"
+    },
+    {
+      "basename": "Drawing 2022-11-28 11.38.22.excalidraw",
+      "path": "Excalidraw/Drawing 2022-11-28 11.38.22.excalidraw.md"
+    },
+    {
+      "basename": "Alternative Pens",
+      "path": "Excalidraw/Scripts/Downloaded/Alternative Pens.md"
+    },
+    {
+      "basename": "Alternative Pens",
+      "path": "Excalidraw/Scripts/Downloaded/Alternative Pens.svg"
+    },
+    {
+      "basename": "Auto Draw for Pen",
+      "path": "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md"
+    },
+    {
+      "basename": "Auto Draw for Pen",
+      "path": "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg"
+    },
+    {
+      "basename": "Auto Layout",
+      "path": "Excalidraw/Scripts/Downloaded/Auto Layout.md"
+    },
+    {
+      "basename": "Auto Layout",
+      "path": "Excalidraw/Scripts/Downloaded/Auto Layout.svg"
+    },
+    {
+      "basename": "星球自我介绍",
+      "path": "Interview/CV/星球自我介绍.md"
+    },
+    {
+      "basename": "JD",
+      "path": "Interview/JD/JD.md"
+    },
+    {
+      "basename": "Front-End CV",
+      "path": "Interview/JD/Front-End CV.md"
+    },
+    {
+      "basename": "sortspec",
+      "path": "sortspec.md"
+    },
+    {
+      "basename": "CV-Front-End-Post",
+      "path": "Interview/JD/CV-Front-End-Post.md"
+    },
+    {
+      "basename": "Front-End Tech Stack",
+      "path": "Front-End Tech Stack/Front-End Tech Stack.md"
+    },
+    {
+      "basename": "Algorithm and Data Structure",
+      "path": "Tech-Fundamentals/Algorithm and Data Structure/Algorithm and Data Structure.md"
+    },
+    {
+      "basename": "阶段反思",
+      "path": "阶段反思/阶段反思.md"
+    },
+    {
+      "basename": "问题目标",
+      "path": "问题目标/问题目标.md"
+    },
+    {
+      "basename": "FastStart-StartupScript",
+      "path": "88-Template/FastStart-StartupScript.md"
+    },
+    {
+      "basename": "README",
+      "path": "88-Template/script/notesList/README.md"
+    },
+    {
+      "basename": "notesList",
+      "path": "88-Template/script/notesList/notesList.md"
+    },
+    {
+      "basename": "script",
+      "path": "88-Template/script/script.md"
+    },
+    {
+      "basename": "88-Template",
+      "path": "88-Template/88-Template.md"
+    },
+    {
+      "basename": "React",
+      "path": "Front-End Projects/Front-End Frameworks/React/React.md"
+    },
+    {
+      "basename": "Vue",
+      "path": "Front-End Projects/Front-End Frameworks/Vue/Vue.md"
+    },
+    {
+      "basename": "Front-End Frameworks",
+      "path": "Front-End Projects/Front-End Frameworks/Front-End Frameworks.md"
+    },
+    {
+      "basename": "Front-End Tools",
+      "path": "Front-End Tech Stack/Front-End Tools.md"
+    },
+    {
+      "basename": "2023-04-17",
+      "path": "学习记录/2023-04-17.md"
+    },
+    {
+      "basename": "Excalidraw",
+      "path": "PKM Efficiency/Excalidraw.md"
+    },
+    {
+      "basename": "Concept-Oriented Note",
+      "path": "PKM Efficiency/Concept-Oriented Note.md"
+    },
+    {
+      "basename": "Note-Taking",
+      "path": "PKM Efficiency/Note-Taking.md"
+    },
+    {
+      "basename": "笔记误区",
+      "path": "PKM Efficiency/笔记误区.md"
+    },
+    {
+      "basename": "笔记目的",
+      "path": "PKM Efficiency/笔记目的.md"
+    },
+    {
+      "basename": "Sync and Back up",
+      "path": "PKM Efficiency/Sync and Back up.md"
+    },
+    {
+      "basename": "QuickAdd in Obsidian",
+      "path": "PKM Efficiency/QuickAdd in Obsidian.md"
+    },
+    {
+      "basename": "Obsidian Community",
+      "path": "PKM Efficiency/Obsidian Community.md"
+    },
+    {
+      "basename": "Mindmap",
+      "path": "PKM Efficiency/Mindmap.md"
+    },
+    {
+      "basename": "PKM Workflow",
+      "path": "PKM Efficiency/PKM Workflow.md"
+    },
+    {
+      "basename": "My Goals in 2023",
+      "path": "问题目标/My Goals in 2023.md"
+    },
+    {
+      "basename": "CS50x Final Project",
+      "path": "阶段反思/CS50x Final Project.md"
+    },
+    {
+      "basename": "Master Projects",
+      "path": "Master Projects/Master Projects.md"
+    },
+    {
+      "basename": "MERN Blog",
+      "path": "Front-To-Full-Stack Projects/React-Full-Stack Projects/MERN-Projects/MERN Blog.md"
+    },
+    {
+      "basename": "E-Commerce App",
+      "path": "Master Projects/E-Commerce Store/E-Commerce App.md"
+    },
+    {
+      "basename": "NextJS-Projects",
+      "path": "Front-To-Full-Stack Projects/React-Full-Stack Projects/NextJS-Projects/NextJS-Projects.md"
+    },
+    {
+      "basename": "Fruit Fit Marketing Web",
+      "path": "Master Projects/E-Commerce Store/Fruit Fit Marketing Web.md"
+    },
+    {
+      "basename": "Database",
+      "path": "Front-To-Full-Stack Projects/Database/Database.md"
+    },
+    {
+      "basename": "Full-Stack Frameworks",
+      "path": "Front-To-Full-Stack Projects/Full-Stack Frameworks.md"
     }
   ],
   "omittedPaths": [],

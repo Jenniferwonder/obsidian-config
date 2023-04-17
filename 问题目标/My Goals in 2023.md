@@ -11,17 +11,17 @@ status:
 
 ## Learning Efficiency
 [[AI Tools]]
+- [[Coding Prompt]]
 [[PKM Workflow]]
 [[English Learning]]
 ## [[Front-End Tech Stack]]
-[[Coding Prompt]]
 #### 1. [[Algorithms and Data Structure]]
 - Started on [[2023-02-13]]
 ##### 1.1. Timeline
 - [[2023-02-13]] Start solving [[Algorithms and Data Structure]] problems on Leetcode 
 #### 2. [[JS Projects]]
 #### 3. CSS Projects
-#### 4. [[React, Next.js Projects]]
+#### 4. [[NextJS-Projects]]
 - [[GeekEnglish Platform]]
 ##### 4.1. Timeline
 - [[2023-02-21]] Build up the initial [[Next.js]] front-end and [[Sanity]] backend for [[GeekEnglish Platform]]

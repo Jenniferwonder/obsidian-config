@@ -59,5 +59,9 @@
   "auto-note-mover",
   "file-explorer-note-count",
   "recent-files-obsidian",
-  "dbfolder"
+  "dbfolder",
+  "folder-note-plugin",
+  "oz-image-plugin",
+  "obsidian-hover-editor",
+  "obsidian-advanced-new-file"
 ]

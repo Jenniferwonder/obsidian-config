@@ -10,7 +10,7 @@ status:
 #### 1. Biggest Achievements
 - Figure out two crucial fields to focus on in order to be Job Ready ASAP.
 	- [[Blogs and Social Platforms]]
-	- [[React, Next.js Projects]] 
+	- [[NextJS-Projects]] 
 - Build [[GeekEnglish Platform]] with [[React]], [[Next.js]], [[Sanity]]
 - Improve [[Video Editing]] and [[Photo Editing]] skills
 - Upload a video to Bilibili [[2302.01-Script]]

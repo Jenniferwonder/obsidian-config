@@ -3,7 +3,7 @@
   "filePreviewOnHover": true,
   "flowMenuEnabled": true,
   "markSans": false,
-  "blinkEnabled": false,
+  "blinkEnabled": true,
   "makeMenuPlaceholder": true,
   "mobileMakeBar": true,
   "inlineStyler": true,
@@ -14,7 +14,7 @@
   "contextEnabled": false,
   "saveAllContextToFrontmatter": false,
   "editorFlowStyle": "seamless",
-  "autoOpenFileContext": false,
+  "autoOpenFileContext": true,
   "activeView": "root",
   "hideFrontmatter": false,
   "activeSpace": "PKM",
@@ -24,7 +24,7 @@
   "spacesPerformance": false,
   "collapsedTags": [],
   "enableFolderNote": true,
-  "folderIndentationLines": true,
+  "folderIndentationLines": false,
   "revealActiveFile": false,
   "spacesStickers": false,
   "spaceRowHeight": 29,
@@ -51,10 +51,10 @@
   },
   "expandedSpaces": [
     null,
-    "/",
-    null,
     "PKM",
-    "Coding"
+    "Coding",
+    null,
+    "/"
   ],
   "openFolders": [],
   "fileIcons": [],
@@ -89,6 +89,6 @@
   "spacesSyncTimeoutSeconds": 10,
   "spacesAutoBackup": true,
   "spacesAutoBackupInterval": 10,
-  "spacesAutoBackupLast": 1681712923728,
+  "spacesAutoBackupLast": 1681734040125,
   "spacesUseAlias": false
 }

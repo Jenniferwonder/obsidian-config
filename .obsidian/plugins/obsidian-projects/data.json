@@ -10,14 +10,47 @@
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "编程项目/React",
-          "recursive": false
+          "path": "Front-End Blogs",
+          "recursive": true
         }
       },
       "newNotesFolder": "",
       "views": [
         {
-          "config": {},
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "excalidraw-plugin": {
+                "hide": true
+              },
+              "number headings": {
+                "hide": true
+              },
+              "started": {
+                "hide": false
+              },
+              "due": {
+                "hide": true
+              },
+              "aliases": {
+                "hide": true
+              },
+              "title": {
+                "hide": true
+              }
+            },
+            "orderFields": [
+              "name",
+              "started",
+              "modified",
+              "due",
+              "status",
+              "tags",
+              "title"
+            ]
+          },
           "filter": {
             "conditions": []
           },
@@ -47,7 +80,7 @@
         }
       ],
       "id": "e8417cc0-53a2-414b-a5e8-c9e7b63c0a4f",
-      "name": "React Projects"
+      "name": "Front-End Blogs"
     },
     {
       "fieldConfig": {
@@ -67,7 +100,7 @@
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "PKM",
+          "path": "PKM Efficiency",
           "recursive": false
         }
       },
@@ -144,6 +177,62 @@
       ],
       "id": "21a54295-fc60-47df-8738-f474ccba2711",
       "name": "PKM"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Front-End Projects/React-Projects",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "excalidraw-plugin": {
+                "hide": true
+              },
+              "modified": {
+                "hide": true
+              },
+              "due": {
+                "hide": true
+              },
+              "title": {
+                "hide": true
+              }
+            },
+            "orderFields": [
+              "name",
+              "tags",
+              "started",
+              "status",
+              "title"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "1bbcdd52-c98c-433b-b995-cdb8c1711417",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "c3df14e9-6fb2-4800-9022-5b5de5b907b8",
+      "name": "React Projects"
     }
   ],
   "preferences": {
