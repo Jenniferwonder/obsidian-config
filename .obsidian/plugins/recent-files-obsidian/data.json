@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Sync and Back up",
+      "path": "PKM Efficiency/Sync and Back up.md"
+    },
+    {
+      "basename": "2023-04-15",
+      "path": "学习记录/2023-04-15.md"
+    },
+    {
+      "basename": "2023-04-16",
+      "path": "学习记录/2023-04-16.md"
+    },
+    {
+      "basename": "2023-04-17",
+      "path": "学习记录/2023-04-17.md"
+    },
+    {
       "basename": "编程视频",
       "path": "编程视频/编程视频.md"
     },
@@ -121,10 +137,6 @@
       "path": "Front-End Tech Stack/Front-End Tools.md"
     },
     {
-      "basename": "2023-04-17",
-      "path": "学习记录/2023-04-17.md"
-    },
-    {
       "basename": "Excalidraw",
       "path": "PKM Efficiency/Excalidraw.md"
     },
@@ -143,10 +155,6 @@
     {
       "basename": "笔记目的",
       "path": "PKM Efficiency/笔记目的.md"
-    },
-    {
-      "basename": "Sync and Back up",
-      "path": "PKM Efficiency/Sync and Back up.md"
     },
     {
       "basename": "QuickAdd in Obsidian",
@@ -191,14 +199,6 @@
     {
       "basename": "Fruit Fit Marketing Web",
       "path": "Master Projects/E-Commerce Store/Fruit Fit Marketing Web.md"
-    },
-    {
-      "basename": "Database",
-      "path": "Front-To-Full-Stack Projects/Database/Database.md"
-    },
-    {
-      "basename": "Full-Stack Frameworks",
-      "path": "Front-To-Full-Stack Projects/Full-Stack Frameworks.md"
     }
   ],
   "omittedPaths": [],

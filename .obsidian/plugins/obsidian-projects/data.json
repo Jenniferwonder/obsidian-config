@@ -128,10 +128,17 @@
               "status",
               "tags",
               "title"
-            ]
+            ],
+            "sortField": "status",
+            "sortAsc": true
           },
           "filter": {
-            "conditions": []
+            "conditions": [
+              {
+                "field": "name",
+                "operator": "is-not-empty"
+              }
+            ]
           },
           "colors": {
             "conditions": []
