@@ -10,16 +10,30 @@
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "30-Reading",
+          "path": "编程项目/React",
           "recursive": false
         }
       },
       "newNotesFolder": "",
       "views": [
         {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "e455f3da-0014-423d-86ce-91317ec3187e",
+          "name": "Table",
+          "type": "table"
+        },
+        {
           "config": {
-            "groupByField": "tags",
-            "priorityField": ""
+            "groupByField": "status",
+            "includeFields": [
+              "status"
+            ]
           },
           "filter": {
             "conditions": []
@@ -27,15 +41,93 @@
           "colors": {
             "conditions": []
           },
-          "id": "c9df6f2d-41a6-4bf2-9424-f6566c8c0581",
+          "id": "e09e9080-059d-490b-bc2a-b209f3e61a35",
           "name": "Board",
           "type": "board"
-        },
+        }
+      ],
+      "id": "e8417cc0-53a2-414b-a5e8-c9e7b63c0a4f",
+      "name": "React Projects"
+    },
+    {
+      "fieldConfig": {
+        "status": {
+          "options": [
+            "⚪Capture",
+            "🟡Organizing",
+            "🟠Distilling",
+            "🟢Published"
+          ]
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "PKM",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
         {
           "config": {
             "fieldConfig": {
-              "name": {
-                "width": 193
+              "mindmap-plugin": {
+                "hide": true
+              },
+              "path": {
+                "hide": true
+              },
+              "aliases": {
+                "hide": true
+              }
+            },
+            "orderFields": [
+              "name",
+              "path",
+              "due",
+              "modified",
+              "started",
+              "status",
+              "tags",
+              "title"
+            ]
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "0b97edb6-bd42-474f-8209-055f498a0349",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "status",
+            "includeFields": [
+              "due"
+            ],
+            "columns": {
+              "No status": {
+                "weight": 0
+              },
+              "⚪Capture": {
+                "weight": 1
+              },
+              "🟡Organizing": {
+                "weight": 2
+              },
+              "🟠Distilling": {
+                "weight": 3
+              },
+              "🟢Published": {
+                "weight": 4
               }
             }
           },
@@ -45,132 +137,13 @@
           "colors": {
             "conditions": []
           },
-          "id": "c57be598-7568-4930-be1d-11a3696b1a4b",
-          "name": "Table",
-          "type": "table"
-        },
-        {
-          "config": {
-            "dateField": "viewtime",
-            "interval": "month",
-            "checkField": "进度"
-          },
-          "filter": {
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "id": "585d39fd-f88b-4249-bd78-0874094f140d",
-          "name": "Calendar",
-          "type": "calendar"
-        }
-      ],
-      "name": "Reading",
-      "id": "452d8da3-6b6b-4c47-805f-4d9c0448647f"
-    },
-    {
-      "fieldConfig": {},
-      "defaultName": "",
-      "templates": [],
-      "excludedNotes": [],
-      "isDefault": false,
-      "dataSource": {
-        "kind": "folder",
-        "config": {
-          "path": "30-Reading",
-          "recursive": true
-        }
-      },
-      "newNotesFolder": "",
-      "views": [
-        {
-          "config": {},
-          "filter": {
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "id": "74ef48a1-4b1a-4a70-a59f-4dd4aa371e75",
-          "name": "Table",
-          "type": "table"
-        },
-        {
-          "config": {},
-          "filter": {
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "id": "8135d89f-7848-4b7a-a525-2005b99eaccf",
-          "name": "Board",
+          "id": "401db4a4-f873-4889-8605-a07e26940afd",
+          "name": "Kanban",
           "type": "board"
-        },
-        {
-          "config": {},
-          "filter": {
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "id": "38b4b14e-b813-446a-8dc2-f5e8f37508a8",
-          "name": "Calendar",
-          "type": "calendar"
         }
       ],
-      "name": "30-Reading",
-      "id": "a6202afb-e904-4cbb-a090-1a40b5a5ec50"
-    },
-    {
-      "fieldConfig": {},
-      "defaultName": "",
-      "templates": [],
-      "excludedNotes": [],
-      "isDefault": false,
-      "dataSource": {
-        "kind": "dataview",
-        "config": {
-          "query": "TABLE\ntags,author,readtime,pagecount\nfrom #book"
-        }
-      },
-      "newNotesFolder": "",
-      "views": [],
-      "name": "tips",
-      "id": "9fedc95d-29ff-4baa-98b9-3a25810a0f5b"
-    },
-    {
-      "fieldConfig": {},
-      "defaultName": "",
-      "templates": [],
-      "excludedNotes": [],
-      "isDefault": false,
-      "dataSource": {
-        "kind": "folder",
-        "config": {
-          "path": "test",
-          "recursive": false
-        }
-      },
-      "newNotesFolder": "",
-      "views": [
-        {
-          "config": {},
-          "filter": {
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "id": "e7bb2340-c802-4558-9423-b5d94fdfe77f",
-          "name": "Table",
-          "type": "table"
-        }
-      ],
-      "name": "test",
-      "id": "78fa420e-ac24-4e1d-91f4-a3dcfb314e64"
+      "id": "21a54295-fc60-47df-8738-f474ccba2711",
+      "name": "PKM"
     }
   ],
   "preferences": {

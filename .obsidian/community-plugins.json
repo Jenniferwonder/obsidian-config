@@ -30,7 +30,6 @@
   "buttons",
   "obsidian-tasks-plugin",
   "obsidian-advanced-uri",
-  "obsidian-reveal-active-file",
   "obsidian-emoji-toolbar",
   "obsidian-hide-sidebars-when-narrow",
   "homepage",
@@ -56,5 +55,9 @@
   "obsidian-spaced-repetition",
   "canvas-mindmap",
   "various-complements",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "auto-note-mover",
+  "file-explorer-note-count",
+  "recent-files-obsidian",
+  "dbfolder"
 ]

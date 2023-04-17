@@ -11,21 +11,34 @@ sorting-spec: |
  // To play with more examples go to https://github.com/SebastianMC/obsidian-custom-sort#readme
 
  target-folder: /*
+ Inspirations
+ Front-End Blogs
+ Front-End Projects
+ Front-End System
+ Front-To-Full-Stack System 
+ Programming-Fundamentals
+ AI-Tools
+ PKM
  问题目标
  学习记录
  阶段反思
  效率方法
  编程能力
  编程项目
- 编程博客
  编程视频
  生活攻略
  with-metadata: started
  > a-z by-metadata: started
- target-folder: 编程能力
- Front-End
- Database
- Full-Stack
+ target-folder: Front-End System
+ Front-End Tech Stack
+ Front-End Roadmap
+ Front-End Basics
+ Front-End Practice
+ Front-End Frameworks
+ ...
+  with-metadata: modified
+ > a-z by-metadata: modified
+ target-folder: Programming-Fundamentals
  Web
  System Design
  Algorithm and Data Structure

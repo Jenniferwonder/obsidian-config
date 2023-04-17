@@ -74,7 +74,7 @@ status: Doing
 #### 2. [[Front-End Tech Stack]]
 - [[Job, Work, Career]]
 #### 3. Learning Efficiency
-- ⭐[[Learning Efficiency]]
+- ⭐[[PKM Workflow]]
 - [[How to Stop Worrying and Start Living]]
 - [[Monthly Reflection]]
 - ⭐[[English Learning]]

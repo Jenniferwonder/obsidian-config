@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "225fbd2b9bd9a878",
+        "id": "8368ffd49ae9c646",
         "type": "tabs",
         "children": [
           {
-            "id": "bfc1b6186ae3b57c",
+            "id": "e27f344690dfcee7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Note-Taking/Note-Taking.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "obsidian-projects",
+              "state": {}
             }
           }
         ]
@@ -62,7 +57,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -81,13 +76,21 @@
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {}
             }
+          },
+          {
+            "id": "f1b6fbbbfa6f670d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 200
   },
   "right": {
     "id": "617127011ede853a",
@@ -103,7 +106,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Note-Taking/Note-Taking.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -138,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Note-Taking/Note-Taking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Note-Taking/Note-Taking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,9 +166,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Note-Taking/Note-Taking.md"
-              }
+              "state": {}
             }
           },
           {
@@ -231,18 +229,17 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 207.5,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "custom-sort:Toggle custom sorting": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New Excalidraw drawing": false,
       "homepage:Open homepage": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
       "obsidian-projects:Open projects": false,
@@ -260,47 +257,56 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "periodic-notes:Open today": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "dbfolder:Create a new database table": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "3e28e9c79ee063b1",
+  "active": "e27f344690dfcee7",
   "lastOpenFiles": [
-    "Note-Taking/QuickAdd in Obsidian.md",
-    "Obsidian Community.md",
-    "Note-Taking/Obsidian-插件功能.md",
-    "Note-Taking/Note-Taking.md",
-    "Note-Taking/笔记方法.md",
-    "Podcast",
-    "Video",
-    "Note-Taking/笔记误区.md",
-    "Note-Taking/笔记目的.md",
-    "Note-Taking/Mindmap.md",
-    "Note-Taking/Canvas in Obsidian.md",
-    "Templates/Daily Plan.md",
-    "Note-Taking/Memos in Obsidian.md",
+    "AI-Tools/Coding Prompt.md",
+    "AI-Tools/Content Prompt.md",
+    "AI-Tools/AI Tools.md",
+    "AI-Tools/AI.md",
+    "PKM/PKM Workflow.md",
+    "PKM/Obsidian Auto Mover.md",
+    "编程视频/2302/2302.01/2302.01-Project.md",
+    "Front-End Blogs/编程博客.md",
+    "sortspec.md",
+    "Inspirations",
+    "Front-End System/Front-End Basics/JS/assets/Pasted image 20230310114951.png",
     "学习记录/2023-04-17.md",
-    "88-Template/script/script.md",
-    "88-Template/script/tasksCalendar/README.md",
-    "88-Template/script/template/template.md",
-    "20-Diary/2023-04-17.md",
-    "学习记录/2023-02/2023-02-19.md",
-    "88-Template/便签.md",
-    "20-Diary",
-    "88-Template/script/TasksTimeline/README.md",
+    "编程项目/Architecture and System Design - GeekEnglish.md",
+    "编程项目/Reflection on Building a Portfolio Website.md",
+    "编程项目/Project Plan and Research - GeekEnglish.md",
+    "PKM/assets 1/Pasted image 20230412194539.png",
+    "PKM/assets 1/Pasted image 20230412193109.png",
+    "Front-End Projects/GeekEnglish Admin Panel.md",
+    "Front-End Projects/GeekEnglish Platform.md",
+    "编程项目/Medium-Clone.md",
+    "编程项目/Twitter-Clone.md",
+    "Front-End Projects",
+    "Front-End Projects/GeekEnglish Note.md",
+    "Front-End Projects/GeekEnglish Miniprogram.md",
+    "Front-End System/Front-End Tech Stack.md",
+    "Front-End System/Front-End Frameworks/Front-End Frameworks.md",
+    "Front-End System/Front-End 1.md",
+    "Front-End System/Front-End Frameworks/Vue",
+    "Front-End System/Front-End Basics/JS/jQuery.md",
+    "Front-End System/Front-End Basics/JS/JS 方案要点：CSS, HTML，原生 JS, jQuery....md",
+    "Front-End System/Front-End Basics/JS/Value and Variables.md",
+    "Front-End System/Front-End Basics/JS/ZTM JS Note.md",
+    "Front-End Projects/React-Projects",
+    "Canvas/Note in iPhone.canvas",
+    "Context/Capture.mdb",
+    "Context/#Note-Taking.mdb",
+    "context.mdb",
+    "Context/spacesLastSync.log",
+    "Context",
+    "Front-End System",
     "Canvas/Canvas Demo.canvas",
-    "Untitled 1.canvas",
-    "Untitled.canvas",
-    "PDF/edX Computer Science Fundamentals Syllabus.pdf",
-    "Canvas",
-    "学习记录/2023-04-13.md",
-    "学习记录/2023-04-12.md",
-    "学习记录/2023-04-11.md",
-    "学习记录/2023-04-10.md",
-    "学习记录/2023-04-09.md",
-    "学习记录/2023-04-08.md",
-    "学习记录/2023-04-07.md"
+    "Untitled 1.canvas"
   ]
 }
