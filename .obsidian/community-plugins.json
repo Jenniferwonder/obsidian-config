@@ -25,7 +25,6 @@
   "periodic-notes",
   "obsidian-excalidraw-plugin",
   "better-word-count",
-  "cmenu-plugin",
   "heatmap-calendar",
   "multi-column-markdown",
   "buttons",
@@ -46,10 +45,16 @@
   "obsidian-quiet-outline",
   "surfing",
   "ob-table-enhancer",
-  "waypoint",
   "webpage-html-export",
   "workspaces-plus",
   "obsidian-markmind",
   "obsidian-advanced-slides",
-  "remotely-save"
+  "remotely-save",
+  "longform",
+  "obsidian-virtual-hotkey-keyboard",
+  "obsidian-citation-plugin",
+  "obsidian-spaced-repetition",
+  "canvas-mindmap",
+  "various-complements",
+  "obsidian-icon-folder"
 ]

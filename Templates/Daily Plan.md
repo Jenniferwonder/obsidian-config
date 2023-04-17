@@ -7,11 +7,9 @@ modified:
 status: Doing
 ---
 # Daily Plan
+## Inspirations
+
 ## What's my problem/question today?
-#### 1. [[Front-End Tech Stack]]
-- **[[React]]** 技术总结、应用与提升
-- [[React, Next.js Projects]] 总结
-#### 2. [[My Goals in 2023]]
 
 ## What're my biggest achievements?
 ### ✅Achievements
@@ -20,7 +18,7 @@ status: Doing
 
 ```dataview
 TABLE title, started, status
-WHERE file.cday = date(2023-03-03)
+WHERE contains(started, "2023-04-16")
 SORT file.mday DESC
 ```
 
@@ -28,8 +26,8 @@ SORT file.mday DESC
 
 ```dataview
 TABLE title, started, status
-WHERE file.mday = date(2023-03-03) AND file.cday != date(2023-03-03) AND contains(modified, "2023-03-03")
-SORT file.mday ASC
+WHERE file.cday != date(2023-03-03) AND contains(modified, "2023-03-03")
+SORT modified ASC
 ```
 
 ## Where can I improve?

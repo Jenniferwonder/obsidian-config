@@ -14,5 +14,6 @@
   "annotateBottom": 0,
   "useCustomShortcut": false,
   "highlightFormat": "\nPage:{{page}}\n<span style=\"color:rgb({{color}})\">■</span>:{{highlightText}}\nComment:{{comment}}\n[📌]({{link}})\n^{{id}}\n",
-  "uid": "00p01001200p01000q01200s01000r01300q00o"
+  "uid": "00p01001200p01000q01200s01000r01300q00o",
+  "pdfjsPath": "F:/JENNote-Git/.obsidian/pdfjs"
 }
