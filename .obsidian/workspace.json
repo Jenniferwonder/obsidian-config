@@ -4,32 +4,64 @@
     "type": "split",
     "children": [
       {
-        "id": "9c4faff3f3edba2e",
+        "id": "8368ffd49ae9c646",
         "type": "tabs",
+        "dimension": 18.71616395978345,
         "children": [
           {
-            "id": "0d97ab778518ac69",
+            "id": "e27f344690dfcee7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PKM Efficiency/Sync and Back up.md",
+                "file": "Daily/2023-04-18.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "851e91c2103ac79e",
+        "type": "tabs",
+        "dimension": 50.42536736272235,
+        "children": [
           {
-            "id": "3d015e8a6728b706",
+            "id": "9746eb7c0d8dfe86",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PKM Efficiency/Obsidian-插件功能.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "b9238224a55299a4",
+        "type": "tabs",
+        "dimension": 30.8584686774942,
+        "children": [
+          {
+            "id": "458285e1027e3bad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PKM Efficiency/Templater in Obsidian.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -48,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Scren-Recording",
+                "query": "database",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -104,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 200
   },
   "right": {
     "id": "617127011ede853a",
@@ -120,6 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "PKM Efficiency/Obsidian-插件功能.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,6 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PKM Efficiency/Obsidian-插件功能.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,6 +204,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PKM Efficiency/Obsidian-插件功能.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +215,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PKM Efficiency/Obsidian-插件功能.md"
+              }
             }
           },
           {
@@ -278,14 +315,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3d015e8a6728b706",
+  "active": "9746eb7c0d8dfe86",
   "lastOpenFiles": [
     "PKM Efficiency/Anki Flashcard Review.md",
-    "PKM Efficiency/iPad Note Workflow.md",
+    "PKM Efficiency/Obsidian-插件功能.md",
+    "PKM Efficiency/Templater in Obsidian.md",
+    "PKM Efficiency/Mindmap.md",
+    "Daily/2023-04-18.md",
+    "PKM Efficiency/PKM Workflow.md",
+    "PKM Efficiency/PKM System Mindmap.md",
+    "sortspec.md",
+    "PKM Efficiency/Untitled database.md",
     "PKM Efficiency/Sync and Back up.md",
-    "学习记录/2023-04-15.md",
-    "学习记录/2023-04-16.md",
-    "学习记录/2023-04-17.md",
+    "Canvas/Canvas in iPad.canvas",
+    "Master Projects/Admin Panel/Admin Panel.md",
+    "Master Projects/Big Screen Visualization/Big Screen Visualization.md",
+    "Master Projects/Big Screen Visualization",
+    "PKM Efficiency/Obsidian Canvas.md",
+    "PKM Efficiency/iPad Note Workflow.md",
+    "Daily/2023-04-15.md",
+    "Daily/2023-04-16.md",
+    "Daily/2023-04-17.md",
     "编程视频/编程视频.md",
     "Canvas/Canvas Demo.canvas",
     "Canvas/Note in iPhone.canvas",
@@ -300,18 +350,7 @@
     "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
     "Excalidraw/Untitled 1.md",
     "Interview/CV/星球自我介绍.md",
-    "Interview/JD/JD.md",
-    "Interview/JD/Front-End CV.md",
-    "sortspec.md",
     "Interview/JD",
-    "Interview/JD/CV-Front-End-Post.md",
-    "Front-End Tech Stack/Front-End Tech Stack.md",
-    "Tech-Fundamentals/Algorithm and Data Structure/Algorithm and Data Structure.md",
-    "阶段反思/阶段反思.md",
-    "问题目标/问题目标.md",
-    "Untitled Kanban.md",
-    "PKM Efficiency/Obsidian Fast Start.md",
-    "88-Template/FastStart-StartupScript.md",
     "Master Projects/Admin Panel",
     "Master Projects/Content Editor/Picture",
     "Master Projects/Content Editor/Markdown",
@@ -320,7 +359,6 @@
     "Master Projects/Low Code",
     "Master Projects/Content Editor",
     "Master Projects/Video Content Platform",
-    "Master Projects/LiveStream",
     "Front-End Projects/Front-End Basics/JavaScript/assets/Pasted image 20230310114951.png",
     "PKM Efficiency/assets 1/Pasted image 20230412194539.png",
     "PKM Efficiency/assets 1/Pasted image 20230412193109.png",

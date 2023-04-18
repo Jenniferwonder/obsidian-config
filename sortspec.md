@@ -11,6 +11,7 @@ sorting-spec: |
  // To play with more examples go to https://github.com/SebastianMC/obsidian-custom-sort#readme
 
  target-folder: /*
+ Daily
  Interview
  Master Projects
  PKM Efficiency
@@ -38,4 +39,8 @@ sorting-spec: |
  ...
  with-metadata: modified
  > a-z by-metadata: modified
+ target-folder: Daily
+ ...
+ with-metadata: started
+ > a-z by-metadata: started 
 ---

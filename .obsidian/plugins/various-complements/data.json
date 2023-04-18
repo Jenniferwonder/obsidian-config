@@ -23,7 +23,7 @@
   "showComplementAutomatically": false,
   "showIndexingStatus": false,
   "descriptionOnSuggestion": "Short",
-  "selectSuggestionKeys": "Tab",
+  "selectSuggestionKeys": "Shift+Enter",
   "additionalCycleThroughSuggestionsKeys": "None",
   "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
   "openSourceFileKey": "Shift+Enter",
@@ -68,6 +68,110 @@
         "currentVault": {
           "count": 1,
           "lastUpdated": 1681742897430
+        }
+      }
+    },
+    "PKM System": {
+      "PKM System": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681802175041
+        }
+      }
+    },
+    "Floating-toc": {
+      "Floating-toc": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1681802686651
+        }
+      }
+    },
+    "float": {
+      "float": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1681802735334
+        }
+      }
+    },
+    "Folder": {
+      "Folder": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1681803017192
+        }
+      }
+    },
+    "Workspaces-plus": {
+      "Workspaces-plus": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1681803080393
+        }
+      }
+    },
+    "Excalidraw": {
+      "Excalidraw": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681803545964
+        }
+      }
+    },
+    "Markmind": {
+      "Markmind": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681803558495
+        }
+      }
+    },
+    "Canvas": {
+      "Canvas": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681803572242
+        }
+      }
+    },
+    "🟡Organizing": {
+      "🟡Organizing": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1681806635823
+        }
+      }
+    },
+    "Anki Flashcard Review": {
+      "Anki Flashcard Review": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681807346475
+        }
+      }
+    },
+    "home": {
+      "home": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681807587193
+        }
+      }
+    },
+    "Hover": {
+      "Hover": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1681807593428
+        }
+      }
+    },
+    "Sidebar": {
+      "Sidebar": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1681807930937
         }
       }
     }

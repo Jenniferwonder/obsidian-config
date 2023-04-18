@@ -117,6 +117,9 @@
               },
               "aliases": {
                 "hide": true
+              },
+              "database-plugin": {
+                "hide": true
               }
             },
             "orderFields": [

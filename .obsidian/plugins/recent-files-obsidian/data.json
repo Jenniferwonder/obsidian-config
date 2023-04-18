@@ -1,20 +1,52 @@
 {
   "recentFiles": [
     {
+      "basename": "Obsidian-插件功能",
+      "path": "PKM Efficiency/Obsidian-插件功能.md"
+    },
+    {
+      "basename": "Anki Flashcard Review",
+      "path": "PKM Efficiency/Anki Flashcard Review.md"
+    },
+    {
+      "basename": "Templater in Obsidian",
+      "path": "PKM Efficiency/Templater in Obsidian.md"
+    },
+    {
+      "basename": "2023-04-18",
+      "path": "Daily/2023-04-18.md"
+    },
+    {
+      "basename": "PKM System Mindmap",
+      "path": "PKM Efficiency/PKM System Mindmap.md"
+    },
+    {
+      "basename": "sortspec",
+      "path": "sortspec.md"
+    },
+    {
+      "basename": "Untitled database",
+      "path": "PKM Efficiency/Untitled database.md"
+    },
+    {
       "basename": "Sync and Back up",
       "path": "PKM Efficiency/Sync and Back up.md"
     },
     {
+      "basename": "Canvas in iPad",
+      "path": "Canvas/Canvas in iPad.canvas"
+    },
+    {
       "basename": "2023-04-15",
-      "path": "学习记录/2023-04-15.md"
+      "path": "Daily/2023-04-15.md"
     },
     {
       "basename": "2023-04-16",
-      "path": "学习记录/2023-04-16.md"
+      "path": "Daily/2023-04-16.md"
     },
     {
       "basename": "2023-04-17",
-      "path": "学习记录/2023-04-17.md"
+      "path": "Daily/2023-04-17.md"
     },
     {
       "basename": "编程视频",
@@ -75,10 +107,6 @@
     {
       "basename": "Front-End CV",
       "path": "Interview/JD/Front-End CV.md"
-    },
-    {
-      "basename": "sortspec",
-      "path": "sortspec.md"
     },
     {
       "basename": "CV-Front-End-Post",
@@ -171,34 +199,6 @@
     {
       "basename": "PKM Workflow",
       "path": "PKM Efficiency/PKM Workflow.md"
-    },
-    {
-      "basename": "My Goals in 2023",
-      "path": "问题目标/My Goals in 2023.md"
-    },
-    {
-      "basename": "CS50x Final Project",
-      "path": "阶段反思/CS50x Final Project.md"
-    },
-    {
-      "basename": "Master Projects",
-      "path": "Master Projects/Master Projects.md"
-    },
-    {
-      "basename": "MERN Blog",
-      "path": "Front-To-Full-Stack Projects/React-Full-Stack Projects/MERN-Projects/MERN Blog.md"
-    },
-    {
-      "basename": "E-Commerce App",
-      "path": "Master Projects/E-Commerce Store/E-Commerce App.md"
-    },
-    {
-      "basename": "NextJS-Projects",
-      "path": "Front-To-Full-Stack Projects/React-Full-Stack Projects/NextJS-Projects/NextJS-Projects.md"
-    },
-    {
-      "basename": "Fruit Fit Marketing Web",
-      "path": "Master Projects/E-Commerce Store/Fruit Fit Marketing Web.md"
     }
   ],
   "omittedPaths": [],
