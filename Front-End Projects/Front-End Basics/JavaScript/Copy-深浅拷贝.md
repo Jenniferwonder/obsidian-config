@@ -1,6 +1,6 @@
 ---
 title: 深浅拷贝
-tags: Coding/JS
+tags: JS
 started: 2022-12-16 Fri
 due:
 modified: 2022-12-16 Fri

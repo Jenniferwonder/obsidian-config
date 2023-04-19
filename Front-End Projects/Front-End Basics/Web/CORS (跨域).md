@@ -1,8 +1,8 @@
 ---
 title: CORS (跨域)
 tags:
-  - Coding/JS
-  - Coding/Web
+  - JS
+  - Web
 started: 2022-12-16 Fri
 due:
 modified: 2022-12-16 Fri

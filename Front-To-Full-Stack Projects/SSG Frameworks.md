@@ -1,6 +1,6 @@
 ---
 title: SSG Frameworks
-tags: Coding   
+tags: Front-End   
 started: 2023-03-08 Wed
 due: 
 modified: 2023-03-08 Wed

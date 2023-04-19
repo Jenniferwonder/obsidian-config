@@ -1,6 +1,6 @@
 ---
 title: Photo Editing
-tags: Coding/CSS  
+tags: CSS  
 started: 2022-12-16 Fri
 due: 
 modified: 2023-02-26 Sun

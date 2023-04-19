@@ -1,6 +1,6 @@
 ---
 title: CI-CD
-tags: Coding
+tags: Front-End
 started: 2023-03-06 Mon
 due:
 modified: 2023-03-13 Mon

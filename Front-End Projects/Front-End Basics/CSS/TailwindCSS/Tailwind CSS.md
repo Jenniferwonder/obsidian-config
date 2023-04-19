@@ -1,6 +1,6 @@
 ---
 title: Tailwind CSS
-tags: Coding/CSS
+tags: CSS
 started: 2023-02-21 Tue
 due:
 modified: 2023-02-21 Tue

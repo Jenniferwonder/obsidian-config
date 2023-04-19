@@ -1,6 +1,6 @@
 ---
 title: TypeScript
-tags: Coding/TS
+tags: TS
 started: 2022-11-29 Tue
 due:
 modified: 2022-12-16 Fri

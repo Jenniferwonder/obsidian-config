@@ -1,6 +1,6 @@
 ---
 title: Database
-tags: Coding/Database  
+tags: Database  
 started: 2023-03-01 Wed
 due: 
 modified: 2023-03-07 Tue

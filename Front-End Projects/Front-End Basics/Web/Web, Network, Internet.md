@@ -1,6 +1,6 @@
 ---
 title: Web, Network, Internet
-tags: Coding/Web
+tags: Web
 started: 2022-12-02 Fri
 due:
 modified: 2023-03-10 Fri

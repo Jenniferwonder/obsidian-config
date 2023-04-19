@@ -1,6 +1,6 @@
 ---
 title: Cookies
-tags: Coding/Web
+tags: Web
 started: 2023-02-16 Thu
 due:
 modified: 2023-02-16 Thu

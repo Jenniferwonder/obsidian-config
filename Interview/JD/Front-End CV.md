@@ -1,6 +1,6 @@
 ---
 title: Front-End CV
-tags: Coding/前端面试
+tags: Interview
 status:
 started: 2022-11-22 Tue
 modified: 2023-03-07 Tue

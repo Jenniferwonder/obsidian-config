@@ -1,7 +1,7 @@
 {
 	"nodes":[
 		{"type":"file","file":"PKM Efficiency/Note-Taking.md","id":"42434c5eefaa89b9","x":-280,"y":-320,"width":400,"height":380},
-		{"type":"file","file":"PKM Efficiency/Mindmap.md","id":"6004d485e7ef3143","x":260,"y":-200,"width":400,"height":400},
+		{"type":"file","file":"PKM/PKM-Capture/Mindmap.md","id":"6004d485e7ef3143","x":260,"y":-200,"width":400,"height":400},
 		{"type":"text","text":"Mindmap Test","id":"5e126fd3532b045e","x":260,"y":-380,"width":250,"height":60},
 		{"type":"text","text":"Mindmap Test","id":"90c74180d63f5d27","x":260,"y":-300,"width":250,"height":60},
 		{"type":"text","text":"Mindmap Test","id":"8b7afda6099d8385","x":260,"y":-460,"width":250,"height":60}

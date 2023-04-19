@@ -1,6 +1,6 @@
 ---
 title: Operators
-tags: Coding/JS
+tags: JS
 started: 2022-11-29 Tue
 due:
 modified: 2022-12-01 Thu

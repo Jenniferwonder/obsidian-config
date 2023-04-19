@@ -1,6 +1,6 @@
 ---
 title: Number
-tags: Coding/JS
+tags: JS
 started: 2022-12-01 Thu
 due:
 modified: 2022-12-01 Thu

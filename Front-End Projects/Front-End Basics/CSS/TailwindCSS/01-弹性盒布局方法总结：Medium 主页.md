@@ -1,7 +1,7 @@
 ---
 title: 01-弹性盒布局方法总结：Medium 主页
 tags:
-  - Coding/NextJS
+  - NextJS
   - Coding-Projects/Medium-Clone
 status: Done
 started: 2022-11-11

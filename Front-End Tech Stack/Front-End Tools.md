@@ -1,6 +1,6 @@
 ---
 title: 前端优质博客资源
-tags: Coding
+tags: Front-End
 status:
 started: 2022-11-22 Tue
 modified: 2023-03-07 Tue

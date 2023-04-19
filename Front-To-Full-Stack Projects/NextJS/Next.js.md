@@ -1,6 +1,6 @@
 ---
 title: Next.js
-tags: Coding/NextJS   
+tags: NextJS   
 started: 2022-11-29 Tue
 due: 
 modified: 2023-03-01 Wed

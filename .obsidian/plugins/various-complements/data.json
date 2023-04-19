@@ -338,6 +338,22 @@
           "lastUpdated": 1681887764249
         }
       }
+    },
+    "How-to": {
+      "How-to": {
+        "currentVault": {
+          "count": 5,
+          "lastUpdated": 1681906591493
+        }
+      }
+    },
+    "PKM/Distill": {
+      "PKM/Distill": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1681897048483
+        }
+      }
     }
   }
 }

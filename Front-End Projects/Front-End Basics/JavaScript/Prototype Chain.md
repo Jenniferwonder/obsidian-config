@@ -1,6 +1,6 @@
 ---
 title: Prototype Chain
-tags: Coding/JS
+tags: JS
 started: 2022-12-02 Fri
 due:
 modified: 2022-12-05 Mon

@@ -1,6 +1,6 @@
 ---
 title: Symbol
-tags: Coding/JS
+tags: JS
 started: 2023-02-15 Wed
 due:
 modified: 2023-02-15 Wed

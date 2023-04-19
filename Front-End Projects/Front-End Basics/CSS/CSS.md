@@ -1,6 +1,6 @@
 ---
 title: CSS
-tags: Coding/CSS
+tags: CSS
 started: 2022-11-29 Tue
 due:
 modified: 2022-12-14 Wed

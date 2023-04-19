@@ -1,6 +1,6 @@
 ---
 title: Timer
-tags: Coding/JS
+tags: JS
 started: 2022-12-14 Wed
 due:
 modified: 2022-12-14 Wed

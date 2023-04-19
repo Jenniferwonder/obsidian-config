@@ -1,6 +1,6 @@
 ---
 title: this,call,apply,bind
-tags: Coding/JS
+tags: JS
 started: 2022-12-16 Fri
 due:
 modified: 2022-12-16 Fri

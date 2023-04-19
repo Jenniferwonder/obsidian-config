@@ -1,6 +1,6 @@
 ---
 title: Dependency Installation Error
-tags: Coding   
+tags: Front-End   
 started: 2023-02-17 Fri
 due: 
 modified: 2023-02-17 Fri

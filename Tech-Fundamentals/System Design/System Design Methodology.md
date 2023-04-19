@@ -1,6 +1,6 @@
 ---
 title: System Design Methodology
-tags: Coding/System-Design
+tags: System-Design
 started: 2023-03-13 Mon
 due:
 modified: 2023-03-15 Wed

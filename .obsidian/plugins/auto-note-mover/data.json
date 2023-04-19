@@ -4,8 +4,63 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
-      "folder": "PKM Efficiency",
-      "tag": "#PKM",
+      "folder": "PKM Tools/PKM-Obsidian Setup",
+      "tag": "#PKM/Setup",
+      "pattern": ""
+    },
+    {
+      "folder": "PKM/PKM-Capture",
+      "tag": "#PKM/Capture",
+      "pattern": ""
+    },
+    {
+      "folder": "PKM/PKM-Organize",
+      "tag": "#PKM/Organize",
+      "pattern": ""
+    },
+    {
+      "folder": "PKM/PKM-Distill",
+      "tag": "#PKM/Distill",
+      "pattern": ""
+    },
+    {
+      "folder": "PKM/PKM-Edit",
+      "tag": "#PKM/Edit",
+      "pattern": ""
+    },
+    {
+      "folder": "PKM/PKM-Present",
+      "tag": "#PKM/Present",
+      "pattern": ""
+    },
+    {
+      "folder": "PKM/PKM-Share",
+      "tag": "#PKM/Share",
+      "pattern": ""
+    },
+    {
+      "folder": "PKM/PKM-Coordinate",
+      "tag": "#PKM/Coordinate",
+      "pattern": ""
+    },
+    {
+      "folder": "PKM/PKM-Obsidian Setup/iPad",
+      "tag": "#iPad",
+      "pattern": ""
+    },
+    {
+      "folder": "PKM/PKM-Obsidian Setup/Windows",
+      "tag": "#Windows",
+      "pattern": ""
+    },
+    {
+      "folder": "PKM/PKM-Obsidian Setup/iPhone",
+      "tag": "#iPhone",
+      "pattern": ""
+    },
+    {
+      "folder": "PKM/PKM-Efficiency",
+      "tag": "#PKM/Efficiency",
       "pattern": ""
     }
   ],

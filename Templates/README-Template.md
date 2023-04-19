@@ -1,6 +1,6 @@
 ---
 title: README-Template
-tags: Coding/GitHub   
+tags: GitHub   
 started: 2023-03-21 Tue
 due: 
 modified: 2023-03-21 Tue

@@ -1,6 +1,6 @@
 ---
 title: OOP and In heritance
-tags: Coding/JS
+tags: JS
 started: 2022-12-05 Mon
 due:
 modified: 2023-03-10 Fri

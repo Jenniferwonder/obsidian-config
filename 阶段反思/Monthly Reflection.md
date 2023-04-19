@@ -15,7 +15,7 @@ status:
 - Improve [[Video Editing]] and [[Photo Editing]] skills
 - Upload a video to Bilibili [[2302.01-Script]]
 #### 2. How to Be Job Ready ASAP?
-- [[PKM Workflow]]
+- [[PKM Efficiency]]
 ## Reflection, Jan
 #### 1. Biggest Achievements
 - Build up [[My Goals in 2023]]

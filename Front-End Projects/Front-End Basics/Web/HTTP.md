@@ -1,8 +1,8 @@
 ---
 title: HTTP
 tags:
-  - Coding/Web
-  - Coding/JS
+  - Web
+  - JS
 started: 2022-12-10 Sat
 due:
 modified: 2022-12-10 Sat

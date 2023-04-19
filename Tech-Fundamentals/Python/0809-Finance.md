@@ -1,6 +1,6 @@
 ---
 title: 0809-Finance
-tags: Coding/Python
+tags: Python
 status: Done
 started: 2022-08-08
 due: 2022-08-14

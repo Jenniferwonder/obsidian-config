@@ -1,6 +1,6 @@
 ---
 title: CS50x Final Project
-tags: Coding/Web
+tags: Web
 status: Done
 started: 2022-09-12
 due: 

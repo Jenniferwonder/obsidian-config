@@ -1,6 +1,6 @@
 ---
 title: Input
-tags: Coding/HTML
+tags: HTML
 started: 2022-12-06 Tue
 due:
 modified: 2022-12-06 Tue

@@ -1,6 +1,6 @@
 ---
 title: React, Next.js Projects
-tags: Coding/NextJS
+tags: NextJS
 started: 2023-01-07 Sat
 due: 
 modified: 2023-02-26 Sun

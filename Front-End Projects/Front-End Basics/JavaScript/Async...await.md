@@ -1,6 +1,6 @@
 ---
 title: Async...await
-tags: Coding/JS
+tags: JS
 started: 2022-12-09 Fri
 due:
 modified: 2022-12-09 Fri

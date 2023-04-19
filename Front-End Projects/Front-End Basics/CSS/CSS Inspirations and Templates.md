@@ -1,6 +1,6 @@
 ---
 title: CSS Inspirations and Templates
-tags: Coding/CSS  
+tags: CSS  
 started: 2022-12-16 Fri
 due: 
 modified: 2023-04-10 Mon

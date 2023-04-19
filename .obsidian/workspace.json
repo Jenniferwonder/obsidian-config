@@ -4,63 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "428ab3b9bfa697a9",
+        "id": "56814d012c395f23",
         "type": "tabs",
         "children": [
           {
-            "id": "5f14521b8b090b0f",
+            "id": "ddd276b0948e07ff",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "PKM Efficiency/PKM-DB.md"
-              }
-            }
-          },
-          {
-            "id": "ff406e520cdd4ccb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PKM Efficiency/Obsidian-使用指南.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71643ed0a14ae959",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PKM Efficiency/PKM-备份与同步.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "1f3827e48b13bd7f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "9e89ef6d602b97d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PKM Efficiency/Sync and Back up.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -82,7 +34,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Coding",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -138,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.5
+    "width": 348.5
   },
   "right": {
     "id": "617127011ede853a",
@@ -154,7 +106,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PKM Efficiency/PKM-备份与同步.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -189,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PKM Efficiency/PKM-备份与同步.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PKM Efficiency/PKM-备份与同步.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,9 +174,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "PKM Efficiency/PKM-备份与同步.md"
-              }
+              "state": {}
             }
           },
           {
@@ -294,7 +241,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -328,53 +276,53 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "71643ed0a14ae959",
+  "active": "ddd276b0948e07ff",
   "lastOpenFiles": [
-    "PKM Efficiency/Sync and Back up.md",
-    "PKM Efficiency/PKM-备份与同步.md",
-    "PKM Efficiency/PKM-效率进阶.md",
-    "PKM Efficiency/Templater in Obsidian.md",
-    "PKM Efficiency/PKM-周期记录.md",
-    "PKM Efficiency/PKM-学习记录 Capture  Organize.md",
-    "PKM Efficiency/PKM-导出与分享.md",
-    "PKM Efficiency/PKM-展示.md",
-    "PKM Efficiency/PKM-思维导图与白板.md",
-    "PKM Efficiency/PKM-样式美化.md",
-    "PKM Efficiency/PKM-核心视图.md",
-    "PKM Efficiency/PKM-知识切割与复习 Distill.md",
-    "PKM Efficiency/PKM-编辑输入与快速查找.md",
-    "PKM Efficiency/PKM-项目管理视图进阶.md",
-    "PKM Efficiency/Obsidian-插件功能.md",
-    "💡Improvement Ideas.md",
-    "PKM Efficiency/Obsidian-使用指南.md",
-    "PKM Efficiency/PKM-DB.md",
-    "PKM Efficiency/Obsidian Fast Start.md",
-    "PKM Efficiency/Anki Flashcard Review.md",
-    "PKM Efficiency/QuickAdd in Obsidian.md",
-    "PKM Efficiency/Memos in Obsidian.md",
-    "PKM Efficiency/Obsidian Community.md",
-    "PKM Efficiency/Obsidian Auto Mover.md",
-    "PKM Efficiency/Canvas in Obsidian.md",
-    "Database/PKM-DB.md.baiduyun.uploading.cfg",
-    "sortspec.md",
-    "sortspec.md.baiduyun.uploading.cfg",
-    "Database",
-    "Front-End Tech Stack/Untitled database.md.baiduyun.uploading.cfg",
-    "PKM Efficiency/PKM-DB.md.baiduyun.uploading.cfg",
-    "Codespace/Portfolio/Reflection on Building a Portfolio Website.md.baiduyun.uploading.cfg",
-    "Codespace/Learning Platform/Project Plan and Research - GeekEnglish.md.baiduyun.uploading.cfg",
-    "Codespace/Learning Platform/GeekEnglish Platform.md.baiduyun.uploading.cfg",
-    "Codespace/Learning Platform/GeekEnglish Note.md.baiduyun.uploading.cfg",
-    "Codespace/Learning Platform/GeekEnglish Miniprogram.md.baiduyun.uploading.cfg",
-    "PKM Efficiency/assets/Snipaste_2022-11-25_10-54-52.png",
-    "PKM Efficiency/assets/Record_2022_11_25_10_45_17_186.gif",
-    "PKM Efficiency/assets/Pasted image 20230419095832.png",
-    "PKM Efficiency/assets/Pasted image 20230419095503.png",
-    "PKM Efficiency/assets/Pasted image 20230419095220.png",
-    "PKM Efficiency/assets/Pasted image 20230412194539.png",
-    "PKM Efficiency/assets/Pasted image 20230412193109.png",
-    "PKM Efficiency/assets/Pasted image 20221125103435.png",
+    "问题目标/问题目标.md",
+    "阶段反思/阶段反思.md",
+    "PKM/How-to/How-to.md",
+    "Codespace/How-to/How-to.md",
+    "Codespace/Master Projects.md",
+    "Codespace/How-to",
+    "PKM/PKM-Capture/PKM-Capture.md",
+    "Photo Edit.md",
     "Photo.jpg",
+    "sortspec.md",
+    "PKM/PKM-Coordinate/PKM-Coordinate.md",
+    "PKM/PKM-Capture/Canvas in Obsidian.md",
+    "PKM/PKM-Capture/Memos in Obsidian.md",
+    "PKM/PKM-Efficiency/Templater in Obsidian.md",
+    "PKM/PKM-Capture/PKM-学习记录.md",
+    "PKM/PKM-Efficiency/PKM-快速查找与功能调用.md",
+    "PKM/PKM-Efficiency/PKM-快速编辑输入.md",
+    "PKM/PKM-Efficiency/PKM-模板效率进阶.md",
+    "PKM/PKM-Efficiency/Obsidian Auto Mover.md",
+    "PKM/PKM-Efficiency/QuickAdd in Obsidian.md",
+    "PKM/PKM-Efficiency/PKM-核心视图.md",
+    "PKM/PKM-Organize/PKM-项目管理视图进阶.md",
+    "PKM/PKM-Present and Share/PKM-导出与分享.md",
+    "PKM/PKM-Present and Share/PKM-展示.md",
+    "PKM/PKM-Present and Share/微信公众号快速编辑发布-MDNICE.md",
+    "PKM/PKM Efficiency.md",
+    "PKM/PKM-Efficiency",
+    "PKM/PKM-Organize/PKM-Organize.md",
+    "PKM/PKM-Present and Share/笔记内容可视化.md",
+    "PKM/PKM-Teamwork",
+    "PKM/PKM-Conmmunicate",
+    "PKM Efficiency/PKM-Consume",
+    "PKM/PKM-Coordinate",
+    "PKM/Publish",
+    "PKM/How-to",
+    "PKM/iPhone",
+    "PKM/Windows",
+    "PKM/assets/Snipaste_2022-11-25_10-54-52.png",
+    "PKM/assets/Record_2022_11_25_10_45_17_186.gif",
+    "PKM/assets/Pasted image 20230419095832.png",
+    "PKM/assets/Pasted image 20230419095503.png",
+    "PKM/assets/Pasted image 20230419095220.png",
+    "PKM/assets/Pasted image 20230412194539.png",
+    "PKM/assets/Pasted image 20230412193109.png",
+    "PKM/assets/Pasted image 20221125103435.png",
     "Canvas/Canvas in iPad.canvas",
     "Canvas/Canvas Demo.canvas",
     "Canvas/Note in iPhone.canvas",

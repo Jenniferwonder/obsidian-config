@@ -1,6 +1,6 @@
 ---
 title: UML
-tags: Coding/UML
+tags: UML
 started: 2023-03-07 Tue
 due:
 modified: 2023-03-07 Tue

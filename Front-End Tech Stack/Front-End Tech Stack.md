@@ -1,6 +1,6 @@
 ---
 title: Front-End Tech Stack
-tags: Coding
+tags: Front-End
 started: 2023-01-17 Tue
 due:
 modified: 2023-03-13 Mon

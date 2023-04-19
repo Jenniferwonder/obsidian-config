@@ -1,6 +1,6 @@
 ---
 title: Web APIs and API Design Patterns
-tags: Coding/Web
+tags: Web
 started: 2022-12-02 Fri
 due:
 modified: 2023-03-15 Wed

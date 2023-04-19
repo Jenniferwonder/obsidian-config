@@ -1,6 +1,6 @@
 ---
 title: Front-End Guide-CN
-tags: Coding
+tags: Front-End
 status:
 started: 2022-11-22 Tue
 modified: 2023-03-02 Thu

@@ -1,6 +1,6 @@
 ---
 title: Vue
-tags: Coding/Vue
+tags: Vue
 started: 2023-03-10 Fri
 due:
 modified: 2023-03-13 Mon

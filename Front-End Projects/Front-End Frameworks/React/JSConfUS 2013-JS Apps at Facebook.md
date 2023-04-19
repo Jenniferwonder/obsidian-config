@@ -1,6 +1,6 @@
 ---
 title: JSConfUS 2013-JS Apps at Facebook
-tags: Coding/JS
+tags: JS
 started: 2023-01-13 Fri
 due:
 modified: 2023-04-10 Mon

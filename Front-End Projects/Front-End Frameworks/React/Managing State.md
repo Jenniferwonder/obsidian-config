@@ -1,6 +1,6 @@
 ---
 title: Managing State
-tags: Coding/React
+tags: React
 started: 2023-02-14 Tue
 due:
 modified: 2023-02-14 Tue

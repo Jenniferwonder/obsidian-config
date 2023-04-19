@@ -1,6 +1,6 @@
 ---
 title: Architecture Methodolody
-tags: Coding/System-Design
+tags: System-Design
 started: 2023-03-13 Mon
 due:
 modified: 2023-03-13 Mon

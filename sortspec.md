@@ -12,10 +12,9 @@ sorting-spec: |
 
  target-folder: /*
  Daily
- Database
  Interview
  Codespace
- PKM Efficiency
+ PKM
  Tech-Fundamentals
  Front-End Tech Stack
  Front-End Projects

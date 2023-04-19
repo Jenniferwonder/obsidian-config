@@ -1,6 +1,6 @@
 ---
 title: Front-End Interviews
-tags: Coding/前端面试
+tags: Interview
 started: 2022-12-16 Fri
 due:
 modified: 2023-03-07 Tue
