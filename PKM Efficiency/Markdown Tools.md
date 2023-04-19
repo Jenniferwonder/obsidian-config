@@ -1,10 +1,10 @@
 ---
 title: Markdown Tools
-tags: Note-Taking
-status:
+tags: PKM
+status: 🟡Organizing
 started: 2022-11-22 Tue
 modified: 2023-03-06 Mon
-due:
+due: null
 ---
 ## Editing
 [Organizing information with tables - GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-tables)

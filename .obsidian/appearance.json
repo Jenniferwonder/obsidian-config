@@ -3,7 +3,11 @@
   "theme": "moonstone",
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
-    "config"
+    "config",
+    "obsidian-styles-test",
+    "plugin-styles-test",
+    "snippets-test",
+    "theme-test"
   ],
   "textFontFamily": "Microsoft YaHei",
   "baseFontSize": 14

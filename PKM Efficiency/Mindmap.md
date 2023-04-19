@@ -1,8 +1,8 @@
 ---
 title: Mindmap
-tags:
+tags: PKM
 started: 2023-04-13 Thu
-due:
+due: null
 modified: 2023-04-17 Mon
 status: 🟡Organizing
 ---

@@ -1,6 +1,5 @@
 ---
 status: ⚪Capture
-tags:
-  - PKM
+tags: PKM
 ---
 

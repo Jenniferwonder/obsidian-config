@@ -36,5 +36,17 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "5f14521b8b090b0f",
+      "parent": 0,
+      "droppable": true,
+      "text": "Obsidian",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }

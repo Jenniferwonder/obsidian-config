@@ -1,20 +1,140 @@
 {
   "recentFiles": [
     {
-      "basename": "Youtube - Zotero Obsidian Integration",
-      "path": "ReadItLater/Youtube - Zotero Obsidian Integration.md"
+      "basename": "PKM-备份与同步",
+      "path": "PKM Efficiency/PKM-备份与同步.md"
     },
     {
-      "basename": "script",
-      "path": "88-Template/script/script.md"
+      "basename": "Sync and Back up",
+      "path": "PKM Efficiency/Sync and Back up.md"
+    },
+    {
+      "basename": "PKM-效率进阶",
+      "path": "PKM Efficiency/PKM-效率进阶.md"
+    },
+    {
+      "basename": "Templater in Obsidian",
+      "path": "PKM Efficiency/Templater in Obsidian.md"
+    },
+    {
+      "basename": "PKM-周期记录",
+      "path": "PKM Efficiency/PKM-周期记录.md"
+    },
+    {
+      "basename": "PKM-学习记录 Capture  Organize",
+      "path": "PKM Efficiency/PKM-学习记录 Capture  Organize.md"
+    },
+    {
+      "basename": "PKM-导出与分享",
+      "path": "PKM Efficiency/PKM-导出与分享.md"
+    },
+    {
+      "basename": "PKM-展示",
+      "path": "PKM Efficiency/PKM-展示.md"
+    },
+    {
+      "basename": "PKM-思维导图与白板",
+      "path": "PKM Efficiency/PKM-思维导图与白板.md"
+    },
+    {
+      "basename": "PKM-样式美化",
+      "path": "PKM Efficiency/PKM-样式美化.md"
+    },
+    {
+      "basename": "PKM-核心视图",
+      "path": "PKM Efficiency/PKM-核心视图.md"
+    },
+    {
+      "basename": "PKM-知识切割与复习 Distill",
+      "path": "PKM Efficiency/PKM-知识切割与复习 Distill.md"
+    },
+    {
+      "basename": "PKM-编辑输入与快速查找",
+      "path": "PKM Efficiency/PKM-编辑输入与快速查找.md"
+    },
+    {
+      "basename": "PKM-项目管理视图进阶",
+      "path": "PKM Efficiency/PKM-项目管理视图进阶.md"
     },
     {
       "basename": "Obsidian-插件功能",
       "path": "PKM Efficiency/Obsidian-插件功能.md"
     },
     {
+      "basename": "Obsidian-使用指南",
+      "path": "PKM Efficiency/Obsidian-使用指南.md"
+    },
+    {
+      "basename": "PKM-DB",
+      "path": "PKM Efficiency/PKM-DB.md"
+    },
+    {
+      "basename": "Obsidian Fast Start",
+      "path": "PKM Efficiency/Obsidian Fast Start.md"
+    },
+    {
+      "basename": "Anki Flashcard Review",
+      "path": "PKM Efficiency/Anki Flashcard Review.md"
+    },
+    {
+      "basename": "QuickAdd in Obsidian",
+      "path": "PKM Efficiency/QuickAdd in Obsidian.md"
+    },
+    {
+      "basename": "Memos in Obsidian",
+      "path": "PKM Efficiency/Memos in Obsidian.md"
+    },
+    {
+      "basename": "Obsidian Community",
+      "path": "PKM Efficiency/Obsidian Community.md"
+    },
+    {
+      "basename": "Obsidian Auto Mover",
+      "path": "PKM Efficiency/Obsidian Auto Mover.md"
+    },
+    {
+      "basename": "Canvas in Obsidian",
+      "path": "PKM Efficiency/Canvas in Obsidian.md"
+    },
+    {
+      "basename": "sortspec",
+      "path": "sortspec.md"
+    },
+    {
+      "basename": "Front-End Tech Stack",
+      "path": "Front-End Tech Stack/Front-End Tech Stack.md"
+    },
+    {
+      "basename": "PKM Efficiency",
+      "path": "PKM Efficiency/PKM Efficiency.md"
+    },
+    {
+      "basename": "Master Projects",
+      "path": "Codespace/Master Projects.md"
+    },
+    {
+      "basename": "AU-20221129",
+      "path": "PKM Efficiency/AU-20221129.md"
+    },
+    {
+      "basename": "Note-Taking",
+      "path": "PKM Efficiency/Note-Taking.md"
+    },
+    {
+      "basename": "2023-04-19",
+      "path": "Daily/2023-04-19.md"
+    },
+    {
+      "basename": "Youtube - Zotero Obsidian Integration",
+      "path": "ReadItLater/Youtube - Zotero Obsidian Integration.md"
+    },
+    {
       "basename": "维客笔记",
       "path": "ReadNote/公众号/维客笔记.md"
+    },
+    {
+      "basename": "script",
+      "path": "88-Template/script/script.md"
     },
     {
       "basename": "Photo Edit",
@@ -57,18 +177,6 @@
       "path": "PKM Efficiency/assets/Pasted image 20221125103435.png"
     },
     {
-      "basename": "2023-04-19",
-      "path": "Daily/2023-04-19.md"
-    },
-    {
-      "basename": "PKM Efficiency",
-      "path": "PKM Efficiency/PKM Efficiency.md"
-    },
-    {
-      "basename": "Note-Taking",
-      "path": "PKM Efficiency/Note-Taking.md"
-    },
-    {
       "basename": "PKM Workflow",
       "path": "PKM Efficiency/PKM Workflow.md"
     },
@@ -91,114 +199,6 @@
     {
       "basename": "Lex Fridman Podcast-367 – Sam Altman OpenAI CEO on GPT-4 ChatGPT and the Future of AI",
       "path": "Podnote/Lex Fridman Podcast-367 – Sam Altman OpenAI CEO on GPT-4 ChatGPT and the Future of AI.md"
-    },
-    {
-      "basename": "Anki Flashcard Review",
-      "path": "PKM Efficiency/Anki Flashcard Review.md"
-    },
-    {
-      "basename": "Templater in Obsidian",
-      "path": "PKM Efficiency/Templater in Obsidian.md"
-    },
-    {
-      "basename": "PKM System Mindmap",
-      "path": "PKM Efficiency/PKM System Mindmap.md"
-    },
-    {
-      "basename": "sortspec",
-      "path": "sortspec.md"
-    },
-    {
-      "basename": "Untitled database",
-      "path": "PKM Efficiency/Untitled database.md"
-    },
-    {
-      "basename": "Sync and Back up",
-      "path": "PKM Efficiency/Sync and Back up.md"
-    },
-    {
-      "basename": "Canvas in iPad",
-      "path": "Canvas/Canvas in iPad.canvas"
-    },
-    {
-      "basename": "2023-04-15",
-      "path": "Daily/2023-04-15.md"
-    },
-    {
-      "basename": "2023-04-16",
-      "path": "Daily/2023-04-16.md"
-    },
-    {
-      "basename": "2023-04-17",
-      "path": "Daily/2023-04-17.md"
-    },
-    {
-      "basename": "编程视频",
-      "path": "编程视频/编程视频.md"
-    },
-    {
-      "basename": "Canvas Demo",
-      "path": "Canvas/Canvas Demo.canvas"
-    },
-    {
-      "basename": "Note in iPhone",
-      "path": "Canvas/Note in iPhone.canvas"
-    },
-    {
-      "basename": "Untitled 1 2023-04-14 21.47.38.excalidraw",
-      "path": "Excalidraw/Untitled 1 2023-04-14 21.47.38.excalidraw.md"
-    },
-    {
-      "basename": "2023-04-15 2023-04-15 22.08.33.excalidraw",
-      "path": "Excalidraw/2023-04-15 2023-04-15 22.08.33.excalidraw.md"
-    },
-    {
-      "basename": "Drawing 2022-11-28 11.38.22.excalidraw",
-      "path": "Excalidraw/Drawing 2022-11-28 11.38.22.excalidraw.md"
-    },
-    {
-      "basename": "Alternative Pens",
-      "path": "Excalidraw/Scripts/Downloaded/Alternative Pens.md"
-    },
-    {
-      "basename": "Alternative Pens",
-      "path": "Excalidraw/Scripts/Downloaded/Alternative Pens.svg"
-    },
-    {
-      "basename": "Auto Draw for Pen",
-      "path": "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md"
-    },
-    {
-      "basename": "Auto Draw for Pen",
-      "path": "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg"
-    },
-    {
-      "basename": "Auto Layout",
-      "path": "Excalidraw/Scripts/Downloaded/Auto Layout.md"
-    },
-    {
-      "basename": "Auto Layout",
-      "path": "Excalidraw/Scripts/Downloaded/Auto Layout.svg"
-    },
-    {
-      "basename": "星球自我介绍",
-      "path": "Interview/CV/星球自我介绍.md"
-    },
-    {
-      "basename": "JD",
-      "path": "Interview/JD/JD.md"
-    },
-    {
-      "basename": "Front-End CV",
-      "path": "Interview/JD/Front-End CV.md"
-    },
-    {
-      "basename": "CV-Front-End-Post",
-      "path": "Interview/JD/CV-Front-End-Post.md"
-    },
-    {
-      "basename": "Front-End Tech Stack",
-      "path": "Front-End Tech Stack/Front-End Tech Stack.md"
     }
   ],
   "omittedPaths": [],

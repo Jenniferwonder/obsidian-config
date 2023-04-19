@@ -1,6 +1,6 @@
 ---
 title: Templater in Obsidian
-tags: Note-Taking   
+tags: PKM   
 started: 2023-04-18 Tue
 due: 
 modified: 2023-04-18 Tue

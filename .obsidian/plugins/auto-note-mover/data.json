@@ -5,14 +5,14 @@
   "folder_tag_pattern": [
     {
       "folder": "PKM Efficiency",
-      "tag": "#Note-Taking",
+      "tag": "#PKM",
       "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,
   "excluded_folder": [
     {
-      "folder": "学习记录"
+      "folder": "Daily"
     },
     {
       "folder": ""

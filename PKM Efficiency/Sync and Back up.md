@@ -1,16 +1,14 @@
 ---
 title: Sync and Back up
-tags: [Note-Taking, PKM]
+tags: PKM
 started: 2023-04-17 Mon
-due:
+due: null
 modified: 2023-04-17 Mon
 status: 🟡Organizing
 ---
 ## Obsidian Sync and Back up
-#### 1. 怎样同步与备份
-##### Problems
-尝试解决Windows iCloud 同步一直pending 的问题
-出现bug, iCloud所在盘==内容全被删除== → 使用恢复工具~~Stella data recover~~(Google搜索推荐， 淘宝购买15 元，**恢复的是空文件夹！**)
+
+
 
 ##### Solution
 Remotely Sync 插件+ OneDrive 同步

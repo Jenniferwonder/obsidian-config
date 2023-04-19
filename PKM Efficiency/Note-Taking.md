@@ -1,7 +1,7 @@
 ---
 due:
 title: Note-Taking
-tags: Note-Taking
+tags: PKM
 started: 2022-11-29 Tue
 modified: 2023-01-19 Thu
 status: 🟡Organizing

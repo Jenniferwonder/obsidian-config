@@ -314,6 +314,30 @@
           "lastUpdated": 1681873978258
         }
       }
+    },
+    "Extended": {
+      "Extended": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1681879165092
+        }
+      }
+    },
+    "Experienced": {
+      "Experienced": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1681886716226
+        }
+      }
+    },
+    "同步区内容转移到备份区域": {
+      "同步区内容转移到备份区域": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681887764249
+        }
+      }
     }
   }
 }

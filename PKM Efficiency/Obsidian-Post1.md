@@ -1,7 +1,7 @@
 ---
 modified: 2023-03-07 Tue
 title: Obsidian-Post1
-tags: Note-Taking
+tags: PKM
 status: 🟢Published
 started: 2022-11-24 Thu
 ---

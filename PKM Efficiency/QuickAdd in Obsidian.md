@@ -1,8 +1,8 @@
 ---
 title: QuickAdd in Obsidian
-tags:
+tags: PKM
 started: 2023-04-17 Mon
-due:
+due: null
 modified: 2023-04-17 Mon
 status: ⚪Capture
 ---

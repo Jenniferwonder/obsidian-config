@@ -1,4 +1,5 @@
 ---
 status: ⚪Capture
+tags: PKM
 ---
 
