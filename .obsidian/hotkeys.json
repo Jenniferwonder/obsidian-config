@@ -470,5 +470,14 @@
       ],
       "key": "N"
     }
+  ],
+  "podnotes:capture-timestamp": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
+    }
   ]
 }

@@ -1,5 +1,32 @@
 {
-  "presetFields": [],
+  "presetFields": [
+    {
+      "name": "started",
+      "options": {
+        "dateFormat": "YYYY-MM-DD ddd",
+        "defaultInsertAsLink": "false"
+      },
+      "id": "1",
+      "type": "Date"
+    },
+    {
+      "name": "status",
+      "options": {
+        "valuesList": {
+          "1": "⚪Capture",
+          "2": "🟡Organizing",
+          "3": "🟠Distilling",
+          "4": "🟢Published",
+          "5": "🔵Reusing"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "2",
+      "type": "Select"
+    }
+  ],
   "fileClassQueries": [],
   "displayFieldsInContextMenu": true,
   "globallyIgnoredFields": [],
@@ -15,5 +42,7 @@
   "enableStarred": true,
   "enableFileExplorer": true,
   "enableSearch": true,
-  "buttonIcon": "clipboard-list"
+  "buttonIcon": "clipboard-list",
+  "tableViewMaxRecords": 100,
+  "frontmatterListDisplay": "asArray"
 }

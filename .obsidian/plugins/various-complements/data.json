@@ -12,7 +12,7 @@
   "complementAutomatically": true,
   "delayMilliSeconds": 100,
   "disableSuggestionsDuringImeOn": true,
-  "insertAfterCompletion": false,
+  "insertAfterCompletion": true,
   "firstCharactersDisableSuggestions": "-#:/^@",
   "useCommonPrefixCompletionOfSuggestion": false,
   "patternsToSuppressTrigger": [
@@ -130,8 +130,8 @@
     "Canvas": {
       "Canvas": {
         "currentFile": {
-          "count": 1,
-          "lastUpdated": 1681803572242
+          "count": 2,
+          "lastUpdated": 1681871557683
         }
       }
     },
@@ -172,6 +172,146 @@
         "currentVault": {
           "count": 1,
           "lastUpdated": 1681807930937
+        }
+      }
+    },
+    "Guidance": {
+      "Guidance": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1681814099816
+        }
+      }
+    },
+    "Beginning": {
+      "Beginning": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1681814768080
+        }
+      }
+    },
+    "Repetition": {
+      "Repetition": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1681869128610
+        }
+      }
+    },
+    "Calendar": {
+      "Calendar": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681869917610
+        }
+      }
+    },
+    "Mindmap": {
+      "Mindmap": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1681870034729
+        },
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1681870076427
+        }
+      }
+    },
+    "Markdown": {
+      "Markdown": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681870111304
+        }
+      }
+    },
+    "Table": {
+      "Table": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681870115974
+        }
+      }
+    },
+    "Editor": {
+      "Editor": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681870120239
+        }
+      }
+    },
+    "Optimize": {
+      "Optimize": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1681871551634
+        }
+      }
+    },
+    "Connection": {
+      "Connection": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1681871566355
+        }
+      }
+    },
+    "Periodic-notes": {
+      "Periodic-notes": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1681871734858
+        }
+      }
+    },
+    "Remotely": {
+      "Remotely": {
+        "currentFile": {
+          "count": 2,
+          "lastUpdated": 1681872830380
+        }
+      }
+    },
+    "Drive": {
+      "Drive": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1681873000478
+        }
+      }
+    },
+    "Omnisearch": {
+      "Omnisearch": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1681873639143
+        }
+      }
+    },
+    "Virtual": {
+      "Virtual": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1681873963132
+        }
+      }
+    },
+    "Hotkeys": {
+      "Hotkeys": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1681873969982
+        }
+      }
+    },
+    "Keyboard": {
+      "Keyboard": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1681873978258
         }
       }
     }

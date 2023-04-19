@@ -14,7 +14,7 @@ Xmind
 ### In Obsidian
 Excalidraw  
 Markmind  
-Obsidian Canvas
+Obsidian Canvas + Canvas Mindmap
 ## Functions
 Easy to integrate with notes  
 Sync across all platforms  

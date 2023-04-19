@@ -1,8 +1,96 @@
 {
   "recentFiles": [
     {
+      "basename": "Youtube - Zotero Obsidian Integration",
+      "path": "ReadItLater/Youtube - Zotero Obsidian Integration.md"
+    },
+    {
+      "basename": "script",
+      "path": "88-Template/script/script.md"
+    },
+    {
       "basename": "Obsidian-插件功能",
       "path": "PKM Efficiency/Obsidian-插件功能.md"
+    },
+    {
+      "basename": "维客笔记",
+      "path": "ReadNote/公众号/维客笔记.md"
+    },
+    {
+      "basename": "Photo Edit",
+      "path": "Photo Edit.md"
+    },
+    {
+      "basename": "2022-11-24",
+      "path": "Daily/2022-11/2022-11-24.md"
+    },
+    {
+      "basename": "Snipaste_2022-11-25_10-54-52",
+      "path": "PKM Efficiency/assets/Snipaste_2022-11-25_10-54-52.png"
+    },
+    {
+      "basename": "Record_2022_11_25_10_45_17_186",
+      "path": "PKM Efficiency/assets/Record_2022_11_25_10_45_17_186.gif"
+    },
+    {
+      "basename": "Pasted image 20230419095832",
+      "path": "PKM Efficiency/assets/Pasted image 20230419095832.png"
+    },
+    {
+      "basename": "Pasted image 20230419095503",
+      "path": "PKM Efficiency/assets/Pasted image 20230419095503.png"
+    },
+    {
+      "basename": "Pasted image 20230419095220",
+      "path": "PKM Efficiency/assets/Pasted image 20230419095220.png"
+    },
+    {
+      "basename": "Pasted image 20230412194539",
+      "path": "PKM Efficiency/assets/Pasted image 20230412194539.png"
+    },
+    {
+      "basename": "Pasted image 20230412193109",
+      "path": "PKM Efficiency/assets/Pasted image 20230412193109.png"
+    },
+    {
+      "basename": "Pasted image 20221125103435",
+      "path": "PKM Efficiency/assets/Pasted image 20221125103435.png"
+    },
+    {
+      "basename": "2023-04-19",
+      "path": "Daily/2023-04-19.md"
+    },
+    {
+      "basename": "PKM Efficiency",
+      "path": "PKM Efficiency/PKM Efficiency.md"
+    },
+    {
+      "basename": "Note-Taking",
+      "path": "PKM Efficiency/Note-Taking.md"
+    },
+    {
+      "basename": "PKM Workflow",
+      "path": "PKM Efficiency/PKM Workflow.md"
+    },
+    {
+      "basename": "2023-04-18",
+      "path": "Daily/2023-04-18.md"
+    },
+    {
+      "basename": "Music",
+      "path": "88-Template/Music.md"
+    },
+    {
+      "basename": "No Stupid Questions-127. How Can You Be a Better Communicator",
+      "path": "Podnote/No Stupid Questions-127. How Can You Be a Better Communicator.md"
+    },
+    {
+      "basename": "Lex Fridman Podcast-367 – Sam Altman OpenAI CEO on GPT-4 ChatGPT and the Future of AI",
+      "path": "Podcast/Lex Fridman Podcast-367 – Sam Altman OpenAI CEO on GPT-4 ChatGPT and the Future of AI.mp3"
+    },
+    {
+      "basename": "Lex Fridman Podcast-367 – Sam Altman OpenAI CEO on GPT-4 ChatGPT and the Future of AI",
+      "path": "Podnote/Lex Fridman Podcast-367 – Sam Altman OpenAI CEO on GPT-4 ChatGPT and the Future of AI.md"
     },
     {
       "basename": "Anki Flashcard Review",
@@ -11,10 +99,6 @@
     {
       "basename": "Templater in Obsidian",
       "path": "PKM Efficiency/Templater in Obsidian.md"
-    },
-    {
-      "basename": "2023-04-18",
-      "path": "Daily/2023-04-18.md"
     },
     {
       "basename": "PKM System Mindmap",
@@ -115,90 +199,6 @@
     {
       "basename": "Front-End Tech Stack",
       "path": "Front-End Tech Stack/Front-End Tech Stack.md"
-    },
-    {
-      "basename": "Algorithm and Data Structure",
-      "path": "Tech-Fundamentals/Algorithm and Data Structure/Algorithm and Data Structure.md"
-    },
-    {
-      "basename": "阶段反思",
-      "path": "阶段反思/阶段反思.md"
-    },
-    {
-      "basename": "问题目标",
-      "path": "问题目标/问题目标.md"
-    },
-    {
-      "basename": "FastStart-StartupScript",
-      "path": "88-Template/FastStart-StartupScript.md"
-    },
-    {
-      "basename": "README",
-      "path": "88-Template/script/notesList/README.md"
-    },
-    {
-      "basename": "notesList",
-      "path": "88-Template/script/notesList/notesList.md"
-    },
-    {
-      "basename": "script",
-      "path": "88-Template/script/script.md"
-    },
-    {
-      "basename": "88-Template",
-      "path": "88-Template/88-Template.md"
-    },
-    {
-      "basename": "React",
-      "path": "Front-End Projects/Front-End Frameworks/React/React.md"
-    },
-    {
-      "basename": "Vue",
-      "path": "Front-End Projects/Front-End Frameworks/Vue/Vue.md"
-    },
-    {
-      "basename": "Front-End Frameworks",
-      "path": "Front-End Projects/Front-End Frameworks/Front-End Frameworks.md"
-    },
-    {
-      "basename": "Front-End Tools",
-      "path": "Front-End Tech Stack/Front-End Tools.md"
-    },
-    {
-      "basename": "Excalidraw",
-      "path": "PKM Efficiency/Excalidraw.md"
-    },
-    {
-      "basename": "Concept-Oriented Note",
-      "path": "PKM Efficiency/Concept-Oriented Note.md"
-    },
-    {
-      "basename": "Note-Taking",
-      "path": "PKM Efficiency/Note-Taking.md"
-    },
-    {
-      "basename": "笔记误区",
-      "path": "PKM Efficiency/笔记误区.md"
-    },
-    {
-      "basename": "笔记目的",
-      "path": "PKM Efficiency/笔记目的.md"
-    },
-    {
-      "basename": "QuickAdd in Obsidian",
-      "path": "PKM Efficiency/QuickAdd in Obsidian.md"
-    },
-    {
-      "basename": "Obsidian Community",
-      "path": "PKM Efficiency/Obsidian Community.md"
-    },
-    {
-      "basename": "Mindmap",
-      "path": "PKM Efficiency/Mindmap.md"
-    },
-    {
-      "basename": "PKM Workflow",
-      "path": "PKM Efficiency/PKM Workflow.md"
     }
   ],
   "omittedPaths": [],

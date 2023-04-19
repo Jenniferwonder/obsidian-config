@@ -13,12 +13,15 @@
     "properties": []
   },
   "AutoProperties": {
-    "enabled": false,
+    "enabled": true,
     "properties": [
       {
-        "name": "",
+        "name": "status",
         "choices": [
-          ""
+          "⚪Capture",
+          "🟡Organize",
+          "🟠Distill",
+          "🔵Published"
         ]
       }
     ]
@@ -28,7 +31,7 @@
     "properties": []
   },
   "KanbanHelper": {
-    "enabled": false,
+    "enabled": true,
     "boards": []
   },
   "UIElements": {

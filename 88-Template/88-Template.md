@@ -6,7 +6,7 @@ obsidianUIMode: preview
 `button-homewp`  `button-browsevault`  `button-browsenext` `button-browserefresh`
 %% Begin Waypoint %%
 - **[[88-Template]]**
-	- [[🎵Music]]
+	- [[Music]]
 	- [[便签]]
 	- [[彩色时钟]]
 	- [[常用工具]]

@@ -6,7 +6,6 @@
       {
         "id": "8368ffd49ae9c646",
         "type": "tabs",
-        "dimension": 18.71616395978345,
         "children": [
           {
             "id": "e27f344690dfcee7",
@@ -14,47 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-04-18.md",
+                "file": "ReadItLater/Youtube - Zotero Obsidian Integration.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "851e91c2103ac79e",
-        "type": "tabs",
-        "dimension": 50.42536736272235,
-        "children": [
+          },
           {
-            "id": "9746eb7c0d8dfe86",
+            "id": "3438d875f3962f21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PKM Efficiency/Obsidian-插件功能.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "b9238224a55299a4",
-        "type": "tabs",
-        "dimension": 30.8584686774942,
-        "children": [
-          {
-            "id": "458285e1027e3bad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PKM Efficiency/Templater in Obsidian.md",
+                "file": "ReadNote/公众号/维客笔记.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -136,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 225.5
   },
   "right": {
     "id": "617127011ede853a",
@@ -152,7 +124,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PKM Efficiency/Obsidian-插件功能.md",
+                "file": "ReadItLater/Youtube - Zotero Obsidian Integration.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PKM Efficiency/Obsidian-插件功能.md",
+                "file": "ReadItLater/Youtube - Zotero Obsidian Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,10 +176,18 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PKM Efficiency/Obsidian-插件功能.md",
+                "file": "ReadItLater/Youtube - Zotero Obsidian Integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "23c4ed6a6d923d51",
+            "type": "leaf",
+            "state": {
+              "type": "podcast_player_view",
+              "state": {}
             }
           },
           {
@@ -216,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PKM Efficiency/Obsidian-插件功能.md"
+                "file": "ReadItLater/Youtube - Zotero Obsidian Integration.md"
               }
             }
           },
@@ -280,11 +260,11 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 343.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -312,17 +292,51 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "dbfolder:Create a new database table": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "obsidian-weread-plugin:Weread": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false
     }
   },
-  "active": "9746eb7c0d8dfe86",
+  "active": "e27f344690dfcee7",
   "lastOpenFiles": [
-    "PKM Efficiency/Anki Flashcard Review.md",
+    "88-Template/script/script.md",
     "PKM Efficiency/Obsidian-插件功能.md",
-    "PKM Efficiency/Templater in Obsidian.md",
+    "ReadItLater/Youtube - Zotero Obsidian Integration.md",
+    "ReadItLater",
+    "ReadNote/公众号/维客笔记.md",
+    "ReadNote/公众号",
+    "ReadNote",
+    "Photo Edit.md",
+    "Daily/2022-11/2022-11-24.md",
     "PKM Efficiency/Mindmap.md",
-    "Daily/2023-04-18.md",
+    "PKM Efficiency/assets/Snipaste_2022-11-25_10-54-52.png",
+    "PKM Efficiency/assets/Record_2022_11_25_10_45_17_186.gif",
+    "PKM Efficiency/assets/Pasted image 20230419095832.png",
+    "PKM Efficiency/assets/Pasted image 20230419095503.png",
+    "PKM Efficiency/assets/Pasted image 20230419095220.png",
+    "PKM Efficiency/assets/Pasted image 20230412194539.png",
+    "PKM Efficiency/assets/Pasted image 20230412193109.png",
+    "PKM Efficiency/assets/Pasted image 20221125103435.png",
+    "Daily/2023-04-19.md",
+    "PKM Efficiency/PKM Efficiency.md",
+    "PKM Efficiency/Note-Taking.md",
     "PKM Efficiency/PKM Workflow.md",
+    "Photo.jpg",
+    "20230418-Mindmap Script.pdf",
+    "PKM Efficiency/Markdown Tools.md",
+    "学习记录",
+    "Daily/2023-04-18.md",
+    "88-Template/Music.md.baiduyun.uploading.cfg",
+    "88-Template/88-Template.md.baiduyun.uploading.cfg",
+    "Podnote/No Stupid Questions-127. How Can You Be a Better Communicator.md",
+    "阶段反思/阶段反思.md.baiduyun.uploading.cfg",
+    "阶段反思/编程之路-5个月-2.0.md.baiduyun.uploading.cfg",
+    "阶段反思/编程之路-32天-1.0.md.baiduyun.uploading.cfg",
+    "Podnote/No Stupid Questions-142. Is Pride the Worst Sin.md",
+    "Podnote/Lex Fridman Podcast-367 – Sam Altman OpenAI CEO on GPT-4 ChatGPT and the Future of AI.md",
+    "PKM Efficiency/Anki Flashcard Review.md",
+    "PKM Efficiency/Templater in Obsidian.md",
     "PKM Efficiency/PKM System Mindmap.md",
     "sortspec.md",
     "PKM Efficiency/Untitled database.md",
@@ -330,38 +344,11 @@
     "Canvas/Canvas in iPad.canvas",
     "Master Projects/Admin Panel/Admin Panel.md",
     "Master Projects/Big Screen Visualization/Big Screen Visualization.md",
-    "Master Projects/Big Screen Visualization",
     "PKM Efficiency/Obsidian Canvas.md",
     "PKM Efficiency/iPad Note Workflow.md",
-    "Daily/2023-04-15.md",
-    "Daily/2023-04-16.md",
-    "Daily/2023-04-17.md",
-    "编程视频/编程视频.md",
     "Canvas/Canvas Demo.canvas",
     "Canvas/Note in iPhone.canvas",
-    "Excalidraw/Untitled 1 2023-04-14 21.47.38.excalidraw.md",
-    "Excalidraw/2023-04-15 2023-04-15 22.08.33.excalidraw.md",
-    "Excalidraw/Drawing 2022-11-28 11.38.22.excalidraw.md",
-    "Excalidraw/Scripts/Downloaded/Alternative Pens.md",
     "Excalidraw/Scripts/Downloaded/Alternative Pens.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.md",
-    "Excalidraw/Scripts/Downloaded/Auto Draw for Pen.svg",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.md",
-    "Excalidraw/Scripts/Downloaded/Auto Layout.svg",
-    "Excalidraw/Untitled 1.md",
-    "Interview/CV/星球自我介绍.md",
-    "Interview/JD",
-    "Master Projects/Admin Panel",
-    "Master Projects/Content Editor/Picture",
-    "Master Projects/Content Editor/Markdown",
-    "Master Projects/Content Editor/MindMap",
-    "Master Projects/Content Editor/Whiteboard",
-    "Master Projects/Low Code",
-    "Master Projects/Content Editor",
-    "Master Projects/Video Content Platform",
-    "Front-End Projects/Front-End Basics/JavaScript/assets/Pasted image 20230310114951.png",
-    "PKM Efficiency/assets 1/Pasted image 20230412194539.png",
-    "PKM Efficiency/assets 1/Pasted image 20230412193109.png",
     "Untitled 1.canvas"
   ]
 }
