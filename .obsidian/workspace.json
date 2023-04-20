@@ -6,7 +6,6 @@
       {
         "id": "8368ffd49ae9c646",
         "type": "tabs",
-        "dimension": 24.43928847641145,
         "children": [
           {
             "id": "e27f344690dfcee7",
@@ -14,51 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PKM/How-to/How to Build a Homepage.md",
+                "file": "Daily/2023-04-20.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
-          }
-        ]
-      },
-      {
-        "id": "c4fe99ad7a5ba57e",
-        "type": "tabs",
-        "dimension": 47.409126063418405,
-        "children": [
+          },
           {
-            "id": "361edfb050c378bf",
+            "id": "2c4bc83e46f78f9f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PKM/PKM-Capture/Quick Capture.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "83e905fbf1c43149",
-        "type": "tabs",
-        "dimension": 28.151585460170146,
-        "children": [
+          },
           {
-            "id": "97e77e1ae0cf7e2b",
+            "id": "26ef768ea6066078",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "PKM/PKM-Organize/PKM-Task Management.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -136,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 287.5
   },
   "right": {
     "id": "617127011ede853a",
@@ -152,7 +127,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "PKM/PKM-Capture/Quick Capture.md",
+                "file": "Daily/2023-04-20.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -187,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PKM/PKM-Capture/Quick Capture.md",
+                "file": "Daily/2023-04-20.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PKM/PKM-Capture/Quick Capture.md",
+                "file": "Daily/2023-04-20.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -216,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PKM/PKM-Capture/Quick Capture.md"
+                "file": "Daily/2023-04-20.md"
               }
             }
           },
@@ -278,13 +253,21 @@
               "type": "todo",
               "state": {}
             }
+          },
+          {
+            "id": "a72e376b1bbc8c56",
+            "type": "leaf",
+            "state": {
+              "type": "podcast_player_view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 321.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -295,14 +278,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "custom-sort:Toggle custom sorting": false,
       "templater-obsidian:Templater": false,
-      "homepage:Open homepage": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
       "obsidian-projects:Open projects": false,
       "omnisearch:Omnisearch": false,
       "surfing:surfing-bookmark-manager": false,
       "webpage-html-export:Export Vault to HTML": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "remotely-save:Remotely Save": false,
       "obsidian-virtual-hotkey-keyboard:Virtual Hotkey Board Modal": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "switcher:Open quick switcher": false,
@@ -316,61 +297,68 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "dbfolder:Create a new database table": false,
-      "periodic-notes:Open today": false
+      "remotely-save:Remotely Save": false,
+      "periodic-notes:Open today": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "361edfb050c378bf",
+  "active": "e27f344690dfcee7",
   "lastOpenFiles": [
-    "PKM/How-to/How to Build a Homepage.md",
-    "PKM/PKM-Capture/Quick Capture.md",
-    "ReadItLater/Releases · PKM-erBlue-topaz-example.md",
-    "ReadItLater/Note 2023-04-20 11-31-54.md",
-    "ReadItLater/Youtube - Zotero Obsidian Integration.md",
     "Daily/2023-04-20.md",
-    "PKM/PKM-Organize/PKM-Task Management.md",
-    "Daily/2023-04-19.md",
-    "PKM/How-to/How-to.md",
-    "PKM/PKM-Organize/PKM-Organize.md",
-    "Textsnippet.md",
+    "77-Example/MD表格悬浮编辑测试.md",
+    "77-Example/Callout 样式分享--Pageview.md",
+    "77-Example/◾ Cssclass声明样式举例/预览隐藏frontmatter.md",
+    "77-Example/◾ Cssclass声明样式举例/图书阅读清单-状态控制(dvjs).md",
+    "77-Example/◾ Cssclass声明样式举例/图书阅读清单(dv).md",
+    "77-Example/◾ Cssclass声明样式举例/通过分割线控制文章分栏.md",
+    "77-Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
+    "77-Example/◾ Cssclass声明样式举例/四象限表格.md",
+    "77-Example/◾ Cssclass声明样式举例/无序列表分栏.md",
+    "77-Example/◾ Cssclass声明样式举例/首行缩进--以2022政府工作报告为例.md",
+    "77-Example/◾ Cssclass声明样式举例/◾ Cssclass声明样式举例.md",
+    "This is a test card.md",
+    "Untitled Kanban.md",
+    "77-Example/真Kanban.md",
+    "从这开始.md",
+    "日记统计.md",
+    "时间管理.md",
+    "魔方配色设置说明.md",
+    "20-Diary/任务看板.md",
+    "50-Inbox/People/李四.md",
+    "50-Inbox/Study/20221231235546.md",
+    "50-Inbox/Study/Note.md",
+    "50-Inbox/Study/笔记收集箱.md",
+    "77-Example/◾ Dataview相关实例/获取任务优先级并进行颜色标注.md",
+    "50-Inbox/Website/Website.md",
+    "60-Canvas/canvas白板介绍_middle.canvas",
+    "60-Canvas/Formatting_Cheatsheet.canvas",
+    "60-Canvas/Home_middle.canvas",
+    "60-Canvas/TIPS.canvas",
+    "60-Canvas/代码块相关样式_middle.canvas",
+    "60-Canvas/画板主页.canvas",
+    "60-Canvas/示例库结构一览.canvas",
+    "20-Diary",
+    "assets/white-bg.png",
+    "77-Example/◾ TableExample",
+    "77-Example/◾ Echarts",
+    "77-Example/◾ Dataview相关实例",
+    "77-Example/◾ Cssclass声明样式举例",
+    "77-Example",
+    "60-Canvas/Assets/1505323928_home_.png",
+    "60-Canvas/Home",
+    "60-Canvas/Assets",
+    "60-Canvas",
+    "50-Inbox/Website",
     "PKM/PKM-Capture/assets/Pasted image 20230420112021.png",
     "PKM/PKM-Capture/assets/Pasted image 20230420111903.png",
     "PKM/PKM-Capture/assets/Pasted image 20230420111544.png",
     "PKM/PKM-Capture/assets/Pasted image 20230420111425.png",
-    "PKM/PKM-Capture/assets",
     "PKM-Map.canvas",
-    "PKM/PKM-Capture/PKM-Capture.md",
-    "PKM/PKM-Conmmunicate/PKM-Communicate.md",
-    "PKM/PKM-Coordinate/PKM-Coordinate.md",
-    "PKM/PKM-Distill/PKM-Distill.md",
-    "PKM/PKM-Organize/PKM-Efficiency.md",
-    "PKM/PKM-Teamwork/PKM-Teamwork.md",
-    "PKM/PKM-Obsidian Setup/PKM-Why Obsidian.md",
-    "PKM/PKM-Distill/Anki Flashcard Review.md",
-    "PKM/PKM-Present and Share/PKM-Present and Share.md",
-    "sortspec.md",
-    "Slide/Slide Test.md",
-    "Daily/2023-04-14.md",
-    "Daily/2023-04-15.md",
-    "问题目标/问题目标.md",
-    "阶段反思/阶段反思.md",
-    "Codespace/How-to",
     "Photo.jpg",
-    "PKM/PKM-Efficiency",
-    "PKM/PKM-Teamwork",
-    "PKM/PKM-Conmmunicate",
-    "PKM Efficiency/PKM-Consume",
-    "PKM/PKM-Coordinate",
-    "PKM/Publish",
-    "PKM/How-to",
-    "iPhone",
     "PKM/assets/Snipaste_2022-11-25_10-54-52.png",
     "PKM/assets/Record_2022_11_25_10_45_17_186.gif",
     "PKM/assets/Pasted image 20230419095832.png",
-    "PKM/assets/Pasted image 20230419095503.png",
-    "PKM/assets/Pasted image 20230419095220.png",
     "Canvas/Canvas in iPad.canvas",
-    "Canvas/Canvas Demo.canvas",
-    "Canvas/Note in iPhone.canvas",
-    "Untitled 1.canvas"
+    "Canvas/Canvas Demo.canvas"
   ]
 }

@@ -1,10 +1,18 @@
 {
   "ProgressProperties": {
-    "enabled": false,
+    "enabled": true,
     "properties": [
       {
-        "name": "",
+        "name": "Total",
         "type": "Total Tasks"
+      },
+      {
+        "name": "Completed",
+        "type": "Completed Tasks"
+      },
+      {
+        "name": "Incomplete",
+        "type": "Incomplete Tasks"
       }
     ]
   },
@@ -16,12 +24,23 @@
     "enabled": true,
     "properties": [
       {
-        "name": "status",
+        "name": "当前属性",
         "choices": [
-          "⚪Capture",
-          "🟡Organize",
-          "🟠Distill",
-          "🔵Published"
+          "⭐⭐⭐⭐⭐",
+          "⭐⭐⭐⭐",
+          "⭐⭐⭐",
+          "⭐⭐",
+          "⭐",
+          " "
+        ]
+      },
+      {
+        "name": "当前进度",
+        "choices": [
+          "想看",
+          "正在进行",
+          "已完成",
+          ""
         ]
       }
     ]
@@ -32,9 +51,14 @@
   },
   "KanbanHelper": {
     "enabled": true,
-    "boards": []
+    "boards": [
+      {
+        "property": "progress",
+        "boardName": "任务看板"
+      }
+    ]
   },
   "UIElements": {
-    "enabled": true
+    "enabled": false
   }
 }

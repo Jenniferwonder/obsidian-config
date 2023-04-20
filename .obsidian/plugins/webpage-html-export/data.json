@@ -2,14 +2,13 @@
   "inlineCSS": false,
   "inlineJS": false,
   "inlineImages": false,
-  "makeNamesWebStyle": false,
-  "includePluginCSS": "obsidian-kanban\nobsidian-banners\ndbfolder\nbetter-fn",
+  "uzeZip": false,
   "addDarkModeToggle": true,
   "includeOutline": true,
   "customLineWidth": 0,
-  "openAfterExport": true,
-  "lastExportPath": "F:/JENNote-Git/PKM System.html",
-  "uzeZip": false,
+  "lastExportPath": "C:\\Users\\cuman\\Desktop\\example2\\Demo Note.html",
   "customJS": "",
-  "customCSS": ""
+  "customCSS": "",
+  "includePluginCSS": "obsidian-kanban\nobsidian-banners\ndbfolder\nbetter-fn",
+  "openAfterExport": false
 }

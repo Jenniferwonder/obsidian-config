@@ -1468,8 +1468,17 @@ const createButton = ({ app, el, args, inline, id, clickOverride, }) => {
     return button;
 };
 const clickHandler = async (app, args, inline, id) => {
+	
+	 if (args.type === "command") {
+        command(app, args);
+    }
+    // handle link buttons
+    if (args.type === "link") {
+        link(args);
+    }
+	
     const activeView = app.workspace.getActiveViewOfType(obsidian.MarkdownView);
-    let content = await app.vault.read(activeView.file);
+    let content = await app.vault.read(activeView?.file);
     let position = inline
         ? await getInlineButtonPosition(app, id)
         : getButtonPosition(content, args);
@@ -1483,13 +1492,7 @@ const clickHandler = async (app, args, inline, id) => {
     if (args.replace) {
         replace(app, args);
     }
-    if (args.type === "command") {
-        command(app, args);
-    }
-    // handle link buttons
-    if (args.type === "link") {
-        link(args);
-    }
+ 
     // handle template buttons
     if (args.type && args.type.includes("template")) {
         setTimeout(async () => {
