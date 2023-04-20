@@ -52,7 +52,6 @@
   "obsidian-spaced-repetition",
   "canvas-mindmap",
   "various-complements",
-  "obsidian-icon-folder",
   "auto-note-mover",
   "file-explorer-note-count",
   "recent-files-obsidian",
@@ -67,5 +66,10 @@
   "obsidian-kindle-plugin",
   "obsidian-read-it-later",
   "media-extended",
-  "mx-bili-plugin"
+  "mx-bili-plugin",
+  "obsidian-footnotes",
+  "obsidian-list-callouts",
+  "flashcards-obsidian",
+  "obsidian-annotator",
+  "any-block"
 ]

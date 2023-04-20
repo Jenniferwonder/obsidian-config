@@ -24,13 +24,21 @@ sorting-spec: |
  with-metadata: started
  > a-z by-metadata: started
  target-folder: Front-End Projects
+ How-to
  Front-End Basics
  Front-End Practice
  Front-End Frameworks
  ...
   with-metadata: modified
  > a-z by-metadata: modified
+ target-folder: PKM
+ How-to
+ Publish
+ ...
+  with-metadata: modified
+ > a-z by-metadata: modified
  target-folder: Programming-Fundamentals
+ How-to
  Algorithm and Data Structure
  System Design
  DevOps

@@ -19,8 +19,5 @@
       "bottom": 0,
       "left": 0
     }
-  },
-  "PKM/Publish": "FarShareFromSquare",
-  "PKM/How-to": "FarLightbulb",
-  "Codespace/How-to": "FarLightbulb"
+  }
 }

@@ -1,6 +1,98 @@
 {
   "recentFiles": [
     {
+      "basename": "Quick Capture",
+      "path": "PKM/PKM-Capture/Quick Capture.md"
+    },
+    {
+      "basename": "How to Build a Homepage",
+      "path": "PKM/How-to/How to Build a Homepage.md"
+    },
+    {
+      "basename": "Releases · PKM-erBlue-topaz-example",
+      "path": "ReadItLater/Releases · PKM-erBlue-topaz-example.md"
+    },
+    {
+      "basename": "Note 2023-04-20 11-31-54",
+      "path": "ReadItLater/Note 2023-04-20 11-31-54.md"
+    },
+    {
+      "basename": "Youtube - Zotero Obsidian Integration",
+      "path": "ReadItLater/Youtube - Zotero Obsidian Integration.md"
+    },
+    {
+      "basename": "2023-04-20",
+      "path": "Daily/2023-04-20.md"
+    },
+    {
+      "basename": "PKM-Task Management",
+      "path": "PKM/PKM-Organize/PKM-Task Management.md"
+    },
+    {
+      "basename": "2023-04-19",
+      "path": "Daily/2023-04-19.md"
+    },
+    {
+      "basename": "How-to",
+      "path": "PKM/How-to/How-to.md"
+    },
+    {
+      "basename": "PKM-Organize",
+      "path": "PKM/PKM-Organize/PKM-Organize.md"
+    },
+    {
+      "basename": "PKM-Map",
+      "path": "PKM-Map.canvas"
+    },
+    {
+      "basename": "PKM-Capture",
+      "path": "PKM/PKM-Capture/PKM-Capture.md"
+    },
+    {
+      "basename": "PKM-Communicate",
+      "path": "PKM/PKM-Conmmunicate/PKM-Communicate.md"
+    },
+    {
+      "basename": "PKM-Coordinate",
+      "path": "PKM/PKM-Coordinate/PKM-Coordinate.md"
+    },
+    {
+      "basename": "PKM-Distill",
+      "path": "PKM/PKM-Distill/PKM-Distill.md"
+    },
+    {
+      "basename": "PKM-Efficiency",
+      "path": "PKM/PKM-Organize/PKM-Efficiency.md"
+    },
+    {
+      "basename": "PKM-Teamwork",
+      "path": "PKM/PKM-Teamwork/PKM-Teamwork.md"
+    },
+    {
+      "basename": "PKM-Why Obsidian",
+      "path": "PKM/PKM-Obsidian Setup/PKM-Why Obsidian.md"
+    },
+    {
+      "basename": "Anki Flashcard Review",
+      "path": "PKM/PKM-Distill/Anki Flashcard Review.md"
+    },
+    {
+      "basename": "PKM-Present and Share",
+      "path": "PKM/PKM-Present and Share/PKM-Present and Share.md"
+    },
+    {
+      "basename": "sortspec",
+      "path": "sortspec.md"
+    },
+    {
+      "basename": "2023-04-14",
+      "path": "Daily/2023-04-14.md"
+    },
+    {
+      "basename": "2023-04-15",
+      "path": "Daily/2023-04-15.md"
+    },
+    {
       "basename": "问题目标",
       "path": "问题目标/问题目标.md"
     },
@@ -10,27 +102,11 @@
     },
     {
       "basename": "How-to",
-      "path": "PKM/How-to/How-to.md"
-    },
-    {
-      "basename": "How-to",
       "path": "Codespace/How-to/How-to.md"
     },
     {
       "basename": "Master Projects",
       "path": "Codespace/Master Projects.md"
-    },
-    {
-      "basename": "PKM-Capture",
-      "path": "PKM/PKM-Capture/PKM-Capture.md"
-    },
-    {
-      "basename": "sortspec",
-      "path": "sortspec.md"
-    },
-    {
-      "basename": "PKM-Coordinate",
-      "path": "PKM/PKM-Coordinate/PKM-Coordinate.md"
     },
     {
       "basename": "Canvas in Obsidian",
@@ -73,10 +149,6 @@
       "path": "PKM/PKM-Efficiency/PKM-核心视图.md"
     },
     {
-      "basename": "PKM-项目管理视图进阶",
-      "path": "PKM/PKM-Organize/PKM-项目管理视图进阶.md"
-    },
-    {
       "basename": "PKM-导出与分享",
       "path": "PKM/PKM-Present and Share/PKM-导出与分享.md"
     },
@@ -89,32 +161,8 @@
       "path": "PKM/PKM-Present and Share/微信公众号快速编辑发布-MDNICE.md"
     },
     {
-      "basename": "PKM Efficiency",
-      "path": "PKM/PKM Efficiency.md"
-    },
-    {
-      "basename": "PKM-Organize",
-      "path": "PKM/PKM-Organize/PKM-Organize.md"
-    },
-    {
       "basename": "笔记内容可视化",
       "path": "PKM/PKM-Present and Share/笔记内容可视化.md"
-    },
-    {
-      "basename": "PKM-Present and Share",
-      "path": "PKM/PKM-Present and Share/PKM-Present and Share.md"
-    },
-    {
-      "basename": "PKM-Teamwork",
-      "path": "PKM/PKM-Teamwork/PKM-Teamwork.md"
-    },
-    {
-      "basename": "PKM-Communicate",
-      "path": "PKM/PKM-Conmmunicate/PKM-Communicate.md"
-    },
-    {
-      "basename": "PKM-Distill",
-      "path": "PKM/PKM-Distill/PKM-Distill.md"
     },
     {
       "basename": "Project Workflow",
@@ -122,23 +170,19 @@
     },
     {
       "basename": "Windows 修改默认字体",
-      "path": "PKM/Windows/Windows 修改默认字体.md"
+      "path": "Windows/Windows 修改默认字体.md"
     },
     {
       "basename": "Back Up Tools",
-      "path": "PKM/Windows/Back Up Tools.md"
+      "path": "Windows/Back Up Tools.md"
     },
     {
       "basename": "Windows Commands and Tools",
-      "path": "PKM/Windows/Windows Commands and Tools.md"
+      "path": "Windows/Windows Commands and Tools.md"
     },
     {
       "basename": "Obsidian-使用指南",
       "path": "PKM/PKM-Obsidian Setup/Obsidian-使用指南.md"
-    },
-    {
-      "basename": "PKM-Why Obsidian",
-      "path": "PKM/PKM-Obsidian Setup/PKM-Why Obsidian.md"
     },
     {
       "basename": "如何生成文件目录到 Markdown 文档",
@@ -146,7 +190,7 @@
     },
     {
       "basename": "PC Efficiency",
-      "path": "PKM/Windows/PC Efficiency.md"
+      "path": "Windows/PC Efficiency.md"
     },
     {
       "basename": "PKM-知识切割与复习 Distill",
@@ -155,50 +199,6 @@
     {
       "basename": "Obsidian Fast Start",
       "path": "PKM/PKM-Obsidian Setup/Obsidian Fast Start.md"
-    },
-    {
-      "basename": "PKM-样式美化",
-      "path": "PKM/PKM-Obsidian Setup/PKM-样式美化.md"
-    },
-    {
-      "basename": "Excalidraw",
-      "path": "PKM/PKM-Capture/Excalidraw.md"
-    },
-    {
-      "basename": "Mindmap",
-      "path": "PKM/PKM-Capture/Mindmap.md"
-    },
-    {
-      "basename": "Obsidian Community",
-      "path": "PKM/PKM-Capture/Obsidian Community.md"
-    },
-    {
-      "basename": "PKM-iPad Setup",
-      "path": "PKM/iPad/PKM-iPad Setup.md"
-    },
-    {
-      "basename": "VS Code",
-      "path": "Tech-Fundamentals/DevTools/VS Code/VS Code.md"
-    },
-    {
-      "basename": "D2-System Architecture",
-      "path": "Tech-Fundamentals/DevOps/D2-System Architecture.md"
-    },
-    {
-      "basename": "D1-Project Plan and Research",
-      "path": "Tech-Fundamentals/DevOps/D1-Project Plan and Research.md"
-    },
-    {
-      "basename": "D3-前后端协作",
-      "path": "Tech-Fundamentals/DevOps/D3-前后端协作.md"
-    },
-    {
-      "basename": "D4-聪明地写代码",
-      "path": "Tech-Fundamentals/DevOps/D4-聪明地写代码.md"
-    },
-    {
-      "basename": "D5-项目优化",
-      "path": "Tech-Fundamentals/DevOps/D5-项目优化.md"
     }
   ],
   "omittedPaths": [],

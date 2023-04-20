@@ -3,11 +3,18 @@
   "theme": "moonstone",
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
-    "config",
     "obsidian-styles-test",
     "plugin-styles-test",
     "snippets-test",
-    "theme-test"
+    "theme-test",
+    "【Memos】Popover",
+    "【分栏】Easy multi-column notes",
+    "【图标】双链图标",
+    "【图标】预览网址加图标 - External Link Icons",
+    "【日记】periodic日历",
+    "【日记】Time",
+    "【自定义】表格样式TableStyles",
+    "config"
   ],
   "textFontFamily": "Microsoft YaHei",
   "baseFontSize": 14

@@ -354,6 +354,46 @@
           "lastUpdated": 1681897048483
         }
       }
+    },
+    "Coordinate": {
+      "Coordinate": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1681957403577
+        }
+      }
+    },
+    "Efficiency": {
+      "Efficiency": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1681957428593
+        }
+      }
+    },
+    "Communicate": {
+      "Communicate": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1681957497024
+        }
+      }
+    },
+    "Inspiration": {
+      "Inspiration": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1681959273161
+        }
+      }
+    },
+    "disabled": {
+      "disabled": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1681959435716
+        }
+      }
     }
   }
 }

@@ -12,7 +12,7 @@ status:
 ## Learning Efficiency
 [[AI Tools]]
 - [[Coding Prompt]]
-[[PKM Efficiency]]
+[[PKM-Efficiency]]
 [[English Learning]]
 ## [[Front-End Tech Stack]]
 #### 1. [[Algorithms and Data Structure]]

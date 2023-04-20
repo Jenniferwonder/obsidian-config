@@ -4,15 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "56814d012c395f23",
+        "id": "8368ffd49ae9c646",
         "type": "tabs",
+        "dimension": 24.43928847641145,
         "children": [
           {
-            "id": "ddd276b0948e07ff",
+            "id": "e27f344690dfcee7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "PKM/How-to/How to Build a Homepage.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "c4fe99ad7a5ba57e",
+        "type": "tabs",
+        "dimension": 47.409126063418405,
+        "children": [
+          {
+            "id": "361edfb050c378bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PKM/PKM-Capture/Quick Capture.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "83e905fbf1c43149",
+        "type": "tabs",
+        "dimension": 28.151585460170146,
+        "children": [
+          {
+            "id": "97e77e1ae0cf7e2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PKM/PKM-Organize/PKM-Task Management.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -34,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Coding",
+                "query": "tag:#Scren-Recording",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -90,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 348.5
+    "width": 200
   },
   "right": {
     "id": "617127011ede853a",
@@ -106,6 +152,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "PKM/PKM-Capture/Quick Capture.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,6 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "PKM/PKM-Capture/Quick Capture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,17 +204,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "PKM/PKM-Capture/Quick Capture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "23c4ed6a6d923d51",
-            "type": "leaf",
-            "state": {
-              "type": "podcast_player_view",
-              "state": {}
             }
           },
           {
@@ -174,7 +215,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "PKM/PKM-Capture/Quick Capture.md"
+              }
             }
           },
           {
@@ -237,15 +280,18 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-weread-plugin:Weread": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "flashcards-obsidian:Generate flashcards": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "custom-sort:Toggle custom sorting": false,
       "templater-obsidian:Templater": false,
@@ -270,63 +316,61 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "dbfolder:Create a new database table": false,
-      "obsidian-weread-plugin:Weread": false,
-      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
-      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "ddd276b0948e07ff",
+  "active": "361edfb050c378bf",
   "lastOpenFiles": [
+    "PKM/How-to/How to Build a Homepage.md",
+    "PKM/PKM-Capture/Quick Capture.md",
+    "ReadItLater/Releases · PKM-erBlue-topaz-example.md",
+    "ReadItLater/Note 2023-04-20 11-31-54.md",
+    "ReadItLater/Youtube - Zotero Obsidian Integration.md",
+    "Daily/2023-04-20.md",
+    "PKM/PKM-Organize/PKM-Task Management.md",
+    "Daily/2023-04-19.md",
+    "PKM/How-to/How-to.md",
+    "PKM/PKM-Organize/PKM-Organize.md",
+    "Textsnippet.md",
+    "PKM/PKM-Capture/assets/Pasted image 20230420112021.png",
+    "PKM/PKM-Capture/assets/Pasted image 20230420111903.png",
+    "PKM/PKM-Capture/assets/Pasted image 20230420111544.png",
+    "PKM/PKM-Capture/assets/Pasted image 20230420111425.png",
+    "PKM/PKM-Capture/assets",
+    "PKM-Map.canvas",
+    "PKM/PKM-Capture/PKM-Capture.md",
+    "PKM/PKM-Conmmunicate/PKM-Communicate.md",
+    "PKM/PKM-Coordinate/PKM-Coordinate.md",
+    "PKM/PKM-Distill/PKM-Distill.md",
+    "PKM/PKM-Organize/PKM-Efficiency.md",
+    "PKM/PKM-Teamwork/PKM-Teamwork.md",
+    "PKM/PKM-Obsidian Setup/PKM-Why Obsidian.md",
+    "PKM/PKM-Distill/Anki Flashcard Review.md",
+    "PKM/PKM-Present and Share/PKM-Present and Share.md",
+    "sortspec.md",
+    "Slide/Slide Test.md",
+    "Daily/2023-04-14.md",
+    "Daily/2023-04-15.md",
     "问题目标/问题目标.md",
     "阶段反思/阶段反思.md",
-    "PKM/How-to/How-to.md",
-    "Codespace/How-to/How-to.md",
-    "Codespace/Master Projects.md",
     "Codespace/How-to",
-    "PKM/PKM-Capture/PKM-Capture.md",
-    "Photo Edit.md",
     "Photo.jpg",
-    "sortspec.md",
-    "PKM/PKM-Coordinate/PKM-Coordinate.md",
-    "PKM/PKM-Capture/Canvas in Obsidian.md",
-    "PKM/PKM-Capture/Memos in Obsidian.md",
-    "PKM/PKM-Efficiency/Templater in Obsidian.md",
-    "PKM/PKM-Capture/PKM-学习记录.md",
-    "PKM/PKM-Efficiency/PKM-快速查找与功能调用.md",
-    "PKM/PKM-Efficiency/PKM-快速编辑输入.md",
-    "PKM/PKM-Efficiency/PKM-模板效率进阶.md",
-    "PKM/PKM-Efficiency/Obsidian Auto Mover.md",
-    "PKM/PKM-Efficiency/QuickAdd in Obsidian.md",
-    "PKM/PKM-Efficiency/PKM-核心视图.md",
-    "PKM/PKM-Organize/PKM-项目管理视图进阶.md",
-    "PKM/PKM-Present and Share/PKM-导出与分享.md",
-    "PKM/PKM-Present and Share/PKM-展示.md",
-    "PKM/PKM-Present and Share/微信公众号快速编辑发布-MDNICE.md",
-    "PKM/PKM Efficiency.md",
     "PKM/PKM-Efficiency",
-    "PKM/PKM-Organize/PKM-Organize.md",
-    "PKM/PKM-Present and Share/笔记内容可视化.md",
     "PKM/PKM-Teamwork",
     "PKM/PKM-Conmmunicate",
     "PKM Efficiency/PKM-Consume",
     "PKM/PKM-Coordinate",
     "PKM/Publish",
     "PKM/How-to",
-    "PKM/iPhone",
-    "PKM/Windows",
+    "iPhone",
     "PKM/assets/Snipaste_2022-11-25_10-54-52.png",
     "PKM/assets/Record_2022_11_25_10_45_17_186.gif",
     "PKM/assets/Pasted image 20230419095832.png",
     "PKM/assets/Pasted image 20230419095503.png",
     "PKM/assets/Pasted image 20230419095220.png",
-    "PKM/assets/Pasted image 20230412194539.png",
-    "PKM/assets/Pasted image 20230412193109.png",
-    "PKM/assets/Pasted image 20221125103435.png",
     "Canvas/Canvas in iPad.canvas",
     "Canvas/Canvas Demo.canvas",
     "Canvas/Note in iPhone.canvas",
-    "Excalidraw/Scripts/Downloaded/Alternative Pens.svg",
     "Untitled 1.canvas"
   ]
 }
