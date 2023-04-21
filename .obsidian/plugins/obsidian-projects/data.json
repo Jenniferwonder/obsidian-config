@@ -149,46 +149,25 @@
         },
         {
           "config": {
-            "groupByField": "tags",
+            "groupByField": "status",
             "includeFields": [
               "due"
             ],
             "columns": {
-              "Windows": {
+              "No status": {
                 "weight": 0
               },
-              "PKM/Setup": {
+              "⚪Capture": {
                 "weight": 1
               },
-              "PKM/Organize": {
+              "🟡Organizing": {
                 "weight": 2
               },
-              "PKM/Share": {
+              "🟠Distilling": {
                 "weight": 3
               },
-              "PKM/Present": {
+              "🟢Published": {
                 "weight": 4
-              },
-              "PKM/Teamwork": {
-                "weight": 5
-              },
-              "PKM/Efficiency": {
-                "weight": 6
-              },
-              "PKM/Distill": {
-                "weight": 7
-              },
-              "PKM/Coordinate": {
-                "weight": 8
-              },
-              "PKM/Communicate": {
-                "weight": 9
-              },
-              "PKM/Capture": {
-                "weight": 10
-              },
-              "iPad": {
-                "weight": 11
               }
             }
           },

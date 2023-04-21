@@ -46,7 +46,6 @@
   "obsidian-spaced-repetition",
   "canvas-mindmap",
   "various-complements",
-  "auto-note-mover",
   "recent-files-obsidian",
   "dbfolder",
   "folder-note-plugin",
@@ -72,6 +71,10 @@
   "metaedit",
   "obsidian-plugin-groups",
   "obsidian-memos",
-  "remotely-save",
-  "quickadd"
+  "quickadd",
+  "obsidian-reveal-active-file",
+  "file-tree-alternative",
+  "remember-cursor-position",
+  "obsidian-full-calendar",
+  "remotely-save"
 ]

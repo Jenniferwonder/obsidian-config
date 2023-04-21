@@ -132,6 +132,22 @@
         {
           "id": "link-nodes-in-canvas",
           "name": "Link Nodes In Canvas"
+        },
+        {
+          "id": "file-tree-alternative",
+          "name": "File Tree Alternative Plugin"
+        },
+        {
+          "id": "make-md",
+          "name": "MAKE.md"
+        },
+        {
+          "id": "obsidian-reveal-active-file",
+          "name": "Automatically reveal active file"
+        },
+        {
+          "id": "obsidian-full-calendar",
+          "name": "Full Calendar"
         }
       ],
       "groupIds": [],

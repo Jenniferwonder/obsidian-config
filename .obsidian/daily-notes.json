@@ -1,5 +1,5 @@
 {
-  "folder": "/Daily",
+  "folder": "01-Inbox/Daily",
   "autorun": false,
   "template": "Templates/Daily Plan",
   "format": "YYYY-MM-DD"

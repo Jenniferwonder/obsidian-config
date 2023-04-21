@@ -4,36 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "8368ffd49ae9c646",
+        "id": "692c08c326a9ed2e",
         "type": "tabs",
         "children": [
           {
-            "id": "e27f344690dfcee7",
+            "id": "b5e51f0241759a40",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-04-20.md",
+                "file": "03-Projects/Big Screen Visualization/Big Screen Visualization.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
-            }
-          },
-          {
-            "id": "2c4bc83e46f78f9f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "26ef768ea6066078",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -78,8 +62,16 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "15423e874e3791b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-tree-view",
+              "state": {}
             }
           },
           {
@@ -111,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 320.5
   },
   "right": {
     "id": "617127011ede853a",
@@ -127,7 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2023-04-20.md",
+                "file": "03-Projects/Big Screen Visualization/Big Screen Visualization.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -157,12 +149,20 @@
             }
           },
           {
+            "id": "ddd2494e771f8b60",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
+            }
+          },
+          {
             "id": "8456fea1d36da9b5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-04-20.md",
+                "file": "03-Projects/Big Screen Visualization/Big Screen Visualization.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-04-20.md",
+                "file": "03-Projects/Big Screen Visualization/Big Screen Visualization.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-04-20.md"
+                "file": "03-Projects/Big Screen Visualization/Big Screen Visualization.md"
               }
             }
           },
@@ -263,11 +263,11 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -297,68 +297,70 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "dbfolder:Create a new database table": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
       "remotely-save:Remotely Save": false,
       "periodic-notes:Open today": false,
       "obsidian-memos:Memos": false
     }
   },
-  "active": "e27f344690dfcee7",
+  "active": "b5e51f0241759a40",
   "lastOpenFiles": [
-    "Daily/2023-04-20.md",
-    "77-Example/MD表格悬浮编辑测试.md",
-    "77-Example/Callout 样式分享--Pageview.md",
-    "77-Example/◾ Cssclass声明样式举例/预览隐藏frontmatter.md",
-    "77-Example/◾ Cssclass声明样式举例/图书阅读清单-状态控制(dvjs).md",
-    "77-Example/◾ Cssclass声明样式举例/图书阅读清单(dv).md",
-    "77-Example/◾ Cssclass声明样式举例/通过分割线控制文章分栏.md",
-    "77-Example/◾ Cssclass声明样式举例/全宽显示-表格测试.md",
-    "77-Example/◾ Cssclass声明样式举例/四象限表格.md",
-    "77-Example/◾ Cssclass声明样式举例/无序列表分栏.md",
-    "77-Example/◾ Cssclass声明样式举例/首行缩进--以2022政府工作报告为例.md",
-    "77-Example/◾ Cssclass声明样式举例/◾ Cssclass声明样式举例.md",
-    "This is a test card.md",
-    "Untitled Kanban.md",
-    "77-Example/真Kanban.md",
-    "从这开始.md",
+    "01-Inbox/Daily/2023-04-20.md",
+    "01-Inbox/Daily/2023-04-21.md",
+    "03-Projects/Admin Panel/Admin Panel.md",
+    "03-Projects/Big Screen Visualization/Big Screen Visualization.md",
+    "zz-archived/阶段反思/阶段反思.md",
+    "05-Front-End Tech Stack/0500-How-to",
+    "zz-assets/Pasted Image 20221213164430_004.png",
+    "zz-archived",
+    "06-PKM/PKM-Capture/assets",
+    "06-PKM/Organize",
+    "06-PKM/PKM-Capture",
+    "06-PKM/PKM-Coordinate",
+    "06-PKM/PKM-Conmmunicate",
+    "zz-assets/Stop Watch 2022-12-13 16.13.09.excalidraw.md",
+    "zz-assets/Record_2022_12_14_18_44_21_740.gif",
+    "zz-assets/Number Guessing Game 2022-12-08 09.49.04.excalidraw.md",
+    "zz-assets/Pasted image 20221124194000.png",
+    "06-PKM/PKM-Capture/PKM-Capture.md",
+    "zz-assets/Snipaste_2022-11-25_10-54-52.png",
+    "zz-assets/Pasted image 20221125103435.png",
+    "01-Inbox/ReadItLater/PDF/git-cheat-sheet-education.pdf",
+    "zz-assets/Pasted image 20230307214310.png",
+    "TemplaterJS/sortspec.md",
+    "zz-assets/Pasted image 20230310112422.png",
+    "zz-assets/Pasted image 20221206150239.png",
+    "zz-assets/Pasted Image 20221213161337_147.png",
+    "zz-assets/Pasted image 20221210111900.png",
+    "zz-assets/Pasted image 20230310115943.png.baiduyun.uploading.cfg",
+    "zz-assets/Project Plan and Research - Portfolio 2023-03-15 19.29.45.excalidraw.md.baiduyun.uploading.cfg",
+    "Templates/Day Planner-20221124.md",
+    "Templates/Insert Table.md",
+    "zz-assets/My Goals in 2023 2023-04-03 21.31.54.excalidraw.md",
+    "编程视频/编程视频.md",
     "日记统计.md",
-    "时间管理.md",
-    "魔方配色设置说明.md",
-    "20-Diary/任务看板.md",
-    "50-Inbox/People/李四.md",
-    "50-Inbox/Study/20221231235546.md",
-    "50-Inbox/Study/Note.md",
-    "50-Inbox/Study/笔记收集箱.md",
-    "77-Example/◾ Dataview相关实例/获取任务优先级并进行颜色标注.md",
-    "50-Inbox/Website/Website.md",
-    "60-Canvas/canvas白板介绍_middle.canvas",
-    "60-Canvas/Formatting_Cheatsheet.canvas",
-    "60-Canvas/Home_middle.canvas",
-    "60-Canvas/TIPS.canvas",
-    "60-Canvas/代码块相关样式_middle.canvas",
+    "2021-12-22.md",
+    "04-Tech-Fundamentals/Windows/Windows 修改默认字体.md",
+    "04-Tech-Fundamentals/Windows/vim.md",
+    "04-Tech-Fundamentals/Windows/Windows Commands and Tools.md",
+    "04-Tech-Fundamentals/Windows/PC Efficiency.md",
+    "04-Tech-Fundamentals/Windows/Back Up Tools.md",
+    "06-PKM/Canvas/Note in iPhone.canvas",
+    "06-PKM/Canvas/Canvas in iPad.canvas",
+    "06-PKM/Canvas/Canvas Demo.canvas",
+    "01-Inbox/ReadItLater/PDF/PDF Annotator.md",
+    "01-Inbox/ReadItLater/ReadNote/公众号/维客笔记.md",
+    "01-Inbox/ReadItLater/Youtube - Zotero Obsidian Integration.md",
+    "01-Inbox/ReadItLater/Releases · PKM-erBlue-topaz-example.md",
+    "01-Inbox/ReadItLater/Note 2023-04-20 11-31-54.md",
+    "01-Inbox/ReadItLater/Podnote/No Stupid Questions-127. How Can You Be a Better Communicator.md",
     "60-Canvas/画板主页.canvas",
     "60-Canvas/示例库结构一览.canvas",
-    "20-Diary",
-    "assets/white-bg.png",
-    "77-Example/◾ TableExample",
-    "77-Example/◾ Echarts",
-    "77-Example/◾ Dataview相关实例",
-    "77-Example/◾ Cssclass声明样式举例",
-    "77-Example",
-    "60-Canvas/Assets/1505323928_home_.png",
-    "60-Canvas/Home",
-    "60-Canvas/Assets",
-    "60-Canvas",
-    "50-Inbox/Website",
-    "PKM/PKM-Capture/assets/Pasted image 20230420112021.png",
-    "PKM/PKM-Capture/assets/Pasted image 20230420111903.png",
-    "PKM/PKM-Capture/assets/Pasted image 20230420111544.png",
-    "PKM/PKM-Capture/assets/Pasted image 20230420111425.png",
-    "PKM-Map.canvas",
-    "Photo.jpg",
-    "PKM/assets/Snipaste_2022-11-25_10-54-52.png",
-    "PKM/assets/Record_2022_11_25_10_45_17_186.gif",
-    "PKM/assets/Pasted image 20230419095832.png",
-    "Canvas/Canvas in iPad.canvas",
-    "Canvas/Canvas Demo.canvas"
+    "60-Canvas/Home_middle.canvas",
+    "60-Canvas/canvas白板介绍_middle.canvas",
+    "60-Canvas/Formatting_Cheatsheet.canvas",
+    "60-Canvas/TIPS.canvas",
+    "60-Canvas/代码块相关样式_middle.canvas"
   ]
 }
