@@ -1,16 +1,136 @@
 {
   "recentFiles": [
     {
+      "basename": "button",
+      "path": "Templates/button.md"
+    },
+    {
+      "basename": "tp_foldermoc-Include-subfolders",
+      "path": "Templates/tp/tp_foldermoc-Include-subfolders.md"
+    },
+    {
+      "basename": "tp-笔记分类模板",
+      "path": "Templates/tp/tp-笔记分类模板.md"
+    },
+    {
+      "basename": "tp-流水账模板",
+      "path": "Templates/tp/tp-流水账模板.md"
+    },
+    {
+      "basename": "tp-日记模板-日历",
+      "path": "Templates/tp/tp-日记模板-日历.md"
+    },
+    {
+      "basename": "tp-日记模板-心情2",
+      "path": "Templates/tp/tp-日记模板-心情2.md"
+    },
+    {
+      "basename": "tp-日记模板-心情",
+      "path": "Templates/tp/tp-日记模板-心情.md"
+    },
+    {
+      "basename": "tp-插件启停模板",
+      "path": "Templates/tp/tp-插件启停模板.md"
+    },
+    {
+      "basename": "tp-人物模板",
+      "path": "Templates/tp/tp-人物模板.md"
+    },
+    {
+      "basename": "tp-默认笔记模板",
+      "path": "Templates/tp/tp-默认笔记模板.md"
+    },
+    {
+      "basename": "tp-通用模板",
+      "path": "Templates/tp/tp-通用模板.md"
+    },
+    {
+      "basename": "tp-自动选择模板",
+      "path": "Templates/tp/tp-自动选择模板.md"
+    },
+    {
+      "basename": "tp-笔记收集箱",
+      "path": "Templates/tp/tp-笔记收集箱.md"
+    },
+    {
+      "basename": "Youtube - Zotero Obsidian Integration",
+      "path": "01-Inbox/ReadItLater/Youtube - Zotero Obsidian Integration.md"
+    },
+    {
+      "basename": "Releases · PKM-erBlue-topaz-example",
+      "path": "01-Inbox/ReadItLater/Releases · PKM-erBlue-topaz-example.md"
+    },
+    {
+      "basename": "Note 2023-04-20 11-31-54",
+      "path": "01-Inbox/ReadItLater/Note 2023-04-20 11-31-54.md"
+    },
+    {
+      "basename": "script",
+      "path": "Templates/script/script.md"
+    },
+    {
+      "basename": "Obs-Memos",
+      "path": "06-PKM/04.Obs-Quick Add and Capture/Obs-Memos.md"
+    },
+    {
+      "basename": "How Memo Works",
+      "path": "06-PKM/04.Obs-Quick Add and Capture/How Memo Works.canvas"
+    },
+    {
+      "basename": "Obs-Button",
+      "path": "06-PKM/04.Obs-Quick Add and Capture/Obs-Button.md"
+    },
+    {
+      "basename": "Obs-库中库-为什么，如何实现",
+      "path": "06-PKM/05.Obs-Project and Task Management/Obs-库中库-为什么，如何实现.md"
+    },
+    {
+      "basename": "04.Obs-Quick Add and Capture",
+      "path": "06-PKM/04.Obs-Quick Add and Capture/04.Obs-Quick Add and Capture.md"
+    },
+    {
+      "basename": "Pasted image 20230423140623",
+      "path": "zz-assets/Pasted image 20230423140623.png"
+    },
+    {
+      "basename": "2023-04-23",
+      "path": "01-Inbox/Daily/2023-04-23.md"
+    },
+    {
+      "basename": "delete",
+      "path": "01-Inbox/Daily/delete.md"
+    },
+    {
+      "basename": "Obs-Daily and Periodic Notes",
+      "path": "06-PKM/04.Obs-Quick Add and Capture/Obs-Daily and Periodic Notes.md"
+    },
+    {
+      "basename": "Obs-怎样快速分栏展示",
+      "path": "06-PKM/03.Obs-Theme and Style/Obs-怎样快速分栏展示.md"
+    },
+    {
+      "basename": "00.Obs-Community",
+      "path": "06-PKM/00.Obs-Community/00.Obs-Community.md"
+    },
+    {
+      "basename": "06.Obs-Brainstorm and Visualization",
+      "path": "06-PKM/06.Obs-Brainstorm and Visualization/06.Obs-Brainstorm and Visualization.md"
+    },
+    {
+      "basename": "2023-04-01",
+      "path": "01-Inbox/Daily/2023-04-01.md"
+    },
+    {
+      "basename": "sortspec",
+      "path": "TemplaterJS/sortspec.md"
+    },
+    {
       "basename": "Pasted image 20230216200514",
       "path": "zz-assets/Pasted image 20230216200514.png"
     },
     {
       "basename": "2023-04-13 2023-04-13 09.36.21.excalidraw",
       "path": "zz-assets/2023-04-13 2023-04-13 09.36.21.excalidraw.md"
-    },
-    {
-      "basename": "2023-04-23",
-      "path": "01-Inbox/Daily/2023-04-23.md"
     },
     {
       "basename": "2023-04-21",
@@ -75,102 +195,6 @@
     {
       "basename": "How-to",
       "path": "01-Inbox/How-to/How-to.md"
-    },
-    {
-      "basename": "2023-04-20",
-      "path": "01-Inbox/Daily/2023-04-20.md"
-    },
-    {
-      "basename": "阶段反思",
-      "path": "zz-archived/阶段反思/阶段反思.md"
-    },
-    {
-      "basename": "Pasted Image 20221213164430_004",
-      "path": "zz-assets/Pasted Image 20221213164430_004.png"
-    },
-    {
-      "basename": "Stop Watch 2022-12-13 16.13.09.excalidraw",
-      "path": "zz-assets/Stop Watch 2022-12-13 16.13.09.excalidraw.md"
-    },
-    {
-      "basename": "Record_2022_12_14_18_44_21_740",
-      "path": "zz-assets/Record_2022_12_14_18_44_21_740.gif"
-    },
-    {
-      "basename": "Number Guessing Game 2022-12-08 09.49.04.excalidraw",
-      "path": "zz-assets/Number Guessing Game 2022-12-08 09.49.04.excalidraw.md"
-    },
-    {
-      "basename": "Pasted image 20221124194000",
-      "path": "zz-assets/Pasted image 20221124194000.png"
-    },
-    {
-      "basename": "Snipaste_2022-11-25_10-54-52",
-      "path": "zz-assets/Snipaste_2022-11-25_10-54-52.png"
-    },
-    {
-      "basename": "Pasted image 20221125103435",
-      "path": "zz-assets/Pasted image 20221125103435.png"
-    },
-    {
-      "basename": "git-cheat-sheet-education",
-      "path": "01-Inbox/ReadItLater/PDF/git-cheat-sheet-education.pdf"
-    },
-    {
-      "basename": "Pasted image 20230307214310",
-      "path": "zz-assets/Pasted image 20230307214310.png"
-    },
-    {
-      "basename": "sortspec",
-      "path": "TemplaterJS/sortspec.md"
-    },
-    {
-      "basename": "Pasted image 20230310112422",
-      "path": "zz-assets/Pasted image 20230310112422.png"
-    },
-    {
-      "basename": "Pasted image 20221206150239",
-      "path": "zz-assets/Pasted image 20221206150239.png"
-    },
-    {
-      "basename": "Pasted Image 20221213161337_147",
-      "path": "zz-assets/Pasted Image 20221213161337_147.png"
-    },
-    {
-      "basename": "Pasted image 20221210111900",
-      "path": "zz-assets/Pasted image 20221210111900.png"
-    },
-    {
-      "basename": "Pasted Image 20230311151425_595",
-      "path": "zz-assets/Pasted Image 20230311151425_595.png"
-    },
-    {
-      "basename": "Pasted Image 20230311152924_454",
-      "path": "zz-assets/Pasted Image 20230311152924_454.png"
-    },
-    {
-      "basename": "Pasted image 20230219111202",
-      "path": "zz-assets/Pasted image 20230219111202.png"
-    },
-    {
-      "basename": "Day Planner-20221124",
-      "path": "Templates/Day Planner-20221124.md"
-    },
-    {
-      "basename": "Insert Table",
-      "path": "Templates/Insert Table.md"
-    },
-    {
-      "basename": "cover-6",
-      "path": "zz-assets/cover-6.jpg"
-    },
-    {
-      "basename": "My Goals in 2023 2023-04-03 21.31.54.excalidraw",
-      "path": "zz-assets/My Goals in 2023 2023-04-03 21.31.54.excalidraw.md"
-    },
-    {
-      "basename": "Quick Capture",
-      "path": "06-PKM/00.Obs-How-to/Quick Capture.md"
     }
   ],
   "omittedPaths": [],

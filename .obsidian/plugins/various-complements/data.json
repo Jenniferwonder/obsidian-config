@@ -106,8 +106,8 @@
     "Workspaces-plus": {
       "Workspaces-plus": {
         "currentVault": {
-          "count": 1,
-          "lastUpdated": 1681803080393
+          "count": 2,
+          "lastUpdated": 1682242949670
         }
       }
     },
@@ -568,6 +568,22 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1682222411641
+        }
+      }
+    },
+    "How-To": {
+      "How-To": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1682241022257
+        }
+      }
+    },
+    "JavaScript": {
+      "JavaScript": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1682242129050
         }
       }
     }

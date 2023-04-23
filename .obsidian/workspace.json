@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "d85f5fdc934dee1a",
+        "id": "dee3c129a4384436",
         "type": "tabs",
         "children": [
           {
-            "id": "bd5a985a26a21272",
+            "id": "9e99aa6e34018835",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "zz-assets/Pasted image 20230216200514.png"
+                "file": "Templates/button.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -100,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 279.5
   },
   "right": {
     "id": "617127011ede853a",
@@ -109,7 +112,6 @@
       {
         "id": "48e4df7056d011b2",
         "type": "tabs",
-        "dimension": 35.95505617977528,
         "children": [
           {
             "id": "3ff613d8b4842cb2",
@@ -117,7 +119,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "zz-assets/Pasted image 20230216200514.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,7 +153,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zz-assets/Pasted image 20230216200514.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,10 +169,17 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "zz-assets/Pasted image 20230216200514.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
+            }
+          },
+          {
+            "id": "42be39768b8f7325",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
             }
           },
           {
@@ -180,9 +187,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "zz-assets/Pasted image 20230216200514.png"
-              }
+              "state": {}
             }
           },
           {
@@ -213,10 +218,10 @@
             }
           },
           {
-            "id": "a31d90521da04f88",
+            "id": "3e28e9c79ee063b1",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
+              "type": "todo",
               "state": {}
             }
           },
@@ -237,14 +242,6 @@
             }
           },
           {
-            "id": "3e28e9c79ee063b1",
-            "type": "leaf",
-            "state": {
-              "type": "todo",
-              "state": {}
-            }
-          },
-          {
             "id": "a72e376b1bbc8c56",
             "type": "leaf",
             "state": {
@@ -253,26 +250,11 @@
             }
           }
         ],
-        "currentTab": 5
-      },
-      {
-        "id": "92cc4d5a3b9da5f8",
-        "type": "tabs",
-        "dimension": 64.04494382022472,
-        "children": [
-          {
-            "id": "3e1286463e56bde2",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 338.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -280,12 +262,9 @@
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "flashcards-obsidian:Generate flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "custom-sort:Toggle custom sorting": false,
       "templater-obsidian:Templater": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
-      "obsidian-projects:Open projects": false,
-      "omnisearch:Omnisearch": false,
       "surfing:surfing-bookmark-manager": false,
       "webpage-html-export:Export Vault to HTML": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
@@ -305,67 +284,70 @@
       "file-tree-alternative:File Tree Alternative Plugin": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "remotely-save:Remotely Save": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-projects:Open projects": false,
       "periodic-notes:Open today": false,
       "obsidian-memos:Memos": false
     }
   },
   "active": "d7d55bf1207e42ba",
   "lastOpenFiles": [
-    "zz-assets/2023-04-13 2023-04-13 09.36.21.excalidraw.md",
-    "01-Inbox/Daily/2023-04-23.md",
-    "01-Inbox/Daily/2023-04-21.md",
+    "50-Inbox/Study",
+    "50-Inbox",
+    "Templates/button.md",
+    "50-Inbox/Study/Hi.md",
+    "Templates/tp/tp_foldermoc-Include-subfolders.md",
+    "Templates/tp/tp-笔记分类模板.md",
+    "Templates/tp/tp-流水账模板.md",
+    "Templates/tp/tp-日记模板-日历.md",
+    "Templates/tp/tp-日记模板-心情2.md",
+    "Templates/tp/tp-日记模板-心情.md",
+    "Templates/tp/tp-插件启停模板.md",
+    "Templates/tp/tp-人物模板.md",
+    "Templates/tp/tp-默认笔记模板.md",
+    "Templates/tp/tp-通用模板.md",
+    "Templates/tp/tp-自动选择模板.md",
+    "Templates/tp/tp-笔记收集箱.md",
+    "50-Inbox/Study/Hi.md",
+    "01-Inbox/ReadItLater/Youtube - Zotero Obsidian Integration.md",
+    "01-Inbox/ReadItLater/Releases · PKM-erBlue-topaz-example.md",
+    "01-Inbox/ReadItLater/Note 2023-04-20 11-31-54.md",
+    "01-Inbox/ReadItLater/Untitled.md",
+    "untitled3.md",
+    "untitled2.md",
+    "Templates/script/script.md",
+    "untitled1.md",
+    "Templates/script/bookfromdouban.js",
+    "Templates/script/askChat.js",
+    "Templates/script",
+    "Add to inbox.md",
+    "Hi variable.md",
+    "Templates/EnablepluginList",
+    "Templates/tp",
+    "Templates/New folder",
+    "06-PKM/04.Obs-Quick Add and Capture/How Memo Works.canvas",
+    "zz-assets/Pasted image 20230423140623.png",
+    "06-PKM/04.Obs-Quick Add and Capture/assets",
+    "06-PKM/01.Obs-Why/Captured",
+    "01-Inbox/Daily/2023-04",
+    "zz-assets/Pasted image 20230216200514.png",
     "03-Projects/Projects Overview.canvas",
-    "03-Projects/Real Time Chat App/Real Time Chat App.md",
-    "03-Projects/Video Content Platform/Video Content Platform.md",
-    "03-Projects/Learning Platform/Architecture and System Design - GeekEnglish.md",
-    "03-Projects/Untitled Kanban.md",
-    "03-Projects/LiveStream/LiveStream.md",
-    "03-Projects/Learning Platform/Learning Platform.md",
-    "03-Projects/TechBlog/TechBlog.md",
-    "03-Projects/Low Code/Low Code.md",
-    "03-Projects/Portfolio/Portfolio.md",
-    "03-Projects/E-Commerce Store/E-Commerce Store.md",
-    "03-Projects/Content Editor/Content Editor.md",
-    "03-Projects/Visualization/Visualization.md",
-    "03-Projects/Admin Panel/Admin Panel.md",
-    "01-Inbox/How-to/How-to.md",
-    "01-Inbox/Daily/2023-04-20.md",
-    "zz-archived/阶段反思/阶段反思.md",
-    "05-Front-End Tech Stack/0500-How-to",
     "zz-assets/Pasted Image 20221213164430_004.png",
-    "zz-archived",
-    "06-PKM/PKM-Capture/assets",
-    "06-PKM/Organize",
-    "06-PKM/PKM-Capture",
-    "06-PKM/PKM-Coordinate",
-    "06-PKM/PKM-Conmmunicate",
-    "zz-assets/Stop Watch 2022-12-13 16.13.09.excalidraw.md",
     "zz-assets/Record_2022_12_14_18_44_21_740.gif",
-    "zz-assets/Number Guessing Game 2022-12-08 09.49.04.excalidraw.md",
     "zz-assets/Pasted image 20221124194000.png",
-    "06-PKM/PKM-Capture/PKM-Capture.md",
     "zz-assets/Snipaste_2022-11-25_10-54-52.png",
     "zz-assets/Pasted image 20221125103435.png",
-    "01-Inbox/ReadItLater/PDF/git-cheat-sheet-education.pdf",
     "zz-assets/Pasted image 20230307214310.png",
-    "TemplaterJS/sortspec.md",
     "zz-assets/Pasted image 20230310112422.png",
     "zz-assets/Pasted image 20221206150239.png",
-    "zz-assets/Pasted Image 20221213161337_147.png",
-    "zz-assets/Pasted image 20221210111900.png",
-    "zz-assets/Pasted image 20230310115943.png.baiduyun.uploading.cfg",
-    "zz-assets/Project Plan and Research - Portfolio 2023-03-15 19.29.45.excalidraw.md.baiduyun.uploading.cfg",
-    "Templates/Day Planner-20221124.md",
-    "Templates/Insert Table.md",
-    "zz-assets/My Goals in 2023 2023-04-03 21.31.54.excalidraw.md",
-    "06-PKM/Canvas/Note in iPhone.canvas",
-    "06-PKM/Canvas/Canvas in iPad.canvas",
-    "06-PKM/Canvas/Canvas Demo.canvas",
+    "06-PKM/iPad/Note in iPhone.canvas",
+    "06-PKM/iPad/Canvas in iPad.canvas",
+    "06-PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/Canvas Demo.canvas",
     "60-Canvas/画板主页.canvas",
     "60-Canvas/示例库结构一览.canvas",
     "60-Canvas/Home_middle.canvas",
     "60-Canvas/canvas白板介绍_middle.canvas",
-    "60-Canvas/Formatting_Cheatsheet.canvas",
-    "60-Canvas/TIPS.canvas"
+    "60-Canvas/Formatting_Cheatsheet.canvas"
   ]
 }

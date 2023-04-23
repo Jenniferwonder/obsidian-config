@@ -148,6 +148,18 @@
         {
           "id": "obsidian-full-calendar",
           "name": "Full Calendar"
+        },
+        {
+          "id": "any-block",
+          "name": "Any Block"
+        },
+        {
+          "id": "awesome-brain-manager",
+          "name": "Awesome Brain Manager"
+        },
+        {
+          "id": "link-exploder",
+          "name": "Link Exploder"
         }
       ],
       "groupIds": [],
