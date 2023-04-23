@@ -76,5 +76,9 @@
   "file-tree-alternative",
   "remember-cursor-position",
   "obsidian-full-calendar",
-  "remotely-save"
+  "remotely-save",
+  "canvas-css-class",
+  "canvas-block-reference",
+  "link-nodes-in-canvas",
+  "optimize-canvas-connections"
 ]

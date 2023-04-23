@@ -1,8 +1,8 @@
 {
   "StartDate": "Sunday",
-  "InsertAfter": "## ✏随笔感悟",
-  "UserName": "MEMO 😉",
-  "ProcessEntriesBelow": "## ✏随笔感悟",
+  "InsertAfter": "## Logs",
+  "UserName": "Jennifer 😉",
+  "ProcessEntriesBelow": "## Logs",
   "Language": "en",
   "SaveMemoButtonLabel": "NOTEIT",
   "SaveMemoButtonIcon": "✍️",

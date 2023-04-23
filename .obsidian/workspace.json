@@ -4,19 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "692c08c326a9ed2e",
+        "id": "d85f5fdc934dee1a",
         "type": "tabs",
         "children": [
           {
-            "id": "b5e51f0241759a40",
+            "id": "bd5a985a26a21272",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "03-Projects/Big Screen Visualization/Big Screen Visualization.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "zz-assets/Pasted image 20230216200514.png"
               }
             }
           }
@@ -83,18 +80,18 @@
             }
           },
           {
-            "id": "18ce8af7c95c8033",
-            "type": "leaf",
-            "state": {
-              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
-              "state": {}
-            }
-          },
-          {
             "id": "f1b6fbbbfa6f670d",
             "type": "leaf",
             "state": {
               "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "18ce8af7c95c8033",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {}
             }
           }
@@ -103,7 +100,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 200
   },
   "right": {
     "id": "617127011ede853a",
@@ -112,6 +109,7 @@
       {
         "id": "48e4df7056d011b2",
         "type": "tabs",
+        "dimension": 35.95505617977528,
         "children": [
           {
             "id": "3ff613d8b4842cb2",
@@ -119,7 +117,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "03-Projects/Big Screen Visualization/Big Screen Visualization.md",
+                "file": "zz-assets/Pasted image 20230216200514.png",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -149,20 +147,12 @@
             }
           },
           {
-            "id": "ddd2494e771f8b60",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
-            }
-          },
-          {
             "id": "8456fea1d36da9b5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "03-Projects/Big Screen Visualization/Big Screen Visualization.md",
+                "file": "zz-assets/Pasted image 20230216200514.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "03-Projects/Big Screen Visualization/Big Screen Visualization.md",
+                "file": "zz-assets/Pasted image 20230216200514.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -191,7 +181,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03-Projects/Big Screen Visualization/Big Screen Visualization.md"
+                "file": "zz-assets/Pasted image 20230216200514.png"
               }
             }
           },
@@ -263,11 +253,26 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 5
+      },
+      {
+        "id": "92cc4d5a3b9da5f8",
+        "type": "tabs",
+        "dimension": 64.04494382022472,
+        "children": [
+          {
+            "id": "3e1286463e56bde2",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 299.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -304,12 +309,27 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "b5e51f0241759a40",
+  "active": "d7d55bf1207e42ba",
   "lastOpenFiles": [
-    "01-Inbox/Daily/2023-04-20.md",
+    "zz-assets/2023-04-13 2023-04-13 09.36.21.excalidraw.md",
+    "01-Inbox/Daily/2023-04-23.md",
     "01-Inbox/Daily/2023-04-21.md",
+    "03-Projects/Projects Overview.canvas",
+    "03-Projects/Real Time Chat App/Real Time Chat App.md",
+    "03-Projects/Video Content Platform/Video Content Platform.md",
+    "03-Projects/Learning Platform/Architecture and System Design - GeekEnglish.md",
+    "03-Projects/Untitled Kanban.md",
+    "03-Projects/LiveStream/LiveStream.md",
+    "03-Projects/Learning Platform/Learning Platform.md",
+    "03-Projects/TechBlog/TechBlog.md",
+    "03-Projects/Low Code/Low Code.md",
+    "03-Projects/Portfolio/Portfolio.md",
+    "03-Projects/E-Commerce Store/E-Commerce Store.md",
+    "03-Projects/Content Editor/Content Editor.md",
+    "03-Projects/Visualization/Visualization.md",
     "03-Projects/Admin Panel/Admin Panel.md",
-    "03-Projects/Big Screen Visualization/Big Screen Visualization.md",
+    "01-Inbox/How-to/How-to.md",
+    "01-Inbox/Daily/2023-04-20.md",
     "zz-archived/阶段反思/阶段反思.md",
     "05-Front-End Tech Stack/0500-How-to",
     "zz-assets/Pasted Image 20221213164430_004.png",
@@ -338,29 +358,14 @@
     "Templates/Day Planner-20221124.md",
     "Templates/Insert Table.md",
     "zz-assets/My Goals in 2023 2023-04-03 21.31.54.excalidraw.md",
-    "编程视频/编程视频.md",
-    "日记统计.md",
-    "2021-12-22.md",
-    "04-Tech-Fundamentals/Windows/Windows 修改默认字体.md",
-    "04-Tech-Fundamentals/Windows/vim.md",
-    "04-Tech-Fundamentals/Windows/Windows Commands and Tools.md",
-    "04-Tech-Fundamentals/Windows/PC Efficiency.md",
-    "04-Tech-Fundamentals/Windows/Back Up Tools.md",
     "06-PKM/Canvas/Note in iPhone.canvas",
     "06-PKM/Canvas/Canvas in iPad.canvas",
     "06-PKM/Canvas/Canvas Demo.canvas",
-    "01-Inbox/ReadItLater/PDF/PDF Annotator.md",
-    "01-Inbox/ReadItLater/ReadNote/公众号/维客笔记.md",
-    "01-Inbox/ReadItLater/Youtube - Zotero Obsidian Integration.md",
-    "01-Inbox/ReadItLater/Releases · PKM-erBlue-topaz-example.md",
-    "01-Inbox/ReadItLater/Note 2023-04-20 11-31-54.md",
-    "01-Inbox/ReadItLater/Podnote/No Stupid Questions-127. How Can You Be a Better Communicator.md",
     "60-Canvas/画板主页.canvas",
     "60-Canvas/示例库结构一览.canvas",
     "60-Canvas/Home_middle.canvas",
     "60-Canvas/canvas白板介绍_middle.canvas",
     "60-Canvas/Formatting_Cheatsheet.canvas",
-    "60-Canvas/TIPS.canvas",
-    "60-Canvas/代码块相关样式_middle.canvas"
+    "60-Canvas/TIPS.canvas"
   ]
 }
