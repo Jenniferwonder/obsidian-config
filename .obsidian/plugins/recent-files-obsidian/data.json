@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "button",
-      "path": "Templates/button.md"
+      "basename": "Obs-Blue Topaz Simplified",
+      "path": "06-PKM/03.Obs-Theme and Style/Obs-Blue Topaz Simplified.md"
     },
     {
-      "basename": "tp_foldermoc-Include-subfolders",
-      "path": "Templates/tp/tp_foldermoc-Include-subfolders.md"
+      "basename": "Obs-Image Import and Resize",
+      "path": "06-PKM/03.Obs-Theme and Style/Obs-Image Import and Resize.md"
+    },
+    {
+      "basename": "Job, Work, Career",
+      "path": "02-Interview/Job, Work, Career.md"
+    },
+    {
+      "basename": "Front-End Interviews",
+      "path": "02-Interview/Front-End Interviews.md"
+    },
+    {
+      "basename": "2023-04-24",
+      "path": "01-Inbox/Daily/2023-04-24.md"
+    },
+    {
+      "basename": "2023-04-23",
+      "path": "01-Inbox/Daily/2023-04-23.md"
+    },
+    {
+      "basename": "ReadItLater",
+      "path": "01-Inbox/ReadItLater/ReadItLater.md"
+    },
+    {
+      "basename": "Daily Plan",
+      "path": "Templates/Daily Plan.md"
+    },
+    {
+      "basename": "tp-默认笔记模板",
+      "path": "Templates/tp/tp-默认笔记模板.md"
+    },
+    {
+      "basename": "tp-通用模板",
+      "path": "Templates/tp/tp-通用模板.md"
+    },
+    {
+      "basename": "Obs-怎样快速分栏展示",
+      "path": "06-PKM/03.Obs-Theme and Style/Obs-怎样快速分栏展示.md"
+    },
+    {
+      "basename": "tp-笔记收集箱",
+      "path": "Templates/tp/tp-笔记收集箱.md"
+    },
+    {
+      "basename": "tp-自动选择模板",
+      "path": "Templates/tp/tp-自动选择模板.md"
     },
     {
       "basename": "tp-笔记分类模板",
@@ -21,48 +65,56 @@
       "path": "Templates/tp/tp-日记模板-日历.md"
     },
     {
-      "basename": "tp-日记模板-心情2",
-      "path": "Templates/tp/tp-日记模板-心情2.md"
+      "basename": "tp-人物模板",
+      "path": "Templates/tp/tp-人物模板.md"
     },
     {
       "basename": "tp-日记模板-心情",
       "path": "Templates/tp/tp-日记模板-心情.md"
     },
     {
+      "basename": "tp-日记模板-心情2",
+      "path": "Templates/tp/tp-日记模板-心情2.md"
+    },
+    {
+      "basename": "Admin Panel",
+      "path": "03-Projects/Admin Panel/Admin Panel.md"
+    },
+    {
+      "basename": "03.Obs-Theme and Style",
+      "path": "06-PKM/03.Obs-Theme and Style/03.Obs-Theme and Style.md"
+    },
+    {
+      "basename": "PDF Annotator",
+      "path": "01-Inbox/ReadItLater/PDF/PDF Annotator.md"
+    },
+    {
+      "basename": "edX Computer Science Fundamentals Syllabus",
+      "path": "01-Inbox/ReadItLater/PDF/edX Computer Science Fundamentals Syllabus.pdf"
+    },
+    {
+      "basename": "20230418-Mindmap Script",
+      "path": "01-Inbox/ReadItLater/PDF/20230418-Mindmap Script.pdf"
+    },
+    {
+      "basename": "button",
+      "path": "Templates/button.md"
+    },
+    {
+      "basename": "Releases · PKM-erBlue-topaz-example",
+      "path": "06-PKM/Releases · PKM-erBlue-topaz-example.md"
+    },
+    {
+      "basename": "tp_foldermoc-Include-subfolders",
+      "path": "Templates/tp/tp_foldermoc-Include-subfolders.md"
+    },
+    {
       "basename": "tp-插件启停模板",
       "path": "Templates/tp/tp-插件启停模板.md"
     },
     {
-      "basename": "tp-人物模板",
-      "path": "Templates/tp/tp-人物模板.md"
-    },
-    {
-      "basename": "tp-默认笔记模板",
-      "path": "Templates/tp/tp-默认笔记模板.md"
-    },
-    {
-      "basename": "tp-通用模板",
-      "path": "Templates/tp/tp-通用模板.md"
-    },
-    {
-      "basename": "tp-自动选择模板",
-      "path": "Templates/tp/tp-自动选择模板.md"
-    },
-    {
-      "basename": "tp-笔记收集箱",
-      "path": "Templates/tp/tp-笔记收集箱.md"
-    },
-    {
       "basename": "Youtube - Zotero Obsidian Integration",
-      "path": "01-Inbox/ReadItLater/Youtube - Zotero Obsidian Integration.md"
-    },
-    {
-      "basename": "Releases · PKM-erBlue-topaz-example",
-      "path": "01-Inbox/ReadItLater/Releases · PKM-erBlue-topaz-example.md"
-    },
-    {
-      "basename": "Note 2023-04-20 11-31-54",
-      "path": "01-Inbox/ReadItLater/Note 2023-04-20 11-31-54.md"
+      "path": "01-Inbox/ReadItLater/Video/Youtube - Zotero Obsidian Integration.md"
     },
     {
       "basename": "script",
@@ -93,20 +145,12 @@
       "path": "zz-assets/Pasted image 20230423140623.png"
     },
     {
-      "basename": "2023-04-23",
-      "path": "01-Inbox/Daily/2023-04-23.md"
-    },
-    {
       "basename": "delete",
       "path": "01-Inbox/Daily/delete.md"
     },
     {
       "basename": "Obs-Daily and Periodic Notes",
       "path": "06-PKM/04.Obs-Quick Add and Capture/Obs-Daily and Periodic Notes.md"
-    },
-    {
-      "basename": "Obs-怎样快速分栏展示",
-      "path": "06-PKM/03.Obs-Theme and Style/Obs-怎样快速分栏展示.md"
     },
     {
       "basename": "00.Obs-Community",
@@ -155,46 +199,6 @@
     {
       "basename": "Untitled Kanban",
       "path": "03-Projects/Untitled Kanban.md"
-    },
-    {
-      "basename": "LiveStream",
-      "path": "03-Projects/LiveStream/LiveStream.md"
-    },
-    {
-      "basename": "Learning Platform",
-      "path": "03-Projects/Learning Platform/Learning Platform.md"
-    },
-    {
-      "basename": "TechBlog",
-      "path": "03-Projects/TechBlog/TechBlog.md"
-    },
-    {
-      "basename": "Low Code",
-      "path": "03-Projects/Low Code/Low Code.md"
-    },
-    {
-      "basename": "Portfolio",
-      "path": "03-Projects/Portfolio/Portfolio.md"
-    },
-    {
-      "basename": "E-Commerce Store",
-      "path": "03-Projects/E-Commerce Store/E-Commerce Store.md"
-    },
-    {
-      "basename": "Content Editor",
-      "path": "03-Projects/Content Editor/Content Editor.md"
-    },
-    {
-      "basename": "Visualization",
-      "path": "03-Projects/Visualization/Visualization.md"
-    },
-    {
-      "basename": "Admin Panel",
-      "path": "03-Projects/Admin Panel/Admin Panel.md"
-    },
-    {
-      "basename": "How-to",
-      "path": "01-Inbox/How-to/How-to.md"
     }
   ],
   "omittedPaths": [],

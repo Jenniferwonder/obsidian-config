@@ -1,0 +1,8 @@
+{
+  "amazonRegion": "global",
+  "highlightsFolder": "ReadNote",
+  "lastSyncMode": "amazon",
+  "isLoggedIn": false,
+  "syncOnBoot": false,
+  "downloadBookMetadata": true
+}

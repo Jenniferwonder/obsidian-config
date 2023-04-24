@@ -1,0 +1,188 @@
+
+.mod-cm6 .cm-editor .HyperMD-header,
+:is(h1, h2, h3, h4, h5, h6) {
+	line-height: 1.4em !important;
+	margin: 6px 0px 6px 0px !important;
+	padding: 6px 0px 6px 0px !important;
+}
+
+
+.markdown-preview-section,
+br {
+	content: "" !important;
+	display: block !important;
+	margin-top: 12px !important;
+}
+
+.cm-s-obsidian .CodeMirror-line,
+.cm-s-obsidian .cm-line {
+  line-height: 1.7em;
+	padding-bottom: 6.5px !important;
+	padding-top: 6.5px !important;
+}
+
+.cm-s-obsidian .HyperMD-list-line {
+	padding-top: 3.5px !important;
+	padding-bottom: 3.5px !important;
+}
+
+/* get more snippets at https://github.com/kmaasrud/awesome-obsidian */
+/* author: https://github.com/TClark1011 */
+/* source: https://github.com/kmaasrud/awesome-obsidian */
+
+img {
+	border-radius: 3px;
+	box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12), 0 1px 2px rgba(0, 0, 0, 0.24);
+	background-color: var(
+		--background-secondary
+	); /* Background color so PNGs with transparent backgrounds don't look weird */
+}
+
+/* This snippet requires Contextual Typography 2.2.1+ */
+/* https://github.com/mgmeyers/obsidian-contextual-typography */
+
+:root {
+	--content-base-width: 45rem;
+}
+
+/* ----------------------------------------- */
+/* Handle overall content width */
+/* ----------------------------------------- */
+
+/* Wrapper with padding keeps content from bumping the edges */
+.markdown-preview-view.is-readable-line-width {
+	padding-inline: 30px;
+}
+
+/* Container controlling overall max content width */
+.markdown-preview-view.is-readable-line-width .markdown-preview-section {
+	width: 100%;
+	max-width: var(
+		--content-max-width,
+		45rem
+	); /* Second value is fallback in case user isn't using Style settings */
+}
+
+/* All children of overall container are divs */
+.markdown-preview-view.is-readable-line-width .markdown-preview-section > div {
+	margin-inline: auto;
+	width: min(var(--content-base-width), 100%);
+}
+
+/* Specific children of overall container that contain media */
+.markdown-preview-view.is-readable-line-width
+	.markdown-preview-section
+	div[data-is-embed] {
+	width: 100%;
+}
+
+/* ----------------------------------------- */
+/* Make media items display in rows */
+/* ----------------------------------------- */
+
+/* p tags wrap each row */
+.markdown-preview-view.is-readable-line-width
+	.markdown-preview-section
+	div[data-is-embed]
+	> p {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(0, 1fr));
+	grid-gap: var(--media-grid-gap, 7px);
+	margin: 0;
+}
+
+/* Remove breaks from the document flow */
+.markdown-preview-view.is-readable-line-width
+	.markdown-preview-section
+	div[data-is-embed]
+	> p
+	br {
+	display: none;
+}
+
+/* Media items sourced from your vault are wrapped in a span – media linked from the web is not wrapped */
+.markdown-preview-view.is-readable-line-width
+	.markdown-preview-section
+	div[data-is-embed]
+	> p
+	> span {
+	display: flex;
+}
+
+/* Apply this to all img/video tags in a row whether they're wrapped in a span or not */
+.markdown-preview-view.is-readable-line-width
+	.markdown-preview-section
+	div[data-is-embed]
+	> p
+	img,
+.markdown-preview-view.is-readable-line-width
+	.markdown-preview-section
+	div[data-is-embed]
+	> p
+	video {
+	flex: 1;
+	align-self: stretch;
+	object-fit: cover;
+	border-radius: var(--media-border-radius, 4px);
+}
+
+/* Create gaps between rows */
+.markdown-preview-view.is-readable-line-width
+	.markdown-preview-section
+	div[data-is-embed]
+	+ div[data-is-embed] {
+	margin-top: var(--media-grid-gap, 7px);
+}
+
+/* ----------------------------------------- */
+/* Style settings */
+/* ----------------------------------------- */
+
+/* @settings
+name: Media Grid Snippet
+id: media-grid-snippet
+settings:
+	-
+			id: content-max-width
+			title: Grid width
+			description: Set the max width of your grid layouts.
+			type: variable-select
+			allowEmpty: false
+			default: var(--content-base-width)
+			options:
+					- 
+							label: Base width
+							value: var(--content-base-width)
+					- 
+							label: Small
+							value: calc(var(--content-base-width) + 5%)
+					- 
+							label: Medium
+							value: calc(var(--content-base-width) + 10%)
+					- 
+							label: Large
+							value: calc(var(--content-base-width) + 20%)
+					- 
+							label: Full width
+							value: 100%
+	-
+			id: media-grid-gap
+			title: Grid gap
+			description: Set the gap size between items in your grid layouts.
+			type: variable-number-slider
+			format: px
+			default: 7
+			min: 0
+			max: 80
+			step: 1
+	-
+			id: media-border-radius
+			title: Border radius
+			description: Set the border radius of your images and videos.
+			type: variable-number-slider
+			format: px
+			default: 4
+			min: 0
+			max: 40
+			step: 1
+*/

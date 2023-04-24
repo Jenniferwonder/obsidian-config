@@ -160,6 +160,10 @@
         {
           "id": "link-exploder",
           "name": "Link Exploder"
+        },
+        {
+          "id": "obsidian-view-mode-by-frontmatter",
+          "name": "Force note view mode"
         }
       ],
       "groupIds": [],

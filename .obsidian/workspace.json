@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "dee3c129a4384436",
+        "id": "78c75f6c153f3c83",
         "type": "tabs",
         "children": [
           {
-            "id": "9e99aa6e34018835",
+            "id": "0d08eb8ad6538365",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/button.md",
+                "file": "06-PKM/03.Obs-Theme and Style/Obs-Blue Topaz Simplified.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": false
+                "source": true
               }
             }
           }
@@ -99,11 +99,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 272.5
   },
   "right": {
     "id": "617127011ede853a",
@@ -112,6 +112,7 @@
       {
         "id": "48e4df7056d011b2",
         "type": "tabs",
+        "dimension": 49.890350877192986,
         "children": [
           {
             "id": "3ff613d8b4842cb2",
@@ -119,6 +120,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "06-PKM/03.Obs-Theme and Style/Obs-Blue Topaz Simplified.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -153,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "06-PKM/03.Obs-Theme and Style/Obs-Blue Topaz Simplified.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "06-PKM/03.Obs-Theme and Style/Obs-Blue Topaz Simplified.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -187,7 +191,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "06-PKM/03.Obs-Theme and Style/Obs-Blue Topaz Simplified.md"
+              }
             }
           },
           {
@@ -206,14 +212,6 @@
             "type": "leaf",
             "state": {
               "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "211d214ae49428f0",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
               "state": {}
             }
           },
@@ -251,10 +249,25 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "056706450ab3bf84",
+        "type": "tabs",
+        "dimension": 50.10964912280702,
+        "children": [
+          {
+            "id": "211d214ae49428f0",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 252.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -291,46 +304,46 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "d7d55bf1207e42ba",
+  "active": "42be39768b8f7325",
   "lastOpenFiles": [
-    "50-Inbox/Study",
-    "50-Inbox",
-    "Templates/button.md",
-    "50-Inbox/Study/Hi.md",
-    "Templates/tp/tp_foldermoc-Include-subfolders.md",
+    "06-PKM/03.Obs-Theme and Style/Obs-Image Import and Resize.md",
+    "02-Interview/Job, Work, Career.md",
+    "02-Interview/Front-End Interviews.md",
+    "01-Inbox/Daily/2023-04-24.md",
+    "01-Inbox/Daily/2023-04-23.md",
+    "01-Inbox/ReadItLater/ReadItLater.md",
+    "Templates/Daily Plan.md",
+    "Templates/tp/tp-默认笔记模板.md",
+    "Templates/tp/tp-通用模板.md",
+    "06-PKM/03.Obs-Theme and Style/Obs-怎样快速分栏展示.md",
+    "Templates/tp/tp-笔记收集箱.md",
+    "Templates/tp/tp-自动选择模板.md",
     "Templates/tp/tp-笔记分类模板.md",
     "Templates/tp/tp-流水账模板.md",
     "Templates/tp/tp-日记模板-日历.md",
-    "Templates/tp/tp-日记模板-心情2.md",
-    "Templates/tp/tp-日记模板-心情.md",
-    "Templates/tp/tp-插件启停模板.md",
     "Templates/tp/tp-人物模板.md",
-    "Templates/tp/tp-默认笔记模板.md",
-    "Templates/tp/tp-通用模板.md",
-    "Templates/tp/tp-自动选择模板.md",
-    "Templates/tp/tp-笔记收集箱.md",
-    "50-Inbox/Study/Hi.md",
-    "01-Inbox/ReadItLater/Youtube - Zotero Obsidian Integration.md",
-    "01-Inbox/ReadItLater/Releases · PKM-erBlue-topaz-example.md",
+    "Templates/tp/tp-日记模板-心情.md",
+    "Templates/tp/tp-日记模板-心情2.md",
+    "03-Projects/Admin Panel/Admin Panel.md",
+    "06-PKM/03.Obs-Theme and Style/03.Obs-Theme and Style.md",
+    "05-Front-End Tech Stack/00-Inbox",
+    "04-Tech-Fundamentals/00-Inbox",
+    "03-Projects/00-Inbox",
+    "01-Inbox/ReadItLater/PDF/PDF Annotator.md",
+    "01-Inbox/ReadItLater/PDF/edX Computer Science Fundamentals Syllabus.pdf",
+    "01-Inbox/ReadItLater/PDF/git-cheat-sheet-education-annotate.md",
+    "01-Inbox/ReadItLater/PDF/edX Computer Science Fundamentals Syllabus-annotate.md",
+    "01-Inbox/ReadItLater/PDF/20230418-Mindmap Script.pdf",
+    "01-Inbox/ReadItLater/PDF/edX Computer Science Fundamentals Syllabus.annos",
+    "01-Inbox/ReadItLater/PDF/git-cheat-sheet-education.annos",
+    "Templates/button.md",
+    "01-Inbox/ReadItLater/Video",
+    "06-PKM/Releases · PKM-erBlue-topaz-example.md",
     "01-Inbox/ReadItLater/Note 2023-04-20 11-31-54.md",
-    "01-Inbox/ReadItLater/Untitled.md",
-    "untitled3.md",
-    "untitled2.md",
-    "Templates/script/script.md",
-    "untitled1.md",
-    "Templates/script/bookfromdouban.js",
-    "Templates/script/askChat.js",
-    "Templates/script",
-    "Add to inbox.md",
-    "Hi variable.md",
-    "Templates/EnablepluginList",
-    "Templates/tp",
-    "Templates/New folder",
+    "50-Inbox/Study",
+    "50-Inbox",
     "06-PKM/04.Obs-Quick Add and Capture/How Memo Works.canvas",
     "zz-assets/Pasted image 20230423140623.png",
-    "06-PKM/04.Obs-Quick Add and Capture/assets",
-    "06-PKM/01.Obs-Why/Captured",
-    "01-Inbox/Daily/2023-04",
     "zz-assets/Pasted image 20230216200514.png",
     "03-Projects/Projects Overview.canvas",
     "zz-assets/Pasted Image 20221213164430_004.png",
