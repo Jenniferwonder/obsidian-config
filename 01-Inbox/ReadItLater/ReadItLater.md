@@ -2,7 +2,8 @@
 cssclass: kanban gridlist noyaml
 tag: moc
 obsidianUIMode: preview
---- `button-homewp`  `button-browsevault`  `button-browsenext` `button-browserefresh` 
+--- 
+`button-homewp`  `button-browsevault`  `button-browsenext` `button-browserefresh` 
 %% Begin Waypoint %%
 - **[[ReadItLater]]**
 	- **PDF**
@@ -19,6 +20,8 @@ obsidianUIMode: preview
 		- [[No Stupid Questions-127. How Can You Be a Better Communicator]]
 	- **ReadNote**
 		- **公众号**
+			- [[GitHubDaily]]
+			- [[前端大全]]
 			- [[维客笔记]]
 	- **Video**
 		- [[Youtube - Zotero Obsidian Integration]]

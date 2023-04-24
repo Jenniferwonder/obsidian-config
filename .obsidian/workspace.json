@@ -4,19 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "78c75f6c153f3c83",
+        "id": "244ddce023de1ace",
         "type": "tabs",
         "children": [
           {
-            "id": "0d08eb8ad6538365",
+            "id": "6bc8e57e4d625a3e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06-PKM/03.Obs-Theme and Style/Obs-Blue Topaz Simplified.md",
+                "file": "00-GeekEnglish/01-System Design/Architecture and System Design - GeekEnglish.md",
                 "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "def83e2ab904946a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-GeekEnglish/01-Workflow/GE-Requirement Fulfilling Schedule.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -67,14 +80,6 @@
             }
           },
           {
-            "id": "15423e874e3791b1",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
-          },
-          {
             "id": "93d926517ea78aa6",
             "type": "leaf",
             "state": {
@@ -99,11 +104,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 272.5
+    "width": 343.5
   },
   "right": {
     "id": "617127011ede853a",
@@ -112,7 +117,7 @@
       {
         "id": "48e4df7056d011b2",
         "type": "tabs",
-        "dimension": 49.890350877192986,
+        "dimension": 46.16228070175439,
         "children": [
           {
             "id": "3ff613d8b4842cb2",
@@ -120,7 +125,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "06-PKM/03.Obs-Theme and Style/Obs-Blue Topaz Simplified.md",
+                "file": "00-GeekEnglish/01-System Design/Architecture and System Design - GeekEnglish.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06-PKM/03.Obs-Theme and Style/Obs-Blue Topaz Simplified.md",
+                "file": "00-GeekEnglish/01-System Design/Architecture and System Design - GeekEnglish.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,18 +177,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06-PKM/03.Obs-Theme and Style/Obs-Blue Topaz Simplified.md",
+                "file": "00-GeekEnglish/01-System Design/Architecture and System Design - GeekEnglish.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
-            }
-          },
-          {
-            "id": "42be39768b8f7325",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
             }
           },
           {
@@ -192,7 +189,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06-PKM/03.Obs-Theme and Style/Obs-Blue Topaz Simplified.md"
+                "file": "00-GeekEnglish/01-System Design/Architecture and System Design - GeekEnglish.md"
               }
             }
           },
@@ -247,19 +244,18 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
-        "id": "056706450ab3bf84",
+        "id": "339b9ceb076831bd",
         "type": "tabs",
-        "dimension": 50.10964912280702,
+        "dimension": 53.83771929824561,
         "children": [
           {
-            "id": "211d214ae49428f0",
+            "id": "42be39768b8f7325",
             "type": "leaf",
             "state": {
-              "type": "timeline",
+              "type": "memos_view",
               "state": {}
             }
           }
@@ -267,7 +263,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 311.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -294,9 +291,7 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "dbfolder:Create a new database table": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false,
       "obsidian-full-calendar:Open Full Calendar": false,
-      "remotely-save:Remotely Save": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false,
       "obsidian-projects:Open projects": false,
@@ -304,56 +299,56 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "42be39768b8f7325",
+  "active": "6bc8e57e4d625a3e",
   "lastOpenFiles": [
-    "06-PKM/03.Obs-Theme and Style/Obs-Image Import and Resize.md",
-    "02-Interview/Job, Work, Career.md",
-    "02-Interview/Front-End Interviews.md",
-    "01-Inbox/Daily/2023-04-24.md",
-    "01-Inbox/Daily/2023-04-23.md",
-    "01-Inbox/ReadItLater/ReadItLater.md",
-    "Templates/Daily Plan.md",
-    "Templates/tp/tp-默认笔记模板.md",
-    "Templates/tp/tp-通用模板.md",
-    "06-PKM/03.Obs-Theme and Style/Obs-怎样快速分栏展示.md",
-    "Templates/tp/tp-笔记收集箱.md",
-    "Templates/tp/tp-自动选择模板.md",
-    "Templates/tp/tp-笔记分类模板.md",
-    "Templates/tp/tp-流水账模板.md",
-    "Templates/tp/tp-日记模板-日历.md",
-    "Templates/tp/tp-人物模板.md",
-    "Templates/tp/tp-日记模板-心情.md",
-    "Templates/tp/tp-日记模板-心情2.md",
-    "03-Projects/Admin Panel/Admin Panel.md",
-    "06-PKM/03.Obs-Theme and Style/03.Obs-Theme and Style.md",
-    "05-Front-End Tech Stack/00-Inbox",
-    "04-Tech-Fundamentals/00-Inbox",
-    "03-Projects/00-Inbox",
-    "01-Inbox/ReadItLater/PDF/PDF Annotator.md",
-    "01-Inbox/ReadItLater/PDF/edX Computer Science Fundamentals Syllabus.pdf",
-    "01-Inbox/ReadItLater/PDF/git-cheat-sheet-education-annotate.md",
-    "01-Inbox/ReadItLater/PDF/edX Computer Science Fundamentals Syllabus-annotate.md",
-    "01-Inbox/ReadItLater/PDF/20230418-Mindmap Script.pdf",
-    "01-Inbox/ReadItLater/PDF/edX Computer Science Fundamentals Syllabus.annos",
-    "01-Inbox/ReadItLater/PDF/git-cheat-sheet-education.annos",
-    "Templates/button.md",
-    "01-Inbox/ReadItLater/Video",
-    "06-PKM/Releases · PKM-erBlue-topaz-example.md",
-    "01-Inbox/ReadItLater/Note 2023-04-20 11-31-54.md",
-    "50-Inbox/Study",
-    "50-Inbox",
+    "00-GeekEnglish/02-Setup/GE-Resources Prep.md",
+    "00-GeekEnglish/01-System Design/Architecture and System Design - GeekEnglish.md",
+    "00-GeekEnglish/01-Workflow/GE-Requirement Fulfilling Schedule.md",
+    "00-GeekEnglish/01-Workflow/GE-Coding Convention(Style Guide).md",
+    "00-GeekEnglish/01-Workflow",
+    "GE-单个功能的实现逻辑.md",
+    "00-GeekEnglish/01-System Design/GE-技术架构图.md",
+    "00-GeekEnglish/zz-Related/04-Blog/Markdown in DB Solutions.md",
+    "00-GeekEnglish/01-System Design/GE-库表设计.md",
+    "00-GeekEnglish/01-System Design",
+    "00-GeekEnglish/00-Logs/GeekEnglish 组件分解.md",
+    "00-GeekEnglish/01-Functions&Features/GE-功能模块图.md",
+    "00-GeekEnglish/zz-Related/04-Blog/GE-阅读页功能.md",
+    "00-GeekEnglish/01-System Design",
+    "00-GeekEnglish/01-Layout/GE-界面设计.md",
+    "00-GeekEnglish/01-Plan and Research/GE-用户需求与盈利模式.md",
+    "00-GeekEnglish/01-Functions&Features/GE-浏览数据呈现.md",
+    "00-GeekEnglish/01-System Design/GE-核心功能模块.md",
+    "00-GeekEnglish/01-Functions&Features/GE-双语支持.md",
+    "00-GeekEnglish/01-Functions&Features/GE-内容安全与防盗措施.md",
+    "00-GeekEnglish/01-Functions&Features/GE-内容付费渠道.md",
+    "00-GeekEnglish/01-Functions&Features/GE-付费专属内容与服务.md",
+    "00-GeekEnglish/01-Functions&Features/GE-Quiz.md",
+    "00-GeekEnglish/01-Layout/GE-主页布局与功能参考.md",
+    "00-GeekEnglish/01-Plan and Research/Project Plan and Research-GeekEnglish.md",
+    "00-GeekEnglish/01-Layout",
+    "00-GeekEnglish/01-Functions&Features",
+    "00-GeekEnglish/01-Plan and Research/GE-Competitive Analysis.md",
+    "00-GeekEnglish/02-Competitive Analysis",
+    "00-GeekEnglish/zz-Related/04-Blog/博客社区-Reference.md",
+    "00-GeekEnglish/zz-Related/03-Portfolio/Portfolio-Reference.md",
+    "00-GeekEnglish/zz-Related/04-Blog/GE-知识库书宣传文档.md",
+    "00-GeekEnglish/zz-Related/zz-Content",
+    "00-GeekEnglish/03-DemoTest",
+    "00-GeekEnglish/zz-Related",
+    "00-GeekEnglish/00-Logs",
+    "00-GeekEnglish/Projects Overview.canvas",
+    "zz-assets/zz-assets/Pasted image 20221208182251.png",
+    "zz-assets/zz-assets/Pasted image 20230315181041.png",
+    "node_modules/commitizen/logo/commitizen-logo-mono.svg",
+    "node_modules/commitizen/logo/commitizen-logo-color.svg",
     "06-PKM/04.Obs-Quick Add and Capture/How Memo Works.canvas",
     "zz-assets/Pasted image 20230423140623.png",
     "zz-assets/Pasted image 20230216200514.png",
-    "03-Projects/Projects Overview.canvas",
     "zz-assets/Pasted Image 20221213164430_004.png",
     "zz-assets/Record_2022_12_14_18_44_21_740.gif",
     "zz-assets/Pasted image 20221124194000.png",
     "zz-assets/Snipaste_2022-11-25_10-54-52.png",
-    "zz-assets/Pasted image 20221125103435.png",
-    "zz-assets/Pasted image 20230307214310.png",
-    "zz-assets/Pasted image 20230310112422.png",
-    "zz-assets/Pasted image 20221206150239.png",
     "06-PKM/iPad/Note in iPhone.canvas",
     "06-PKM/iPad/Canvas in iPad.canvas",
     "06-PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/Canvas Demo.canvas",

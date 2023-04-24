@@ -1,10 +1,11 @@
 ---
 title: Daily Plan
+uid: <% tp.date.now("YYYYMMDDHHmmss") %> 
 tags: Study-Log/
-started: 
+started: 2023-04-16 Sun
 due: 2023-04
-modified: 
-status: Doing
+modified: 2023-04-24 Mon
+status: 
 ---
 # Daily Plan
 ## Logs
@@ -18,7 +19,7 @@ status: Doing
 
 ```dataview
 TABLE title, started, status
-WHERE contains(started, <% tp.date.now("YYYY-MM-DD") %>)
+WHERE contains(started, "2023-04-25")
 SORT file.mday DESC
 ```
 
@@ -26,7 +27,7 @@ SORT file.mday DESC
 
 ```dataview
 TABLE title, started, status
-WHERE started != file.cday AND contains(modified, <% tp.date.now("YYYY-MM-DD") %>)
+WHERE file.cday != date(2023-04-25) AND contains(modified,"2023-04-25")
 SORT modified ASC
 ```
 

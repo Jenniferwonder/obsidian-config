@@ -13,11 +13,11 @@
       "name": "status",
       "options": {
         "valuesList": {
-          "1": "⚪Capture",
+          "1": "⚪Capturing",
           "2": "🟡Organizing",
           "3": "🟠Distilling",
           "4": "🟢Published",
-          "5": "🔵Reusing"
+          "5": "🔵Archived"
         },
         "sourceType": "ValuesList",
         "valuesListNotePath": "",

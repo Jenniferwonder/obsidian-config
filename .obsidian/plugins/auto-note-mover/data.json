@@ -4,63 +4,73 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
-      "folder": "PKM Tools/PKM-Obsidian Setup",
-      "tag": "#PKM/Setup",
+      "folder": "00-GeekEnglish",
+      "tag": "#Projects/GeekEnglish",
       "pattern": ""
     },
     {
-      "folder": "PKM/PKM-Capture",
-      "tag": "#PKM/Capture",
+      "folder": "00-GeekEnglish/01-Plan and Research",
+      "tag": "#GeekEnglish/Plans",
       "pattern": ""
     },
     {
-      "folder": "PKM/PKM-Organize",
-      "tag": "#PKM/Organize",
+      "folder": "00-GeekEnglish/00-Logs",
+      "tag": "#GeekEnglish/Logs",
       "pattern": ""
     },
     {
-      "folder": "PKM/PKM-Distill",
-      "tag": "#PKM/Distill",
+      "folder": "00-GeekEnglish/03-DemoTest",
+      "tag": "#GeekEnglish/Demo",
       "pattern": ""
     },
     {
-      "folder": "PKM/PKM-Edit",
-      "tag": "#PKM/Edit",
+      "folder": "00-GeekEnglish/zz-Related",
+      "tag": "#GeekEnglish/Related",
       "pattern": ""
     },
     {
-      "folder": "PKM/PKM-Present",
-      "tag": "#PKM/Present",
+      "folder": "06-PKM",
+      "tag": "#PKM",
       "pattern": ""
     },
     {
-      "folder": "PKM/PKM-Share",
-      "tag": "#PKM/Share",
+      "folder": "04-Tech-Fundamentals",
+      "tag": "#Tech-Fundamentals",
       "pattern": ""
     },
     {
-      "folder": "PKM/PKM-Coordinate",
-      "tag": "#PKM/Coordinate",
+      "folder": "05-Front-End Tech Stack",
+      "tag": "#Front-End",
       "pattern": ""
     },
     {
-      "folder": "PKM/PKM-Obsidian Setup/iPad",
-      "tag": "#iPad",
+      "folder": "00-GeekEnglish/zz-Related/02-Admin Panel",
+      "tag": "#GeekEnglish/Related/Admin",
       "pattern": ""
     },
     {
-      "folder": "PKM/PKM-Obsidian Setup/Windows",
-      "tag": "#Windows",
+      "folder": "00-GeekEnglish/zz-Related/03-Portfolio",
+      "tag": "#GeekEnglish/Related/Portfolio",
       "pattern": ""
     },
     {
-      "folder": "PKM/PKM-Obsidian Setup/iPhone",
-      "tag": "#iPhone",
+      "folder": "00-GeekEnglish/zz-Related/04-Blog",
+      "tag": "#GeekEnglish/Related/Blog",
       "pattern": ""
     },
     {
-      "folder": "PKM/PKM-Efficiency",
-      "tag": "#PKM/Efficiency",
+      "folder": "00-GeekEnglish/zz-Related/06-App",
+      "tag": "#GeekEnglish/Related/App",
+      "pattern": ""
+    },
+    {
+      "folder": "00-GeekEnglish/zz-Related/05-Miniprogram",
+      "tag": "#GeekEnglish/Related/Miniprogram",
+      "pattern": ""
+    },
+    {
+      "folder": "00-GeekEnglish/zz-Related/zz-Content",
+      "tag": "#GeekEnglish/Related/Content",
       "pattern": ""
     }
   ],

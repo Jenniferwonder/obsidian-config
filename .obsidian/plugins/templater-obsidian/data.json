@@ -15,12 +15,12 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "01-Inbox/ReadItLater",
+      "folder": "/",
       "template": "Templates/tp/tp-笔记收集箱.md"
     },
     {
-      "folder": "/",
-      "template": "Templates/tp/tp-自动选择模板.md"
+      "folder": "00-GeekEnglish",
+      "template": "Templates/tp/tp-通用模板.md"
     }
   ],
   "syntax_highlighting": true,

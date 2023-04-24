@@ -15,11 +15,11 @@
       },
       "format": {
         "enabled": true,
-        "format": "- {{DATE:HH:mm}} {{VALUE}}"
+        "format": "- {{DATE:HH:mm}} {{VALUE}}\\n"
       },
       "insertAfter": {
         "enabled": true,
-        "after": "## Log",
+        "after": "## Logs",
         "insertAtEnd": true,
         "createIfNotFound": true,
         "createIfNotFoundLocation": "bottom"

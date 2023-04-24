@@ -532,5 +532,66 @@
     }
   ],
   "obsidian-memos:focus-on-memos-editor": [],
-  "obsidian-memos:show-memos-in-popover": []
+  "obsidian-memos:show-memos-in-popover": [],
+  "quickadd:choice:5d2515d2-f998-4e91-b81d-4e09ad5537d9": [],
+  "quickadd:choice:b49b9d51-881b-4f59-901d-d3e79f18558e": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
+  "various-complements:reload-custom-dictionaries": [],
+  "workspaces-plus:Front-End": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "F"
+    }
+  ],
+  "workspaces-plus:PKM": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "P"
+    }
+  ],
+  "workspaces-plus:Projects": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ],
+  "workspaces-plus:Tech-Fundamentals": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "note-refactor-obsidian:app:extract-selection-first-line": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ],
+  "note-refactor-obsidian:app:extract-selection-content-only": [],
+  "note-refactor-obsidian:app:split-note-first-line": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "S"
+    }
+  ]
 }

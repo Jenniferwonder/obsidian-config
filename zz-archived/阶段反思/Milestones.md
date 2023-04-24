@@ -20,7 +20,7 @@ status:
 		- Portfolio 
 	- Writing and Video
 - [[2023-03]]
-	- [[Project Plan and Research - GeekEnglish]]
+	- [[Project Plan and Research-GeekEnglish]]
 	- [[Architecture and System Design - GeekEnglish]]
 - [[2023-04]]
 - 05 

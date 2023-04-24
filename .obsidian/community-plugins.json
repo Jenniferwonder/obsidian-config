@@ -15,7 +15,6 @@
   "number-headings-obsidian",
   "obsidian-pandoc",
   "obsidian-git",
-  "obsidian-day-planner",
   "obsidian-outliner",
   "darlal-switcher-plus",
   "obsidian-checklist-plugin",
@@ -72,13 +71,12 @@
   "obsidian-plugin-groups",
   "obsidian-memos",
   "quickadd",
-  "obsidian-reveal-active-file",
-  "file-tree-alternative",
   "remember-cursor-position",
   "obsidian-full-calendar",
-  "remotely-save",
   "canvas-css-class",
   "canvas-block-reference",
   "link-nodes-in-canvas",
-  "optimize-canvas-connections"
+  "optimize-canvas-connections",
+  "obsidian-day-planner",
+  "auto-note-mover"
 ]

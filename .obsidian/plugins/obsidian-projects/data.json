@@ -2,94 +2,14 @@
   "version": 2,
   "projects": [
     {
-      "fieldConfig": {},
-      "defaultName": "",
-      "templates": [],
-      "excludedNotes": [],
-      "isDefault": false,
-      "dataSource": {
-        "kind": "folder",
-        "config": {
-          "path": "Front-End Blogs",
-          "recursive": true
-        }
-      },
-      "newNotesFolder": "",
-      "views": [
-        {
-          "config": {
-            "fieldConfig": {
-              "path": {
-                "hide": true
-              },
-              "excalidraw-plugin": {
-                "hide": true
-              },
-              "number headings": {
-                "hide": true
-              },
-              "started": {
-                "hide": false
-              },
-              "due": {
-                "hide": true
-              },
-              "aliases": {
-                "hide": true
-              },
-              "title": {
-                "hide": true
-              }
-            },
-            "orderFields": [
-              "name",
-              "started",
-              "modified",
-              "due",
-              "status",
-              "tags",
-              "title"
-            ]
-          },
-          "filter": {
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "id": "e455f3da-0014-423d-86ce-91317ec3187e",
-          "name": "Table",
-          "type": "table"
-        },
-        {
-          "config": {
-            "groupByField": "status",
-            "includeFields": [
-              "status"
-            ]
-          },
-          "filter": {
-            "conditions": []
-          },
-          "colors": {
-            "conditions": []
-          },
-          "id": "e09e9080-059d-490b-bc2a-b209f3e61a35",
-          "name": "Board",
-          "type": "board"
-        }
-      ],
-      "id": "e8417cc0-53a2-414b-a5e8-c9e7b63c0a4f",
-      "name": "Front-End Blogs"
-    },
-    {
       "fieldConfig": {
         "status": {
           "options": [
-            "⚪Capture",
-            "🟡Organizing",
-            "🟠Distilling",
-            "🟢Published"
+            "⚪Captured",
+            "🟡Organized",
+            "🟠Distilled",
+            "🟢Published",
+            "🔵Archived"
           ]
         }
       },
@@ -100,7 +20,7 @@
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "PKM",
+          "path": "06-PKM",
           "recursive": true
         }
       },
@@ -157,17 +77,26 @@
               "No status": {
                 "weight": 0
               },
-              "⚪Capture": {
+              "🔵Archived": {
                 "weight": 1
               },
-              "🟡Organizing": {
+              "🟠Distilled": {
                 "weight": 2
               },
-              "🟠Distilling": {
+              "⚪Captured": {
                 "weight": 3
               },
-              "🟢Published": {
+              "⚪Capture": {
                 "weight": 4
+              },
+              "🟡Organizing": {
+                "weight": 5
+              },
+              "🟠Distilling": {
+                "weight": 6
+              },
+              "🟢Published": {
+                "weight": 7
               }
             }
           },
@@ -186,15 +115,25 @@
       "name": "PKM"
     },
     {
-      "fieldConfig": {},
+      "fieldConfig": {
+        "status": {
+          "options": [
+            "⚪Capturing",
+            "🟡Organizing",
+            "🟠Distilling",
+            "🟢Published",
+            "🔵Archived"
+          ]
+        }
+      },
       "defaultName": "",
       "templates": [],
       "excludedNotes": [],
-      "isDefault": false,
+      "isDefault": true,
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "Front-End Projects/React-Projects",
+          "path": "00-GeekEnglish",
           "recursive": true
         }
       },
@@ -203,29 +142,32 @@
         {
           "config": {
             "fieldConfig": {
+              "cssclass": {
+                "hide": true
+              },
               "path": {
                 "hide": true
               },
-              "excalidraw-plugin": {
-                "hide": true
-              },
-              "modified": {
-                "hide": true
-              },
-              "due": {
+              "obsidianUIMode": {
                 "hide": true
               },
               "title": {
                 "hide": true
+              },
+              "name": {
+                "width": 294
               }
             },
             "orderFields": [
               "name",
-              "tags",
               "started",
+              "modified",
+              "tags",
               "status",
-              "title"
-            ]
+              "due"
+            ],
+            "sortField": "status",
+            "sortAsc": true
           },
           "filter": {
             "conditions": []
@@ -233,13 +175,44 @@
           "colors": {
             "conditions": []
           },
-          "id": "1bbcdd52-c98c-433b-b995-cdb8c1711417",
+          "id": "3e396594-f459-4920-9e85-e6621924f221",
           "name": "Table",
           "type": "table"
+        },
+        {
+          "config": {
+            "groupByField": "tags",
+            "columns": {
+              "moc": {
+                "weight": 0
+              },
+              "GeekEnglish/Logs": {
+                "weight": 1
+              },
+              "GeekEnglish/Setup": {
+                "weight": 2
+              },
+              "GeekEnglish/Plans": {
+                "weight": 3
+              },
+              "GeekEnglish/Related": {
+                "weight": 4
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "2d223f84-a6df-4d5f-89cb-306c101927c6",
+          "name": "Board",
+          "type": "board"
         }
       ],
-      "id": "c3df14e9-6fb2-4800-9022-5b5de5b907b8",
-      "name": "React Projects"
+      "id": "de90246a-c3d5-4c1d-8f65-ad2e428605f6",
+      "name": "GeekEnglish"
     }
   ],
   "preferences": {

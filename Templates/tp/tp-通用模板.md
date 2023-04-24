@@ -13,8 +13,24 @@ title: <% tp.file.title %>
 tags: 
 started: <% tp.date.now("YYYY-MM-DD") %>
 modified: <%+ tp.file.last_modified_date("YYYY-MM-DD dddd HH:mm:ss") %>
-status:
+status: <% tp.system.suggester(["⚪Capturing", "🟡Organizing", "🟠Distilling","🟢Published","🔵Archived"], ["⚪Capturing", "🟡Organizing", "🟠Distilling", "🟢Published", "🔵Archived"]) %>
+due:
 cssclass: 
 ---
+## Purpose
+
+## Problems
+
+## Solutions
+
+
+## Highlights
+
+
+## Reflections
+
+## Related Notes
+
+## Reference
 
 

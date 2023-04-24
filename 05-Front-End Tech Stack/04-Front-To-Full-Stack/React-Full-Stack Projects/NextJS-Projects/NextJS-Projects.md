@@ -13,7 +13,7 @@ status:
 #### 1. [[GeekEnglish Platform]]
 ### AI Tool 
 ### Data Visulization
-#### 1. [[GeekEnglish Admin Panel]]
+#### 1. [[GE-Admin Panel]]
 #### 2. Three.js/ D3
 #### 3. Canvas API
 #### 4. Tensorflow.js

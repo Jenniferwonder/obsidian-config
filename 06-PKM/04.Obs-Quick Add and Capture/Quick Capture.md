@@ -12,14 +12,14 @@ A default destination for something that isn't yet organized
 Filter: Only show info within 24hs 
 [[Obs-Project and Task Management (Advanced)]] (Task + Checklist)
 
-![[06-PKM/zz-assets/Pasted image 20230420111544.png]]
+![[Pasted image 20230420111544.png]]
 
 ## Task Inbox
 Temp: Tasks that haven't yet been assigned to a project
 
-![[06-PKM/zz-assets/Pasted image 20230420111903.png]]
+![[Pasted image 20230420111903.png]]
 
 ## Note Inbox
-![[06-PKM/zz-assets/Pasted image 20230420112021.png]]
+![[Pasted image 20230420112021.png]]
 
 
