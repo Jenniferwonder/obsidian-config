@@ -1,11 +1,12 @@
 ---
 title: GE-功能模块图
-tags: GeekEnglish/Functions
+tags: GeekEnglish/System
 started: 2023-04-24 Mon
-due: 
+due:
 modified: 2023-04-24 Mon
-status: 
+status:
 ---
+>[[GE-核心功能模块需求]]
 ### GE-功能模块图 
 - [[UML]] / Flow Charts/ Mindmap
 - 分为哪些功能模块，功能模块图 (类似流程图或者思维导图)

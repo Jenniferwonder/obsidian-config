@@ -2,7 +2,7 @@
 cssclass: kanban gridlist noyaml
 tag: moc
 obsidianUIMode: preview
---- `button-homewp`  `button-browsevault`  `button-browsenext` `button-browserefresh` 
+---
 %% Begin Waypoint %%
 - **[[05-Front-End Tech Stack]]**
 	- **00-Roadmap**
@@ -100,7 +100,7 @@ obsidianUIMode: preview
 	- **02-Front-End Practice**
 		- [[Authentication]]
 		- [[CI-CD]]
-		- **[[Data Request]]**
+		- **Data Request**
 			- [[Axios]]
 		- [[Deploying]]
 		- **Performance**
@@ -159,6 +159,7 @@ obsidianUIMode: preview
 		- **MiniProgram-Projects**
 		- **PWA-Projects**
 			- [[Service Worker-PWA]]
+	- [[Data Request]]
 	- **Front-End Blogs**
 		- **2302**
 			- **2302.01**

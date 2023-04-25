@@ -2,7 +2,7 @@
 cssclass: kanban gridlist noyaml
 tag: moc
 obsidianUIMode: preview
---- `button-homewp`  `button-browsevault`  `button-browsenext` `button-browserefresh` 
+---
 %% Begin Waypoint %%
 - **[[04-Tech-Fundamentals]]**
 	- **AI-Tools**
@@ -13,6 +13,7 @@ obsidianUIMode: preview
 		- [[New Bing]]
 	- **[[Algorithm and Data Structure]]**
 		- [[Algorithms and Data Structure]]
+	- [[Commitizen-couldn't find modules]]
 	- **DevOps**
 		- [[D1-Project Plan and Research]]
 		- [[D2-System Architecture]]
@@ -24,7 +25,6 @@ obsidianUIMode: preview
 		- [[企业做项目流程]]
 	- **DevTools**
 		- **GitHub**
-			- [[Commitizen-couldn't find modules]]
 			- [[Git commands]]
 			- [[GitHub README Tricks]]
 		- **[[VS Code]]**

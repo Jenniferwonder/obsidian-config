@@ -15,6 +15,7 @@ Filter: Only show info within 24hs
 ![[Pasted image 20230420111544.png]]
 
 ## Task Inbox
+
 Temp: Tasks that haven't yet been assigned to a project
 
 ![[Pasted image 20230420111903.png]]

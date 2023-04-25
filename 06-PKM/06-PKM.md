@@ -31,6 +31,7 @@ cssclass: kanban gridlist noyaml
 		- [[Obs-Quick Replace and Delete (blank line)]]
 		- [[Obs-Quick Search and Command]]
 		- [[Obs-Views (Basic)]]
+		- [[怎样实现 Obsidian 笔记 Windows 与 iPhone, iPad 同步与备份？]]
 	- **[[03.Obs-Theme and Style]]**
 		- [[Obs-Blue Topaz Simplified]]
 		- [[Obs-Image Import and Resize]]
@@ -84,5 +85,6 @@ cssclass: kanban gridlist noyaml
 		- [[PKM-iPad Setup]]
 	- [[PKM-Map.canvas]]
 	- **[[Teamwork]]**
+	- [[内容资料意外丢失，怎样恢复？⚒️]]
 
 %% End Waypoint %%

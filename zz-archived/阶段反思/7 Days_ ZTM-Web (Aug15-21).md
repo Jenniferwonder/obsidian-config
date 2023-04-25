@@ -13,23 +13,23 @@ aliases:
 - Read aloud English Books: (PDF from Google, through Kindle windows app)
    - _Seven Habits of Highly Effective People (1 page/ day)_
    - _The Power of Now (1 page/ day)_
-- [ ] Write an **English blog **to publish
-- [ ] Record an **English video** to publish
+- [x] Write an **English blog **to publish
+- [x] Record an **English video** to publish
 #### 2. Learn and apply JS to improve web performance
-- [ ] Finish ZTM JS courses, and share a **JS Note**
-- [ ] Improve performance of past web projects
+- [x] Finish ZTM JS courses, and share a **JS Note**
+- [x] Improve performance of past web projects
    - portfolio
-- [ ] Improve performance of one of the following web appication
+- [x] Improve performance of one of the following web appication
    - facebook  
    - shopping-list
    - background-generator
 #### 3. Improve Effectiveness of Resource Bank
-- [ ] Constantly update resources to improve effectiveness
+- [x] Constantly update resources to improve effectiveness
    - **Folders **in DiscE and BaiduDisc
    - **Bookmarks** in Edge and Chrome
-- [ ] Learn to write NOTEs in a more **logical, useful and efffective** way which can be shared
+- [x] Learn to write NOTEs in a more **logical, useful and efffective** way which can be shared
 #### 4. Learn about the deployment of a star project
-- [ ] Resources from BaiduDisc
+- [x] Resources from BaiduDisc
 #### 5. Exercise everyday: walking/ running/ back, neck and waist streching/ ...
 #### 6. Have a day break
 - Watch movies/ Singing/ Ukulele

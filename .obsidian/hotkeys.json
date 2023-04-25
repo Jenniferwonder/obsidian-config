@@ -200,15 +200,7 @@
       "key": "M"
     }
   ],
-  "editor:insert-wikilink": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "L"
-    }
-  ],
+  "editor:insert-wikilink": [],
   "obsidian-admonition:insert-admonition": [
     {
       "modifiers": [
@@ -445,7 +437,15 @@
       "key": "Enter"
     }
   ],
-  "obsidian-tasks-plugin:edit-task": [],
+  "obsidian-tasks-plugin:edit-task": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
   "obsidian-auto-link-title:enhance-url-with-title": [],
   "obsidian-excalidraw-plugin:insert-link-to-element": [],
   "obsidian-excalidraw-plugin:insert-link": [],

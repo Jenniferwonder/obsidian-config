@@ -20,10 +20,10 @@ aliases:
 #### SCOPE
 | #### G2- JS Master
  | 
-- [ ] Project Planing Techniques
-- [ ] Draw.io
-- [ ] Flow-chart
-- [ ] Figma
+- [x] Project Planing Techniques
+- [x] Draw.io
+- [x] Flow-chart
+- [x] Figma
 - [ ] Wireframe
 - [ ] Moodboard
 - [ ] Advanced JS

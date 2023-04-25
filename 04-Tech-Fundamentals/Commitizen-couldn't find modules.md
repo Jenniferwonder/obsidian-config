@@ -1,6 +1,6 @@
 ---
 title: "couldn't find modules"
-tags: [Tech-Fundamentals, Status/⚪Captured, 📥/📰️文章]
+tags: [Tech-Fundamentals]
 started: 2023-04-24 Mon
 modified: 2023-04-24 Mon
 due: 
@@ -8,13 +8,6 @@ uid: 20230424142352
 cssclass: 
 status: 
 ---
-
-## Metadata
-Status::    #Status/⚪Captured  
-Topic:: [[Windows]]  
-Source Type::  #📥/📰️文章  
-Author::  
-Source URL:: 
 
 [[前端大全]]
 ## Problems/Purpose

@@ -121,7 +121,7 @@
   "blue-topaz-theme@@indentation-guide-color-active@@light": "#2C20C957",
   "blue-topaz-theme@@indentation-guide-width": 1.4,
   "blue-topaz-theme@@file-bg-shape-option": "file-bg-rounded-rectangle",
-  "blue-topaz-theme@@file-name-style-option": "file-name-non-wrapped",
+  "blue-topaz-theme@@file-name-style-option": "file-name-animation",
   "blue-topaz-theme@@unmuted-collapsed-folder": false,
   "blue-topaz-theme@@remove-arrow": true,
   "blue-topaz-theme@@folder-style-change-options-colorful-subfolder": "folder-colorful-four",
@@ -224,5 +224,7 @@
   "blue-topaz-theme@@background-settings-workplace-theme-light-custom": "url(\"https://wallpapercave.com/dwp1x/wp5776683.jpg\")",
   "blue-topaz-theme@@background-image-settings-command-palette-custom": true,
   "blue-topaz-theme@@background-command-palette-theme-light-custom": "url(\"https://wallpapercave.com/dwp1x/wp5776683.jpg\")",
-  "blue-topaz-theme@@stack-tabs-text-ori-options": "default-stack-text-ori-style"
+  "blue-topaz-theme@@stack-tabs-text-ori-options": "default-stack-text-ori-style",
+  "blue-topaz-theme@@h2-toggle-short-underline": false,
+  "minimal-style@@h2-l": true
 }

@@ -1,6 +1,6 @@
 ---
 title: Codecademy_ Front or Back (Aug 22)
-tags: Study-Log
+tags: Daily
 status: Done
 started: 2022-08-22
 due:

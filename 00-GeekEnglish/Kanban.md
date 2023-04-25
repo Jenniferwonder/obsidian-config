@@ -1,13 +1,13 @@
 ---
 
 kanban-plugin: basic
+tags: Kanban
 
 ---
 
 ## TODO
 
 - [ ] Master React Core Concepts by Building Simplest Demos
-- [ ] [[GeekEnglish 组件分解]]
 
 
 

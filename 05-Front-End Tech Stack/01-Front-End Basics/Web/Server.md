@@ -26,10 +26,14 @@ Bandwidth; Storage; CPU; Hard Drive
 - [探索 Serverless 中的前端开发模式](https://juejin.cn/post/6844903844745330695 "https://juejin.cn/post/6844903844745330695")
 - [「NGW」前端新技术赛场：Serverless SSR 技术内幕](https://juejin.cn/post/6844903998009393160?utm_source=gold_browser_extension "https://juejin.cn/post/6844903998009393160?utm_source=gold_browser_extension")
 - Firebase
-- Vercel
+- Vercel/Netlify/ Github
 #### 5. Sentry
 #### 6. Heroku
 #### 7. Apollo
 #### 8. AWS
 #### 9. Azure
 #### 10. Cloudinary
+#### 8. Infrastructure as Code (IaC)
+- Terraform
+- CloudFormation
+- Pulumi

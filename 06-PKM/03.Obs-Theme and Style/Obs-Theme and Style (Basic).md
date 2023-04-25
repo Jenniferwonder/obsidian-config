@@ -31,7 +31,12 @@ status: 🟠Distilling
 #### 4. CodeBlock Enhancer
 - 调整代码块样式，显示代码**行数**
 #### 5. Folder Icon
-- 为文件夹添加Icon
+- 为文件夹添加 Icon
+#### 6. List Callout
+色块列表突出问题
+#### 7. Multi-Column Markdown/ Blue-topaz Admonition
+- 分栏链接相关笔记
+- 但 Admonition 中链接的笔记不会显示在当前笔记关联笔记中
 ## 如何自定义样式（字号、标题、行间距）？
 - `snippets` 文件夹中创建`.css` 文件并启用
 ## 如何调整图片样式、尺寸？🟩

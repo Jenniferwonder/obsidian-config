@@ -15,3 +15,9 @@ status:
 	- How to use mock data to create UI displaying data? 
 - Data Sources and Format
 	- How to connect local [[JSON]] data with UI?
+- [[Next.js]] > `next/router` / `next/link`
+	- Connect with [[Sanity]]
+	- Connect with [[MongoDB]]
+	- Connect to a Backend using [[MongoDB]]?
+	- Connect to a Backend using MySQL?
+- React Router?

@@ -1,10 +1,10 @@
 ---
 title: GE-Competitive Analysis
-tags: GeekEnglish/Competitive-Analysis
+tags: GeekEnglish/Plans
 started: 2023-04-24 Mon
-due: 
+due:
 modified: 2023-04-24 Mon
-status: 
+status:
 ---
 ## GE-Competitive Analysis
 1. 竞品分析很重要 (至少 3 个竞品)

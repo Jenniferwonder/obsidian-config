@@ -1,7 +1,7 @@
 ---
 title: Daily Plan
 uid: <% tp.date.now("YYYYMMDDHHmmss") %> 
-tags: Study-Log/
+tags: Daily
 started: 2023-04-16 Sun
 due: 2023-04
 modified: 2023-04-24 Mon

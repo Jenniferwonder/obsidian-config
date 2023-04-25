@@ -6,9 +6,20 @@ due:
 modified: 2023-04-24 Mon
 status: 
 ---
+### Database
+- [[Database]]
+- [[MongoDB]]
+- [[Mongoose]]
+### Data Format
+- Picture/ Music/ Video
+- Markdown > HTML
+	- [[Markdown in DB Solutions]]
+- User
+- Author
+- Post
+- Quiz
+- Tags
 ## GE-库表设计 (关键)
-[[Markdown in DB Solutions]]
-
 1. 对着 **需求信息表** ([[Requirement Table]])
 2. 划分哪些库 - 每个项目一个库
 3. 划分哪些表 - 每个大的功能一个表

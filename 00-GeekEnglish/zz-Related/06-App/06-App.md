@@ -1,27 +1,11 @@
 ---
-UID: 20230424211650 
-title: 06-App 
-tags: GeekEnglish/Related/App
-started: 2023-04-24
-modified: NaN
-status: ⚪Capturing
-due:
-cssclass: 
----
-## Purpose
+cssclass: kanban gridlist noyaml
+tag: ""
+obsidianUIMode: preview
+tags: moc
+--- `button-homewp`  `button-browsevault`  `button-browsenext` `button-browserefresh` 
+%% Begin Waypoint %%
+- **[[06-App]]**
+	- [[GeekEnglish App]]
 
-## Problems
-
-## Solutions
-
-
-## Highlights
-
-
-## Reflections
-
-## Related Notes
-
-## Reference
-
-
+%% End Waypoint %%

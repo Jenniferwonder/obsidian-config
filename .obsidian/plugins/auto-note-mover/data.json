@@ -72,6 +72,11 @@
       "folder": "00-GeekEnglish/zz-Related/zz-Content",
       "tag": "#GeekEnglish/Related/Content",
       "pattern": ""
+    },
+    {
+      "folder": "01-Inbox/Review",
+      "tag": "#Review",
+      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,

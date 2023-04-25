@@ -8,12 +8,15 @@ status:
 ---
 ## Repo
 [GitHub - Jenniferwonder/mongodb-e-commerce: An e-commerce website using MongoDB, Next.js and TailwindCSS](https://github.com/Jenniferwonder/mongodb-e-commerce)
+## MongoDB Account
+- Username: Jenniferwonder
+- MM: mCyj7qiT9ntjxl0h
 ## Reference
 [MongoDB Course Catalog Homepage | MongoDB University](https://learn.mongodb.com/catalog?labels=%5B%22Language%22%5D&values=%5B%22Node.js%22%5D)  
 [MongoDB: The Developer Data Platform | MongoDB](https://www.mongodb.com/)  
 [GitHub - mongodb-developer/jumpstart-series](https://github.com/mongodb-developer/jumpstart-series)
-
 ## What & Why MongoDB?
+Why? > [Comparing The Differences - MongoDB Vs MySQL | MongoDB](https://www.mongodb.com/compare/mongodb-mysql) 
 #### 1. Challenges and Concerns
 - ![[zz-assets/Pasted image 20230320070956.png]]
 ##### 1.1. Data Model

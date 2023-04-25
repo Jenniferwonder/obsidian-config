@@ -183,20 +183,79 @@
           "config": {
             "groupByField": "tags",
             "columns": {
-              "moc": {
+              "GeekEnglish/Plans": {
                 "weight": 0
               },
-              "GeekEnglish/Logs": {
+              "GeekEnglish/Functions": {
                 "weight": 1
               },
-              "GeekEnglish/Setup": {
+              "GeekEnglish/System": {
                 "weight": 2
               },
-              "GeekEnglish/Plans": {
+              "GeekEnglish/Workflow": {
                 "weight": 3
               },
-              "GeekEnglish/Related": {
+              "GeekEnglish/Setup": {
                 "weight": 4
+              }
+            }
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "tags",
+                "operator": "not-contains",
+                "enabled": true,
+                "value": "GeekEnglish/Related"
+              },
+              {
+                "field": "tags",
+                "operator": "is-not",
+                "enabled": true,
+                "value": "moc"
+              },
+              {
+                "field": "tags",
+                "operator": "is-not",
+                "enabled": true,
+                "value": "GeekEnglish/Logs"
+              },
+              {
+                "field": "tags",
+                "operator": "is-not",
+                "enabled": true,
+                "value": "Kanban"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "2d223f84-a6df-4d5f-89cb-306c101927c6",
+          "name": "Board",
+          "type": "board"
+        },
+        {
+          "config": {
+            "groupByField": "status",
+            "columns": {
+              "No status": {
+                "weight": 0
+              },
+              "⚪Capturing": {
+                "weight": 1
+              },
+              "🟡Organizing": {
+                "weight": 2
+              },
+              "🔵Archived": {
+                "weight": 3
+              },
+              "🟠Distilling": {
+                "weight": 4
+              },
+              "🟢Published": {
+                "weight": 5
               }
             }
           },
@@ -206,13 +265,44 @@
           "colors": {
             "conditions": []
           },
-          "id": "2d223f84-a6df-4d5f-89cb-306c101927c6",
-          "name": "Board",
+          "id": "e48c4fcd-530e-49f1-b75c-36a446fdb72f",
+          "name": "Kanban",
           "type": "board"
         }
       ],
       "id": "de90246a-c3d5-4c1d-8f65-ad2e428605f6",
       "name": "GeekEnglish"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "01-Inbox/Daily",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "2ab95d4b-113d-4e9a-b062-362b0d0dcbc5",
+          "name": "Table",
+          "type": "table"
+        }
+      ],
+      "id": "76458d37-433b-4c37-8f81-0f1c6ca9ef96",
+      "name": "Daily"
     }
   ],
   "preferences": {

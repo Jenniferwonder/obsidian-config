@@ -29,7 +29,7 @@
     "snippets-test",
     "plugin-styles-test",
     "obsidian-styles-test",
-    "config"
+    "config-minimal"
   ],
   "textFontFamily": "Microsoft YaHei",
   "baseFontSize": 15,

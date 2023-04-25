@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "244ddce023de1ace",
+        "id": "bfe0cc1dc1164b32",
         "type": "tabs",
         "children": [
           {
-            "id": "6bc8e57e4d625a3e",
+            "id": "8597b17b59bb5e0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-GeekEnglish/01-System Design/Architecture and System Design - GeekEnglish.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "def83e2ab904946a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-GeekEnglish/01-Workflow/GE-Requirement Fulfilling Schedule.md",
+                "file": "01-Inbox/How-to/怎样追踪管理落实个人项目.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -45,6 +32,7 @@
       {
         "id": "8201dfdfd238859b",
         "type": "tabs",
+        "dimension": 66.15553121577219,
         "children": [
           {
             "id": "ffc2db0d12688bb7",
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Scren-Recording",
+                "query": "tag:#Status/⚪Captured",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -88,14 +76,6 @@
             }
           },
           {
-            "id": "f1b6fbbbfa6f670d",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          },
-          {
             "id": "18ce8af7c95c8033",
             "type": "leaf",
             "state": {
@@ -105,10 +85,25 @@
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "77bd1ba2d94e4b50",
+        "type": "tabs",
+        "dimension": 33.84446878422782,
+        "children": [
+          {
+            "id": "f1b6fbbbfa6f670d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 343.5
+    "width": 239.5
   },
   "right": {
     "id": "617127011ede853a",
@@ -117,7 +112,6 @@
       {
         "id": "48e4df7056d011b2",
         "type": "tabs",
-        "dimension": 46.16228070175439,
         "children": [
           {
             "id": "3ff613d8b4842cb2",
@@ -125,7 +119,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00-GeekEnglish/01-System Design/Architecture and System Design - GeekEnglish.md",
+                "file": "01-Inbox/How-to/怎样追踪管理落实个人项目.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -160,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-GeekEnglish/01-System Design/Architecture and System Design - GeekEnglish.md",
+                "file": "01-Inbox/How-to/怎样追踪管理落实个人项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-GeekEnglish/01-System Design/Architecture and System Design - GeekEnglish.md",
+                "file": "01-Inbox/How-to/怎样追踪管理落实个人项目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-GeekEnglish/01-System Design/Architecture and System Design - GeekEnglish.md"
+                "file": "01-Inbox/How-to/怎样追踪管理落实个人项目.md"
               }
             }
           },
@@ -221,18 +215,18 @@
             }
           },
           {
-            "id": "fe2355858dd23345",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
-          },
-          {
             "id": "2eb11c8c3dd8c1c4",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe2355858dd23345",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
               "state": {}
             }
           },
@@ -244,27 +238,12 @@
               "state": {}
             }
           }
-        ]
-      },
-      {
-        "id": "339b9ceb076831bd",
-        "type": "tabs",
-        "dimension": 53.83771929824561,
-        "children": [
-          {
-            "id": "42be39768b8f7325",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 296.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,6 +271,7 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "dbfolder:Create a new database table": false,
       "obsidian-full-calendar:Open Full Calendar": false,
+      "remotely-save:Remotely Save": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false,
       "obsidian-projects:Open projects": false,
@@ -299,56 +279,56 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "6bc8e57e4d625a3e",
+  "active": "8597b17b59bb5e0a",
   "lastOpenFiles": [
-    "00-GeekEnglish/02-Setup/GE-Resources Prep.md",
-    "00-GeekEnglish/01-System Design/Architecture and System Design - GeekEnglish.md",
-    "00-GeekEnglish/01-Workflow/GE-Requirement Fulfilling Schedule.md",
-    "00-GeekEnglish/01-Workflow/GE-Coding Convention(Style Guide).md",
-    "00-GeekEnglish/01-Workflow",
-    "GE-单个功能的实现逻辑.md",
-    "00-GeekEnglish/01-System Design/GE-技术架构图.md",
-    "00-GeekEnglish/zz-Related/04-Blog/Markdown in DB Solutions.md",
-    "00-GeekEnglish/01-System Design/GE-库表设计.md",
-    "00-GeekEnglish/01-System Design",
-    "00-GeekEnglish/00-Logs/GeekEnglish 组件分解.md",
-    "00-GeekEnglish/01-Functions&Features/GE-功能模块图.md",
-    "00-GeekEnglish/zz-Related/04-Blog/GE-阅读页功能.md",
-    "00-GeekEnglish/01-System Design",
-    "00-GeekEnglish/01-Layout/GE-界面设计.md",
-    "00-GeekEnglish/01-Plan and Research/GE-用户需求与盈利模式.md",
-    "00-GeekEnglish/01-Functions&Features/GE-浏览数据呈现.md",
-    "00-GeekEnglish/01-System Design/GE-核心功能模块.md",
-    "00-GeekEnglish/01-Functions&Features/GE-双语支持.md",
-    "00-GeekEnglish/01-Functions&Features/GE-内容安全与防盗措施.md",
-    "00-GeekEnglish/01-Functions&Features/GE-内容付费渠道.md",
-    "00-GeekEnglish/01-Functions&Features/GE-付费专属内容与服务.md",
-    "00-GeekEnglish/01-Functions&Features/GE-Quiz.md",
-    "00-GeekEnglish/01-Layout/GE-主页布局与功能参考.md",
-    "00-GeekEnglish/01-Plan and Research/Project Plan and Research-GeekEnglish.md",
-    "00-GeekEnglish/01-Layout",
-    "00-GeekEnglish/01-Functions&Features",
-    "00-GeekEnglish/01-Plan and Research/GE-Competitive Analysis.md",
-    "00-GeekEnglish/02-Competitive Analysis",
-    "00-GeekEnglish/zz-Related/04-Blog/博客社区-Reference.md",
-    "00-GeekEnglish/zz-Related/03-Portfolio/Portfolio-Reference.md",
-    "00-GeekEnglish/zz-Related/04-Blog/GE-知识库书宣传文档.md",
-    "00-GeekEnglish/zz-Related/zz-Content",
-    "00-GeekEnglish/03-DemoTest",
-    "00-GeekEnglish/zz-Related",
-    "00-GeekEnglish/00-Logs",
+    "01-Inbox/Daily/2023-04-25.md",
+    "06-PKM/06-PKM.md",
+    "05-Front-End Tech Stack/05-Front-End Tech Stack.md",
+    "04-Tech-Fundamentals/04-Tech-Fundamentals.md",
+    "01-Inbox/Daily/2023-04-26.md",
+    "2023-04-25 Test.md",
+    "Templates/Calendar.md",
+    "Templates/我的书架.md",
+    "Templates/每日计划安排.md",
+    "Templates/计划日历.md",
+    "01-Inbox/🗃️Inbox.md",
+    "Templates/计划追踪.md",
+    "01-Inbox/Daily/2023-04-20.md",
+    "01-Inbox/Daily/2023-04-19.md",
+    "01-Inbox/Daily/2023-04-15.md",
+    "01-Inbox/Daily/2023-04-14.md",
+    "01-Inbox/Daily/2023-04-13.md",
+    "01-Inbox/ReadItLater/ReadItLater.md",
+    "01-Inbox/🗃️Inbox.md.md",
+    "01-Inbox/Daily/2023-04-18.md",
+    "Templates/Taskido/view.js",
+    "Templates/Taskido/view.css",
+    "Templates/Taskido",
+    "01-Inbox/Checklist",
+    "Templates/工作记录.md",
+    "Templates/Update.md",
+    "Templates/script/tasksCalendar/README.md",
+    "02-Interview/Interview Checklists.md",
+    "01-Inbox/Daily/Untitled database.md",
+    "06-PKM/02.Obs-Setup/Obs-Backup and Sync.md",
+    "01-Inbox/Review",
     "00-GeekEnglish/Projects Overview.canvas",
-    "zz-assets/zz-assets/Pasted image 20221208182251.png",
-    "zz-assets/zz-assets/Pasted image 20230315181041.png",
-    "node_modules/commitizen/logo/commitizen-logo-mono.svg",
-    "node_modules/commitizen/logo/commitizen-logo-color.svg",
+    "01-Inbox/Review",
     "06-PKM/04.Obs-Quick Add and Capture/How Memo Works.canvas",
-    "zz-assets/Pasted image 20230423140623.png",
-    "zz-assets/Pasted image 20230216200514.png",
-    "zz-assets/Pasted Image 20221213164430_004.png",
-    "zz-assets/Record_2022_12_14_18_44_21_740.gif",
-    "zz-assets/Pasted image 20221124194000.png",
-    "zz-assets/Snipaste_2022-11-25_10-54-52.png",
+    "zz-assets/zz-assets/white-bg.png",
+    "zz-assets/zz-assets/GV-20221129.png",
+    "zz-assets/zz-assets/Inspiration.png",
+    "zz-assets/zz-assets/Inspiration-2.png",
+    "zz-assets/zz-assets/Inspiration-1.png",
+    "zz-assets/assets 2/Pasted image 20230301100205.png",
+    "zz-assets/assets 2/Pasted image 20230301095205.png",
+    "zz-assets/assets 2/Pasted image 20230301094039.png",
+    "zz-assets/assets 2/Pasted image 20230301094450.png",
+    "zz-assets/assets 2/Pasted image 20230301092447.png",
+    "zz-assets/assets",
+    "zz-assets/assets 2",
+    "zz-assets/assets 1",
+    "zz-assets/zz-assets",
     "06-PKM/iPad/Note in iPhone.canvas",
     "06-PKM/iPad/Canvas in iPad.canvas",
     "06-PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/Canvas Demo.canvas",

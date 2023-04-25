@@ -164,6 +164,10 @@
         {
           "id": "obsidian-view-mode-by-frontmatter",
           "name": "Force note view mode"
+        },
+        {
+          "id": "easy-typing-obsidian",
+          "name": "Easy Typing"
         }
       ],
       "groupIds": [],

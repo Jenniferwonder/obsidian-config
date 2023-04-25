@@ -1,0 +1,21 @@
+{
+  "calendarSources": [
+    {
+      "type": "dailynote",
+      "color": "#f7f8f8",
+      "heading": "Logs"
+    },
+    {
+      "type": "local",
+      "color": "#ffffff",
+      "directory": "/"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "timeGridWeek",
+    "mobile": "timeGrid3Days"
+  },
+  "timeFormat24h": false
+}

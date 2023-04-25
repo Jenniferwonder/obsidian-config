@@ -8,7 +8,7 @@ ___
 
 ## Obsidian-Tasks-Calendar
 
-#### A custom view build with [Obsidian-Dataview](https://github.com/blacksmithgu/obsidian-dataview) to display tasks from [Obsidian-Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) and from your daily notes in a highly customisable calendar with a wide variety of views
+#### 1. A custom view build with [Obsidian-Dataview](https://github.com/blacksmithgu/obsidian-dataview) to display tasks from [Obsidian-Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) and from your daily notes in a highly customisable calendar with a wide variety of views
 
 [![light](https://user-images.githubusercontent.com/59178587/203789595-ede6138f-2c29-4148-b52f-874ab3ea43f7.png)](https://user-images.githubusercontent.com/59178587/203789595-ede6138f-2c29-4148-b52f-874ab3ea43f7.png)
 
@@ -124,7 +124,7 @@ You can use this option to hide the overdue days flag on overdue tasks.
 
 ### Optional parameters
 
-#### dailyNoteFolder:
+#### 1. dailyNoteFolder:
 
 ```
 dailyNoteFolder: "MyCustomFolder"
@@ -133,7 +133,7 @@ dailyNoteFolder: "Inbox/Daily Notes/Work"
 
 This parameter must only be specified if this is to be used. Here you can define a custom folder path for the daily notes if they should not be saved in the default folder for new files. Of course, folder structures with several levels can also be defined here. This paramter
 
-#### dailyNoteFormat:
+#### 2. dailyNoteFormat:
 
 ```
 dailyNoteFormat: "YYYY, MMMM DD - dddd"
@@ -142,7 +142,7 @@ dailyNoteFormat: "YYYY-[W]ww"
 
 This parameter must only be specified if this is to be used. Without this parameter the default format "YYYY-MM-DD" is used to identify your daily notes. You can set a custom format with a limited base set of characters: Y M D \[W\] ww d . , - : (SPACE)
 
-#### startPosition:
+#### 3. startPosition:
 
 Month: 2022 - December
 
@@ -160,7 +160,7 @@ startPosition: "2022-50"
 
 This parameter is optional and can be used to set a custom month or week to give focus after load. The default format on month view is `YYYY-MM`and on week view `YYYY-ww`. The first 4 digits represents the year and the last 1-2 digits represents the month or the week. Both must be separated with a minus character.
 
-#### globalTaskFilter:
+#### 4. globalTaskFilter:
 
 ```
 globalTaskFilter: "#task"
@@ -168,7 +168,7 @@ globalTaskFilter: "#task"
 
 This parameter must only be specified if this is to be used. Set a global task filter to hide from task text/description inside tasks-calendar.
 
-#### css:
+#### 5. css:
 
 ```
 css: ".tasksCalendar.style4[view='week'] .grid { height: 300px !important }"

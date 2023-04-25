@@ -23,7 +23,7 @@
   "showComplementAutomatically": false,
   "showIndexingStatus": false,
   "descriptionOnSuggestion": "Short",
-  "selectSuggestionKeys": "Shift+Enter",
+  "selectSuggestionKeys": "Tab",
   "additionalCycleThroughSuggestionsKeys": "None",
   "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
   "openSourceFileKey": "Shift+Enter",
@@ -390,8 +390,8 @@
     "disabled": {
       "disabled": {
         "currentVault": {
-          "count": 1,
-          "lastUpdated": 1681959435716
+          "count": 3,
+          "lastUpdated": 1682408792124
         }
       }
     },
@@ -608,6 +608,94 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1682343491297
+        }
+      }
+    },
+    "Databse": {
+      "Databse": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1682388691814
+        }
+      }
+    },
+    "Dependencies": {
+      "Dependencies": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1682389168455
+        }
+      }
+    },
+    "Convention": {
+      "Convention": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682389242988
+        }
+      }
+    },
+    "Yesterday": {
+      "Yesterday": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682394128145
+        }
+      }
+    },
+    "zettelkasten": {
+      "zettelkasten": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1682394729649
+        }
+      }
+    },
+    "automatically": {
+      "automatically": {
+        "currentVault": {
+          "count": 3,
+          "lastUpdated": 1682403200759
+        }
+      }
+    },
+    "notes": {
+      "notes": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682394943257
+        }
+      }
+    },
+    "modified": {
+      "modified": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682398248724
+        }
+      }
+    },
+    "efficient": {
+      "efficient": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682398272955
+        }
+      }
+    },
+    "constanly": {
+      "constanly": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1682400867614
+        }
+      }
+    },
+    "Shift": {
+      "Shift": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1682403478499
         }
       }
     }

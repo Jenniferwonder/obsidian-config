@@ -1,5 +1,5 @@
 {
-  "todoPageName": "todo",
+  "todoPageName": "todo\nDaily",
   "showChecked": false,
   "showAllTodos": true,
   "autoRefresh": true,
