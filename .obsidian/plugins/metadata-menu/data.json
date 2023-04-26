@@ -13,17 +13,33 @@
       "name": "status",
       "options": {
         "valuesList": {
-          "1": "⚪Capturing",
-          "2": "🟡Organizing",
-          "3": "🟠Distilling",
-          "4": "🟢Published",
-          "5": "🔵Archived"
+          "2": "⚪Capturing",
+          "3": "🟡Organizing",
+          "4": "🟠Distilling",
+          "5": "🟢Published",
+          "6": "🔵Archived"
         },
         "sourceType": "ValuesList",
         "valuesListNotePath": "",
         "valuesFromDVQuery": ""
       },
       "id": "2",
+      "type": "Select"
+    },
+    {
+      "name": "type",
+      "options": {
+        "valuesList": {
+          "1": "🗒️Resource",
+          "2": "💪Tracking",
+          "3": "🚀Project",
+          "4": "💡Idea"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "3",
       "type": "Select"
     }
   ],

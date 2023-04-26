@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "bfe0cc1dc1164b32",
+        "id": "ead56897b51f8e0a",
         "type": "tabs",
         "children": [
           {
-            "id": "8597b17b59bb5e0a",
+            "id": "c4262bec75a1a489",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-Inbox/How-to/怎样追踪管理落实个人项目.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -32,7 +27,7 @@
       {
         "id": "8201dfdfd238859b",
         "type": "tabs",
-        "dimension": 66.15553121577219,
+        "dimension": 68.12705366922235,
         "children": [
           {
             "id": "ffc2db0d12688bb7",
@@ -89,7 +84,7 @@
       {
         "id": "77bd1ba2d94e4b50",
         "type": "tabs",
-        "dimension": 33.84446878422782,
+        "dimension": 31.87294633077766,
         "children": [
           {
             "id": "f1b6fbbbfa6f670d",
@@ -103,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 358.5
   },
   "right": {
     "id": "617127011ede853a",
@@ -119,7 +114,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01-Inbox/How-to/怎样追踪管理落实个人项目.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -154,7 +148,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01-Inbox/How-to/怎样追踪管理落实个人项目.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +164,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01-Inbox/How-to/怎样追踪管理落实个人项目.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,9 +174,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "01-Inbox/How-to/怎样追踪管理落实个人项目.md"
-              }
+              "state": {}
             }
           },
           {
@@ -243,7 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 296.5
+    "width": 252.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -279,42 +269,88 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "8597b17b59bb5e0a",
+  "floating": {
+    "id": "ceffc60913852661",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6c34af41f3969393",
+        "type": "window",
+        "children": [
+          {
+            "id": "fddd1635f2f8de35",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "6d389d9e71a623e0",
+                "type": "leaf",
+                "state": {
+                  "type": "memos_view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1577,
+        "y": 12,
+        "width": 355,
+        "height": 600,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "c4262bec75a1a489",
   "lastOpenFiles": [
-    "01-Inbox/Daily/2023-04-25.md",
-    "06-PKM/06-PKM.md",
-    "05-Front-End Tech Stack/05-Front-End Tech Stack.md",
-    "04-Tech-Fundamentals/04-Tech-Fundamentals.md",
-    "01-Inbox/Daily/2023-04-26.md",
-    "2023-04-25 Test.md",
-    "Templates/Calendar.md",
-    "Templates/我的书架.md",
-    "Templates/每日计划安排.md",
-    "Templates/计划日历.md",
-    "01-Inbox/🗃️Inbox.md",
-    "Templates/计划追踪.md",
-    "01-Inbox/Daily/2023-04-20.md",
-    "01-Inbox/Daily/2023-04-19.md",
-    "01-Inbox/Daily/2023-04-15.md",
-    "01-Inbox/Daily/2023-04-14.md",
-    "01-Inbox/Daily/2023-04-13.md",
-    "01-Inbox/ReadItLater/ReadItLater.md",
-    "01-Inbox/🗃️Inbox.md.md",
-    "01-Inbox/Daily/2023-04-18.md",
-    "Templates/Taskido/view.js",
-    "Templates/Taskido/view.css",
-    "Templates/Taskido",
-    "01-Inbox/Checklist",
-    "Templates/工作记录.md",
-    "Templates/Update.md",
-    "Templates/script/tasksCalendar/README.md",
-    "02-Interview/Interview Checklists.md",
-    "01-Inbox/Daily/Untitled database.md",
-    "06-PKM/02.Obs-Setup/Obs-Backup and Sync.md",
-    "01-Inbox/Review",
-    "00-GeekEnglish/Projects Overview.canvas",
-    "01-Inbox/Review",
-    "06-PKM/04.Obs-Quick Add and Capture/How Memo Works.canvas",
+    "Resources/PMP/PMP.md",
+    "zz-templates/tp/tp-资源分类模板.md",
+    "zz-templates/tp/tp-笔记收集箱.md",
+    "GeekEnglish/Kanban.md",
+    "Tracking/Baby Prep.md",
+    "Tracking/Body Exercise.md",
+    "Tracking/Travelling.md",
+    "Tracking/Life Efficiency.md",
+    "zz-archives/zz-Random/Love and Fun.md",
+    "zz-archives/zz-Random/Moments in Shenzhen.md",
+    "zz-archives/zz-Random/Country and Traveling.md",
+    "Projects/前端学习工作流/前端学习工作流.md",
+    "Projects",
+    "Projects/前端学习工作流/前端学习工作流02-.md",
+    "Snooze/每日笔记数据追踪管理工作流.md",
+    "Snooze/如何从图片链接或截图中提取复制文字.md",
+    "Snooze/Snooze.md",
+    "GeekEnglish/00-GeekEnglish.md",
+    "GeekEnglish/GE-Resources/zz-Related/zz-Content/zz-Content.md",
+    "GeekEnglish/GE-Resources/zz-Related/06-App/GeekEnglish App.md",
+    "GeekEnglish/GE-Resources/zz-Related/06-App/06-App.md",
+    "GeekEnglish/GE-Resources/zz-Related/05-Miniprogram/GeekEnglish Miniprogram.md",
+    "GeekEnglish/GE-Resources/zz-Related/05-Miniprogram/05-Miniprogram.md",
+    "GeekEnglish/GE-Resources/zz-Related/04-Blog/竞品分析-博客社区.md",
+    "GeekEnglish/GE-Resources/zz-Related/04-Blog/竞品分析-个人博客.md",
+    "GeekEnglish/GE-Resources/zz-Related/04-Blog/博客网站功能.md",
+    "GeekEnglish/GE-Resources/zz-Related/04-Blog/博客社区-Reference.md",
+    "GeekEnglish/GE-Resources/zz-Related/zz-Content",
+    "GeekEnglish/GE-Resources/zz-Related/06-App",
+    "GeekEnglish/GE-Resources/zz-Related/05-Miniprogram",
+    "GeekEnglish/GE-Resources/zz-Related/04-Blog",
+    "GeekEnglish/GE-Resources/zz-Related/03-Portfolio",
+    "GeekEnglish/GE-Resources/zz-Related/02-Admin Panel",
+    "GeekEnglish/GE-Resources/zz-Related",
+    "GeekEnglish/GE-Resources/zz-Logs",
+    "GeekEnglish/GE-Resources/03-DemoTest",
+    "zz-assets/Pasted image 20230426175143.png",
+    "GeekEnglish/GE-Resources/Projects Overview.canvas",
+    "Resources/GeekEnglish/Projects Overview.canvas",
+    "Resources/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/Canvas Demo.canvas",
+    "Resources/PKM/iPad/Note in iPhone.canvas",
+    "Resources/PKM/iPad/Canvas in iPad.canvas",
+    "Resources/PKM/04.Obs-Quick Add and Capture/How Memo Works.canvas",
+    "Resources/PKM/PKM-Map.canvas",
+    "Resources/PKM/Knowledge Workflow.canvas",
+    "PKM/Knowledge Workflow.canvas",
+    "PKM/04.Obs-Quick Add and Capture/How Memo Works.canvas",
     "zz-assets/zz-assets/white-bg.png",
     "zz-assets/zz-assets/GV-20221129.png",
     "zz-assets/zz-assets/Inspiration.png",
@@ -323,19 +359,6 @@
     "zz-assets/assets 2/Pasted image 20230301100205.png",
     "zz-assets/assets 2/Pasted image 20230301095205.png",
     "zz-assets/assets 2/Pasted image 20230301094039.png",
-    "zz-assets/assets 2/Pasted image 20230301094450.png",
-    "zz-assets/assets 2/Pasted image 20230301092447.png",
-    "zz-assets/assets",
-    "zz-assets/assets 2",
-    "zz-assets/assets 1",
-    "zz-assets/zz-assets",
-    "06-PKM/iPad/Note in iPhone.canvas",
-    "06-PKM/iPad/Canvas in iPad.canvas",
-    "06-PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/Canvas Demo.canvas",
-    "60-Canvas/画板主页.canvas",
-    "60-Canvas/示例库结构一览.canvas",
-    "60-Canvas/Home_middle.canvas",
-    "60-Canvas/canvas白板介绍_middle.canvas",
-    "60-Canvas/Formatting_Cheatsheet.canvas"
+    "zz-assets/assets 2/Pasted image 20230301094450.png"
   ]
 }

@@ -6,12 +6,12 @@
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "01-Inbox/Daily/{{DATE:YYYY-MM-DD}}.md",
+      "captureTo": "Inbox/{{Value}}.md",
       "captureToActiveFile": false,
       "createFileIfItDoesntExist": {
         "enabled": true,
         "createWithTemplate": true,
-        "template": "Templates-Daily Plan"
+        "template": "zz-templates/tp/tp-通用模板"
       },
       "format": {
         "enabled": true,
@@ -19,7 +19,7 @@
       },
       "insertAfter": {
         "enabled": true,
-        "after": "## Logs",
+        "after": "## Initiation",
         "insertAtEnd": true,
         "createIfNotFound": true,
         "createIfNotFoundLocation": "bottom"
@@ -90,46 +90,11 @@
       "macroId": "d0d4ced8-94d2-4f26-9e8b-defd8d087193"
     },
     {
-      "id": "5d2515d2-f998-4e91-b81d-4e09ad5537d9",
-      "name": "Ideas",
-      "type": "Capture",
-      "command": true,
-      "appendLink": false,
-      "captureTo": "{{value:<variable name>}}",
-      "captureToActiveFile": false,
-      "createFileIfItDoesntExist": {
-        "enabled": true,
-        "createWithTemplate": true,
-        "template": "Templates/tp/tp-自动选择模板.md"
-      },
-      "format": {
-        "enabled": true,
-        "format": "{{VALUE}}"
-      },
-      "insertAfter": {
-        "enabled": true,
-        "after": "## Ideas",
-        "insertAtEnd": true,
-        "considerSubsections": true,
-        "createIfNotFound": true,
-        "createIfNotFoundLocation": "top"
-      },
-      "prepend": false,
-      "task": false,
-      "openFileInNewTab": {
-        "enabled": false,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": false,
-      "openFileInMode": "default"
-    },
-    {
       "id": "b49b9d51-881b-4f59-901d-d3e79f18558e",
       "name": "inbox",
       "type": "Template",
       "command": true,
-      "templatePath": "Templates/tp/tp-笔记收集箱.md",
+      "templatePath": "zz-templates/tp/tp-笔记收集箱.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "untitled"

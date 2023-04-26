@@ -200,7 +200,6 @@
       "key": "M"
     }
   ],
-  "editor:insert-wikilink": [],
   "obsidian-admonition:insert-admonition": [
     {
       "modifiers": [
@@ -593,5 +592,18 @@
       ],
       "key": "S"
     }
-  ]
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "easy-typing-obsidian:easy-typing-format-selection": [],
+  "easy-typing-obsidian:easy-typing-insert-codeblock": [],
+  "easy-typing-obsidian:easy-typing-format-switch": [],
+  "easy-typing-obsidian:easy-typing-delete-blank-line": []
 }

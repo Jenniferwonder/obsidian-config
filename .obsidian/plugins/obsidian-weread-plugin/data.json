@@ -41,7 +41,7 @@
       "value": "0"
     }
   ],
-  "noteLocation": "01-Inbox/ReadItLater/ReadNote",
+  "noteLocation": "Resources/ReadItLater/ReadNote",
   "dailyNotesLocation": "/",
   "insertAfter": "<!-- start of weread -->",
   "insertBefore": "<!-- end of weread -->",

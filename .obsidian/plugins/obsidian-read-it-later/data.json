@@ -1,6 +1,6 @@
 {
-  "inboxDir": "ReadItLater",
-  "assetsDir": "ReadItLater/assets",
+  "inboxDir": "Resources/ReadItLater",
+  "assetsDir": "zz-assets",
   "openNewNote": false,
   "youtubeNoteTitle": "Youtube - %title%",
   "youtubeNote": "[[ReadItLater]] [[Youtube]]\n\n[%videoTitle%](%videoURL%)\n\n%videoPlayer%",

@@ -47,7 +47,7 @@
   "floating-toc-styles@@enable-bar-icon": true,
   "floating-toc-styles@@indicator-bar-position": 0,
   "floating-toc-styles@@enable-outline-style": "float-curves-outline-style",
-  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-lillimon-topaz",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-topaz-nord",
   "blue-topaz-theme@@disable-auto-hide-header": true,
   "blue-topaz-theme@@magic-main-color@@dark": "#D6870CBF",
   "blue-topaz-theme@@magic-main-color@@light": "#34495E",

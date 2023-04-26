@@ -1,192 +1,144 @@
 {
   "recentFiles": [
     {
-      "basename": "怎样追踪管理落实个人项目",
-      "path": "01-Inbox/How-to/怎样追踪管理落实个人项目.md"
+      "basename": "PMP",
+      "path": "Resources/PMP/PMP.md"
+    },
+    {
+      "basename": "tp-资源分类模板",
+      "path": "zz-templates/tp/tp-资源分类模板.md"
+    },
+    {
+      "basename": "tp-笔记收集箱",
+      "path": "zz-templates/tp/tp-笔记收集箱.md"
+    },
+    {
+      "basename": "Kanban",
+      "path": "GeekEnglish/Kanban.md"
+    },
+    {
+      "basename": "Baby Prep",
+      "path": "Tracking/Baby Prep.md"
+    },
+    {
+      "basename": "Body Exercise",
+      "path": "Tracking/Body Exercise.md"
+    },
+    {
+      "basename": "Travelling",
+      "path": "Tracking/Travelling.md"
+    },
+    {
+      "basename": "Life Efficiency",
+      "path": "Tracking/Life Efficiency.md"
+    },
+    {
+      "basename": "Love and Fun",
+      "path": "zz-archives/zz-Random/Love and Fun.md"
+    },
+    {
+      "basename": "Moments in Shenzhen",
+      "path": "zz-archives/zz-Random/Moments in Shenzhen.md"
+    },
+    {
+      "basename": "前端学习工作流",
+      "path": "Projects/前端学习工作流/前端学习工作流.md"
+    },
+    {
+      "basename": "前端学习工作流02-",
+      "path": "Projects/前端学习工作流/前端学习工作流02-.md"
+    },
+    {
+      "basename": "每日笔记数据追踪管理工作流",
+      "path": "Snooze/每日笔记数据追踪管理工作流.md"
+    },
+    {
+      "basename": "如何从图片链接或截图中提取复制文字",
+      "path": "Snooze/如何从图片链接或截图中提取复制文字.md"
+    },
+    {
+      "basename": "Snooze",
+      "path": "Snooze/Snooze.md"
+    },
+    {
+      "basename": "tp-通用模板",
+      "path": "zz-templates/tp/tp-通用模板.md"
+    },
+    {
+      "basename": "2023-04-26",
+      "path": "Daily/2023-04-26.md"
+    },
+    {
+      "basename": "sortspec",
+      "path": "zz-templates/script/sortspec.md"
+    },
+    {
+      "basename": "z-Homepage",
+      "path": "zz-templates/z-Homepage.md"
+    },
+    {
+      "basename": "从这开始",
+      "path": "从这开始.md"
+    },
+    {
+      "basename": "tp-默认笔记模板",
+      "path": "zz-templates/tp/tp-默认笔记模板.md"
+    },
+    {
+      "basename": "tp-自动选择模板",
+      "path": "zz-templates/tp/tp-自动选择模板.md"
+    },
+    {
+      "basename": "tp-流水账模板",
+      "path": "zz-templates/tp/tp-流水账模板.md"
+    },
+    {
+      "basename": "Holiday and Festival",
+      "path": "zz-archives/zz-Random/Holiday and Festival.md"
+    },
+    {
+      "basename": "How to Stop Worrying and Start Living",
+      "path": "zz-archives/zz-Random/How to Stop Worrying and Start Living.md"
+    },
+    {
+      "basename": "Weather",
+      "path": "zz-archives/zz-Random/Weather.md"
+    },
+    {
+      "basename": "前端学习工作流01-怎样追踪管理落实个人项目",
+      "path": "Projects/前端学习工作流/前端学习工作流01-怎样追踪管理落实个人项目.md"
     },
     {
       "basename": "2023-04-25",
-      "path": "01-Inbox/Daily/2023-04-25.md"
-    },
-    {
-      "basename": "06-PKM",
-      "path": "06-PKM/06-PKM.md"
-    },
-    {
-      "basename": "05-Front-End Tech Stack",
-      "path": "05-Front-End Tech Stack/05-Front-End Tech Stack.md"
-    },
-    {
-      "basename": "04-Tech-Fundamentals",
-      "path": "04-Tech-Fundamentals/04-Tech-Fundamentals.md"
-    },
-    {
-      "basename": "Calendar",
-      "path": "Templates/Calendar.md"
+      "path": "Daily/2023-04-25.md"
     },
     {
       "basename": "2023-04-20",
-      "path": "01-Inbox/Daily/2023-04-20.md"
+      "path": "Daily/2023-04-20.md"
     },
     {
       "basename": "2023-04-19",
-      "path": "01-Inbox/Daily/2023-04-19.md"
+      "path": "Daily/2023-04-19.md"
     },
     {
       "basename": "2023-04-15",
-      "path": "01-Inbox/Daily/2023-04-15.md"
+      "path": "Daily/2023-04-15.md"
     },
     {
       "basename": "2023-04-14",
-      "path": "01-Inbox/Daily/2023-04-14.md"
+      "path": "Daily/2023-04-14.md"
     },
     {
       "basename": "2023-04-13",
-      "path": "01-Inbox/Daily/2023-04-13.md"
+      "path": "Daily/2023-04-13.md"
     },
     {
       "basename": "ReadItLater",
-      "path": "01-Inbox/ReadItLater/ReadItLater.md"
+      "path": "Resources/ReadItLater/ReadItLater.md"
     },
     {
       "basename": "2023-04-18",
-      "path": "01-Inbox/Daily/2023-04-18.md"
-    },
-    {
-      "basename": "Update",
-      "path": "Templates/Update.md"
-    },
-    {
-      "basename": "README",
-      "path": "Templates/script/tasksCalendar/README.md"
-    },
-    {
-      "basename": "Interview Checklists",
-      "path": "02-Interview/Interview Checklists.md"
-    },
-    {
-      "basename": "Obs-Backup and Sync",
-      "path": "06-PKM/02.Obs-Setup/Obs-Backup and Sync.md"
-    },
-    {
-      "basename": "内容资料意外丢失，怎样恢复？⚒️",
-      "path": "06-PKM/内容资料意外丢失，怎样恢复？⚒️.md"
-    },
-    {
-      "basename": "怎样实现 Obsidian 笔记 Windows 与 iPhone, iPad 同步与备份？",
-      "path": "06-PKM/02.Obs-Setup/怎样实现 Obsidian 笔记 Windows 与 iPhone, iPad 同步与备份？.md"
-    },
-    {
-      "basename": "TODO List",
-      "path": "00-GeekEnglish/TODO List.md"
-    },
-    {
-      "basename": "Obs-Project and Task Management (Advanced)",
-      "path": "06-PKM/05.Obs-Project and Task Management/Obs-Project and Task Management (Advanced).md"
-    },
-    {
-      "basename": "Input and label",
-      "path": "05-Front-End Tech Stack/01-Front-End Basics/HTML/Input and label.md"
-    },
-    {
-      "basename": "Obs-Task Management (Basic)",
-      "path": "06-PKM/05.Obs-Project and Task Management/Obs-Task Management (Basic).md"
-    },
-    {
-      "basename": "Obs-Theme and Style (Basic)",
-      "path": "06-PKM/03.Obs-Theme and Style/Obs-Theme and Style (Basic).md"
-    },
-    {
-      "basename": "01-Functions&Features",
-      "path": "00-GeekEnglish/01-Functions&Features/01-Functions&Features.md"
-    },
-    {
-      "basename": "How to Organize Knowledge",
-      "path": "06-PKM/01.Obs-Why/Captured/How to Organize Knowledge.md"
-    },
-    {
-      "basename": "How Brain Works",
-      "path": "06-PKM/01.Obs-Why/Captured/How Brain Works.md"
-    },
-    {
-      "basename": "Ultimate Productivity System-CODE",
-      "path": "06-PKM/01.Obs-Why/Captured/Ultimate Productivity System-CODE.md"
-    },
-    {
-      "basename": "00-GeekEnglish",
-      "path": "00-GeekEnglish/00-GeekEnglish.md"
-    },
-    {
-      "basename": "How-to",
-      "path": "01-Inbox/How-to/How-to.md"
-    },
-    {
-      "basename": "2023-04-12",
-      "path": "01-Inbox/Daily/2023-04-12.md"
-    },
-    {
-      "basename": "04.Obs-Quick Add and Capture",
-      "path": "06-PKM/04.Obs-Quick Add and Capture/04.Obs-Quick Add and Capture.md"
-    },
-    {
-      "basename": "Quick Capture",
-      "path": "06-PKM/04.Obs-Quick Add and Capture/Quick Capture.md"
-    },
-    {
-      "basename": "Obs-Button",
-      "path": "06-PKM/04.Obs-Quick Add and Capture/Obs-Button.md"
-    },
-    {
-      "basename": "2023-02-22",
-      "path": "01-Inbox/Daily/2023-02/2023-02-22.md"
-    },
-    {
-      "basename": "2023-02-11",
-      "path": "01-Inbox/Daily/2023-02/2023-02-11.md"
-    },
-    {
-      "basename": "Commitizen-couldn't find modules",
-      "path": "04-Tech-Fundamentals/Commitizen-couldn't find modules.md"
-    },
-    {
-      "basename": "2023-04-09",
-      "path": "01-Inbox/Daily/2023-04-09.md"
-    },
-    {
-      "basename": "Obs-笔记模板效率-Metadata, URI作用是什么",
-      "path": "06-PKM/04.Obs-Quick Add and Capture/Obs-笔记模板效率-Metadata, URI作用是什么.md"
-    },
-    {
-      "basename": "07.Obs-Review, Refactor and Distill",
-      "path": "06-PKM/07.Obs-Review, Refactor and Distill/07.Obs-Review, Refactor and Distill.md"
-    },
-    {
-      "basename": "Projects Overview",
-      "path": "00-GeekEnglish/Projects Overview.canvas"
-    },
-    {
-      "basename": "Obs-怎样管理每日笔记",
-      "path": "06-PKM/05.Obs-Project and Task Management/Obs-怎样管理每日笔记.md"
-    },
-    {
-      "basename": "How Memo Works",
-      "path": "06-PKM/04.Obs-Quick Add and Capture/How Memo Works.canvas"
-    },
-    {
-      "basename": "Obs-Memos",
-      "path": "06-PKM/04.Obs-Quick Add and Capture/Obs-Memos.md"
-    },
-    {
-      "basename": "Obs-QuickAdd",
-      "path": "06-PKM/04.Obs-Quick Add and Capture/Obs-QuickAdd.md"
-    },
-    {
-      "basename": "Obs-Templater",
-      "path": "06-PKM/04.Obs-Quick Add and Capture/Obs-Templater.md"
-    },
-    {
-      "basename": "Design and UI Tools",
-      "path": "zz-archived/能力拓展/设计应用/Design and UI Tools.md"
+      "path": "Daily/2023-04-18.md"
     }
   ],
   "omittedPaths": [],

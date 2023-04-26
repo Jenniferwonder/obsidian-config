@@ -204,6 +204,10 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1681869917610
+        },
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682477878729
         }
       }
     },
@@ -390,8 +394,8 @@
     "disabled": {
       "disabled": {
         "currentVault": {
-          "count": 3,
-          "lastUpdated": 1682408792124
+          "count": 4,
+          "lastUpdated": 1682495793578
         }
       }
     },
@@ -574,8 +578,8 @@
     "How-To": {
       "How-To": {
         "currentVault": {
-          "count": 1,
-          "lastUpdated": 1682241022257
+          "count": 2,
+          "lastUpdated": 1682497200673
         }
       }
     },
@@ -696,6 +700,30 @@
         "currentFile": {
           "count": 1,
           "lastUpdated": 1682403478499
+        }
+      }
+    },
+    "QuickAdd": {
+      "QuickAdd": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1682473613129
+        }
+      }
+    },
+    "Reference": {
+      "Reference": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1682477200404
+        }
+      }
+    },
+    "PKM/Capture": {
+      "PKM/Capture": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1682492972433
         }
       }
     }

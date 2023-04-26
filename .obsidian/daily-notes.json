@@ -1,6 +1,6 @@
 {
-  "folder": "01-Inbox/Daily",
+  "folder": "Daily",
   "autorun": false,
-  "template": "Templates/Daily Plan",
+  "template": "zz-templates/tp/Daily Plan",
   "format": "YYYY-MM-DD"
 }
