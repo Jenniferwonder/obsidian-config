@@ -71,7 +71,7 @@ status: 🟠Distilling
 #### 2. ~~讯飞输入法~~
 - 自定义快捷输入、语音输入、多端同步
 ### 其他可选编辑（Optional）
-#### 1. ==Table Enhancer==
+#### 1. Table Enhancer
 - ✅鼠标右键直接创建指定规格表格，并可右键单击对应区域调整编辑
 #### 2. Markdown Table Editor
 - 提供Markdown表格编辑器

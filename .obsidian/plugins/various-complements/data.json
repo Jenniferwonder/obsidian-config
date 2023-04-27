@@ -394,8 +394,8 @@
     "disabled": {
       "disabled": {
         "currentVault": {
-          "count": 4,
-          "lastUpdated": 1682495793578
+          "count": 7,
+          "lastUpdated": 1682581985356
         }
       }
     },
@@ -722,8 +722,16 @@
     "PKM/Capture": {
       "PKM/Capture": {
         "frontMatter": {
+          "count": 2,
+          "lastUpdated": 1682579545348
+        }
+      }
+    },
+    "Workspace-plus (+Workspace)": {
+      "Workspace-plus (+Workspace)": {
+        "internalLink": {
           "count": 1,
-          "lastUpdated": 1682492972433
+          "lastUpdated": 1682578669888
         }
       }
     }

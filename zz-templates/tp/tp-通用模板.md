@@ -1,4 +1,5 @@
 ---
+
 <%-* 
 let  newtitle
 if(tp.file.title.includes("未命名") || tp.file.title.toLowerCase().includes("untitled")) 
@@ -10,7 +11,7 @@ if(tp.file.title.includes("未命名") || tp.file.title.toLowerCase().includes("
 UID: <% tp.date.now("YYYYMMDDHHmmss") %> 
 title: <% tp.file.title %>
 tags: <% tp.system.prompt("这个笔记相关标签", "比如：PKM") %>
-types: <% tp.system.suggester(["🗒️Resource", "🚀Project", "💪Tracking"], ["🗒️Resource", "🚀Project", "💪Tracking"]) %> 
+type: <% tp.system.suggester(["🗒️Resource", "🚀Project", "💪Tracking"], ["🗒️Resource", "🚀Project", "💪Tracking"]) %> 
 started: <% tp.date.now("YYYY-MM-DD") %>
 modified: <%+ tp.file.last_modified_date("YYYY-MM-DD ddd") %>
 status: <% tp.system.suggester(["⚪Capturing", "🟡Organizing", "🟠Distilling","🟢Published","🔵Archived"], ["⚪Capturing", "🟡Organizing", "🟠Distilling", "🟢Published", "🔵Archived"]) %>

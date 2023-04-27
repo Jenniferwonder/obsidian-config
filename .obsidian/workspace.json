@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "ead56897b51f8e0a",
+        "id": "7f80e5718233af25",
         "type": "tabs",
         "children": [
           {
-            "id": "c4262bec75a1a489",
+            "id": "ec637727b865f1f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023-04-27.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -27,7 +32,6 @@
       {
         "id": "8201dfdfd238859b",
         "type": "tabs",
-        "dimension": 68.12705366922235,
         "children": [
           {
             "id": "ffc2db0d12688bb7",
@@ -77,15 +81,7 @@
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "77bd1ba2d94e4b50",
-        "type": "tabs",
-        "dimension": 31.87294633077766,
-        "children": [
+          },
           {
             "id": "f1b6fbbbfa6f670d",
             "type": "leaf",
@@ -94,11 +90,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 245.5
   },
   "right": {
     "id": "617127011ede853a",
@@ -107,47 +104,15 @@
       {
         "id": "48e4df7056d011b2",
         "type": "tabs",
+        "dimension": 51.09649122807017,
         "children": [
-          {
-            "id": "3ff613d8b4842cb2",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.6717561918911797,
-                  "close": true
-                }
-              }
-            }
-          },
           {
             "id": "8456fea1d36da9b5",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Daily/2023-04-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Daily/2023-04-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Daily/2023-04-27.md"
+              }
             }
           },
           {
@@ -229,11 +197,54 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
+      },
+      {
+        "id": "596a513114e5ea91",
+        "type": "tabs",
+        "dimension": 48.90350877192983,
+        "children": [
+          {
+            "id": "3ff613d8b4842cb2",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Daily/2023-04-27.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6717561918911799,
+                  "close": true
+                }
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 252.5
+    "width": 252.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -274,15 +285,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "6c34af41f3969393",
+        "id": "a0a478b34c54f088",
         "type": "window",
         "children": [
           {
-            "id": "fddd1635f2f8de35",
+            "id": "2a187d8e4e5a314a",
             "type": "tabs",
             "children": [
               {
-                "id": "6d389d9e71a623e0",
+                "id": "6a1a22ad7c37110e",
                 "type": "leaf",
                 "state": {
                   "type": "memos_view",
@@ -293,64 +304,64 @@
           }
         ],
         "direction": "vertical",
-        "x": 1577,
-        "y": 12,
-        "width": 355,
-        "height": 600,
+        "x": 1569,
+        "y": 53,
+        "width": 354,
+        "height": 684,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "c4262bec75a1a489",
+  "active": "ec637727b865f1f8",
   "lastOpenFiles": [
-    "Resources/PMP/PMP.md",
-    "zz-templates/tp/tp-资源分类模板.md",
+    "zz-templates/tp/Daily Plan.md",
+    "Daily/2023-04-27.md",
+    "zz-archives/zz-Daily/2023-03/2023-03-14.md",
+    "Resources/PKM/05.Obs-Project and Task Management/项目管理视图工具有哪些，怎么用/项目管理视图工具有哪些，怎么用.md",
+    "Resources/PKM/05.Obs-Project and Task Management/项目管理视图工具有哪些，怎么用/怎样配置一个高效的Obsidian知识库主页.md",
+    "Resources/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/怎样优化每日笔记模板，提高效率与价值——STAR法则.md",
+    "Resources/PKM/03.Obs-Theme and Style/Obs-超爱的主题 Blue Topaz Nord.md",
+    "Resources/PKM/04.Obs-Quick Add and Capture/不同类型笔记与项目资源模板/笔记收集箱模板优化.md",
+    "Resources/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/每日笔记：怎样随时高效记录每日灵感与活动-Memo, QuickAdd.md",
+    "Resources/PKM/05.Obs-Project and Task Management/项目管理视图工具有哪些，怎么用/怎样用日历进行任务追踪管理-Calendar, Full Calendar.md",
+    "Resources/PKM/05.Obs-Project and Task Management/项目管理视图工具有哪些，怎么用/怎样高效利用Markdown 表格.md",
+    "Resources/PKM/05.Obs-Project and Task Management/项目管理视图工具有哪些，怎么用/怎样高效设置笔记资源与项目文件夹-File Explorer.md",
+    "Resources/PKM/05.Obs-Project and Task Management/项目管理视图工具有哪些，怎么用/怎样高效添加管理待办事项-Checklist, Task, Planner, Calendar, Memo.md",
+    "Resources/PKM/05.Obs-Project and Task Management/项目管理视图工具有哪些，怎么用/怎样实现表格视图灵活排序与添加内容-弥补Projects插件不足.md",
+    "Resources/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/怎样可视化梳理知识体系，头脑风暴-Canvas.md",
+    "Resources/PKM/07.Obs-Review, Refactor and Distill/Obs-Note Refactor.md",
+    "Resources/PKM/07.Obs-Review, Refactor and Distill/怎样快速切割优化笔记，提高知识利用率-Note Refactor.md",
+    "Resources/PKM/05.Obs-Project and Task Management/项目管理视图工具有哪些，怎么用/Obs-Kanban——真看板，怎么用.md",
+    "zz-templates/script/sortspec.md",
+    "Resources/Content-Making/Quality Channels.md",
+    "Tracking/Videos/Skillshare for Front-End Engineers.md",
+    "Tracking/Workflow/Front-End Projects Overview.canvas",
+    "Tracking/Workflow",
+    "Tracking/Codespace",
+    "Tracking/Videos",
     "zz-templates/tp/tp-笔记收集箱.md",
-    "GeekEnglish/Kanban.md",
-    "Tracking/Baby Prep.md",
-    "Tracking/Body Exercise.md",
-    "Tracking/Travelling.md",
-    "Tracking/Life Efficiency.md",
-    "zz-archives/zz-Random/Love and Fun.md",
-    "zz-archives/zz-Random/Moments in Shenzhen.md",
-    "zz-archives/zz-Random/Country and Traveling.md",
-    "Projects/前端学习工作流/前端学习工作流.md",
-    "Projects",
-    "Projects/前端学习工作流/前端学习工作流02-.md",
-    "Snooze/每日笔记数据追踪管理工作流.md",
-    "Snooze/如何从图片链接或截图中提取复制文字.md",
-    "Snooze/Snooze.md",
-    "GeekEnglish/00-GeekEnglish.md",
-    "GeekEnglish/GE-Resources/zz-Related/zz-Content/zz-Content.md",
-    "GeekEnglish/GE-Resources/zz-Related/06-App/GeekEnglish App.md",
-    "GeekEnglish/GE-Resources/zz-Related/06-App/06-App.md",
-    "GeekEnglish/GE-Resources/zz-Related/05-Miniprogram/GeekEnglish Miniprogram.md",
-    "GeekEnglish/GE-Resources/zz-Related/05-Miniprogram/05-Miniprogram.md",
-    "GeekEnglish/GE-Resources/zz-Related/04-Blog/竞品分析-博客社区.md",
-    "GeekEnglish/GE-Resources/zz-Related/04-Blog/竞品分析-个人博客.md",
-    "GeekEnglish/GE-Resources/zz-Related/04-Blog/博客网站功能.md",
-    "GeekEnglish/GE-Resources/zz-Related/04-Blog/博客社区-Reference.md",
-    "GeekEnglish/GE-Resources/zz-Related/zz-Content",
-    "GeekEnglish/GE-Resources/zz-Related/06-App",
-    "GeekEnglish/GE-Resources/zz-Related/05-Miniprogram",
-    "GeekEnglish/GE-Resources/zz-Related/04-Blog",
-    "GeekEnglish/GE-Resources/zz-Related/03-Portfolio",
-    "GeekEnglish/GE-Resources/zz-Related/02-Admin Panel",
-    "GeekEnglish/GE-Resources/zz-Related",
-    "GeekEnglish/GE-Resources/zz-Logs",
-    "GeekEnglish/GE-Resources/03-DemoTest",
+    "zz-templates/tp/tp-流水账模板.md",
+    "zz-templates/tp/tp-插件启停模板.md",
+    "zz-templates/tp/tp-人物模板.md",
+    "zz-templates/tp/tp-默认笔记模板.md",
+    "Tasks",
+    "Tracking/Workflow/Knowledge Workflow.canvas",
+    "Projects/GeekEnglish/zz-Related/zz-Content",
+    "Projects/GeekEnglish/zz-Related/06-App",
+    "Projects/GeekEnglish/zz-Related/04-Blog",
+    "Projects/GeekEnglish/zz-Related/05-Miniprogram",
+    "Projects/GeekEnglish/zz-Related/03-Portfolio",
+    "Projects/GeekEnglish/zz-Related/02-Admin Panel",
+    "Resources/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/PKM-Map.canvas",
     "zz-assets/Pasted image 20230426175143.png",
     "GeekEnglish/GE-Resources/Projects Overview.canvas",
     "Resources/GeekEnglish/Projects Overview.canvas",
     "Resources/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/Canvas Demo.canvas",
     "Resources/PKM/iPad/Note in iPhone.canvas",
     "Resources/PKM/iPad/Canvas in iPad.canvas",
-    "Resources/PKM/04.Obs-Quick Add and Capture/How Memo Works.canvas",
-    "Resources/PKM/PKM-Map.canvas",
-    "Resources/PKM/Knowledge Workflow.canvas",
+    "Resources/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/How Memo Works.canvas",
     "PKM/Knowledge Workflow.canvas",
-    "PKM/04.Obs-Quick Add and Capture/How Memo Works.canvas",
     "zz-assets/zz-assets/white-bg.png",
     "zz-assets/zz-assets/GV-20221129.png",
     "zz-assets/zz-assets/Inspiration.png",

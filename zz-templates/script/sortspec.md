@@ -14,6 +14,12 @@ sorting-spec: |
  // > a-z by-metadata: modified
 
  target-folder: /*
+ Daily
+ Tasks
+ Projects
+ Tracking
+ Resources
+ Snooze
  < a-z 
  target-folder: Daily
  ...
