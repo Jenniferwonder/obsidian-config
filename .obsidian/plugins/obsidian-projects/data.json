@@ -277,31 +277,80 @@
       "fieldConfig": {},
       "defaultName": "",
       "templates": [],
-      "excludedNotes": [],
+      "excludedNotes": [
+        "zz-templates/tp/Daily Plan.md",
+        ""
+      ],
       "isDefault": false,
       "dataSource": {
-        "kind": "folder",
+        "kind": "tag",
         "config": {
-          "path": "01-Inbox/Daily",
-          "recursive": true
+          "tag": "#Daily"
         }
       },
       "newNotesFolder": "",
       "views": [
         {
-          "config": {},
+          "config": {
+            "fieldConfig": {
+              "path": {
+                "hide": true
+              },
+              "aliases": {
+                "hide": true
+              },
+              "due": {
+                "hide": true
+              },
+              "status": {
+                "hide": false
+              },
+              "tags": {
+                "hide": true
+              },
+              "uid": {
+                "hide": true
+              },
+              "name": {
+                "width": 119
+              },
+              "started": {
+                "hide": true
+              },
+              "modified": {
+                "hide": true
+              }
+            },
+            "orderFields": [
+              "name",
+              "title",
+              "modified",
+              "started",
+              "tags",
+              "uid"
+            ],
+            "sortField": "name",
+            "sortAsc": true
+          },
           "filter": {
-            "conditions": []
+            "conditions": [
+              {
+                "field": "name",
+                "operator": "contains",
+                "enabled": true,
+                "value": "2023-04"
+              }
+            ]
           },
           "colors": {
             "conditions": []
           },
-          "id": "2ab95d4b-113d-4e9a-b062-362b0d0dcbc5",
+          "id": "120448e2-341b-4488-bb47-b0095e5f1502",
           "name": "Table",
           "type": "table"
         }
       ],
-      "id": "76458d37-433b-4c37-8f81-0f1c6ca9ef96",
+      "id": "6cb51ce3-4489-4945-b023-032e8576ff00",
       "name": "Daily"
     }
   ],

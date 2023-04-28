@@ -4,16 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "7f80e5718233af25",
+        "id": "3d6be16802278187",
         "type": "tabs",
+        "dimension": 45.847457627118644,
         "children": [
           {
-            "id": "ec637727b865f1f8",
+            "id": "8d9e62e9d6494f5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-04-27.md",
+                "file": "Daily/2023-04-28.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d09cd9de47b04ae",
+            "type": "leaf",
+            "state": {
+              "type": "full-calendar-view",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ac41254afc212fc8",
+        "type": "tabs",
+        "dimension": 54.15254237288135,
+        "children": [
+          {
+            "id": "51192ac8901d4d49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/Front-End Tech Stack/00-Roadmap/怎样找到前端工作-WBS-XMind Markdown.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -95,7 +124,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 245.5
+    "width": 352.5
   },
   "right": {
     "id": "617127011ede853a",
@@ -104,7 +133,7 @@
       {
         "id": "48e4df7056d011b2",
         "type": "tabs",
-        "dimension": 51.09649122807017,
+        "dimension": 78.0701754385965,
         "children": [
           {
             "id": "8456fea1d36da9b5",
@@ -112,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-04-27.md",
+                "file": "Resources/Front-End Tech Stack/00-Roadmap/怎样找到前端工作-WBS-XMind Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +158,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-04-27.md",
+                "file": "Resources/Front-End Tech Stack/00-Roadmap/怎样找到前端工作-WBS-XMind Markdown.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2023-04-27.md"
+                "file": "Resources/Front-End Tech Stack/00-Roadmap/怎样找到前端工作-WBS-XMind Markdown.md"
               }
             }
           },
@@ -195,14 +224,22 @@
               "type": "podcast_player_view",
               "state": {}
             }
+          },
+          {
+            "id": "ecfd9e46264f6cb3",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       },
       {
         "id": "596a513114e5ea91",
         "type": "tabs",
-        "dimension": 48.90350877192983,
+        "dimension": 21.929824561403507,
         "children": [
           {
             "id": "3ff613d8b4842cb2",
@@ -210,7 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2023-04-27.md",
+                "file": "Resources/Front-End Tech Stack/00-Roadmap/怎样找到前端工作-WBS-XMind Markdown.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -243,7 +280,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 252.5,
+    "width": 267.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -270,12 +307,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "dbfolder:Create a new database table": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "remotely-save:Remotely Save": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false,
       "obsidian-projects:Open projects": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "dbfolder:Create a new database table": false,
       "periodic-notes:Open today": false,
       "obsidian-memos:Memos": false
     }
@@ -285,15 +323,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "a0a478b34c54f088",
+        "id": "3846b2dfc16fa6b0",
         "type": "window",
         "children": [
           {
-            "id": "2a187d8e4e5a314a",
+            "id": "9d072efd75630b27",
             "type": "tabs",
             "children": [
               {
-                "id": "6a1a22ad7c37110e",
+                "id": "5425653d2ce8b95f",
                 "type": "leaf",
                 "state": {
                   "type": "memos_view",
@@ -304,55 +342,58 @@
           }
         ],
         "direction": "vertical",
-        "x": 1569,
-        "y": 53,
-        "width": 354,
-        "height": 684,
+        "x": 1652,
+        "y": 70,
+        "width": 324,
+        "height": 611,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "ec637727b865f1f8",
+  "active": "51192ac8901d4d49",
   "lastOpenFiles": [
+    "Daily/2023-04-28.md",
+    "Resources/PKM/05.Obs-Project and Task Management/表格视图追踪管理方法-DB Folder.md",
+    "前端成果产出目标.md",
+    "Resources/Front-End Tech Stack/00-Roadmap/怎样找到前端工作-WBS-XMind Markdown.md",
+    "前端工作需求与目标.md",
+    "为什么想做前端.md",
+    "Daily/2023 Daily Database.md",
+    "Resources/PKM/05.Obs-Project and Task Management/怎样高效追踪管理利用每日笔记数据-DB Folder.md",
+    "Resources/ReadItLater/My Obsidian Setup (Part 26) — DB Folder Relations - Technology Hits - Medium.md",
+    "Resources/PKM/05.Obs-Project and Task Management/尝试甘特图图示时间进度：Obsidian Mermaid（Gantt Chart）.md",
+    "Tracking/Blogs/Medium.md",
+    "Resources/Front-End Tech Stack/00-Roadmap/Codecademy_ Front or Back (Aug 22).md",
     "zz-templates/tp/Daily Plan.md",
-    "Daily/2023-04-27.md",
-    "zz-archives/zz-Daily/2023-03/2023-03-14.md",
-    "Resources/PKM/05.Obs-Project and Task Management/项目管理视图工具有哪些，怎么用/项目管理视图工具有哪些，怎么用.md",
-    "Resources/PKM/05.Obs-Project and Task Management/项目管理视图工具有哪些，怎么用/怎样配置一个高效的Obsidian知识库主页.md",
-    "Resources/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/怎样优化每日笔记模板，提高效率与价值——STAR法则.md",
-    "Resources/PKM/03.Obs-Theme and Style/Obs-超爱的主题 Blue Topaz Nord.md",
-    "Resources/PKM/04.Obs-Quick Add and Capture/不同类型笔记与项目资源模板/笔记收集箱模板优化.md",
-    "Resources/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/每日笔记：怎样随时高效记录每日灵感与活动-Memo, QuickAdd.md",
-    "Resources/PKM/05.Obs-Project and Task Management/项目管理视图工具有哪些，怎么用/怎样用日历进行任务追踪管理-Calendar, Full Calendar.md",
-    "Resources/PKM/05.Obs-Project and Task Management/项目管理视图工具有哪些，怎么用/怎样高效利用Markdown 表格.md",
-    "Resources/PKM/05.Obs-Project and Task Management/项目管理视图工具有哪些，怎么用/怎样高效设置笔记资源与项目文件夹-File Explorer.md",
-    "Resources/PKM/05.Obs-Project and Task Management/项目管理视图工具有哪些，怎么用/怎样高效添加管理待办事项-Checklist, Task, Planner, Calendar, Memo.md",
-    "Resources/PKM/05.Obs-Project and Task Management/项目管理视图工具有哪些，怎么用/怎样实现表格视图灵活排序与添加内容-弥补Projects插件不足.md",
-    "Resources/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/怎样可视化梳理知识体系，头脑风暴-Canvas.md",
-    "Resources/PKM/07.Obs-Review, Refactor and Distill/Obs-Note Refactor.md",
-    "Resources/PKM/07.Obs-Review, Refactor and Distill/怎样快速切割优化笔记，提高知识利用率-Note Refactor.md",
-    "Resources/PKM/05.Obs-Project and Task Management/项目管理视图工具有哪些，怎么用/Obs-Kanban——真看板，怎么用.md",
-    "zz-templates/script/sortspec.md",
-    "Resources/Content-Making/Quality Channels.md",
-    "Tracking/Videos/Skillshare for Front-End Engineers.md",
+    "Resources/PKM/05.Obs-Project and Task Management/怎样搭建项目管理面板和表格数据视图-Projects, Dataview, Kanban, Table, DB Folder.md",
+    "Resources/PKM/05.Obs-Project and Task Management/怎样实现进度条自动追踪-MetaEdit.md",
+    "Resources/PKM/05.Obs-Project and Task Management/热力图怎么用-Heatmap.md",
+    "Resources/PKM/05.Obs-Project and Task Management/项目管理视图工具有哪些，怎么用/Calendar + Reminder 记录待办事项.md",
+    "Resources/PKM/05.Obs-Project and Task Management/记录待办事项-Full Calendar, Day Planner, Reminder.md",
+    "zz-assets/Pasted image 20230428181344.png",
+    "zz-assets/Pasted image 20230428181249.png",
+    "Daily/2023-04-29.md",
+    "Daily/2023-05-02.md",
+    "Daily/2023-05-01.md",
+    "Daily/2023-04-30.md",
+    "Day Planners/Day Planner-20230428.md",
+    "Daily/2023-04-26.md",
+    "Day Planners",
+    "Tasks/(Every F,R,W,T,M) PMP 考试准备.md",
+    "Tasks/(Every F,S,R,W,T,M,U) PMP 考试准备.md",
+    "Projects/React Projects/Visualization",
+    "Projects/React Projects/Video Content Platform",
+    "Projects/React Projects/Content-Editor",
+    "Projects/React Projects/E-Commerce Store",
+    "Projects/React Projects/Documentation Website",
+    "Projects/Untitled",
+    "Projects/Vue Projects",
+    "Resources/Project-Resources",
+    "Projects/React Projects/Game",
+    "Resources/Front-End Tech Stack/00-Roadmap/怎样找到前端工作-WBS-XMind.png",
     "Tracking/Workflow/Front-End Projects Overview.canvas",
-    "Tracking/Workflow",
-    "Tracking/Codespace",
-    "Tracking/Videos",
-    "zz-templates/tp/tp-笔记收集箱.md",
-    "zz-templates/tp/tp-流水账模板.md",
-    "zz-templates/tp/tp-插件启停模板.md",
-    "zz-templates/tp/tp-人物模板.md",
-    "zz-templates/tp/tp-默认笔记模板.md",
-    "Tasks",
     "Tracking/Workflow/Knowledge Workflow.canvas",
-    "Projects/GeekEnglish/zz-Related/zz-Content",
-    "Projects/GeekEnglish/zz-Related/06-App",
-    "Projects/GeekEnglish/zz-Related/04-Blog",
-    "Projects/GeekEnglish/zz-Related/05-Miniprogram",
-    "Projects/GeekEnglish/zz-Related/03-Portfolio",
-    "Projects/GeekEnglish/zz-Related/02-Admin Panel",
     "Resources/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/PKM-Map.canvas",
     "zz-assets/Pasted image 20230426175143.png",
     "GeekEnglish/GE-Resources/Projects Overview.canvas",
@@ -367,9 +408,6 @@
     "zz-assets/zz-assets/Inspiration.png",
     "zz-assets/zz-assets/Inspiration-2.png",
     "zz-assets/zz-assets/Inspiration-1.png",
-    "zz-assets/assets 2/Pasted image 20230301100205.png",
-    "zz-assets/assets 2/Pasted image 20230301095205.png",
-    "zz-assets/assets 2/Pasted image 20230301094039.png",
-    "zz-assets/assets 2/Pasted image 20230301094450.png"
+    "zz-assets/assets 2/Pasted image 20230301100205.png"
   ]
 }

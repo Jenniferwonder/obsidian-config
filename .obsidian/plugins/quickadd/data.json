@@ -40,7 +40,7 @@
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "01-Inbox/Kanban.md",
+      "captureTo": "Tasks/Kanban.md",
       "captureToActiveFile": false,
       "createFileIfItDoesntExist": {
         "enabled": true,

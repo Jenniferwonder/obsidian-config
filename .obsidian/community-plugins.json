@@ -46,7 +46,6 @@
   "canvas-mindmap",
   "various-complements",
   "recent-files-obsidian",
-  "dbfolder",
   "folder-note-plugin",
   "obsidian-hover-editor",
   "note-refactor-obsidian",
@@ -81,5 +80,7 @@
   "remotely-save",
   "easy-typing-obsidian",
   "obsidian-enhancing-mindmap",
-  "obsidian-mind-map"
+  "obsidian-mind-map",
+  "mermaid-tools",
+  "dbfolder"
 ]

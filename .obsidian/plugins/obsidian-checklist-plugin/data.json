@@ -11,7 +11,9 @@
   "includeFiles": "",
   "lookAndFeel": "classic",
   "_collapsedSections": [
-    "Templates/Daily Plan.md"
+    "Templates/Daily Plan.md",
+    "Daily/2023-04-30.md",
+    "Daily/2023-05-02.md"
   ],
   "_hiddenTags": []
 }

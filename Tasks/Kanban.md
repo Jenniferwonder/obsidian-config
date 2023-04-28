@@ -7,7 +7,27 @@ tags: Kanban
 
 ## TODO
 
-- [ ] Master React Core Concepts by Building Simplest Demos
+
+
+## Capturing
+
+
+
+## Organizing
+
+
+
+## Distilling
+
+
+
+## Published
+
+
+
+## Archived
+
+**Complete**
 
 
 

@@ -168,6 +168,18 @@
         {
           "id": "easy-typing-obsidian",
           "name": "Easy Typing"
+        },
+        {
+          "id": "mermaid-tools",
+          "name": "Mermaid Tools"
+        },
+        {
+          "id": "obsidian-enhancing-mindmap",
+          "name": "Enhancing Mindmap"
+        },
+        {
+          "id": "obsidian-mind-map",
+          "name": "Mind Map"
         }
       ],
       "groupIds": [],

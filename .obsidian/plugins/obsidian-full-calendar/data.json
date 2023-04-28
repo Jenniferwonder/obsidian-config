@@ -2,13 +2,13 @@
   "calendarSources": [
     {
       "type": "dailynote",
-      "color": "#f7f8f8",
-      "heading": "Logs"
+      "color": "hsl( 210,  34%, calc( 63% + 2.5%))",
+      "heading": "Tasks"
     },
     {
       "type": "local",
-      "color": "#ffffff",
-      "directory": "/"
+      "color": "hsl( 210,  34%, calc( 63% + 2.5%))",
+      "directory": "Tasks"
     }
   ],
   "defaultCalendar": 0,

@@ -6,6 +6,7 @@ obsidianUIMode: preview
 `button-homewp`  `button-browsevault`  `button-browsenext` `button-browserefresh` 
 %% Begin Waypoint %%
 - **[[ReadItLater]]**
+	- [[My Obsidian Setup (Part 26) — DB Folder Relations - Technology Hits - Medium]]
 	- **PDF**
 		- [[20230418-Mindmap Script.pdf]]
 		- [[edX Computer Science Fundamentals Syllabus.annos]]

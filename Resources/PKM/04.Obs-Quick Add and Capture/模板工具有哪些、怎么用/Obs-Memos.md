@@ -20,6 +20,6 @@ aliases: Memo
 - ? Memo 任务管理?
 	- 用 Memo 记录 Action, 任务管理交给其他工具
 - ? 与 Day Planner 联动?
-	- [[怎样高效追踪管理利用每日笔记数据]]
+	- [[怎样高效追踪管理利用每日笔记数据-DB Folder]]
 
 ![[How Memo Works.canvas]]
