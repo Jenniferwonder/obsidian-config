@@ -10,12 +10,8 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "/",
-      "template": "zz-templates/tp/tp-笔记收集箱.md"
-    },
-    {
-      "folder": "GeekEnglish",
-      "template": "zz-templates/tp/tp-通用模板.md"
+      "folder": "Tasks",
+      "template": "zz-templates/tp/tp-Tasks.md"
     }
   ],
   "syntax_highlighting": true,

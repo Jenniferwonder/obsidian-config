@@ -319,6 +319,12 @@
               },
               "modified": {
                 "hide": true
+              },
+              "topic": {
+                "hide": true
+              },
+              "title": {
+                "width": 235
               }
             },
             "orderFields": [

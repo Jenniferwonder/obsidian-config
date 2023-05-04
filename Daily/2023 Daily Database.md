@@ -85,7 +85,7 @@ columns:
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 253
+    width: 347
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -115,6 +115,27 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
+  周报:
+    input: relation
+    accessorKey: 周报
+    key: 周报
+    id: 周报
+    label: 周报
+    position: 100
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      related_note_path: Tasks/Tasks Database.md
+      bidirectional_relation: true
 config:
   remove_field_when_delete_column: false
   cell_size: normal
@@ -146,6 +167,51 @@ config:
   enable_footer: false
   implementation: default
 filters:
-  enabled: false
+  enabled: true
   conditions:
+      - condition: AND
+        disabled: true
+        label: "1月"
+        color: "hsl(213, 95%, 90%)"
+        filters:
+        - field: file.name
+          operator: CONTAINS
+          value: "2023-01"
+          type: text
+      - condition: AND
+        disabled: true
+        label: "2月"
+        color: "hsl(88, 95%, 90%)"
+        filters:
+        - field: file.name
+          operator: CONTAINS
+          value: "2023-02"
+          type: text
+      - condition: AND
+        disabled: true
+        label: "3月"
+        color: "hsl(230, 95%, 90%)"
+        filters:
+        - field: file.name
+          operator: CONTAINS
+          value: "2023-03"
+          type: text
+      - condition: AND
+        disabled: true
+        label: "4月"
+        color: "hsl(77, 95%, 90%)"
+        filters:
+        - field: file.name
+          operator: CONTAINS
+          value: "2023-04"
+          type: text
+      - condition: AND
+        disabled: false
+        label: "5月"
+        color: "hsl(65, 95%, 90%)"
+        filters:
+        - field: file.name
+          operator: CONTAINS
+          value: "2023-05"
+          type: text
 ```

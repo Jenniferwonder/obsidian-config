@@ -7,6 +7,10 @@ modified: 2023-04-21 Fri
 status: 🟠Distilling
 ---
 # Obs-阅读笔记（PDF、书与图片）
+### PDF 文献管理与阅读笔记
+#### 1. Zotero
+[quick start guide [Zotero Documentation]](https://www.zotero.org/support/quick_start_guide)
+[[Youtube - Zotero Obsidian Integration]]
 ### 阅读批注
 #### 1. Annotator
 - PDF 资料文件夹 > Annotator > PDF 阅读批注

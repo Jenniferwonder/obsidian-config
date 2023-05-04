@@ -10,13 +10,15 @@ if(tp.file.title.includes("未命名") || tp.file.title.toLowerCase().includes("
 -%>
 UID: <% tp.date.now("YYYYMMDDHHmmss") %> 
 title: <% tp.file.title %>
-tags: <% tp.system.prompt("这个笔记相关标签", "比如：PKM") %>
-type: <% tp.system.suggester(["🗒️Resource", "🚀Project", "💪Tracking"], ["🗒️Resource", "🚀Project", "💪Tracking"]) %> 
+tags: <% tp.system.prompt("这个笔记相关标签", "PKM") %>
 started: <% tp.date.now("YYYY-MM-DD") %>
-modified: <%+ tp.file.last_modified_date("YYYY-MM-DD ddd") %>
+modified: 
+type: <% tp.system.suggester(["🗒️Resource", "🚀Project", "💪Tracking"], ["🗒️Resource", "🚀Project", "💪Tracking"]) %> 
 status: <% tp.system.suggester(["⚪Capturing", "🟡Organizing", "🟠Distilling","🟢Published","🔵Archived"], ["⚪Capturing", "🟡Organizing", "🟠Distilling", "🟢Published", "🔵Archived"]) %>
 due:
-cssclass: 
+cssclass:
+Source:
+URL:
 ---
 ## Purpose
 
@@ -28,6 +30,24 @@ cssclass:
 
 ## Reflections
 
+## Reference 
+
 ## Related Notes
 
-## Reference
+```start-multi-column
+ID: ID_sbs3
+Number of Columns: 2
+Largest Column: standard
+Border: disabled 
+```
+
+**Previous**
+
+--- column-end ---
+
+**Next**
+
+
+=== end-multi-column
+
+

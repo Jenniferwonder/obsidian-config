@@ -13,4 +13,4 @@ progress:
 [[怎样实现表格视图灵活排序与添加内容-弥补Projects插件不足|Projects]]  
 [[Obs-Dataview——是什么，怎么用|Dataview]]  
 [[怎样高效利用Markdown 表格|Markdown Table]]  
-DB Folder
+[[表格视图追踪管理方法-DB Folder|DB Folder]]

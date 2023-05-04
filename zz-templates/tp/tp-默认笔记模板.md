@@ -33,6 +33,8 @@ modified: <%+ tp.file.last_modified_date("YYYY-MM-DD dddd HH:mm:ss") %>
 status: <% tp.system.suggester(["⚪Captured", "🟡Organized", "🟠Distilled","🟢Published","🔵Archived"], ["⚪Captured", "🟡Organized", "🟠Distilled", "🟢Published", "🔵Archived"]) %>
 due:
 cssclass: 
+Source:
+URL:
 ---
 
 ## Purpose

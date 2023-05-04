@@ -394,8 +394,8 @@
     "disabled": {
       "disabled": {
         "currentVault": {
-          "count": 7,
-          "lastUpdated": 1682581985356
+          "count": 9,
+          "lastUpdated": 1683169120360
         }
       }
     },
@@ -618,8 +618,8 @@
     "Databse": {
       "Databse": {
         "currentVault": {
-          "count": 1,
-          "lastUpdated": 1682388691814
+          "count": 2,
+          "lastUpdated": 1683169179305
         }
       }
     },
@@ -732,6 +732,38 @@
         "internalLink": {
           "count": 1,
           "lastUpdated": 1682578669888
+        }
+      }
+    },
+    "Fitness": {
+      "Fitness": {
+        "currentVault": {
+          "count": 1,
+          "lastUpdated": 1683167513463
+        }
+      }
+    },
+    "Pipelines": {
+      "Pipelines": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683169813823
+        }
+      }
+    },
+    "Vault": {
+      "Vault": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1683169823705
+        }
+      }
+    },
+    "Structure": {
+      "Structure": {
+        "currentVault": {
+          "count": 2,
+          "lastUpdated": 1683186242504
         }
       }
     }

@@ -80,7 +80,7 @@
   "blue-topaz-theme@@view-button-front": false,
   "blue-topaz-theme@@toggle-divider-lines": true,
   "blue-topaz-theme@@toggle-header-bottom-line": true,
-  "blue-topaz-theme@@text-highlight-bg-h-light": 185,
+  "blue-topaz-theme@@text-highlight-bg-h-light": 280,
   "blue-topaz-theme@@text-highlight-bg-s-light": 100,
   "blue-topaz-theme@@text-highlight-bg-l-light": 100,
   "blue-topaz-theme@@text-highlight-bg-a-light": 0.45,
@@ -241,5 +241,6 @@
   "minimal-style@@h6-size": "1em",
   "minimal-style@@sidebar-tabs-style": "sidebar-tabs-default",
   "minimal-style@@table-text-size": "1.2em",
-  "minimal-style@@window-title-off": false
+  "minimal-style@@window-title-off": false,
+  "blue-topaz-theme@@remove-colorful-highlight-bg": true
 }

@@ -4,45 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3d6be16802278187",
+        "id": "e862ddec48ad3922",
         "type": "tabs",
-        "dimension": 45.847457627118644,
         "children": [
           {
-            "id": "8d9e62e9d6494f5f",
+            "id": "b5569cd6b0b777ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2023-04-28.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d09cd9de47b04ae",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-view",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "ac41254afc212fc8",
-        "type": "tabs",
-        "dimension": 54.15254237288135,
-        "children": [
-          {
-            "id": "51192ac8901d4d49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Resources/Front-End Tech Stack/00-Roadmap/怎样找到前端工作-WBS-XMind Markdown.md",
+                "file": "Views/Homepage.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -124,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 352.5
+    "width": 291.5
   },
   "right": {
     "id": "617127011ede853a",
@@ -133,7 +104,7 @@
       {
         "id": "48e4df7056d011b2",
         "type": "tabs",
-        "dimension": 78.0701754385965,
+        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "8456fea1d36da9b5",
@@ -141,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Resources/Front-End Tech Stack/00-Roadmap/怎样找到前端工作-WBS-XMind Markdown.md",
+                "file": "Views/Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Resources/Front-End Tech Stack/00-Roadmap/怎样找到前端工作-WBS-XMind Markdown.md",
+                "file": "Views/Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Resources/Front-End Tech Stack/00-Roadmap/怎样找到前端工作-WBS-XMind Markdown.md"
+                "file": "Views/Homepage.md"
               }
             }
           },
@@ -182,6 +153,41 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3ff613d8b4842cb2",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Views/Homepage.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6717561918911799,
+                  "close": true
+                }
               }
             }
           },
@@ -226,62 +232,27 @@
             }
           },
           {
-            "id": "ecfd9e46264f6cb3",
+            "id": "a73e2715f5e99633",
             "type": "leaf",
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {}
             }
-          }
-        ],
-        "currentTab": 6
-      },
-      {
-        "id": "596a513114e5ea91",
-        "type": "tabs",
-        "dimension": 21.929824561403507,
-        "children": [
+          },
           {
-            "id": "3ff613d8b4842cb2",
+            "id": "4d9693eb26b53394",
             "type": "leaf",
             "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Resources/Front-End Tech Stack/00-Roadmap/怎样找到前端工作-WBS-XMind Markdown.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.6717561918911799,
-                  "close": true
-                }
-              }
+              "type": "FANTASY_CALENDAR",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
-    "width": 267.5,
-    "collapsed": true
+    "width": 247.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -315,7 +286,8 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "dbfolder:Create a new database table": false,
       "periodic-notes:Open today": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false
     }
   },
   "floating": {
@@ -342,72 +314,101 @@
           }
         ],
         "direction": "vertical",
-        "x": 1652,
-        "y": 70,
+        "x": 2857,
+        "y": 118,
         "width": 324,
-        "height": 611,
+        "height": 612,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "356437d5cb64ccf3",
+        "type": "window",
+        "children": [
+          {
+            "id": "d43cf65b04ae16e0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ff77aead3502f974",
+                "type": "leaf",
+                "state": {
+                  "type": "mindmapView",
+                  "state": {
+                    "file": "Tracking/Workflow/Front-End OKR-Mindmap.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2057,
+        "y": 88,
+        "width": 898,
+        "height": 872,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "51192ac8901d4d49",
+  "active": "b5569cd6b0b777ee",
   "lastOpenFiles": [
-    "Daily/2023-04-28.md",
-    "Resources/PKM/05.Obs-Project and Task Management/表格视图追踪管理方法-DB Folder.md",
-    "前端成果产出目标.md",
-    "Resources/Front-End Tech Stack/00-Roadmap/怎样找到前端工作-WBS-XMind Markdown.md",
-    "前端工作需求与目标.md",
-    "为什么想做前端.md",
-    "Daily/2023 Daily Database.md",
-    "Resources/PKM/05.Obs-Project and Task Management/怎样高效追踪管理利用每日笔记数据-DB Folder.md",
-    "Resources/ReadItLater/My Obsidian Setup (Part 26) — DB Folder Relations - Technology Hits - Medium.md",
-    "Resources/PKM/05.Obs-Project and Task Management/尝试甘特图图示时间进度：Obsidian Mermaid（Gantt Chart）.md",
-    "Tracking/Blogs/Medium.md",
-    "Resources/Front-End Tech Stack/00-Roadmap/Codecademy_ Front or Back (Aug 22).md",
-    "zz-templates/tp/Daily Plan.md",
-    "Resources/PKM/05.Obs-Project and Task Management/怎样搭建项目管理面板和表格数据视图-Projects, Dataview, Kanban, Table, DB Folder.md",
-    "Resources/PKM/05.Obs-Project and Task Management/怎样实现进度条自动追踪-MetaEdit.md",
-    "Resources/PKM/05.Obs-Project and Task Management/热力图怎么用-Heatmap.md",
-    "Resources/PKM/05.Obs-Project and Task Management/项目管理视图工具有哪些，怎么用/Calendar + Reminder 记录待办事项.md",
-    "Resources/PKM/05.Obs-Project and Task Management/记录待办事项-Full Calendar, Day Planner, Reminder.md",
-    "zz-assets/Pasted image 20230428181344.png",
-    "zz-assets/Pasted image 20230428181249.png",
-    "Daily/2023-04-29.md",
-    "Daily/2023-05-02.md",
+    "OKRTs/Objectives/Objectives Database.md",
+    "OKRTs/Objectives/Objective1.md",
+    "OKRTs/Tasks/2023-05-04 Full Calendar Task.md",
+    "Tracking/Workflow/Front-End OKR-Mindmap.md",
+    "OKRTs/KRs/KR Database.md",
+    "OKRTs/Tasks/Tasks Database.md",
+    "OKRTs",
+    "OKRTs/Tasks/Task.md",
+    "Temp/OKR 拆解及进度管理.md",
+    "OKRTs/KRs/KR1.md",
+    "zz-archives/zz-Reflections/Core Value.md",
+    "OKRTs/KRs",
+    "zz-assets/Pasted image 20230504200844.png",
+    "Views/Homepage.md",
+    "Resonance Database/Resonance Database.md",
+    "OKRTs/Tasks/Task3.md",
+    "Tasks/Untitled.md",
+    "zz-templates/tp/tp-Tasks.md",
+    "OKRTs/Tasks/Task2.md",
+    "Weekly",
+    "OKRTs/Tasks",
+    "Views/Kanban(Content Flow).md",
+    "Projects/React Projects/Documentation Website/GE-知识库书宣传文档.md",
     "Daily/2023-05-01.md",
-    "Daily/2023-04-30.md",
-    "Day Planners/Day Planner-20230428.md",
-    "Daily/2023-04-26.md",
-    "Day Planners",
-    "Tasks/(Every F,R,W,T,M) PMP 考试准备.md",
-    "Tasks/(Every F,S,R,W,T,M,U) PMP 考试准备.md",
-    "Projects/React Projects/Visualization",
-    "Projects/React Projects/Video Content Platform",
-    "Projects/React Projects/Content-Editor",
-    "Projects/React Projects/E-Commerce Store",
-    "Projects/React Projects/Documentation Website",
-    "Projects/Untitled",
-    "Projects/Vue Projects",
-    "Resources/Project-Resources",
-    "Projects/React Projects/Game",
-    "Resources/Front-End Tech Stack/00-Roadmap/怎样找到前端工作-WBS-XMind.png",
-    "Tracking/Workflow/Front-End Projects Overview.canvas",
+    "OKRTs/Objectives/My Goals in 2023.md",
+    "Temp/Useful Metadata.md",
+    "Views/Kanban (Status).md",
+    "Views/Kanban (Priority).md",
+    "Temp/项目目标.md",
+    "Tasks/20230504190225.md",
+    "Views/Untitled.canvas",
+    "zz-assets/Pasted image 20230504185936.png",
+    "zz-assets/Pasted image 20230504185028.png",
+    "Temp/月度里程碑（看板、列表、甘特图）.md",
+    "zz-assets/Pasted image 20230504184747.png",
+    "zz-assets/Pasted image 20230504184626.png",
+    "zz-assets/Pasted image 20230504184508.png",
     "Tracking/Workflow/Knowledge Workflow.canvas",
+    "Tracking/Workflow/Front-End Projects Overview.canvas",
     "Resources/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/PKM-Map.canvas",
-    "zz-assets/Pasted image 20230426175143.png",
+    "OKRTs/Objectives",
+    "zz-templates/tp-blog",
+    "zz-templates/tp-wechat",
+    "Resonance Database/Course",
+    "zz-assets/Pasted image 20230504154411.png",
+    "zz-assets/Pasted image 20230504154224.png",
+    "zz-assets/Pasted image 20230504154115.png",
+    "Resonance Database/Article",
+    "Temp",
+    "zz-assets/Pasted image 20230504112813.png",
+    "Resources/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/Canvas Demo.canvas",
     "GeekEnglish/GE-Resources/Projects Overview.canvas",
     "Resources/GeekEnglish/Projects Overview.canvas",
-    "Resources/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/Canvas Demo.canvas",
     "Resources/PKM/iPad/Note in iPhone.canvas",
     "Resources/PKM/iPad/Canvas in iPad.canvas",
-    "Resources/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/How Memo Works.canvas",
-    "PKM/Knowledge Workflow.canvas",
-    "zz-assets/zz-assets/white-bg.png",
-    "zz-assets/zz-assets/GV-20221129.png",
-    "zz-assets/zz-assets/Inspiration.png",
-    "zz-assets/zz-assets/Inspiration-2.png",
-    "zz-assets/zz-assets/Inspiration-1.png",
-    "zz-assets/assets 2/Pasted image 20230301100205.png"
+    "Resources/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/How Memo Works.canvas"
   ]
 }

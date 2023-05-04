@@ -605,5 +605,14 @@
   "easy-typing-obsidian:easy-typing-format-selection": [],
   "easy-typing-obsidian:easy-typing-insert-codeblock": [],
   "easy-typing-obsidian:easy-typing-format-switch": [],
-  "easy-typing-obsidian:easy-typing-delete-blank-line": []
+  "easy-typing-obsidian:easy-typing-delete-blank-line": [],
+  "highlightr-plugin:unhighlight": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "H"
+    }
+  ]
 }

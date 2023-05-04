@@ -79,6 +79,7 @@ cssclass: kanban gridlist noyaml
 		- [[怎样高效设置笔记资源与项目文件夹-File Explorer]]
 		- [[怎样高效追踪管理利用每日笔记数据-DB Folder]]
 		- [[热力图怎么用-Heatmap]]
+		- [[笔记项目管理方法参考-August Bradley]]
 		- [[表格视图追踪管理方法-DB Folder]]
 		- [[记录待办事项-Full Calendar, Day Planner, Reminder]]
 		- [[项目管理视图工具有哪些，怎么用]]
