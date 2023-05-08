@@ -1,7 +1,7 @@
 ---
 UID: 20230504185654 
-title: Untitled
-tags: PMP
+title: OKR 拆解及进度管理
+tags: [PMP, Tasks]
 started: 2023-05-04
 modified: 
 type: 🗒️Resource 

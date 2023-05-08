@@ -1,7 +1,7 @@
 ---
 UID: 20230504152548 
 title: Branding Components
-tags: [PKM, flex]
+tags: [PKM, Tasks]
 type: 🗒️Resource 
 started: 2023-05-04 Thu
 modified: 2023-05-04 Thu

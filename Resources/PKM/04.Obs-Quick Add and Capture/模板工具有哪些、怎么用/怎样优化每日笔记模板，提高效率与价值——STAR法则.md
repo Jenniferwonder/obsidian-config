@@ -17,7 +17,7 @@ AutoNoteMover: disable
 - *Planner* 追踪每日例行事项 Checklists
 
 ## 模板
-[[Daily Plan]]
+[[Daily Plan Template]]
 
 ## 相关笔记
 

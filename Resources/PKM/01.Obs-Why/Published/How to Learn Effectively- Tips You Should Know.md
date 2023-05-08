@@ -6,7 +6,7 @@ due:
 modified: 2023-04-19 Wed
 status: 🟢Published
 ---
-[[Ultimate Productivity System-CODE]]
+[[Ultimate Productivity System-CODE]] 💡
 [[How Brain Works]]
 [How to Learn to Code - 8 Hard Truths - YouTube](https://www.youtube.com/watch?v=NtfbWkxJTHw)
 ### More Tips

@@ -40,7 +40,6 @@
   "obsidian-markmind",
   "obsidian-advanced-slides",
   "longform",
-  "obsidian-virtual-hotkey-keyboard",
   "obsidian-citation-plugin",
   "obsidian-spaced-repetition",
   "canvas-mindmap",
@@ -83,5 +82,7 @@
   "obsidian-mind-map",
   "mermaid-tools",
   "dbfolder",
-  "fantasy-calendar"
+  "fantasy-calendar",
+  "obsidian-icon-folder",
+  "obsidian-minimal-settings"
 ]

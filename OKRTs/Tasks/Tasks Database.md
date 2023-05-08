@@ -77,7 +77,7 @@ columns:
     key: started
     id: started
     label: Started
-    position: 5
+    position: 6
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -96,7 +96,7 @@ columns:
     key: due
     id: due
     label: Due
-    position: 6
+    position: 7
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -115,11 +115,12 @@ columns:
     key: status
     id: status
     label: Status
-    position: 7
+    position: 8
     skipPersist: false
     isHidden: false
     sortIndex: -1
     options:
+      - { label: "🟡Organizing", value: "🟡Organizing", color: "hsl(149, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -130,27 +131,6 @@ columns:
       footer_type: none
       persist_changes: false
       option_source: manual
-  周报:
-    input: relation
-    accessorKey: 周报
-    key: 周报
-    id: 周报
-    label: 周报
-    position: 8
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-      related_note_path: Daily/2023 Daily Database.md
-      bidirectional_relation: true
   对齐KR:
     input: relation
     accessorKey: 对齐KR
@@ -178,11 +158,12 @@ columns:
     key: Owner
     id: Owner
     label: Owner
-    position: 10
+    position: 12
     skipPersist: false
     isHidden: false
     sortIndex: -1
     options:
+      - { label: "Jennifer", value: "Jennifer", color: "hsl(249, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -199,7 +180,7 @@ columns:
     key: Priority
     id: Priority
     label: Priority
-    position: 4
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
@@ -219,11 +200,35 @@ columns:
     accessorKey: Tasks
     key: Tasks
     id: Tasks
-    label: Tasks
-    position: 8
+    label: 日报
+    position: 11
     skipPersist: false
-    isHidden: true
+    isHidden: false
     sortIndex: -1
+    width: 133
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: true
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      wrap_content: true
+      related_note_path: Daily/2023 Daily Database.md
+      bidirectional_relation: true
+  title:
+    input: text
+    accessorKey: title
+    key: title
+    id: title
+    label: Title
+    position: 4
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 201
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -233,7 +238,27 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      related_note_path: Goals/OKR Database.md
+  对齐Objective:
+    input: relation
+    accessorKey: 对齐Objective
+    key: 对齐Objective
+    id: 对齐Objective
+    label: 对齐Objective
+    position: 10
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 134
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: true
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      related_note_path: OKRTs/Objectives/Objectives Database.md
       bidirectional_relation: true
 config:
   remove_field_when_delete_column: false

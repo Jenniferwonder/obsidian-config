@@ -149,6 +149,27 @@ columns:
       persist_changes: false
       related_note_path: KRs/KR Database.md
       bidirectional_relation: true
+  对齐Objective:
+    input: relation
+    accessorKey: 对齐Objective
+    key: 对齐Objective
+    id: 对齐Objective
+    label: 对齐Objective
+    position: 11
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: true
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      related_note_path: OKRTs/Tasks/Tasks Database.md
+      bidirectional_relation: true
 config:
   remove_field_when_delete_column: false
   cell_size: normal

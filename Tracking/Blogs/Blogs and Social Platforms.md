@@ -1,6 +1,6 @@
 ---
 title: Blogs and Social Platforms
-tags: Content-Creating   
+tags: Content-Making   
 started: 2022-11-28 Mon
 due: 
 modified: 2023-04-10 Mon
@@ -85,7 +85,7 @@ status: Doing
 	- [[Useful English Expressions]]
 	- [[AU-20221129]]
 - ⭐[[Note-Taking]]
-- 学习记录模板：[[Daily Plan]]
+- 学习记录模板：[[Daily Plan Template]]
 #### 4. Tech Skills
 - CSS 样式方法总结 01：[Medium主页：弹性盒布局方法总结](https://juejin.cn/post/7164717886722801677)
 - CSS 样式方法总结 02：[Twitter 主页：圣杯式布局方法总结](https://www.yuque.com/docs/share/b5aea70d-a4f6-4508-8a11-02178a14af0d?#)

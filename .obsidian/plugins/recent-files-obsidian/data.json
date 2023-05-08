@@ -1,16 +1,168 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Views/Homepage.md"
+      "basename": "O1-夯实前端基础，",
+      "path": "OKRTs/Objectives/O1-夯实前端基础，.md"
+    },
+    {
+      "basename": "O2-",
+      "path": "OKRTs/Objectives/O2-.md"
+    },
+    {
+      "basename": "My Goals in 2023",
+      "path": "OKRTs/Objectives/My Goals in 2023.md"
     },
     {
       "basename": "Objectives Database",
       "path": "OKRTs/Objectives/Objectives Database.md"
     },
     {
-      "basename": "Objective1",
-      "path": "OKRTs/Objectives/Objective1.md"
+      "basename": "Tasks Database",
+      "path": "OKRTs/Tasks/Tasks Database.md"
+    },
+    {
+      "basename": "2023 Daily Database",
+      "path": "Daily/2023 Daily Database.md"
+    },
+    {
+      "basename": "2023-05-03",
+      "path": "Daily/2023-05-03.md"
+    },
+    {
+      "basename": "2023-05-02",
+      "path": "Daily/2023-05-02.md"
+    },
+    {
+      "basename": "2023-05-01",
+      "path": "Daily/2023-05-01.md"
+    },
+    {
+      "basename": "2023-05-08",
+      "path": "Daily/2023-05-08.md"
+    },
+    {
+      "basename": "2023-05-06",
+      "path": "Daily/2023-05-06.md"
+    },
+    {
+      "basename": "2023-05-05",
+      "path": "Daily/2023-05-05.md"
+    },
+    {
+      "basename": "2023-05-04",
+      "path": "Daily/2023-05-04.md"
+    },
+    {
+      "basename": "香港一日游-2023-05-02",
+      "path": "Resources/Life/香港一日游-2023-05-02.md"
+    },
+    {
+      "basename": "2023-01-31",
+      "path": "zz-archives/zz-Daily/2023-01/2023-01-31.md"
+    },
+    {
+      "basename": "2023-02-03",
+      "path": "zz-archives/zz-Daily/2023-02/2023-02-03.md"
+    },
+    {
+      "basename": "Community Impact",
+      "path": "Resources/Content-Making/Community Impact.md"
+    },
+    {
+      "basename": "Daily Plan Template",
+      "path": "zz-templates/tp/Daily Plan Template.md"
+    },
+    {
+      "basename": "项目目标制定方法",
+      "path": "Temp/项目目标制定方法.md"
+    },
+    {
+      "basename": "笔记软件评测-到底选哪款？",
+      "path": "Temp/笔记软件评测-到底选哪款？.md"
+    },
+    {
+      "basename": "月度里程碑（看板、列表、甘特图）",
+      "path": "Temp/月度里程碑（看板、列表、甘特图）.md"
+    },
+    {
+      "basename": "Video Making Resources",
+      "path": "Resources/Content-Making/Video Making Resources.md"
+    },
+    {
+      "basename": "Useful Metadata",
+      "path": "Temp/Useful Metadata.md"
+    },
+    {
+      "basename": "Timeline",
+      "path": "Temp/Timeline.md"
+    },
+    {
+      "basename": "Tell the Story",
+      "path": "Temp/Tell the Story.md"
+    },
+    {
+      "basename": "Pillars",
+      "path": "Temp/Pillars.md"
+    },
+    {
+      "basename": "OKR 拆解及进度管理",
+      "path": "Temp/OKR 拆解及进度管理.md"
+    },
+    {
+      "basename": "HIVEs Framework",
+      "path": "Temp/HIVEs Framework.md"
+    },
+    {
+      "basename": "Branding Components",
+      "path": "Temp/Branding Components.md"
+    },
+    {
+      "basename": "Alignment Zone",
+      "path": "Temp/Alignment Zone.md"
+    },
+    {
+      "basename": "Action Zone",
+      "path": "Temp/Action Zone.md"
+    },
+    {
+      "basename": "Task3",
+      "path": "OKRTs/Tasks/Task3.md"
+    },
+    {
+      "basename": "从这开始",
+      "path": "从这开始.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Views/Homepage.md"
+    },
+    {
+      "basename": "Obs-Reading Notes (PDF, Books, Photo)",
+      "path": "Resources/PKM/04.Obs-Quick Add and Capture/不同类型笔记与项目资源模板/Obs-Reading Notes (PDF, Books, Photo).md"
+    },
+    {
+      "basename": "PKM",
+      "path": "Resources/PKM/PKM.md"
+    },
+    {
+      "basename": "Resonance Database",
+      "path": "Resonance Database/Resonance Database.md"
+    },
+    {
+      "basename": "发布方案",
+      "path": "Resonance Database/Article/发布方案.md"
+    },
+    {
+      "basename": "Digital Garden国内访问大框问题",
+      "path": "Resonance Database/Article/Digital Garden国内访问大框问题.md"
+    },
+    {
+      "basename": "00.Obs-Community",
+      "path": "Resources/PKM/00.Obs-Community/00.Obs-Community.md"
+    },
+    {
+      "basename": "Youtube - Obsidian collaboration with VS code",
+      "path": "Resonance Database/Youtube/Youtube - Obsidian collaboration with VS code.md"
     },
     {
       "basename": "Front-End OKR-Mindmap",
@@ -21,16 +173,8 @@
       "path": "OKRTs/KRs/KR Database.md"
     },
     {
-      "basename": "Tasks Database",
-      "path": "OKRTs/Tasks/Tasks Database.md"
-    },
-    {
       "basename": "Task",
       "path": "OKRTs/Tasks/Task.md"
-    },
-    {
-      "basename": "OKR 拆解及进度管理",
-      "path": "Temp/OKR 拆解及进度管理.md"
     },
     {
       "basename": "KR1",
@@ -39,14 +183,6 @@
     {
       "basename": "Core Value",
       "path": "zz-archives/zz-Reflections/Core Value.md"
-    },
-    {
-      "basename": "Resonance Database",
-      "path": "Resonance Database/Resonance Database.md"
-    },
-    {
-      "basename": "Task3",
-      "path": "OKRTs/Tasks/Task3.md"
     },
     {
       "basename": "tp-Tasks",
@@ -63,142 +199,6 @@
     {
       "basename": "GE-知识库书宣传文档",
       "path": "Projects/React Projects/Documentation Website/GE-知识库书宣传文档.md"
-    },
-    {
-      "basename": "2023-05-01",
-      "path": "Daily/2023-05-01.md"
-    },
-    {
-      "basename": "My Goals in 2023",
-      "path": "OKRTs/Objectives/My Goals in 2023.md"
-    },
-    {
-      "basename": "Useful Metadata",
-      "path": "Temp/Useful Metadata.md"
-    },
-    {
-      "basename": "Kanban (Status)",
-      "path": "Views/Kanban (Status).md"
-    },
-    {
-      "basename": "Kanban (Priority)",
-      "path": "Views/Kanban (Priority).md"
-    },
-    {
-      "basename": "项目目标",
-      "path": "Temp/项目目标.md"
-    },
-    {
-      "basename": "Untitled",
-      "path": "Views/Untitled.canvas"
-    },
-    {
-      "basename": "月度里程碑（看板、列表、甘特图）",
-      "path": "Temp/月度里程碑（看板、列表、甘特图）.md"
-    },
-    {
-      "basename": "Knowledge Workflow",
-      "path": "Tracking/Workflow/Knowledge Workflow.canvas"
-    },
-    {
-      "basename": "Front-End Projects Overview",
-      "path": "Tracking/Workflow/Front-End Projects Overview.canvas"
-    },
-    {
-      "basename": "06.Obs-Brainstorm and Visualization",
-      "path": "Resources/PKM/06.Obs-Brainstorm and Visualization/06.Obs-Brainstorm and Visualization.md"
-    },
-    {
-      "basename": "PKM-Map",
-      "path": "Resources/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/PKM-Map.canvas"
-    },
-    {
-      "basename": "2023 Daily Database",
-      "path": "Daily/2023 Daily Database.md"
-    },
-    {
-      "basename": "tp-通用模板",
-      "path": "zz-templates/tp/tp-通用模板.md"
-    },
-    {
-      "basename": "tp-V-Script Template",
-      "path": "zz-templates/tp-video/tp-V-Script Template.md"
-    },
-    {
-      "basename": "Blog Template",
-      "path": "zz-templates/tp-blog/Blog Template.md"
-    },
-    {
-      "basename": "tp-笔记收集箱",
-      "path": "zz-templates/tp/tp-笔记收集箱.md"
-    },
-    {
-      "basename": "tp-自动选择模板",
-      "path": "zz-templates/tp/tp-自动选择模板.md"
-    },
-    {
-      "basename": "tp-资源分类模板",
-      "path": "zz-templates/tp/tp-资源分类模板.md"
-    },
-    {
-      "basename": "tp-默认笔记模板",
-      "path": "zz-templates/tp/tp-默认笔记模板.md"
-    },
-    {
-      "basename": "Video Making Resources",
-      "path": "Temp/Video Making Resources.md"
-    },
-    {
-      "basename": "笔记项目管理方法参考-August Bradley",
-      "path": "Resources/PKM/05.Obs-Project and Task Management/笔记项目管理方法参考-August Bradley.md"
-    },
-    {
-      "basename": "Day Planner-20230428",
-      "path": "zz-templates/Day Planners/Day Planner-20230428.md"
-    },
-    {
-      "basename": "Notion Masterclass Maximise Your Productivity & Organisation  Ali Abdaal",
-      "path": "Resonance Database/Course/Notion Masterclass Maximise Your Productivity & Organisation  Ali Abdaal.md"
-    },
-    {
-      "basename": "The Tech I Use",
-      "path": "Resonance Database/Article/The Tech I Use.md"
-    },
-    {
-      "basename": "Youtube - How We Organize Our Life in Notion  Second Brain",
-      "path": "Resonance Database/Youtube/Youtube - How We Organize Our Life in Notion  Second Brain.md"
-    },
-    {
-      "basename": "Tell the Story",
-      "path": "Temp/Tell the Story.md"
-    },
-    {
-      "basename": "Branding Components",
-      "path": "Temp/Branding Components.md"
-    },
-    {
-      "basename": "HIVEs Framework",
-      "path": "Temp/HIVEs Framework.md"
-    },
-    {
-      "basename": "Youtube - My Creative Workflow with Notion",
-      "path": "Resonance Database/Youtube/Youtube - My Creative Workflow with Notion.md"
-    },
-    {
-      "basename": "Youtube - Zotero Obsidian Integration",
-      "path": "Resonance Database/Youtube/Youtube - Zotero Obsidian Integration.md"
-    },
-    {
-      "basename": "What's the Best Calendar Plugin for Obsidian 🗓️",
-      "path": "Resonance Database/Article/What's the Best Calendar Plugin for Obsidian 🗓️.md"
-    },
-    {
-      "basename": "ReadItLater",
-      "path": "Resonance Database/ReadItLater.md"
-    },
-    {
-      "basename": "My Obsidian Setup (Part 26) — DB Folder Relations - Technology Hits - Medium",
-      "path": "Resonance Database/Article/My Obsidian Setup (Part 26) — DB Folder Relations - Technology Hits - Medium.md"
     }
   ],
   "omittedPaths": [],

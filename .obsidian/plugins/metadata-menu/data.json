@@ -41,6 +41,12 @@
       },
       "id": "3",
       "type": "Select"
+    },
+    {
+      "name": "URL",
+      "options": {},
+      "id": "4",
+      "type": "File"
     }
   ],
   "fileClassQueries": [],

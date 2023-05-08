@@ -212,7 +212,7 @@
   "blue-topaz-theme@@enable-icon-anima": true,
   "blue-topaz-theme@@muted-activeline-bg": true,
   "blue-topaz-theme@@title-justify-start": true,
-  "blue-topaz-theme@@remove-file-icons": false,
+  "blue-topaz-theme@@remove-file-icons": true,
   "blue-topaz-theme@@folder-style-change-options-colorful": "folder-style-change-options-colorful-default",
   "blue-topaz-theme@@hide-vault-name": true,
   "blue-topaz-theme@@default-icons": true,

@@ -180,6 +180,10 @@
         {
           "id": "obsidian-mind-map",
           "name": "Mind Map"
+        },
+        {
+          "id": "fantasy-calendar",
+          "name": "Fantasy Calendar"
         }
       ],
       "groupIds": [],

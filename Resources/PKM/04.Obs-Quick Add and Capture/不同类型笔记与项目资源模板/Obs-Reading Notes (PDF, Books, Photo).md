@@ -11,6 +11,9 @@ status: 🟠Distilling
 #### 1. Zotero
 [quick start guide [Zotero Documentation]](https://www.zotero.org/support/quick_start_guide)
 [[Youtube - Zotero Obsidian Integration]]
+![[Pasted image 20230506195752.png]]
+#### 2. Better PDF
+![[Pasted image 20230506195830.png]]
 ### 阅读批注
 #### 1. Annotator
 - PDF 资料文件夹 > Annotator > PDF 阅读批注

@@ -1,14 +1,15 @@
 {
-  "inlineCSS": false,
-  "inlineJS": false,
-  "inlineImages": false,
-  "uzeZip": false,
+  "inlineCSS": true,
+  "inlineJS": true,
+  "inlineImages": true,
+  "makeNamesWebStyle": false,
+  "includePluginCSS": "obsidian-kanban\nbetter-fn\ndbfolder\nobsidian-style-settings\ndataview\nmulti-column-markdown\nobsidian-excalidraw-plugin",
   "addDarkModeToggle": true,
   "includeOutline": true,
   "customLineWidth": 0,
-  "lastExportPath": "C:\\Users\\cuman\\Desktop\\example2\\Demo Note.html",
+  "openAfterExport": true,
+  "lastExportPath": "C:/Users/amazi/OneDrive/桌面/2023-05-06.html",
+  "uzeZip": false,
   "customJS": "",
-  "customCSS": "",
-  "includePluginCSS": "obsidian-kanban\nobsidian-banners\ndbfolder\nbetter-fn",
-  "openAfterExport": false
+  "customCSS": ""
 }

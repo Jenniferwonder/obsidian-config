@@ -52,60 +52,17 @@ columns:
       footer_type: none
       persist_changes: false
       wrap_content: false
-  __tasks__:
-    key: __tasks__
-    id: __tasks__
-    input: task
-    label: Task
-    accessorKey: __tasks__
-    isMetadata: true
-    isDragDisabled: false
-    skipPersist: false
-    csvCandidate: false
-    position: 5
-    isHidden: false
-    sortIndex: -1
-    width: 191
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
   title:
     input: text
     accessorKey: title
     key: title
     id: title
     label: Title
-    position: 3
-    skipPersist: false
-    isHidden: false
-    sortIndex: -1
-    width: 347
-    config:
-      enable_media_view: true
-      link_alias_enabled: true
-      media_width: 100
-      media_height: 100
-      isInline: false
-      task_hide_completed: true
-      footer_type: none
-      persist_changes: false
-  Topic:
-    input: text
-    accessorKey: Topic
-    key: Topic
-    id: Topic
-    label: Topic
     position: 4
     skipPersist: false
     isHidden: false
     sortIndex: -1
-    width: 187
+    width: 171
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -115,16 +72,27 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  周报:
-    input: relation
-    accessorKey: 周报
-    key: 周报
-    id: 周报
-    label: 周报
-    position: 100
+      wrap_content: true
+  Topic:
+    input: tags
+    accessorKey: Topic
+    key: Topic
+    id: Topic
+    label: Topic
+    position: 5
     skipPersist: false
     isHidden: false
     sortIndex: -1
+    width: 198
+    options:
+      - { label: "Codespace", value: "Codespace", color: "hsl(311, 95%, 90%)"}
+      - { label: "Life-Tricks", value: "Life-Tricks", color: "hsl(104,96%,90%)"}
+      - { label: "Content-Making", value: "Content-Making", color: "hsl(179,96%,90%)"}
+      - { label: "English-Improving", value: "English-Improving", color: "hsl(67,96%,90%)"}
+      - { label: "PKM-Productivity", value: "PKM-Productivity", color: "hsl(38,96%,90%)"}
+      - { label: "OKRTs", value: "OKRTs", color: "hsl(4, 95%, 90%)"}
+      - { label: "AI", value: "AI", color: "hsl(346, 95%, 90%)"}
+      - { label: "PMP", value: "PMP", color: "hsl(29, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -134,8 +102,54 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-      related_note_path: Tasks/Tasks Database.md
+      option_source: manual
+      wrap_content: true
+  Tasks:
+    input: relation
+    accessorKey: Tasks
+    key: Tasks
+    id: Tasks
+    label: Tasks
+    position: 3
+    skipPersist: false
+    isHidden: false
+    sortIndex: -1
+    width: 223
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: true
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      wrap_content: true
+      related_note_path: OKRTs/Tasks/Tasks Database.md
       bidirectional_relation: true
+  __outlinks__:
+    key: __outlinks__
+    id: __outlinks__
+    input: outlinks
+    label: Outlinks
+    accessorKey: __outlinks__
+    isMetadata: true
+    isDragDisabled: false
+    skipPersist: false
+    csvCandidate: false
+    position: 6
+    isHidden: false
+    sortIndex: -1
+    width: 299
+    config:
+      enable_media_view: true
+      link_alias_enabled: true
+      media_width: 100
+      media_height: 100
+      isInline: false
+      task_hide_completed: true
+      footer_type: none
+      persist_changes: false
 config:
   remove_field_when_delete_column: false
   cell_size: normal
@@ -146,9 +160,9 @@ config:
   hoist_files_with_empty_attributes: true
   show_metadata_created: false
   show_metadata_modified: false
-  show_metadata_tasks: true
+  show_metadata_tasks: false
   show_metadata_inlinks: false
-  show_metadata_outlinks: false
+  show_metadata_outlinks: true
   show_metadata_tags: false
   source_data: tag
   source_form_result: "#Daily"
@@ -197,7 +211,7 @@ filters:
           value: "2023-03"
           type: text
       - condition: AND
-        disabled: true
+        disabled: false
         label: "4月"
         color: "hsl(77, 95%, 90%)"
         filters:
@@ -206,7 +220,7 @@ filters:
           value: "2023-04"
           type: text
       - condition: AND
-        disabled: false
+        disabled: true
         label: "5月"
         color: "hsl(65, 95%, 90%)"
         filters:
