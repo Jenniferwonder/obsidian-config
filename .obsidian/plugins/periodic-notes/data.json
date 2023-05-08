@@ -5,7 +5,7 @@
   "daily": {
     "format": "YYYY-MM-DD",
     "folder": "Daily",
-    "template": "zz-templates/tp/Daily Plan.md",
+    "template": "zz-templates/tp/Daily Plan Template.md",
     "enabled": true
   },
   "weekly": {

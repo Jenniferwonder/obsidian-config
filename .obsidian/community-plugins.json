@@ -28,7 +28,6 @@
   "obsidian-advanced-uri",
   "obsidian-hide-sidebars-when-narrow",
   "obsidian-kanban",
-  "markdown-table-editor",
   "metadata-menu",
   "omnisearch",
   "obsidian-projects",
@@ -84,5 +83,7 @@
   "dbfolder",
   "fantasy-calendar",
   "obsidian-icon-folder",
-  "obsidian-minimal-settings"
+  "obsidian-minimal-settings",
+  "any-block",
+  "convert-url-to-iframe"
 ]

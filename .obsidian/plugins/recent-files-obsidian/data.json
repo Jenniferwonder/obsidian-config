@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-05-08",
+      "path": "Daily/2023-05-08.md"
+    },
+    {
+      "basename": "Daily Database",
+      "path": "Daily/Daily Database.md"
+    },
+    {
+      "basename": "2023-W19",
+      "path": "Daily/2023-W19.md"
+    },
+    {
+      "basename": "Obs Projects 日历视图怎么用",
+      "path": "Obs Projects 日历视图怎么用.md"
+    },
+    {
+      "basename": "Animation-动画",
+      "path": "Resources/Front-End Tech Stack/01-Front-End Basics/CSS/Animation-动画.md"
+    },
+    {
+      "basename": "CSS",
+      "path": "Resources/Front-End Tech Stack/01-Front-End Basics/CSS/CSS.md"
+    },
+    {
+      "basename": "Excel或CSV表格如何导入Obsidian，或在Obsidian中打开编辑",
+      "path": "Resources/PKM/Excel或CSV表格如何导入Obsidian，或在Obsidian中打开编辑.md"
+    },
+    {
+      "basename": "Untitled",
+      "path": "Temp/Untitled.md"
+    },
+    {
+      "basename": "Obs-Dataview——是什么，怎么用",
+      "path": "Resources/PKM/05.Obs-Project and Task Management/Obs-Dataview——是什么，怎么用.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Views/Homepage.md"
+    },
+    {
+      "basename": "Kanban (Priority)",
+      "path": "Views/Kanban (Priority).md"
+    },
+    {
+      "basename": "(Every F,R,W,T,M) PMP 考试准备",
+      "path": "OKRTs/Tasks/(Every F,R,W,T,M) PMP 考试准备.md"
+    },
+    {
+      "basename": "sortspec",
+      "path": "zz-templates/script/sortspec.md"
+    },
+    {
       "basename": "O1-夯实前端基础，",
       "path": "OKRTs/Objectives/O1-夯实前端基础，.md"
     },
@@ -21,10 +73,6 @@
       "path": "OKRTs/Tasks/Tasks Database.md"
     },
     {
-      "basename": "2023 Daily Database",
-      "path": "Daily/2023 Daily Database.md"
-    },
-    {
       "basename": "2023-05-03",
       "path": "Daily/2023-05-03.md"
     },
@@ -35,10 +83,6 @@
     {
       "basename": "2023-05-01",
       "path": "Daily/2023-05-01.md"
-    },
-    {
-      "basename": "2023-05-08",
-      "path": "Daily/2023-05-08.md"
     },
     {
       "basename": "2023-05-06",
@@ -133,10 +177,6 @@
       "path": "从这开始.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Views/Homepage.md"
-    },
-    {
       "basename": "Obs-Reading Notes (PDF, Books, Photo)",
       "path": "Resources/PKM/04.Obs-Quick Add and Capture/不同类型笔记与项目资源模板/Obs-Reading Notes (PDF, Books, Photo).md"
     },
@@ -159,46 +199,6 @@
     {
       "basename": "00.Obs-Community",
       "path": "Resources/PKM/00.Obs-Community/00.Obs-Community.md"
-    },
-    {
-      "basename": "Youtube - Obsidian collaboration with VS code",
-      "path": "Resonance Database/Youtube/Youtube - Obsidian collaboration with VS code.md"
-    },
-    {
-      "basename": "Front-End OKR-Mindmap",
-      "path": "Tracking/Workflow/Front-End OKR-Mindmap.md"
-    },
-    {
-      "basename": "KR Database",
-      "path": "OKRTs/KRs/KR Database.md"
-    },
-    {
-      "basename": "Task",
-      "path": "OKRTs/Tasks/Task.md"
-    },
-    {
-      "basename": "KR1",
-      "path": "OKRTs/KRs/KR1.md"
-    },
-    {
-      "basename": "Core Value",
-      "path": "zz-archives/zz-Reflections/Core Value.md"
-    },
-    {
-      "basename": "tp-Tasks",
-      "path": "zz-templates/tp/tp-Tasks.md"
-    },
-    {
-      "basename": "Task2",
-      "path": "OKRTs/Tasks/Task2.md"
-    },
-    {
-      "basename": "Kanban(Content Flow)",
-      "path": "Views/Kanban(Content Flow).md"
-    },
-    {
-      "basename": "GE-知识库书宣传文档",
-      "path": "Projects/React Projects/Documentation Website/GE-知识库书宣传文档.md"
     }
   ],
   "omittedPaths": [],

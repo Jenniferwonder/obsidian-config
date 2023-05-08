@@ -4,18 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "c422a32cfb085866",
+        "id": "dd043077dc957c30",
         "type": "tabs",
         "children": [
           {
-            "id": "f90c0280ee559b07",
+            "id": "748a07bd3a7e4392",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "database-plugin",
+              "state": {
+                "file": "Daily/Daily Database.md"
+              }
+            }
+          },
+          {
+            "id": "090c67880935f4a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023-05-08.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f2671ea58f225776",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 288.5
+    "width": 200
   },
   "right": {
     "id": "617127011ede853a",
@@ -229,14 +253,6 @@
             }
           },
           {
-            "id": "88ebe899e46229d3",
-            "type": "leaf",
-            "state": {
-              "type": "full-calendar-sidebar-view",
-              "state": {}
-            }
-          },
-          {
             "id": "53ac1105418ad542",
             "type": "leaf",
             "state": {
@@ -245,11 +261,12 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 229.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,7 +275,6 @@
       "flashcards-obsidian:Generate flashcards": false,
       "custom-sort:Toggle custom sorting": false,
       "templater-obsidian:Templater": false,
-      "markdown-table-editor:Open Markdown Table Editor": false,
       "surfing:surfing-bookmark-manager": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
@@ -312,51 +328,56 @@
         "direction": "vertical",
         "x": 1593,
         "y": 40,
-        "width": 299,
-        "height": 555,
+        "width": 325,
+        "height": 731,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "f90c0280ee559b07",
+  "active": "f2671ea58f225776",
   "lastOpenFiles": [
+    "Daily/2023-05-08.md",
+    "Daily/Daily Database.md",
+    "Daily/2023-W19.md",
+    "Obs Projects 日历视图怎么用.md",
+    "Resources/Front-End Tech Stack/01-Front-End Basics/CSS/Animation-动画.md",
+    "Resources/Front-End Tech Stack/01-Front-End Basics/CSS/CSS.md",
+    "Resources/PKM/Excel或CSV表格如何导入Obsidian，或在Obsidian中打开编辑.md",
+    "PKM软件对比.csv",
+    "PKM软件对比.CSV",
+    "CSV-Test",
+    "Temp/Untitled.md",
+    "dc2bb7c3-a454-4cd9-a25f-29cab62ab58c_db.md",
+    "Resources/PKM/05.Obs-Project and Task Management/Obs-Dataview——是什么，怎么用.md",
+    "zz-assets/Pasted image 20230508142847.png",
+    "Views/Homepage.md",
+    "Periodic",
+    "Periodic/Monthly",
+    "Periodic/Weekly",
+    "Views/Kanban (Priority).md",
+    "Views/Untitled.canvas",
+    "OKRTs/Tasks/(Every F,R,W,T,M) PMP 考试准备.md",
+    "zz-templates/script/sortspec.md",
     "OKRTs/Objectives/O1-夯实前端基础，.md",
     "OKRTs/Objectives/O2-.md",
     "OKRTs/Objectives/My Goals in 2023.md",
     "OKRTs/Objectives/Objectives Database.md",
     "OKRTs/Tasks/Tasks Database.md",
-    "Daily/2023 Daily Database.md",
     "Daily/2023-05-03.md",
     "Daily/2023-05-02.md",
     "Daily/2023-05-01.md",
-    "Daily/2023-05-08.md",
     "Daily/2023-05-06.md",
     "Daily/2023-05-05.md",
     "Daily/2023-05-04.md",
     "Resources/Life/香港一日游-2023-05-02.md",
-    "zz-archives/zz-Daily/2023-01/2023-01-31.md",
-    "zz-archives/zz-Daily/2023-02/2023-02-03.md",
-    "Resources/Content-Making/Community Impact.md",
-    "zz-templates/tp/Daily Plan Template.md",
-    "Temp/项目目标制定方法.md",
-    "Temp/笔记软件评测-到底选哪款？.md",
-    "Temp/月度里程碑（看板、列表、甘特图）.md",
-    "Resources/Content-Making/Video Making Resources.md",
-    "Temp/Useful Metadata.md",
-    "Temp/Timeline.md",
-    "Temp/Tell the Story.md",
-    "Temp/Pillars.md",
     "zz-assets/Pasted image 20230506195830.png",
     "zz-assets/Pasted image 20230506195752.png",
-    "Untitled",
     "Resonance Calendar",
     "OKRTs",
     "OKRTs/KRs",
     "zz-assets/Pasted image 20230504200844.png",
-    "Weekly",
-    "OKRTs/Tasks",
-    "Views/Untitled.canvas",
+    "Periodic/Weekly",
     "zz-assets/Pasted image 20230504185936.png",
     "zz-assets/Pasted image 20230504185028.png",
     "zz-assets/Pasted image 20230504184747.png",
@@ -365,12 +386,7 @@
     "Tracking/Workflow/Knowledge Workflow.canvas",
     "Tracking/Workflow/Front-End Projects Overview.canvas",
     "Resources/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/PKM-Map.canvas",
-    "OKRTs/Objectives",
-    "zz-templates/tp-blog",
-    "zz-templates/tp-wechat",
-    "Resonance Database/Course",
     "zz-assets/Pasted image 20230504154411.png",
-    "zz-assets/Pasted image 20230504154224.png",
     "Resources/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/Canvas Demo.canvas",
     "GeekEnglish/GE-Resources/Projects Overview.canvas",
     "Resources/GeekEnglish/Projects Overview.canvas",

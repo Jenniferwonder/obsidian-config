@@ -268,6 +268,18 @@
           "id": "e48c4fcd-530e-49f1-b75c-36a446fdb72f",
           "name": "Kanban",
           "type": "board"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "d0d78378-d271-470f-b16a-f4ca8a1a1b6d",
+          "name": "Calendar",
+          "type": "calendar"
         }
       ],
       "id": "de90246a-c3d5-4c1d-8f65-ad2e428605f6",
@@ -303,7 +315,7 @@
                 "hide": true
               },
               "status": {
-                "hide": false
+                "hide": true
               },
               "tags": {
                 "hide": true
@@ -325,6 +337,9 @@
               },
               "title": {
                 "width": 235
+              },
+              "Daily": {
+                "hide": true
               }
             },
             "orderFields": [
@@ -354,6 +369,21 @@
           "id": "120448e2-341b-4488-bb47-b0095e5f1502",
           "name": "Table",
           "type": "table"
+        },
+        {
+          "config": {
+            "interval": "month",
+            "dateField": "DateStarted"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "5f077970-0d5d-45b3-b0b8-c5faf01e7e02",
+          "name": "Calendar",
+          "type": "calendar"
         }
       ],
       "id": "6cb51ce3-4489-4945-b023-032e8576ff00",

@@ -14,6 +14,7 @@ sorting-spec: |
  // > a-z by-metadata: modified
 
  target-folder: /*
+ Views
  Daily
  Tasks
  Projects

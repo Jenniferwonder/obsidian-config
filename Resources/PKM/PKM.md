@@ -105,6 +105,7 @@ cssclass: kanban gridlist noyaml
 		- [[Obs-Fast Start]]
 	- **[[Communicate]]**
 	- **[[Coordinate]]**
+	- [[Excel或CSV表格如何导入Obsidian，或在Obsidian中打开编辑]]
 	- **iPad**
 		- [[Canvas in iPad.canvas]]
 		- [[Note in iPhone.canvas]]

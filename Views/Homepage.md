@@ -1,6 +1,6 @@
 ---
 title: Homepage
-tags: 
+tags: Views 
 started: 2023-05-04 Thu
 modified: 2023-05-04 Thu
 status: 
@@ -9,6 +9,7 @@ status:
 [[Objectives Database]]
 [[KR Database]]
 [[Tasks Database]]
+[[Daily Database]]
 
 >Reference
 > [[OKR 拆解及进度管理]]
