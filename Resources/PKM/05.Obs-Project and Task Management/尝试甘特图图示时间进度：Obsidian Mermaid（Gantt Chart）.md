@@ -1,11 +1,9 @@
 ---
-title: 尝试甘特图图示时间进度：Obsidian Mermaid（Gantt Chart）
-tags: PKM 
-type: 💡Idea
-started: 2023-04-28 Fri
-modified: 2023-04-28 Fri
+tags: PKM
+DateStarted: 2023-04-28
 status: ⚪Capturing
 ---
+
 [Gantt diagrams | Mermaid](https://mermaid.js.org/syntax/gantt.html)
 [Fetching Title#0mtv](https://www.youtube.com/watch?v=rXhUeV5Ko7g&t=625s)
 
@@ -20,4 +18,3 @@ gantt
     Task in sec      :2014-01-12  , 12d
     another task      : 24d
 ```
-

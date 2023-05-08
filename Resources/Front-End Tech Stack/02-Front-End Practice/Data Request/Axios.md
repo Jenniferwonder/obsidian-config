@@ -1,8 +1,8 @@
 ---
-title: Axios
+Title: Axios
 tags: JS
-started: 2022-12-16 Fri
+DateStarted: 2022-12-16
 due:
-modified: 2022-12-16 Fri
+DateModified: 2022-12-16
 status:
 ---

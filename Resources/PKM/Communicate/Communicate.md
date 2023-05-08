@@ -1,19 +1,21 @@
 ---
-title: Communicate
-tags: PKM/Communicate  
-started: 2023-04-19 Wed
-due: 
-modified: 2023-04-21 Fri
-status: 
+Title: Communicate
+tags: PKM/Communicate
+DateStarted: 2023-04-19
+due:
+DateModified: 2023-04-21
+status:
 ---
+
 ### Communication
+
 Personal
+
 - Texts  
-Team
+  Team
 - Slack
-- Screen recording and share in team
-	- Loom  
-Community
+- Screen recording and share in team - Loom  
+  Community
 - Discord  
-Email
+  Email
 - Superhuman

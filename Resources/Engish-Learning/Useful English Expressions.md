@@ -1,15 +1,15 @@
 ---
-title: Useful English Expressions
-tags: English   
-started: 2023-01-16 Mon
-due: 
-modified: 2023-01-16 Mon
-status: 
+Title: Useful English Expressions
+tags: English
+DateStarted: 2023-01-16 Mon
+due:
+DateModified: 2023-01-16 Mon
+status:
 ---
 
 Let's jump on to ...
-We're here to... 
-give you a sneak peak at... 
+We're here to...
+give you a sneak peak at...
 What's coming next
 check it out
 I really need to wrap this up.

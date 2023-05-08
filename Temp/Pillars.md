@@ -1,11 +1,9 @@
 ---
-UID: 20230504113356 
-title: Pillars
-tags: [PKM, Tasks]
-type: 💪Tracking 
-started: 2023-05-04
-modified: NaN
+UID: 20230504113356
+tags:
+  - PKM
+  - Tasks
+DateStarted: 2023-05-04
 status: 🟡Organizing
-due:
-cssclass: 
+cssclass:
 ---

@@ -1,5 +1,5 @@
 ```dataview
-TABLE title, started, status
+TABLE title, DateStarted, status
 WHERE contains(title, "Obsidian")
-SORT started DESC
+SORT DateStarted DESC
 ```

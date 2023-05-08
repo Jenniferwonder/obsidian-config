@@ -40,26 +40,25 @@ await tp.file.move(`${myFilePath}`);
 -%>
 
 uid: <% tp.date.now("YYYYMMDDHHmmss") %> 
-title: <% `${title}` %> 
+Title: <% `${title}` %> 
 tags: <% `${filetype}` %>
 types: <% tp.system.suggester(["🗒️Resource", "🚀Project", "💪Tracking"], ["🗒️Resource", "🚀Project", "💪Tracking"]) %> 
-started: <% tp.file.creation_date() %>
-modified: <%+ tp.file.last_modified_date("YYYY-MM-DD ddd") %>
+DateStarted: <% tp.file.creation_date() %>
+DateModified:  <%+ tp.file.last_modified_date("YYYY-MM-DD ddd") %>
 status: <% tp.system.suggester(["⚪Captured", "🟡Organized", "🟠Distilled","🟢Published","🔵Archived"], ["⚪Captured", "🟡Organized", "🟠Distilled", "🟢Published", "🔵Archived"]) %>
 due:
 cssclass:
 Source:
 URL:
 ---
+
 ## Purpose
 
 ## Problems
 
 ## Solutions
 
-
 ## Highlights
-
 
 ## Reflections
 

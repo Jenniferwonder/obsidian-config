@@ -1,9 +1,9 @@
 ---
 UID: 20230504185654 
-title: OKR 拆解及进度管理
+Title: OKR 拆解及进度管理
 tags: [PMP, Tasks]
-started: 2023-05-04
-modified: 
+DateStarted: 2023-05-04
+DateModified:  
 type: 🗒️Resource 
 status: 🟡Organizing
 due:
@@ -11,6 +11,7 @@ cssclass:
 Source:
 URL: [Feishu Docs](https://www.feishu.cn/base/bascnTot0rKoEHAs9ibbVtRAeUe?&from=template_center&ccm_open_type=template_center)
 ---
+
 ## Purpose
 
 ## Problems
@@ -18,26 +19,34 @@ URL: [Feishu Docs](https://www.feishu.cn/base/bascnTot0rKoEHAs9ibbVtRAeUe?&from=
 ## Solutions
 
 ## Highlights
+
 [[Useful Metadata]]
+
 ### OKR 仪表盘
+
 ![[Pasted image 20230504200844.png]]
+
 ### OKR 任务拆解汇总数据库
+
 [[Objectives Database]]
 [[KR Database]]
 [[Tasks Database]]
 
 ![[Pasted image 20230504185936.png]]
+
 ## Reflections
 
-## Reference 
+## Reference
+
 [Feishu Docs](https://www.feishu.cn/base/bascnTot0rKoEHAs9ibbVtRAeUe?&from=template_center&ccm_open_type=template_center)
+
 ## Related Notes
 
 ```start-multi-column
 ID: ID_sbs3
 Number of Columns: 2
 Largest Column: standard
-Border: disabled 
+Border: disabled
 ```
 
 **Previous**
@@ -46,7 +55,4 @@ Border: disabled
 
 **Next**
 
-
 === end-multi-column
-
-

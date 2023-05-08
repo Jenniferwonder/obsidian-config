@@ -1,11 +1,8 @@
 ---
-title: Homepage
-tags: homepage 
-started: 2023-04-26 Wed
-modified: 2023-04-26 Wed
-status: 
+Title: Homepage
+tags: homepage
+DateStarted: 2023-04-26
+DateModified: 2023-04-26
+status:
 AutoNoteMover:
 ---
-
-
-

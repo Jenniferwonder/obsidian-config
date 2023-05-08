@@ -1,10 +1,10 @@
 ---
-title: Wechat Article Template
-tags: 
+Title: Wechat Article Template
+tags:
 Genre:
 Channel:
-started: 2023-05-04 Thu
-modified: 2023-05-04 Thu
-status: 
+DateStarted: 2023-05-04
+DateModified: 2023-05-04
+status:
 URL:
 ---

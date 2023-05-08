@@ -24,11 +24,11 @@ await tp.file.move(`${myFilePath}`);
 }
 -%>
 
-title: <% `${title}` %> 
+Title: <% `${title}` %> 
 tags: <% `${filetype}` %>
 topic: [[<% tp.system.prompt("这个笔记对应的主题MOC ", "比如：时间管理") %>]]
-started: <% tp.file.creation_date() %>
-modified: <%+ tp.file.last_modified_date("YYYY-MM-DD dddd HH:mm:ss") %>
+DateStarted: <% tp.file.creation_date() %>
+DateModified:  <%+ tp.file.last_modified_date("YYYY-MM-DD dddd HH:mm:ss") %>
 uid: <% tp.date.now("YYYYMMDDHHmmss") %> 
 status: <% tp.system.suggester(["⚪Captured", "🟡Organized", "🟠Distilled","🟢Published","🔵Archived"], ["⚪Captured", "🟡Organized", "🟠Distilled", "🟢Published", "🔵Archived"]) %>
 due:
@@ -41,14 +41,10 @@ cssclass:
 
 ## Solutions
 
-
 ## Highlights
-
 
 ## Reflections
 
 ## Related Notes
 
 ## Reference
-
-

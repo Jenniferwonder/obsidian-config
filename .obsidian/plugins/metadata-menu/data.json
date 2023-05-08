@@ -1,7 +1,7 @@
 {
   "presetFields": [
     {
-      "name": "started",
+      "name": "DateStarted",
       "options": {
         "dateFormat": "YYYY-MM-DD ddd",
         "defaultInsertAsLink": "false"
@@ -27,26 +27,46 @@
       "type": "Select"
     },
     {
-      "name": "type",
+      "name": "URL",
+      "options": {},
+      "id": "4",
+      "type": "File"
+    },
+    {
+      "name": "DateDue",
+      "options": {
+        "dateFormat": "YYYY-MM-DD",
+        "defaultInsertAsLink": "false"
+      },
+      "id": "5",
+      "type": "Date"
+    },
+    {
+      "name": "DateModified",
+      "options": {
+        "dateFormat": "YYYY-MM-DD",
+        "defaultInsertAsLink": "false"
+      },
+      "id": "6",
+      "type": "Date"
+    },
+    {
+      "name": "tags",
       "options": {
         "valuesList": {
-          "1": "🗒️Resource",
-          "2": "💪Tracking",
-          "3": "🚀Project",
-          "4": "💡Idea"
+          "1": "PKM",
+          "2": "Content-Making",
+          "3": "AI",
+          "4": "PMP",
+          "5": "Codespace",
+          "6": "English-Improving"
         },
         "sourceType": "ValuesList",
         "valuesListNotePath": "",
         "valuesFromDVQuery": ""
       },
-      "id": "3",
-      "type": "Select"
-    },
-    {
-      "name": "URL",
-      "options": {},
-      "id": "4",
-      "type": "File"
+      "id": "7",
+      "type": "Multi"
     }
   ],
   "fileClassQueries": [],

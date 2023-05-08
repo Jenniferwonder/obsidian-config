@@ -1,9 +1,10 @@
 ---
-title: BOM
+Title: BOM
 tags: JS
-started: 2023-03-10 Fri
+DateStarted: 2023-03-10
 due:
-modified: 2023-03-10 Fri
+DateModified: 2023-03-10
 status:
 ---
+
 ![[zz-assets/Pasted image 20230310113352.png]]

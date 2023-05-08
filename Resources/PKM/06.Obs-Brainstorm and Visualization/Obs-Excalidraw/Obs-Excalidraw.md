@@ -1,8 +1,8 @@
 ---
-title: Obs-Excalidraw
+Title: Obs-Excalidraw
 tags: PKM/Capture
-started: 2022-11-29 Tue
-modified: 2023-04-21 Fri
+DateStarted: 2022-11-29 Tue
+DateModified: 2023-04-21
 status: ⚪Capture
-due: 
+due:
 ---

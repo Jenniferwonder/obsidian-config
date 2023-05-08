@@ -1,20 +1,16 @@
 ---
-UID: 20230427181753 
-title: Obs 超爱的主题 Blue Topaz Nord
-type: 🗒️Resource
+UID: 20230427181753
 tags: PKM
-started: 2023-04-27 Thu
-modified: 2023-04-27 Thu
+DateStarted: 2023-04-27
 status: 🟡Organizing
-due:
-cssclass: 
+cssclass:
 ---
+
 ## Hook
+
 ### Before & After
 
-
 ## Solutions
-
 
 ## Resources
 

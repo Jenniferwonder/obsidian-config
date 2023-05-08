@@ -1,21 +1,27 @@
 ---
 id: 2304.01.SRT
-title: Video Script Template
-tags: Script  
+Title: Video Script Template
+tags: Script
 Genre:
 Channel:
-started: 2023-04-11 Tue
-modified: 2023-04-11 Tue
-due: 
+DateStarted: 2023-04-11
+DateModified: 2023-04-11
+due:
 status:
 Sponsor:
 URL:
 ---
+
 ```toc
+
 ```
+
 ### Intro
+
 Talkhead (Improvised)
+
 - xx
-Talkhead (Script)
-==Voiceover for side stories (Script)==
+  Talkhead (Script)
+  ==Voiceover for side stories (Script)==
+
 ### Q1

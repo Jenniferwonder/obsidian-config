@@ -1,13 +1,16 @@
 ---
-title: vim
+Title: vim
 tags: Windows
-started: 2023-02-17 Fri
+DateStarted: 2023-02-17
 due:
-modified: 2023-02-17 Fri
+DateModified: 2023-02-17
 status:
 ---
+
 [Basic commands for using VIM editor like a Pro](https://iq.opengenus.org/basic-commands-for-vim-editor/)
+
 ## Basic commands
+
 - Insert: `i`
 - Insert a line: `o`
 - Save and exit: `esc` > `:wq`

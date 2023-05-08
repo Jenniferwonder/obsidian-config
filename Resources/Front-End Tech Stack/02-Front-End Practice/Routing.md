@@ -1,10 +1,11 @@
 ---
-title: Routing
+Title: Routing
 tags: Front-End
-started: 2023-03-15 Wed
+DateStarted: 2023-03-15
 due:
-modified: 2023-03-15 Wed
+DateModified: 2023-03-15
 status:
 ---
+
 React Router Dom
 [[Next.js]]

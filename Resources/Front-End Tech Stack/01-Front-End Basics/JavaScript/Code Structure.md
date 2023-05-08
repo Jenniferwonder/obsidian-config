@@ -1,9 +1,10 @@
 ---
-title: Design Patterns
+Title: Design Patterns
 tags:
-started: 2022-11-29 Tue
+DateStarted: 2022-11-29 Tue
 due:
-modified: 2022-11-29 Tue
+DateModified: 2022-11-29 Tue
 status:
 ---
+
 MVC/ MVVM

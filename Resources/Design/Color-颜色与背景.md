@@ -1,30 +1,37 @@
 ---
-title: Color-颜色与背景
-tags: Design   
-started: 2022-12-16 Fri
-due: 
-modified: 2023-04-10 Mon
-status: 
+Title: Color-颜色与背景
+tags: Design
+DateStarted: 2022-12-16
+due:
+DateModified: 2023-04-10 Mon
+status:
 ---
->[Trending Color Palettes - Coolors](https://coolors.co/palettes/trending)  
->[uiGradients - Beautiful colored gradients](https://uigradients.com/#CoolSky)
+
+> [Trending Color Palettes - Coolors](https://coolors.co/palettes/trending)  
+> [uiGradients - Beautiful colored gradients](https://uigradients.com/#CoolSky)
+
 #### 1. color
+
 #### 2. background-color
-  - 布局、样式（字体、颜色）、图片、形状、动画；
-  - 代码结构规范：框架
-  - 优先级原理
+
+- 布局、样式（字体、颜色）、图片、形状、动画；
+- 代码结构规范：框架
+- 优先级原理
+
 #### 3. backgroud
+
 - linear-gradient(to left, color1, color2)
+
 ## Resources
 
 | Website&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Description                                                                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [Color Brewer 2](https://colorbrewer2.org/)                                                         | The original color palette generator, also supporting color blindness. Probably the scientifically best option. Also probably not the prettiest.                                         |
+| [Color Brewer 2](https://colorbrewer2.org/)                                                              | The original color palette generator, also supporting color blindness. Probably the scientifically best option. Also probably not the prettiest.                                         |
 | [Huetone](https://github.com/ardov/huetone)                                                              | A tool to create accessible color systems.                                                                                                                                               |
 | [Colormind.io](http://colormind.io)                                                                      | Color palette generator                                                                                                                                                                  |
 | [ColorCurves.app](https://colorcurves.app)                                                               | Color palette generator that uses curves to generate color palettes                                                                                                                      |
 | [ColorGradient](https://colorgradient.dev/)                                                              | A free tool to create simple and complex CSS Gradients visually                                                                                                                          |
-| 🟩[Coolors](https://coolors.co)                                                                            | Create the perfect palette or get inspired by thousands of beautiful color schemes                                                                                                       |
+| 🟩[Coolors](https://coolors.co)                                                                          | Create the perfect palette or get inspired by thousands of beautiful color schemes                                                                                                       |
 | [HTML Color Codes](https://htmlcolorcodes.com/)                                                          | Get HTML color codes, Hex color codes, RGB and HSL values with our color picker, color chart and HTML color names                                                                        |
 | [Colors & Fonts](https://www.colorsandfonts.com/)                                                        | A curated library of colors, fonts and resources                                                                                                                                         |
 | [Palette List](https://www.palettelist.com/)                                                             | Pick 2 colors you like and the tool generates thousands of palettes for you.                                                                                                             |
@@ -43,7 +50,7 @@ status:
 | [ColorBox](https://www.colorbox.io)                                                                      | A free website to produce color set                                                                                                                                                      |
 | [CSS gradient](https://cssgradient.io/)                                                                  | A free website to make custom gradient and some examples of gradient                                                                                                                     |
 | [gradienta](https://gradienta.io/)                                                                       | A pure css and jpg gradients                                                                                                                                                             |
-| 🟩[UI Gradients](https://uigradients.com/)                                                                 | UI gradients color generator                                                                                                                                                             |
+| 🟩[UI Gradients](https://uigradients.com/)                                                               | UI gradients color generator                                                                                                                                                             |
 | [Palette Generator](https://palettegenerator.colorion.co/)                                               | Generate new color palette with every spacebar press                                                                                                                                     |
 | [Material Palettes](https://material.colorion.co/)                                                       | 1000+ Material Design palettes                                                                                                                                                           |
 | [Grabient](https://www.grabient.com/)                                                                    | Gradient Selector                                                                                                                                                                        |

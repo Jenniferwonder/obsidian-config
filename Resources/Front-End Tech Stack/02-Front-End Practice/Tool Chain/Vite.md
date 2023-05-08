@@ -1,14 +1,18 @@
 ---
-title: Vite
+Title: Vite
 tags: ToolChain
-started: 2023-01-09 Mon
+DateStarted: 2023-01-09 Mon
 due:
-modified: 2023-02-07 Tue
+DateModified: 2023-02-07 Tue
 status:
 ---
+
 ## Reference
+
 [Getting Started | Vite](https://vitejs.dev/guide/)
+
 ## Why Vite?
+
 Vite has several advantages:
 Fast development builds: Vite uses the native ES modules feature in the browser to handle imports, which allows for faster development builds and hot module replacement. This means that you can see your changes in the browser instantly without having to wait for a full build process to finish.
 No configuration required: Vite does not require a configuration file, which can save developers a lot of time and hassle. Instead, it uses conventions and sensible defaults to handle the build process, which allows developers to focus on writing code rather than configuring the build process.

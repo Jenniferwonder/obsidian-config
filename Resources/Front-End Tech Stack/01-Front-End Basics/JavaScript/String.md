@@ -1,22 +1,27 @@
 ---
-title: String
+Title: String
 tags: JS
-started: 2022-12-01 Thu
+DateStarted: 2022-12-01
 due:
-modified: 2022-12-06 Tue
+DateModified: 2022-12-06 Tue
 status:
 number headings: auto, first-level 4, max 6, 1._.1.1.
 ---
->[Useful string methods - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods)
->
+
+> [Useful string methods - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods)
+
 ## String Format
-- Template literals (模板字面量/字符串) `I'm ${firstName}`  
-- Multiple lines  
-	- `\n\`  
-	- `hit enter  
+
+- Template literals (模板字面量/字符串) `I'm ${firstName}`
+- Multiple lines
+  - `\n\`
+  - `hit enter
+
 ## String Concatenation
+
 #### 1. How to join strings?
-- Use [[Operators]] :  `+=`
+
+- Use [[Operators]] : `+=`
 
 ```js
 if (guessCount === 1) {
@@ -26,10 +31,11 @@ guesses.textContent += ` ${guess}`;
 ```
 
 ## String Methods
+
 #### 1. Case Matter
 
 ```js
-.toLowerCase() 
+.toLowerCase()
 .toUpperCase()
 ```
 
@@ -51,7 +57,7 @@ guesses.textContent += ` ${guess}`;
 
 ```js
 .includes( )
-.startsWith( ) 
+.startsWith( )
 .endsWith( )
 ```
 
@@ -62,7 +68,7 @@ guesses.textContent += ` ${guess}`;
 //to split the string by a divider in the string
 .join(' ')
 //to join split strings with a specified divider to one string
-.padStart(20, '+') 
+.padStart(20, '+')
 .padEnd
 //to add symbols to a string to a certain length
 ```
@@ -75,4 +81,5 @@ guesses.textContent += ` ${guess}`;
 ```
 
 #### 7. Convert Number to String
+
 - [[Data Types and Data Structures#Type Conversion and Coersion]]

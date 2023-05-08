@@ -1,25 +1,29 @@
 ---
-title: 6 Days_ Modern JS (Oct 19- 24)
-tags: 
-status: 
-started: 
-due: 
-aliases: 
+Title: 6 Days_ Modern JS (Oct 19- 24)
+tags:
+status:
+DateStarted:
+due:
+aliases:
 ---
+
 ## Task for This Sprint
+
 #### TIME
 
-| **Start Time** | Oct 19 |
-| --- | --- |
-| **Due Time** | Oct 30 |
+| **Start Time**       | Oct 19  |
+| -------------------- | ------- |
+| **Due Time**         | Oct 30  |
 | **Total Time Spent** | 12 Days |
-| **New Issues Added** | 
+| **New Issues Added** |
 
-- 
- |
+- |
+
 #### SCOPE
+
 | #### G2- JS Master
- | 
+|
+
 - [x] Project Planing Techniques
 - [x] Draw.io
 - [x] Flow-chart
@@ -34,13 +38,13 @@ aliases:
 - [ ] Maze- Canvas API `Oct 21`
 - [ ] Secret Message Sharing App `Oct 22`
 - [ ] E-Commerce App `Oct 23-24`
- |
+      |
 
 | --- | --- |
-| **G3- Web Visualization** | 
+| **G3- Web Visualization** |
 
 - [ ] Web Visualization with HTML
 - [x] SVG (circle, ...)
 - [ ] Canvas API
 - [ ] D3.js
- |
+      |

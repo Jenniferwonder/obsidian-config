@@ -1,9 +1,8 @@
 ---
-title: Obs-Flashcard and Spaced Repetition
+Title: Obs-Flashcard and Spaced Repetition
 tags: PKM/Distill
-started: 2023-04-17 Mon
-due: null
-modified: 2023-04-21 Fri
+DateStarted: 2023-04-17 Mon
+DateDue: null
+DateModified: 2023-04-21
 status: ⚪Capture
 ---
-

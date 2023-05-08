@@ -1,20 +1,27 @@
 ---
-title: Steve Jobs Speech at Stanford
-tags: English      
-started: 2023-01-13 Fri
-due: 
-modified: 2023-04-10 Mon
-status: 
+Title: Steve Jobs Speech at Stanford
+tags: English
+DateStarted: 2023-01-13
+due:
+DateModified: 2023-04-10 Mon
+status:
 ---
+
 ## Sources
+
 - [ENGLISH SPEECH | STEVE JOBS: Stanford Speech(English Subtitles) - YouTube](https://www.youtube.com/watch?v=1i9kcBHX2Nw&list=PLosaC3gb0kGBH20jtgs5M0iaMLoUYf-rH)
+
 ## Useful Expressions
+
 #### 1. Opening Remarks/ Topic
+
 I'm honored to be with you **today** for your commencement from one of the finest universities in the world.  
 **Truth be told** = to be honest/ to tell you the truth  
 This is the closest I've ever gotten to a college graduation.  
 Today **I wanna** tell you three stories from my life. That's it. No big deal. Just three stories.
+
 #### 2. First Story
+
 The first story is about **connecting the dots**.  
 I **dropped out of** Reed College after the first six months, but then **stayed around** as a **drop-in** for another 18 months **or so** before I really **quit**.  
 So why did I **drop out**?  
@@ -38,4 +45,3 @@ None of this **had even a hope of** any **practical application** in my life. Bu
 **So** you have to **trust** that the dots **will somehow** connect in the future.  
 You have to trust something, your **gut, destiny, life, karma,** whatever.  
 Because **believing that** the dots would connect **down the road**, it'll **give you the confidence to** **follow your heart,** even when it **leads you off the well-worn paths**. And that will **make all the difference**. [5:42]
-

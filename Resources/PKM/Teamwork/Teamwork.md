@@ -1,20 +1,23 @@
 ---
-title: Teamwork
+Title: Teamwork
 tags: PKM/Teamwork
-started: 2023-04-19 Wed
+DateStarted: 2023-04-19
 due:
-modified: 2023-04-21 Fri
+DateModified: 2023-04-21
 status: ""
 ---
+
 ### Create with team
+
 Video
+
 - Notion  
-Doc
+  Doc
 - Google Docs  
-PPT
+  PPT
 - Keynotes  
-Photo
+  Photo
 - Figma  
-Video
+  Video
 - Screenflow: record screen
 - Recut: get rid of pauses

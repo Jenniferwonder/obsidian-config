@@ -1,13 +1,15 @@
 ---
-title: Core Value
+Title: Core Value
 tags: Goals
-started: 2023-04-09 Sun
-due: null
-modified: 2023-04-09 Sun
+DateStarted: 2023-04-09
+DateDue: null
+DateModified: 2023-04-09
 status: null
 Objective: ""
 ---
-Art- How to be More Human? 
+
+Art- How to be More Human?
+
 - **Humor**, Fun
 - Love
 - Passion, Energy

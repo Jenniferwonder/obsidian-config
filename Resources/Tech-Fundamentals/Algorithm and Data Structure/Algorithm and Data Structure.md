@@ -1,9 +1,8 @@
 ---
-title: Algorithm and Data Structure
-tags:   
-started: 2023-04-17 Mon
-due: 
-modified: 2023-04-17 Mon
-status: 
+Title: Algorithm and Data Structure
+tags:
+DateStarted: 2023-04-17 Mon
+due:
+DateModified: 2023-04-17 Mon
+status:
 ---
-

@@ -1,14 +1,16 @@
 ---
-title: Operators
+Title: Operators
 tags: JS
-started: 2022-11-29 Tue
+DateStarted: 2022-11-29 Tue
 due:
-modified: 2022-12-01 Thu
+DateModified: 2022-12-01
 status:
 ---
->[Basic math in JavaScript — numbers and operators - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math#types_of_numbers)
+
+> [Basic math in JavaScript — numbers and operators - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math#types_of_numbers)
 
 ## Operators
+
 ### Mathematical
 
 ```
@@ -75,4 +77,5 @@ a && b
 ```
 
 ## Operator Precedence
+
 Reference: MDN

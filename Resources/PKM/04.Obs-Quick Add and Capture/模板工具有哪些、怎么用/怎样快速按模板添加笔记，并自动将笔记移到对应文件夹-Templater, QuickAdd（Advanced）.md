@@ -1,12 +1,14 @@
 ---
-title: 怎样快速按模板添加笔记，并自动将笔记移到对应文件夹-Templater, QuickAdd（Advanced）
+Title: 怎样快速按模板添加笔记，并自动将笔记移到对应文件夹-Templater, QuickAdd（Advanced）
 tags: [PKM/Capture, PKM/Efficiency]
 type: 💪Tracking
-started: 2023-04-27 Thu
-modified: 2023-04-27 Thu
+DateStarted: 2023-04-27
+DateModified: 2023-04-27
 status: 🟡Organizing
 ---
+
 ## QuickAdd + Templater
+
 - 按模板添加笔记，并自动将笔记移到对应文件夹
 
 ## 相关笔记
@@ -15,7 +17,7 @@ status: 🟡Organizing
 ID: ID_sbs3
 Number of Columns: 2
 Largest Column: standard
-Border: disabled 
+Border: disabled
 ```
 
 **Previous**  
@@ -25,7 +27,4 @@ Border: disabled
 
 **Next**
 
-
 === end-multi-column
-
-

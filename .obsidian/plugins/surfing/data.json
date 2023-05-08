@@ -36,5 +36,17 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": []
+  "treeData": [
+    {
+      "id": "b13709eb794d9b8e",
+      "parent": 0,
+      "droppable": true,
+      "text": "Literals - Dataview",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ]
 }

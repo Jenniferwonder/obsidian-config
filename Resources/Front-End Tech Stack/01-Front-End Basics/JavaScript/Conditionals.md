@@ -1,11 +1,12 @@
 ---
-title: Conditionals
+Title: Conditionals
 tags: JS
-started: 2022-12-08 Thu
+DateStarted: 2022-12-08 Thu
 due:
-modified: 2022-12-10 Sat
+DateModified: 2022-12-10
 status:
 ---
+
 ### Tenary Operation
 
 ```js

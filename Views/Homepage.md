@@ -1,24 +1,29 @@
 ---
-title: Homepage
-tags: Views 
-started: 2023-05-04 Thu
-modified: 2023-05-04 Thu
-status: 
+Title: Homepage
+tags: Views
+DateStarted: 2023-05-04
+DateModified: 2023-05-04
+status:
 ---
+
 ### OKRTs
+
 [[Objectives Database]]
 [[KR Database]]
 [[Tasks Database]]
 [[Daily Database]]
 
->Reference
+> Reference
 > [[OKR 拆解及进度管理]]
 
 ### Kanban
+
 [[Kanban (Status)]]
 [[Kanban (Priority)]]
 [[Kanban(Content Flow)]]
+
 ### Command Center
+
 ```ad-kanban
 - **Focus & Align**
 	- [[Action Zone]]
@@ -28,7 +33,7 @@ status:
 	- Pillars
 	- Health & Fitness
 	- Mental Clarity | Spirituality
-	- Mind Expansion 
+	- Mind Expansion
 - **Home/Life**
 	- Pillars
 	- Family
@@ -41,9 +46,11 @@ status:
 	- Client Operations
 	- Product Development
 ```
+
 ### Notes & Ideas
 
 ### Databases
+
 ```ad-kanban
 - **Pillars**
 	- [[Pillars]]
@@ -52,13 +59,13 @@ status:
 		- Mindset
 		- Fitness
 - **Pipelines**
-	- Goal Pipeline 
+	- Goal Pipeline
 		- Value Goals (Objectives) [[Objectives Database]]
 		- Goal Outcomes (Key Results) [[KR Database]]
 	- Execution Pipeline
 		- Projects
 		- Action Items (Tasks) [[Tasks Database]]
-	- Content Production 
+	- Content Production
 		- [[Kanban(Content Flow)]]
 	- Client Operations
 - **Vaults**
@@ -76,6 +83,3 @@ status:
 ```
 
 ### Widgets
-
-
-

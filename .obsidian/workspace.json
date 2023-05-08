@@ -4,42 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "dd043077dc957c30",
+        "id": "4cc9e8a64481ab2e",
         "type": "tabs",
         "children": [
           {
-            "id": "748a07bd3a7e4392",
+            "id": "ee3124741bde54e9",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Daily/Daily Database.md"
-              }
-            }
-          },
-          {
-            "id": "090c67880935f4a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2023-05-08.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2671ea58f225776",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
+              "type": "empty",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +90,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 223.5
   },
   "right": {
     "id": "617127011ede853a",
@@ -261,11 +237,11 @@
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 229.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -328,65 +304,65 @@
         "direction": "vertical",
         "x": 1593,
         "y": 40,
-        "width": 325,
+        "width": 380,
         "height": 731,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "f2671ea58f225776",
+  "active": "ee3124741bde54e9",
   "lastOpenFiles": [
+    "OKRTs/Tasks/Task2.md",
+    "zz-templates/tp/tp-Task.md",
+    "Resonance Database/Dataview task and project examples.md",
+    "zz-templates/tp/tp-Project.md",
+    "OKRTs/Tasks/Task.md",
     "Daily/2023-05-08.md",
-    "Daily/Daily Database.md",
-    "Daily/2023-W19.md",
-    "Obs Projects 日历视图怎么用.md",
-    "Resources/Front-End Tech Stack/01-Front-End Basics/CSS/Animation-动画.md",
-    "Resources/Front-End Tech Stack/01-Front-End Basics/CSS/CSS.md",
-    "Resources/PKM/Excel或CSV表格如何导入Obsidian，或在Obsidian中打开编辑.md",
-    "PKM软件对比.csv",
-    "PKM软件对比.CSV",
-    "CSV-Test",
-    "Temp/Untitled.md",
-    "dc2bb7c3-a454-4cd9-a25f-29cab62ab58c_db.md",
     "Resources/PKM/05.Obs-Project and Task Management/Obs-Dataview——是什么，怎么用.md",
-    "zz-assets/Pasted image 20230508142847.png",
-    "Views/Homepage.md",
-    "Periodic",
-    "Periodic/Monthly",
-    "Periodic/Weekly",
-    "Views/Kanban (Priority).md",
-    "Views/Untitled.canvas",
-    "OKRTs/Tasks/(Every F,R,W,T,M) PMP 考试准备.md",
-    "zz-templates/script/sortspec.md",
-    "OKRTs/Objectives/O1-夯实前端基础，.md",
+    "Daily/2023-05-06.md",
+    "zz-assets/Pasted image 20230508203655.png",
+    "Resources/Life/香港一日游-2023-05-02.md",
     "OKRTs/Objectives/O2-.md",
-    "OKRTs/Objectives/My Goals in 2023.md",
-    "OKRTs/Objectives/Objectives Database.md",
-    "OKRTs/Tasks/Tasks Database.md",
+    "Resources/PKM/笔记中内嵌网页的方法.md",
+    "Resources/PKM/Icon-Folder 好用图标包.md",
+    "Resources/PKM/03.Obs-Theme and Style/Obs-怎样快速分栏展示.md",
+    "Resources/PKM/05.Obs-Project and Task Management/能否链接文件或文件夹到Obsidian.md",
+    "zz-templates/tp-style/tp-Link to Windows File.md",
+    "Resources/PKM/03.Obs-Theme and Style/分栏效果示例.md",
+    "Resources/PKM/05.Obs-Project and Task Management/表格视图追踪管理方法-DB Folder.md",
+    "PKM软件对比.xlsx",
+    "Resources/PKM/01.Obs-Why/Obs-Why.md",
+    "Resources/PKM/05.Obs-Project and Task Management/Excel或CSV表格如何导入Obsidian，或在Obsidian中打开编辑.md",
+    "Resources/PKM/05.Obs-Project and Task Management/Obs Projects 日历视图怎么用.md",
+    "zz-assets/Pasted image 20230508181558.png",
+    "Check.md",
+    "Daily/2023-05-05.md",
     "Daily/2023-05-03.md",
     "Daily/2023-05-02.md",
     "Daily/2023-05-01.md",
-    "Daily/2023-05-06.md",
-    "Daily/2023-05-05.md",
-    "Daily/2023-05-04.md",
-    "Resources/Life/香港一日游-2023-05-02.md",
+    "zz-archives/zz-Daily/2023-04/2023-04-01.md",
+    "PKM软件对比.csv",
+    "PKM软件对比.CSV",
+    "CSV-Test",
+    "zz-assets/Pasted image 20230508142847.png",
+    "Periodic",
+    "Periodic/Monthly",
+    "Periodic/Weekly",
+    "Views/Untitled.canvas",
     "zz-assets/Pasted image 20230506195830.png",
     "zz-assets/Pasted image 20230506195752.png",
     "Resonance Calendar",
     "OKRTs",
     "OKRTs/KRs",
     "zz-assets/Pasted image 20230504200844.png",
-    "Periodic/Weekly",
     "zz-assets/Pasted image 20230504185936.png",
     "zz-assets/Pasted image 20230504185028.png",
     "zz-assets/Pasted image 20230504184747.png",
     "zz-assets/Pasted image 20230504184626.png",
-    "zz-assets/Pasted image 20230504184508.png",
     "Tracking/Workflow/Knowledge Workflow.canvas",
     "Tracking/Workflow/Front-End Projects Overview.canvas",
     "Resources/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/PKM-Map.canvas",
-    "zz-assets/Pasted image 20230504154411.png",
     "Resources/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/Canvas Demo.canvas",
     "GeekEnglish/GE-Resources/Projects Overview.canvas",
     "Resources/GeekEnglish/Projects Overview.canvas",

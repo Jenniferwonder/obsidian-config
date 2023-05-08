@@ -1,7 +1,5 @@
 ---
-
 database-plugin: basic
-
 ---
 
 ```yaml:dbfolder
@@ -71,12 +69,12 @@ columns:
       task_hide_completed: true
       footer_type: none
       persist_changes: false
-  started:
+  DateStarted:
     input: calendar
-    accessorKey: started
-    key: started
-    id: started
-    label: Started
+    accessorKey: DateStarted
+    key: DateStarted
+    id: DateStarted
+    label: DateStarted
     position: 6
     skipPersist: false
     isHidden: false
@@ -264,12 +262,12 @@ config:
   remove_field_when_delete_column: false
   cell_size: normal
   sticky_first_column: false
-  group_folder_column: 
+  group_folder_column:
   remove_empty_folders: false
   automatically_group_files: false
   hoist_files_with_empty_attributes: true
   show_metadata_created: false
-  show_metadata_modified: false
+  show_metadata_DateModified:  false
   show_metadata_tasks: true
   show_metadata_inlinks: false
   show_metadata_outlinks: false

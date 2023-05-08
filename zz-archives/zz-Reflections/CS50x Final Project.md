@@ -1,13 +1,16 @@
 ---
-title: CS50x Final Project
+Title: CS50x Final Project
 tags: Web
 status: Done
-started: 2022-09-12
-due: 
-aliases: 
+DateStarted: 2022-09-12
+due:
+aliases:
 ---
+
 ### Final Project (Aug 11- Sept 19) : **Full-fledged Website**3 Days
+
 #### 1. Project Design
+
 - [ ] Product management
 - [ ] Project Management: **Agile **Scrum Methodology (Kanban/ Trello) - Whole web development process > architecture and setup - Track progress (using Github Project) - created a project, created and labeled issues - worked in **sprints**, held **sprint reviews **and **retrospectives**, wrote documentation (readme) - present to **stakeholders **(what went well, what could improve)
 - [ ] Time Management: Ensure to finish in a certain time - **Time needed** to finish each task and the project as a whole - Add **milestones/ epics** - **Label **items like **improvements **and **new features** and assign them to me - Label **bugs** or defects to fix
@@ -40,7 +43,9 @@ aliases:
   - Online code editor: Codepen
   - Editor: VS Code
   - Design tools: Figma; Canva
+
 #### 2. Skills Prep:
+
 - [ ] HTML, CSS (flexbox, color, font, grid, animation, bootstrap...)
   - To improve web layout
   - Efforts:

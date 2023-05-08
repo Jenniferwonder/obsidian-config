@@ -1,8 +1,8 @@
 ---
-title: Coding Prompt
+Title: Coding Prompt
 tags: Learning-Efficiency/AI
-started: 2023-04-09 Sun
+DateStarted: 2023-04-09 Sun
 due:
-modified: 2023-04-09 Sun
+DateModified: 2023-04-09 Sun
 status:
 ---

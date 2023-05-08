@@ -1,13 +1,14 @@
 ---
-UID: 20230424162818 
-title: PKM
+UID: 20230424162818
+Title: PKM
 tags: moc
-started: 2023-04-24 Mon
-modified: 2023-04-26 Wed
+DateStarted: 2023-04-24 Mon
+DateModified: 2023-04-26 Wed
 status: 🟠Distilled
 due:
 cssclass: kanban gridlist noyaml
 ---
+
 %% Begin Waypoint %%
 - **[[PKM]]**
 	- **[[00.Obs-Community]]**
@@ -63,6 +64,8 @@ cssclass: kanban gridlist noyaml
 			- [[怎样自动移动笔记到对应文件夹-Auto Note Mover (Simple)]]
 			- [[每日笔记：怎样随时高效记录每日灵感与活动-Memo, QuickAdd]]
 	- **05.Obs-Project and Task Management**
+		- [[Excel或CSV表格如何导入Obsidian，或在Obsidian中打开编辑]]
+		- [[Obs Projects 日历视图怎么用]]
 		- [[Obs-Dataview——是什么，怎么用]]
 		- [[Obs-Kanban——真看板，怎么用]]
 		- [[尝试甘特图图示时间进度：Obsidian Mermaid（Gantt Chart）]]
@@ -80,6 +83,7 @@ cssclass: kanban gridlist noyaml
 		- [[怎样高效追踪管理利用每日笔记数据-DB Folder]]
 		- [[热力图怎么用-Heatmap]]
 		- [[笔记项目管理方法参考-August Bradley]]
+		- [[能否链接文件或文件夹到Obsidian]]
 		- [[表格视图追踪管理方法-DB Folder]]
 		- [[记录待办事项-Full Calendar, Day Planner, Reminder]]
 		- [[项目管理视图工具有哪些，怎么用]]
@@ -105,11 +109,12 @@ cssclass: kanban gridlist noyaml
 		- [[Obs-Fast Start]]
 	- **[[Communicate]]**
 	- **[[Coordinate]]**
-	- [[Excel或CSV表格如何导入Obsidian，或在Obsidian中打开编辑]]
+	- [[Icon-Folder 好用图标包]]
 	- **iPad**
 		- [[Canvas in iPad.canvas]]
 		- [[Note in iPhone.canvas]]
 		- [[PKM-iPad Setup]]
 	- **[[Teamwork]]**
+	- [[笔记中内嵌网页的方法]]
 
 %% End Waypoint %%

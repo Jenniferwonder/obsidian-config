@@ -1,17 +1,17 @@
 ---
-UID: 20230504114037 
-title: Action Zone
-tags: [PKM, Tasks]
-type: 💪Tracking 
-started: 2023-05-04
-modified: NaN
+UID: 20230504114037
+tags:
+  - PKM
+  - Tasks
+DateStarted: 2023-05-04
 status: 🟡Organizing
-due:
 cssclass:
 ---
+
 ### Table (Todo List)
 
 ### Calendar
-### Active Projects  (Gallery View)
-### Active Goal Outcomes (Progress Bar)
 
+### Active Projects (Gallery View)
+
+### Active Goal Outcomes (Progress Bar)

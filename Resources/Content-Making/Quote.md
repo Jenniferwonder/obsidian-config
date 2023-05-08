@@ -1,8 +1,8 @@
 ---
-title: Quote
-tags: Content-Making    
-started: 2023-03-03 Fri
-due: 
-modified: 2023-04-10 Mon
-status: 
+Title: Quote
+tags: Content-Making
+DateStarted: 2023-03-03
+due:
+DateModified: 2023-04-10 Mon
+status:
 ---

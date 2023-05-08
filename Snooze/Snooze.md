@@ -1,8 +1,8 @@
 ---
-title: How-to
-tags:   
-started: 2023-04-19 Wed
-due: 
-modified: 2023-04-19 Wed
-status: 
+Title: How-to
+tags:
+DateStarted: 2023-04-19
+due:
+DateModified: 2023-04-19
+status:
 ---

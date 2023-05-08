@@ -1,11 +1,12 @@
 ---
-title: User Analytics
+Title: User Analytics
 tags: Web
-started: 2023-03-06 Mon
+DateStarted: 2023-03-06 Mon
 due:
-modified: 2023-03-06 Mon
+DateModified: 2023-03-06 Mon
 status:
 ---
+
 - [[Cookies]]
 - Session
 - Monitor user traffic

@@ -1,12 +1,15 @@
 ---
-title: Bankist App-JS Arr, Date, Intl(Oct 16-17)
+Title: Bankist App-JS Arr, Date, Intl(Oct 16-17)
 tags:
 status:
-started:
+DateStarted:
 due:
 ---
+
 ## Project Overview
+
 An online bank money transaction web app
+
 #### TIME
 
 | **Start Time** | Oct 16 |
@@ -14,15 +17,17 @@ An online bank money transaction web app
 | --- | --- |
 
 | **Due Time** | Oct 16 |
-| **Total Time Spent** | 1 Day>  |
-| **New Issues Added** | 
+| **Total Time Spent** | 1 Day> |
+| **New Issues Added** |
 
-- 
- |
+- |
+
 #### SCOPE
+
 | #### G2- JS Master
- | 
-- Modal 
+|
+
+- Modal
 - Smooth Scroll (button, navigation)
 - Tabbed Components (标签页)
 - Menu Fading Animation
@@ -30,73 +35,97 @@ An online bank money transaction web app
 - **Reveal Elements on Scrolling**
 - Image Lazy Loading (图片懒加载)
 - Slider (轮播图)
- |
-| --- | --- |
+  |
+  | --- | --- |
+
 ## Modal
+
 #### HTML& CSS
+
 - .modal
 - .overlay
 - .hidden
 - .btn--show-modal
 - .btn--close-modal
+
 #### JS DOM
+
 - Event
-   - .addEventListener('click', <closeModal>);
-   - 'keydown'
-      - document.addEventListener('keydown', function (e) {
-  if (e.key === 'Escape' && !modal.classList.contains('hidden')) {closeModal();}});
+  - .addEventListener('click', <closeModal>);
+  - 'keydown' - document.addEventListener('keydown', function (e) {
+    if (e.key === 'Escape' && !modal.classList.contains('hidden')) {closeModal();}});
 - Class
-   - .classList.add('hidden')
-   - .classList.remove('hidden')
-   - .classList.contains('hidden')
+  - .classList.add('hidden')
+  - .classList.remove('hidden')
+  - .classList.contains('hidden')
 - Selector
-   - document.querySelector('')
-   - document.querySelectorAll('')
+  - document.querySelector('')
+  - document.querySelectorAll('')
+
 ## Navigation
+
 #### HTML& CSS
+
 - .nav
-- .nav__logo, `#logo`
-- .nav__links
-- .nav__link
+- .nav\_\_logo, `#logo`
+- .nav\_\_links
+- .nav\_\_link
 - `#section--1, 2, 3`
+
 ### Smooth Scrolling
+
 #### JS DOM
+
 - Attribute
-   - const **id** = e.target.getAttribute('href')
+  - const **id** = e.target.getAttribute('href')
 - Selector
-   - document.querySelector(**id/ #...**)
+  - document.querySelector(**id/ #...**)
 - Scrolling methods
-   - <targetEl>**.scrollIntoView**({behavior: 'smooth'})
+  - <targetEl>**.scrollIntoView**({behavior: 'smooth'})
+
 ### Menu Fading Animation
+
 #### JS DOM
+
 - DOM traversing
-   - const link = e.target;
-   - const siblings = link.closest('.nav').querySelectorAll('.nav__link');
-   - const logo = link.closest('.nav').querySelector('img');
+  - const link = e.target;
+  - const siblings = link.closest('.nav').querySelectorAll('.nav\_\_link');
+  - const logo = link.closest('.nav').querySelector('img');
 - Passing "argument" into Event handler
-   - const handleHover = function (e) {...if (el !== link) el.style.opacity **= this**;}
-   - nav.addEventListener('mouseover', handleHover**.bind**(0.5));
+  - const handleHover = function (e) {...if (el !== link) el.style.opacity **= this**;}
+  - nav.addEventListener('mouseover', handleHover**.bind**(0.5));
+
 ### Sticky Navigation
+
 - **.getBoundingClientRect()**.height
 - **IntersectionObserver** API
-   - new IntersectionObserver(obsCallback, obsOptions)
+  - new IntersectionObserver(obsCallback, obsOptions)
+
 ## Tabbed Components
+
 #### HTML& CSS
-- .operations__tab-container
-- .operations__tab
-   - .operations__tab--1, 2, 3
-   - .operations__tab--active
-   - data-tab="1/ 2/ 3"S
-- .operations__content
-   - .operations__content--1, 2, 3
-      - `.operations__content--${clicked.**dataset.tab**}`
-   - .operations__content--active
+
+- .operations\_\_tab-container
+- .operations\_\_tab
+  - .operations\_\_tab--1, 2, 3
+  - .operations\_\_tab--active
+  - data-tab="1/ 2/ 3"S
+- .operations\_\_content
+  - .operations\_\_content--1, 2, 3
+    - `.operations__content--${clicked.**dataset.tab**}`
+  - .operations\_\_content--active
+
 #### JS DOM
-- Event delegation 
-   - tabsContainer**.addEventListener**()
+
+- Event delegation
+  - tabsContainer**.addEventListener**()
 - DOM traversing
-   - const clicked = e.target**.closest**('.operations__tab');
+  - const clicked = e.target**.closest**('.operations\_\_tab');
+
 ## Scrolling Effects
+
 ### Reveal Elements on Scrolling
-### Image Lazy Loading 
-### 
+
+### Image Lazy Loading
+
+###

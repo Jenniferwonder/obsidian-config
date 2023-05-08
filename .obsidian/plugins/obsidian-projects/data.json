@@ -11,17 +11,18 @@
             "🟢Published",
             "🔵Archived"
           ]
-        }
+        },
+        "Title": {},
+        "DateModified": {}
       },
       "defaultName": "",
       "templates": [],
       "excludedNotes": [],
-      "isDefault": false,
+      "isDefault": true,
       "dataSource": {
-        "kind": "folder",
+        "kind": "tag",
         "config": {
-          "path": "06-PKM",
-          "recursive": true
+          "tag": "#PKM"
         }
       },
       "newNotesFolder": "",
@@ -43,6 +44,21 @@
               },
               "due": {
                 "width": 150
+              },
+              "AutoNoteMover": {
+                "hide": true
+              },
+              "UID": {
+                "hide": true
+              },
+              "cssclass": {
+                "hide": true
+              },
+              "Title": {
+                "hide": true
+              },
+              "name": {
+                "width": 306
               }
             },
             "orderFields": [
@@ -109,6 +125,20 @@
           "id": "401db4a4-f873-4889-8605-a07e26940afd",
           "name": "Kanban",
           "type": "board"
+        },
+        {
+          "config": {
+            "interval": "month"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "d8edd6a3-7650-42f7-a60b-6fdd8321b2af",
+          "name": "Calendar",
+          "type": "calendar"
         }
       ],
       "id": "21a54295-fc60-47df-8738-f474ccba2711",
@@ -129,12 +159,11 @@
       "defaultName": "",
       "templates": [],
       "excludedNotes": [],
-      "isDefault": true,
+      "isDefault": false,
       "dataSource": {
-        "kind": "folder",
+        "kind": "tag",
         "config": {
-          "path": "00-GeekEnglish",
-          "recursive": true
+          "tag": "#Projects"
         }
       },
       "newNotesFolder": "",
@@ -283,10 +312,12 @@
         }
       ],
       "id": "de90246a-c3d5-4c1d-8f65-ad2e428605f6",
-      "name": "GeekEnglish"
+      "name": "Codespace"
     },
     {
-      "fieldConfig": {},
+      "fieldConfig": {
+        "Title": {}
+      },
       "defaultName": "",
       "templates": [],
       "excludedNotes": [
@@ -345,10 +376,9 @@
             "orderFields": [
               "name",
               "title",
-              "modified",
-              "started",
-              "tags",
-              "uid"
+              "DateStarted",
+              "DateModified",
+              "Topic"
             ],
             "sortField": "name",
             "sortAsc": true
@@ -358,7 +388,7 @@
               {
                 "field": "name",
                 "operator": "contains",
-                "enabled": true,
+                "enabled": false,
                 "value": "2023-04"
               }
             ]
