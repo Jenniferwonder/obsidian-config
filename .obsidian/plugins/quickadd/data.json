@@ -40,12 +40,12 @@
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "Tasks/Kanban.md",
+      "captureTo": "OKRTs/Tasks/{{VALUE}}",
       "captureToActiveFile": false,
       "createFileIfItDoesntExist": {
         "enabled": true,
-        "createWithTemplate": false,
-        "template": ""
+        "createWithTemplate": true,
+        "template": "zz-templates/tp/tp-Task"
       },
       "format": {
         "enabled": true,
@@ -55,8 +55,8 @@
         "enabled": true,
         "after": "## TODO",
         "insertAtEnd": false,
-        "createIfNotFound": false,
-        "createIfNotFoundLocation": "top"
+        "createIfNotFound": true,
+        "createIfNotFoundLocation": "bottom"
       },
       "prepend": false,
       "task": true,
@@ -65,7 +65,7 @@
         "direction": "vertical",
         "focus": true
       },
-      "openFile": false,
+      "openFile": true,
       "openFileInMode": "default"
     },
     {

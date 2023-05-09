@@ -13,11 +13,13 @@
       "name": "status",
       "options": {
         "valuesList": {
-          "2": "⚪Capturing",
-          "3": "🟡Organizing",
-          "4": "🟠Distilling",
-          "5": "🟢Published",
-          "6": "🔵Archived"
+          "2": "⚪ToDo",
+          "3": "🟡ToOrganize",
+          "4": "🟠ToPublish",
+          "5": "🟣Maintained",
+          "6": "🟢Published",
+          "7": "🔵Archived",
+          "8": "⤵️Snooze"
         },
         "sourceType": "ValuesList",
         "valuesListNotePath": "",
@@ -67,6 +69,63 @@
       },
       "id": "7",
       "type": "Multi"
+    },
+    {
+      "name": "Sports",
+      "options": {},
+      "id": "8",
+      "type": "Boolean"
+    },
+    {
+      "name": "Codespace",
+      "options": {},
+      "id": "9",
+      "type": "Boolean"
+    },
+    {
+      "name": "Workflow",
+      "options": {},
+      "id": "10",
+      "type": "Boolean"
+    },
+    {
+      "name": "Content-Making",
+      "options": {},
+      "id": "11",
+      "type": "Boolean"
+    },
+    {
+      "name": "Topic",
+      "options": {
+        "valuesList": {
+          "1": "Content-Making",
+          "2": "Codespace",
+          "3": "PKM-Productivity",
+          "4": "PMP",
+          "5": "Life-Tricks",
+          "6": "English-Learning"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "12",
+      "type": "Multi"
+    },
+    {
+      "name": "Priority",
+      "options": {
+        "valuesList": {
+          "1": "P0",
+          "2": "P1",
+          "3": "P2"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "13",
+      "type": "Select"
     }
   ],
   "fileClassQueries": [],

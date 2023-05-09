@@ -1,24 +1,128 @@
 {
   "recentFiles": [
     {
-      "basename": "Task2",
-      "path": "OKRTs/Tasks/Task2.md"
+      "basename": "DB-KRs",
+      "path": "OKRTs/KRs/DB-KRs.md"
+    },
+    {
+      "basename": "DB-Tasks",
+      "path": "OKRTs/Tasks/DB-Tasks.md"
+    },
+    {
+      "basename": "DB-Objectives",
+      "path": "OKRTs/Objectives/DB-Objectives.md"
+    },
+    {
+      "basename": "O2K2",
+      "path": "OKRTs/KRs/O2K2.md"
+    },
+    {
+      "basename": "O1-Front-End",
+      "path": "OKRTs/Objectives/O1-Front-End.md"
+    },
+    {
+      "basename": "O2-PKM",
+      "path": "OKRTs/Objectives/O2-PKM.md"
+    },
+    {
+      "basename": "O1K1-夯实前端基础，完成基础系列笔记系统化整理与输出",
+      "path": "OKRTs/KRs/O1K1-夯实前端基础，完成基础系列笔记系统化整理与输出.md"
+    },
+    {
+      "basename": "O2K1-实现高效追踪学习进展与阶段成果工作流",
+      "path": "OKRTs/KRs/O2K1-实现高效追踪学习进展与阶段成果工作流.md"
+    },
+    {
+      "basename": "DB-Codespace Projects",
+      "path": "Projects/DB-Codespace Projects.md"
+    },
+    {
+      "basename": "sortspec",
+      "path": "zz-templates/sortspec.md"
+    },
+    {
+      "basename": "GE-付费专属内容与服务",
+      "path": "Projects/React Projects/GeekEnglish Learning Platform/02-Functions&Features/GE-付费专属内容与服务.md"
+    },
+    {
+      "basename": "GE-主页布局与功能参考",
+      "path": "Projects/React Projects/GeekEnglish Learning Platform/02-Functions&Features/GE-主页布局与功能参考.md"
+    },
+    {
+      "basename": "GE-核心功能模块需求",
+      "path": "Projects/React Projects/GeekEnglish Learning Platform/02-Functions&Features/GE-核心功能模块需求.md"
+    },
+    {
+      "basename": "Front-End Tech Stack DB",
+      "path": "Resources/Front-End Tech Stack/Front-End Tech Stack DB.md"
+    },
+    {
+      "basename": "My Goals in 2023",
+      "path": "OKRTs/Objectives/My Goals in 2023.md"
+    },
+    {
+      "basename": "表格视图追踪管理方法-DB Folder",
+      "path": "Resources/PKM/05.Obs-Project and Task Management/表格视图追踪管理方法-DB Folder.md"
+    },
+    {
+      "basename": "怎样搭建项目管理面板和表格数据视图-Projects, Dataview, Kanban, Table, DB Folder",
+      "path": "Resources/PKM/05.Obs-Project and Task Management/怎样搭建项目管理面板和表格数据视图-Projects, Dataview, Kanban, Table, DB Folder.md"
+    },
+    {
+      "basename": "月度里程碑（看板、列表、甘特图）",
+      "path": "Temp/月度里程碑（看板、列表、甘特图）.md"
+    },
+    {
+      "basename": "Useful Metadata",
+      "path": "Temp/Useful Metadata.md"
+    },
+    {
+      "basename": "OKR 拆解及进度管理",
+      "path": "Temp/OKR 拆解及进度管理.md"
+    },
+    {
+      "basename": "2023-05-08",
+      "path": "Daily/2023-05-08.md"
+    },
+    {
+      "basename": "笔记cssclass布局技巧",
+      "path": "笔记cssclass布局技巧.md"
+    },
+    {
+      "basename": "怎样实现进度条自动追踪-MetaEdit",
+      "path": "Resources/PKM/05.Obs-Project and Task Management/怎样实现进度条自动追踪-MetaEdit.md"
+    },
+    {
+      "basename": "T2",
+      "path": "OKRTs/Tasks/T2.md"
+    },
+    {
+      "basename": "tp-KRs",
+      "path": "zz-templates/tp/tp-KRs.md"
+    },
+    {
+      "basename": "Front-End OKR-Mindmap",
+      "path": "Tracking/Workflow/Front-End OKR-Mindmap.md"
+    },
+    {
+      "basename": "Daily Database",
+      "path": "Daily/Daily Database.md"
+    },
+    {
+      "basename": "T1",
+      "path": "OKRTs/Tasks/T1.md"
     },
     {
       "basename": "tp-Task",
       "path": "zz-templates/tp/tp-Task.md"
     },
     {
-      "basename": "tp-Project",
-      "path": "zz-templates/tp/tp-Project.md"
+      "basename": "2023-05-09",
+      "path": "Daily/2023-05-09.md"
     },
     {
-      "basename": "Task",
-      "path": "OKRTs/Tasks/Task.md"
-    },
-    {
-      "basename": "2023-05-08",
-      "path": "Daily/2023-05-08.md"
+      "basename": "Daily Plan Template",
+      "path": "zz-templates/tp/Daily Plan Template.md"
     },
     {
       "basename": "Obs-Dataview——是什么，怎么用",
@@ -31,10 +135,6 @@
     {
       "basename": "香港一日游-2023-05-02",
       "path": "Resources/Life/香港一日游-2023-05-02.md"
-    },
-    {
-      "basename": "O2-",
-      "path": "OKRTs/Objectives/O2-.md"
     },
     {
       "basename": "笔记中内嵌网页的方法",
@@ -59,10 +159,6 @@
     {
       "basename": "分栏效果示例",
       "path": "Resources/PKM/03.Obs-Theme and Style/分栏效果示例.md"
-    },
-    {
-      "basename": "表格视图追踪管理方法-DB Folder",
-      "path": "Resources/PKM/05.Obs-Project and Task Management/表格视图追踪管理方法-DB Folder.md"
     },
     {
       "basename": "Obs-Why",
@@ -103,102 +199,6 @@
     {
       "basename": "2023-04-04",
       "path": "zz-archives/zz-Daily/2023-04/2023-04-04.md"
-    },
-    {
-      "basename": "2023-04-05",
-      "path": "zz-archives/zz-Daily/2023-04/2023-04-05.md"
-    },
-    {
-      "basename": "2023-04-06",
-      "path": "zz-archives/zz-Daily/2023-04/2023-04-06.md"
-    },
-    {
-      "basename": "2023-04-07",
-      "path": "zz-archives/zz-Daily/2023-04/2023-04-07.md"
-    },
-    {
-      "basename": "2023-04-08",
-      "path": "zz-archives/zz-Daily/2023-04/2023-04-08.md"
-    },
-    {
-      "basename": "2023-04-09",
-      "path": "zz-archives/zz-Daily/2023-04/2023-04-09.md"
-    },
-    {
-      "basename": "2023-04-10",
-      "path": "zz-archives/zz-Daily/2023-04/2023-04-10.md"
-    },
-    {
-      "basename": "2023-04-11",
-      "path": "zz-archives/zz-Daily/2023-04/2023-04-11.md"
-    },
-    {
-      "basename": "2023-04-12",
-      "path": "zz-archives/zz-Daily/2023-04/2023-04-12.md"
-    },
-    {
-      "basename": "2023-04-13",
-      "path": "zz-archives/zz-Daily/2023-04/2023-04-13.md"
-    },
-    {
-      "basename": "2023-04-14",
-      "path": "zz-archives/zz-Daily/2023-04/2023-04-14.md"
-    },
-    {
-      "basename": "2023-04-15",
-      "path": "zz-archives/zz-Daily/2023-04/2023-04-15.md"
-    },
-    {
-      "basename": "2023-04-16",
-      "path": "zz-archives/zz-Daily/2023-04/2023-04-16.md"
-    },
-    {
-      "basename": "2023-04-17",
-      "path": "zz-archives/zz-Daily/2023-04/2023-04-17.md"
-    },
-    {
-      "basename": "2023-04-18",
-      "path": "zz-archives/zz-Daily/2023-04/2023-04-18.md"
-    },
-    {
-      "basename": "2023-04-19",
-      "path": "zz-archives/zz-Daily/2023-04/2023-04-19.md"
-    },
-    {
-      "basename": "2023-04-20",
-      "path": "zz-archives/zz-Daily/2023-04/2023-04-20.md"
-    },
-    {
-      "basename": "2023-04-21",
-      "path": "zz-archives/zz-Daily/2023-04/2023-04-21.md"
-    },
-    {
-      "basename": "2023-04-23",
-      "path": "zz-archives/zz-Daily/2023-04/2023-04-23.md"
-    },
-    {
-      "basename": "2023-04-24",
-      "path": "zz-archives/zz-Daily/2023-04/2023-04-24.md"
-    },
-    {
-      "basename": "2023-04-25",
-      "path": "zz-archives/zz-Daily/2023-04/2023-04-25.md"
-    },
-    {
-      "basename": "2023-04-26",
-      "path": "zz-archives/zz-Daily/2023-04/2023-04-26.md"
-    },
-    {
-      "basename": "2023-04-27",
-      "path": "zz-archives/zz-Daily/2023-04/2023-04-27.md"
-    },
-    {
-      "basename": "2023-04-28",
-      "path": "zz-archives/zz-Daily/2023-04/2023-04-28.md"
-    },
-    {
-      "basename": "2023-04-30",
-      "path": "zz-archives/zz-Daily/2023-04/2023-04-30.md"
     }
   ],
   "omittedPaths": [],

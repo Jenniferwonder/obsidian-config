@@ -1,13 +1,17 @@
 ---
 UID: 20230504152214
 Title: Untitled
-tags: [Content-Making, Tasks]
+tags:
+  - Content-Making
+  - Tasks
 type: 🗒️Resource
 DateStarted: 2023-05-04
 DateModified: NaN
-status: 🟡Organizing
-due:
-cssclass:
+status: ⤵️Snooze
+cssclass: null
+DateDue: null
+Priority: P3
+Progress: NaN%
 ---
 
 # ⛰ Tell the Story

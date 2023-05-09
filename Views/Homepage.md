@@ -8,9 +8,9 @@ status:
 
 ### OKRTs
 
-[[Objectives Database]]
-[[KR Database]]
-[[Tasks Database]]
+[[DB-Objectives]]
+[[DB-KRs]]
+[[DB-Tasks]]
 [[Daily Database]]
 
 > Reference

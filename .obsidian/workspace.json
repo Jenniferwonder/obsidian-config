@@ -8,14 +8,112 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ee3124741bde54e9",
+            "id": "e3ddea56be2b3f32",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "database-plugin",
+              "state": {
+                "file": "OKRTs/Tasks/DB-Tasks.md"
+              }
+            }
+          },
+          {
+            "id": "005137fcf8cd1ca6",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "OKRTs/KRs/DB-KRs.md"
+              }
+            }
+          },
+          {
+            "id": "3b4bfff1ac4dcb23",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "OKRTs/Objectives/DB-Objectives.md"
+              }
+            }
+          },
+          {
+            "id": "9884a44962cd3f91",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "Projects/DB-Codespace Projects.md"
+              }
+            }
+          },
+          {
+            "id": "1cc4cd812d0e32ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OKRTs/KRs/O2K2.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b274759457c58518",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OKRTs/KRs/O2K1-实现高效追踪学习进展与阶段成果工作流.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e75851388a076d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OKRTs/KRs/O1K1-夯实前端基础，完成基础系列笔记系统化整理与输出.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a52655ecba8cd41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OKRTs/Objectives/O1-Front-End.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e855ff94d815a89e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OKRTs/Objectives/O2-PKM.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,7 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 223.5
+    "width": 244.5
   },
   "right": {
     "id": "617127011ede853a",
@@ -106,6 +204,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "OKRTs/KRs/DB-KRs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +221,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "OKRTs/KRs/DB-KRs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +232,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "OKRTs/KRs/DB-KRs.md"
+              }
             }
           },
           {
@@ -152,6 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "OKRTs/KRs/DB-KRs.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -304,44 +407,44 @@
         "direction": "vertical",
         "x": 1593,
         "y": 40,
-        "width": 380,
-        "height": 731,
+        "width": 317,
+        "height": 547,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "ee3124741bde54e9",
+  "active": "005137fcf8cd1ca6",
   "lastOpenFiles": [
-    "OKRTs/Tasks/Task2.md",
-    "zz-templates/tp/tp-Task.md",
-    "Resonance Database/Dataview task and project examples.md",
-    "zz-templates/tp/tp-Project.md",
-    "OKRTs/Tasks/Task.md",
-    "Daily/2023-05-08.md",
-    "Resources/PKM/05.Obs-Project and Task Management/Obs-Dataview——是什么，怎么用.md",
-    "Daily/2023-05-06.md",
-    "zz-assets/Pasted image 20230508203655.png",
-    "Resources/Life/香港一日游-2023-05-02.md",
-    "OKRTs/Objectives/O2-.md",
-    "Resources/PKM/笔记中内嵌网页的方法.md",
-    "Resources/PKM/Icon-Folder 好用图标包.md",
-    "Resources/PKM/03.Obs-Theme and Style/Obs-怎样快速分栏展示.md",
-    "Resources/PKM/05.Obs-Project and Task Management/能否链接文件或文件夹到Obsidian.md",
-    "zz-templates/tp-style/tp-Link to Windows File.md",
-    "Resources/PKM/03.Obs-Theme and Style/分栏效果示例.md",
+    "OKRTs/Tasks/DB-Tasks.md",
+    "OKRTs/Objectives/DB-Objectives.md",
+    "OKRTs/KRs/DB-KRs.md",
+    "OKRTs/KRs/O2K2.md",
+    "OKRTs/Objectives/O1-Front-End.md",
+    "OKRTs/Objectives/O2-PKM.md",
+    "OKRTs/KRs/O1K1-夯实前端基础，完成基础系列笔记系统化整理与输出.md",
+    "OKRTs/KRs/O2K1-实现高效追踪学习进展与阶段成果工作流.md",
+    "Projects/DB-Codespace Projects.md",
+    "zz-templates/sortspec.md",
+    "Projects/React Projects/GeekEnglish Learning Platform/02-Functions&Features/GE-付费专属内容与服务.md",
+    "Projects/React Projects/GeekEnglish Learning Platform/02-Functions&Features/GE-主页布局与功能参考.md",
+    "Projects/React Projects/GeekEnglish Learning Platform/02-Functions&Features/GE-核心功能模块需求.md",
+    "Resources/Front-End Tech Stack/Front-End Tech Stack DB.md",
+    "OKRTs/Objectives/My Goals in 2023.md",
     "Resources/PKM/05.Obs-Project and Task Management/表格视图追踪管理方法-DB Folder.md",
+    "Resources/PKM/05.Obs-Project and Task Management/怎样搭建项目管理面板和表格数据视图-Projects, Dataview, Kanban, Table, DB Folder.md",
+    "Temp/月度里程碑（看板、列表、甘特图）.md",
+    "Temp/Useful Metadata.md",
+    "Temp/OKR 拆解及进度管理.md",
+    "Daily/2023-05-08.md",
+    "笔记cssclass布局技巧.md",
+    "Resources/PKM/05.Obs-Project and Task Management/怎样实现进度条自动追踪-MetaEdit.md",
+    "OKRTs/Tasks/T2.md",
+    "zz-templates/tp/tp-KRs.md",
+    "Tracking/Workflow/Front-End OKR-Mindmap.md",
+    "zz-assets/Pasted image 20230508203655.png",
     "PKM软件对比.xlsx",
-    "Resources/PKM/01.Obs-Why/Obs-Why.md",
-    "Resources/PKM/05.Obs-Project and Task Management/Excel或CSV表格如何导入Obsidian，或在Obsidian中打开编辑.md",
-    "Resources/PKM/05.Obs-Project and Task Management/Obs Projects 日历视图怎么用.md",
     "zz-assets/Pasted image 20230508181558.png",
-    "Check.md",
-    "Daily/2023-05-05.md",
-    "Daily/2023-05-03.md",
-    "Daily/2023-05-02.md",
-    "Daily/2023-05-01.md",
-    "zz-archives/zz-Daily/2023-04/2023-04-01.md",
     "PKM软件对比.csv",
     "PKM软件对比.CSV",
     "CSV-Test",

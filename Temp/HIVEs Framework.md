@@ -1,9 +1,13 @@
 ---
 Title: 🐝 HIVEs Framework
-tags: [Content-Making, Tasks]
+tags:
+  - Content-Making
+  - Tasks
 DateStarted: 2023-05-04
 DateModified: 2023-05-04
-status:
+status: ⤵️Snooze
+Priority: P3
+Progress: NaN%
 ---
 
 # 🐝 HIVEs Framework

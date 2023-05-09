@@ -37,6 +37,6 @@ Border: disabled
 --- column-end ---
 
 **Next**  
-[[怎样高效追踪学习进展与阶段成果]]
+[[O2K1-实现高效追踪学习进展与阶段成果工作流]]
 
 === end-multi-column

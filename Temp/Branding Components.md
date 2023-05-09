@@ -4,8 +4,10 @@ tags:
   - PKM
   - Tasks
 DateStarted: 2023-05-04
-status: 🟡Organizing
-cssclass:
+status: ⤵️Snooze
+cssclass: null
+Priority: P3
+Progress: NaN%
 ---
 
 # Branding Components
