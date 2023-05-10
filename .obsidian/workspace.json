@@ -6,6 +6,7 @@
       {
         "id": "4cc9e8a64481ab2e",
         "type": "tabs",
+        "dimension": 48.825065274151434,
         "children": [
           {
             "id": "e3ddea56be2b3f32",
@@ -44,6 +45,19 @@
               "type": "database-plugin",
               "state": {
                 "file": "Projects/DB-Codespace Projects.md"
+              }
+            }
+          },
+          {
+            "id": "461c48e25675f243",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp/OKR 拆解及进度管理.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
@@ -106,6 +120,39 @@
               "type": "markdown",
               "state": {
                 "file": "OKRTs/Objectives/O2-PKM.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "54447adcf3fb1897",
+        "type": "tabs",
+        "dimension": 51.174934725848566,
+        "children": [
+          {
+            "id": "ffabe40420b9928b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023-05-09.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2a345874e3430c4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023-05-10.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -188,7 +235,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "617127011ede853a",
@@ -204,7 +252,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OKRTs/KRs/DB-KRs.md",
+                "file": "Daily/2023-05-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +269,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OKRTs/KRs/DB-KRs.md",
+                "file": "Daily/2023-05-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -233,7 +281,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OKRTs/KRs/DB-KRs.md"
+                "file": "Daily/2023-05-10.md"
               }
             }
           },
@@ -254,7 +302,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "OKRTs/KRs/DB-KRs.md",
+                "file": "Daily/2023-05-10.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -340,12 +388,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 281.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -378,7 +425,9 @@
       "obsidian-spaced-repetition:Review flashcards": false,
       "webpage-html-export:Export Vault to HTML": false,
       "periodic-notes:Open today": false,
-      "obsidian-memos:Memos": false
+      "obsidian-memos:Memos": false,
+      "big-calendar:Big Calendar": false,
+      "card-board:CardBoard": false
     }
   },
   "floating": {
@@ -386,15 +435,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "bcf33962e171010c",
+        "id": "74a154e034d29d03",
         "type": "window",
         "children": [
           {
-            "id": "28e75534b9bf3113",
+            "id": "8489129962188d47",
             "type": "tabs",
             "children": [
               {
-                "id": "2fb118e7d7aae9b5",
+                "id": "ce19f339f0145acf",
                 "type": "leaf",
                 "state": {
                   "type": "memos_view",
@@ -405,26 +454,34 @@
           }
         ],
         "direction": "vertical",
-        "x": 1593,
-        "y": 40,
-        "width": 317,
-        "height": 547,
+        "x": 2323,
+        "y": 168,
+        "width": 346,
+        "height": 652,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "005137fcf8cd1ca6",
+  "active": "2a345874e3430c4e",
   "lastOpenFiles": [
     "OKRTs/Tasks/DB-Tasks.md",
-    "OKRTs/Objectives/DB-Objectives.md",
+    "Daily/2023-05-10.md",
+    "Daily/2023-05-09.md",
+    "zz-archives/zz-Reflections/2023-01.md",
+    "OKRTs/Tasks/T1.md",
     "OKRTs/KRs/DB-KRs.md",
-    "OKRTs/KRs/O2K2.md",
-    "OKRTs/Objectives/O1-Front-End.md",
-    "OKRTs/Objectives/O2-PKM.md",
-    "OKRTs/KRs/O1K1-夯实前端基础，完成基础系列笔记系统化整理与输出.md",
-    "OKRTs/KRs/O2K1-实现高效追踪学习进展与阶段成果工作流.md",
+    "tp-Objective.md",
+    "Daily/2023-05-04.md",
+    "OKRTs/Objectives/DB-Objectives.md",
     "Projects/DB-Codespace Projects.md",
+    "OKRTs/KRs/O2K2.md",
+    "OKRTs/KRs/O1K1-夯实前端基础，完成基础系列笔记系统化整理与输出.md",
+    "OKRTs/Objectives/O1-Front-End.md",
+    "zz-templates/tp/tp-Task.md",
+    "Temp/OKR 拆解及进度管理.md",
+    "OKRTs/Objectives/O2-PKM.md",
+    "OKRTs/KRs/O2K1-实现高效追踪学习进展与阶段成果工作流.md",
     "zz-templates/sortspec.md",
     "Projects/React Projects/GeekEnglish Learning Platform/02-Functions&Features/GE-付费专属内容与服务.md",
     "Projects/React Projects/GeekEnglish Learning Platform/02-Functions&Features/GE-主页布局与功能参考.md",
@@ -434,14 +491,6 @@
     "Resources/PKM/05.Obs-Project and Task Management/表格视图追踪管理方法-DB Folder.md",
     "Resources/PKM/05.Obs-Project and Task Management/怎样搭建项目管理面板和表格数据视图-Projects, Dataview, Kanban, Table, DB Folder.md",
     "Temp/月度里程碑（看板、列表、甘特图）.md",
-    "Temp/Useful Metadata.md",
-    "Temp/OKR 拆解及进度管理.md",
-    "Daily/2023-05-08.md",
-    "笔记cssclass布局技巧.md",
-    "Resources/PKM/05.Obs-Project and Task Management/怎样实现进度条自动追踪-MetaEdit.md",
-    "OKRTs/Tasks/T2.md",
-    "zz-templates/tp/tp-KRs.md",
-    "Tracking/Workflow/Front-End OKR-Mindmap.md",
     "zz-assets/Pasted image 20230508203655.png",
     "PKM软件对比.xlsx",
     "zz-assets/Pasted image 20230508181558.png",

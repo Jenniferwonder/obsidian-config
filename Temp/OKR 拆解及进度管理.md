@@ -1,21 +1,21 @@
 ---
 UID: 20230504185654
 Title: OKR 拆解及进度管理
+Topic: PKM-Productivity
+status: 💚ToDo
 tags:
   - PMP
   - Tasks
+Priority: P1
 DateStarted: 2023-05-04
 DateModified: null
-status: 🟡ToOrganize
 DateDue: null
-cssclass: null
-Priority: P1
+DateDo: 2023-05-04T00:00:00.000+08:00
 Total: 2
 Completed: 2
 Incomplete: 0
 Progress: 100%
-DateDo: 2023-05-04T00:00:00.000+08:00
-Topic: PKM-Productivity
+cssclass: null
 ---
 Objective:: [[OKRTs/Objectives/O2-PKM.md|O2-PKM]]
 KRs:: [[O2K1-实现高效追踪学习进展与阶段成果工作流|K1-实现高效追踪学习进展与阶段成果工作流]]

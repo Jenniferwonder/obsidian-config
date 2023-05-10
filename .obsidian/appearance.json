@@ -25,14 +25,15 @@
     "【日记】timeline",
     "【Query】keep-live",
     "【背景】默认笔记背景",
-    "theme-test",
+    "config",
     "snippets-test",
     "plugin-styles-test",
     "obsidian-styles-test",
-    "config-minimal"
+    "theme-test"
   ],
   "textFontFamily": "Microsoft YaHei",
-  "baseFontSize": 15,
+  "baseFontSize": 14,
   "showViewHeader": true,
-  "nativeMenus": false
+  "nativeMenus": false,
+  "baseFontSizeAction": false
 }

@@ -1,0 +1,6 @@
+{
+  "StartDate": "monday",
+  "InsertAfter": "# Actions",
+  "ProcessEntriesBelow": "# Actions",
+  "DefaultEventComposition": "{TIME} {CONTENT}"
+}

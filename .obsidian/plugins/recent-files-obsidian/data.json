@@ -1,40 +1,72 @@
 {
   "recentFiles": [
     {
-      "basename": "DB-KRs",
-      "path": "OKRTs/KRs/DB-KRs.md"
+      "basename": "2023-05-10",
+      "path": "Daily/2023-05-10.md"
     },
     {
       "basename": "DB-Tasks",
       "path": "OKRTs/Tasks/DB-Tasks.md"
     },
     {
+      "basename": "2023-05-09",
+      "path": "Daily/2023-05-09.md"
+    },
+    {
+      "basename": "2023-01",
+      "path": "zz-archives/zz-Reflections/2023-01.md"
+    },
+    {
+      "basename": "T1",
+      "path": "OKRTs/Tasks/T1.md"
+    },
+    {
+      "basename": "DB-KRs",
+      "path": "OKRTs/KRs/DB-KRs.md"
+    },
+    {
+      "basename": "tp-Objective",
+      "path": "tp-Objective.md"
+    },
+    {
+      "basename": "2023-05-04",
+      "path": "Daily/2023-05-04.md"
+    },
+    {
       "basename": "DB-Objectives",
       "path": "OKRTs/Objectives/DB-Objectives.md"
+    },
+    {
+      "basename": "DB-Codespace Projects",
+      "path": "Projects/DB-Codespace Projects.md"
     },
     {
       "basename": "O2K2",
       "path": "OKRTs/KRs/O2K2.md"
     },
     {
+      "basename": "O1K1-夯实前端基础，完成基础系列笔记系统化整理与输出",
+      "path": "OKRTs/KRs/O1K1-夯实前端基础，完成基础系列笔记系统化整理与输出.md"
+    },
+    {
       "basename": "O1-Front-End",
       "path": "OKRTs/Objectives/O1-Front-End.md"
+    },
+    {
+      "basename": "tp-Task",
+      "path": "zz-templates/tp/tp-Task.md"
+    },
+    {
+      "basename": "OKR 拆解及进度管理",
+      "path": "Temp/OKR 拆解及进度管理.md"
     },
     {
       "basename": "O2-PKM",
       "path": "OKRTs/Objectives/O2-PKM.md"
     },
     {
-      "basename": "O1K1-夯实前端基础，完成基础系列笔记系统化整理与输出",
-      "path": "OKRTs/KRs/O1K1-夯实前端基础，完成基础系列笔记系统化整理与输出.md"
-    },
-    {
       "basename": "O2K1-实现高效追踪学习进展与阶段成果工作流",
       "path": "OKRTs/KRs/O2K1-实现高效追踪学习进展与阶段成果工作流.md"
-    },
-    {
-      "basename": "DB-Codespace Projects",
-      "path": "Projects/DB-Codespace Projects.md"
     },
     {
       "basename": "sortspec",
@@ -77,10 +109,6 @@
       "path": "Temp/Useful Metadata.md"
     },
     {
-      "basename": "OKR 拆解及进度管理",
-      "path": "Temp/OKR 拆解及进度管理.md"
-    },
-    {
       "basename": "2023-05-08",
       "path": "Daily/2023-05-08.md"
     },
@@ -107,18 +135,6 @@
     {
       "basename": "Daily Database",
       "path": "Daily/Daily Database.md"
-    },
-    {
-      "basename": "T1",
-      "path": "OKRTs/Tasks/T1.md"
-    },
-    {
-      "basename": "tp-Task",
-      "path": "zz-templates/tp/tp-Task.md"
-    },
-    {
-      "basename": "2023-05-09",
-      "path": "Daily/2023-05-09.md"
     },
     {
       "basename": "Daily Plan Template",
@@ -183,22 +199,6 @@
     {
       "basename": "2023-05-02",
       "path": "Daily/2023-05-02.md"
-    },
-    {
-      "basename": "2023-05-01",
-      "path": "Daily/2023-05-01.md"
-    },
-    {
-      "basename": "2023-04-01",
-      "path": "zz-archives/zz-Daily/2023-04/2023-04-01.md"
-    },
-    {
-      "basename": "2023-04-03",
-      "path": "zz-archives/zz-Daily/2023-04/2023-04-03.md"
-    },
-    {
-      "basename": "2023-04-04",
-      "path": "zz-archives/zz-Daily/2023-04/2023-04-04.md"
     }
   ],
   "omittedPaths": [],

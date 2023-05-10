@@ -11,9 +11,11 @@ status: 🟡ToOrganize
 Priority: P2
 Completion: null
 Progress: NaN%
+Topic: ""
 ---
 KRs:: [[O2K1-实现高效追踪学习进展与阶段成果工作流|K1-实现高效追踪学习进展与阶段成果工作流]]
 Objectives::   [[O2-PKM|O2-实现高效追踪学习进展与阶段成果工作流]]]
+Objective:: [[OKRTs/Objectives/O2-PKM.md|O2-PKM]]]
 
 ### Useful Metadata
 

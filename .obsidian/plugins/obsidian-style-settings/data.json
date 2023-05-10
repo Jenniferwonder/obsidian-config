@@ -165,7 +165,7 @@
   "blue-topaz-theme@@toggle-calendar-shadow": true,
   "blue-topaz-theme@@toggle-calendar-transparent": true,
   "blue-topaz-theme@@style-options-for-calendar-plugin": "style-options-for-calendar-plugin-style-one",
-  "blue-topaz-theme@@rainbow-checklist": true,
+  "blue-topaz-theme@@rainbow-checklist": false,
   "blue-topaz-theme@@style-options-for-kanban-plugin-static": "style-options-for-kanban-plugin-static-all-color",
   "blue-topaz-theme@@style-options-for-kanban-plugin-dynamic": "style-options-for-kanban-plugin-dynamic-neon-three",
   "blue-topaz-theme@@style-options-for-buttons-plugin": true,
@@ -231,7 +231,7 @@
   "minimal-advanced@@font-ui-smaller": 12,
   "minimal-style@@h2-size": "1.45em",
   "minimal-style@@h1-size": "1.5em",
-  "minimal-style@@h3-size": "1.25em",
+  "minimal-style@@h3-size": "1.35em",
   "minimal-style@@h4-size": "1.2em",
   "minimal-style@@h4-weight": 600,
   "minimal-style@@h4-variant": "normal",
@@ -242,5 +242,6 @@
   "minimal-style@@sidebar-tabs-style": "sidebar-tabs-default",
   "minimal-style@@table-text-size": "1.2em",
   "minimal-style@@window-title-off": false,
-  "blue-topaz-theme@@remove-colorful-highlight-bg": true
+  "blue-topaz-theme@@remove-colorful-highlight-bg": true,
+  "minimal-style@@h3-weight": 600
 }

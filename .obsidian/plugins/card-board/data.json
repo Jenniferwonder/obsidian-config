@@ -1,0 +1,68 @@
+{
+  "version": "0.10.0",
+  "data": {
+    "boardConfigs": [
+      {
+        "tag": "tagBoardConfig",
+        "data": {
+          "columns": [
+            {
+              "tag": "ToKeep",
+              "displayTitle": "To Keep"
+            },
+            {
+              "tag": "ToImprove",
+              "displayTitle": "To Improve"
+            }
+          ],
+          "showColumnTags": true,
+          "completedCount": 10,
+          "filters": [
+            {
+              "tag": "pathFilter",
+              "data": "Daily"
+            }
+          ],
+          "filterPolarity": "Allow",
+          "filterScope": "Both",
+          "showFilteredTags": true,
+          "includeOthers": false,
+          "includeUntagged": false,
+          "title": "Review",
+          "collapsedColumns": []
+        }
+      },
+      {
+        "tag": "dateBoardConfig",
+        "data": {
+          "completedCount": 10,
+          "filters": [
+            {
+              "tag": "pathFilter",
+              "data": "Daily"
+            }
+          ],
+          "filterPolarity": "Allow",
+          "filterScope": "Both",
+          "showFilteredTags": true,
+          "includeUndated": false,
+          "title": "Date Board",
+          "collapsedColumns": []
+        }
+      }
+    ],
+    "globalSettings": {
+      "taskCompletionFormat": "ObsidianCardBoard",
+      "columnNames": {
+        "today": "",
+        "tomorrow": "",
+        "future": "",
+        "undated": "",
+        "others": "",
+        "untagged": "",
+        "completed": ""
+      },
+      "ignoreFileNameDates": false
+    }
+  }
+}

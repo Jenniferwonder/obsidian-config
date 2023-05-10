@@ -13,13 +13,16 @@
       "name": "status",
       "options": {
         "valuesList": {
-          "2": "⚪ToDo",
-          "3": "🟡ToOrganize",
-          "4": "🟠ToPublish",
-          "5": "🟣Maintained",
-          "6": "🟢Published",
-          "7": "🔵Archived",
-          "8": "⤵️Snooze"
+          "2": "🤍ToPlan",
+          "3": "💚ToDo",
+          "4": "💛ToCheck",
+          "5": "💙ToAct",
+          "6": "🟡ToOrganize",
+          "7": "🟠ToPublish",
+          "8": "🟣Maintained",
+          "9": "🟢Published",
+          "10": "🔵Archived",
+          "11": "⤵️Snooze"
         },
         "sourceType": "ValuesList",
         "valuesListNotePath": "",
