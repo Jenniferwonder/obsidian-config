@@ -53,8 +53,8 @@
     "enabled": true,
     "boards": [
       {
-        "property": "progress",
-        "boardName": "任务看板"
+        "property": "status",
+        "boardName": "KB-Tasks"
       }
     ]
   },

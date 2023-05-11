@@ -1,25 +1,29 @@
 ---
+Topic: 
+DateDue: 
+Total:
+Completed:
+Incomplete: 
 Title: Homepage
-tags: PKM
 DateStarted: 2023-05-04
-DateModified: 2023-05-04
+DateModified: 2023-05-11
 status: null
 Progress: NaN%
 ---
 
 ### OKRTs
-[[DB-Objectives]]
-[[DB-KRs]]
-[[DB-Tasks]]
-[[DB-Daily]]
+[[DB-Objectives]]  
+[[DB-KRs]]  
+[[DB-Tasks]]  
+[[DB-Daily]]  
 [[DB-Daily]]
 
-> Reference
+> Reference  
 > [[OKR 拆解及进度管理]]
 ### Gantt Chart
 ### Kanban
-[[Kanban (Status)]]
-[[Kanban (Priority)]]
+[[KB-Tasks]]  
+[[Kanban (Priority)]]  
 [[Kanban(Content Flow)]]
 
 

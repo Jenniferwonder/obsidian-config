@@ -1,7 +1,0 @@
-{
-	"nodes":[
-		{"id":"8c1dba8753a2eb70","x":-4,"y":90,"width":164,"height":50,"type":"text","text":"Note in iPhone"},
-		{"id":"85885f49aeeae6b5","x":40,"y":293,"width":120,"height":50,"type":"text","text":"阅读"}
-	],
-	"edges":[]
-}

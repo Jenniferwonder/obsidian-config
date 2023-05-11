@@ -4,78 +4,38 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
-      "folder": "GeekEnglish",
-      "tag": "#Projects/GeekEnglish",
+      "folder": "Programs/Content-Making",
+      "tag": "#Content-Making",
       "pattern": ""
     },
     {
-      "folder": "GeekEnglish/01-Plan and Research",
-      "tag": "#GeekEnglish/Plans",
-      "pattern": ""
-    },
-    {
-      "folder": "GeekEnglish/00-Logs",
-      "tag": "#GeekEnglish/Logs",
-      "pattern": ""
-    },
-    {
-      "folder": "GeekEnglish/03-DemoTest",
-      "tag": "#GeekEnglish/Demo",
-      "pattern": ""
-    },
-    {
-      "folder": "GeekEnglish/zz-Related",
-      "tag": "#GeekEnglish/Related",
-      "pattern": ""
-    },
-    {
-      "folder": "PKM",
+      "folder": "Programs/PKM",
       "tag": "#PKM",
       "pattern": ""
     },
     {
-      "folder": "Tech-Fundamentals",
-      "tag": "#Tech-Fundamentals",
+      "folder": "Programs/PMP",
+      "tag": "#PMP",
       "pattern": ""
     },
     {
-      "folder": "Front-End Tech Stack",
-      "tag": "#Front-End",
+      "folder": "Programs/Front-End",
+      "tag": "#Codespace",
       "pattern": ""
     },
     {
-      "folder": "GeekEnglish/zz-Related/02-Admin Panel",
-      "tag": "#GeekEnglish/Related/Admin",
+      "folder": "Programs/Life",
+      "tag": "#Life",
       "pattern": ""
     },
     {
-      "folder": "GeekEnglish/zz-Related/03-Portfolio",
-      "tag": "#GeekEnglish/Related/Portfolio",
+      "folder": "Programs/AI-Tools",
+      "tag": "#AI",
       "pattern": ""
     },
     {
-      "folder": "GeekEnglish/zz-Related/04-Blog",
-      "tag": "#GeekEnglish/Related/Blog",
-      "pattern": ""
-    },
-    {
-      "folder": "GeekEnglish/zz-Related/06-App",
-      "tag": "#GeekEnglish/Related/App",
-      "pattern": ""
-    },
-    {
-      "folder": "GeekEnglish/zz-Related/05-Miniprogram",
-      "tag": "#GeekEnglish/Related/Miniprogram",
-      "pattern": ""
-    },
-    {
-      "folder": "GeekEnglish/zz-Related/zz-Content",
-      "tag": "#GeekEnglish/Related/Content",
-      "pattern": ""
-    },
-    {
-      "folder": "Inbox/Review",
-      "tag": "#Review",
+      "folder": "Programs/Design",
+      "tag": "#Design",
       "pattern": ""
     }
   ],
@@ -85,7 +45,46 @@
       "folder": "Daily"
     },
     {
-      "folder": ""
+      "folder": "zz-templates"
+    },
+    {
+      "folder": "zz-archives"
+    },
+    {
+      "folder": "zz-assets"
+    },
+    {
+      "folder": "Programs/PKM/00.Obs-Community"
+    },
+    {
+      "folder": "Programs/PKM/01.Obs-Why"
+    },
+    {
+      "folder": "Programs/PKM/02.Obs-Setup"
+    },
+    {
+      "folder": "Programs/PKM/03.Obs-Theme and Style"
+    },
+    {
+      "folder": "Programs/PKM/04.Backup, Sync, and Recover"
+    },
+    {
+      "folder": "Programs/PKM/05.Obs-Project and Task Management"
+    },
+    {
+      "folder": "Programs/PKM/04.Obs-Quick Add and Capture"
+    },
+    {
+      "folder": "Programs/PKM/06.Obs-Brainstorm and Visualization"
+    },
+    {
+      "folder": "Programs/PKM/07.Obs-Review, Refactor and Distill"
+    },
+    {
+      "folder": "Programs/PKM/08.Obs-Present and Share"
+    },
+    {
+      "folder": "Programs"
     }
   ]
 }

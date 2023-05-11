@@ -40,12 +40,12 @@
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "OKRTs/Tasks/{{VALUE}}",
+      "captureTo": "OKRTs/Tasks/KB-Tasks.md",
       "captureToActiveFile": false,
       "createFileIfItDoesntExist": {
         "enabled": true,
-        "createWithTemplate": true,
-        "template": "zz-templates/tp/tp-Task"
+        "createWithTemplate": false,
+        "template": "zz-templates/tp/tp-Tasks.md"
       },
       "format": {
         "enabled": true,
@@ -53,10 +53,10 @@
       },
       "insertAfter": {
         "enabled": true,
-        "after": "## TODO",
+        "after": "## Backlog",
         "insertAtEnd": false,
-        "createIfNotFound": true,
-        "createIfNotFoundLocation": "bottom"
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
       },
       "prepend": false,
       "task": true,
@@ -65,7 +65,7 @@
         "direction": "vertical",
         "focus": true
       },
-      "openFile": true,
+      "openFile": false,
       "openFileInMode": "default"
     },
     {
@@ -239,7 +239,7 @@
   ],
   "inputPrompt": "multi-line",
   "devMode": false,
-  "templateFolderPath": "Templates/tp",
+  "templateFolderPath": "zz-templates",
   "announceUpdates": true,
   "version": "0.23.0",
   "ai": {

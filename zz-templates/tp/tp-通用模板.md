@@ -16,7 +16,6 @@ DateModified:
 type: <% tp.system.suggester(["🗒️Resource", "🚀Project", "💪Tracking"], ["🗒️Resource", "🚀Project", "💪Tracking"]) %> 
 status: <% tp.system.suggester(["⚪Capturing", "🟡Organizing", "🟠Distilling","🟢Published","🔵Archived"], ["⚪Capturing", "🟡Organizing", "🟠Distilling", "🟢Published", "🔵Archived"]) %>
 due:
-cssclass:
 Source:
 URL:
 ---

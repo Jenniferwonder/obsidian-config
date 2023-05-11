@@ -28,7 +28,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "Title: \ntags: \nDateStarted: \nDateModified:\nDateDue: \nstatus: \n"
+      "text-to-insert": "Title:\nTopic: \ntags: \nDateStarted: \nDateModified:\nDateDue: \nstatus:\nTotal:\nCompleted:\nIncomplete: \nProgress:\n"
     },
     "move-tags-to-yaml": {
       "enabled": false,
@@ -41,7 +41,7 @@
     },
     "yaml-key-sort": {
       "enabled": true,
-      "yaml-key-priority-sort-order": "Title tags DateStarted DateModified DateDue status",
+      "yaml-key-priority-sort-order": "Title Topic tags DateStarted DateModified DateDue status Total Completed Incomplete Progress",
       "priority-keys-at-start-of-yaml": true,
       "yaml-sort-order-for-other-keys": "None"
     },

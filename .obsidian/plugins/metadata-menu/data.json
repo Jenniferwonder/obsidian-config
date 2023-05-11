@@ -3,7 +3,7 @@
     {
       "name": "DateStarted",
       "options": {
-        "dateFormat": "YYYY-MM-DD ddd",
+        "dateFormat": "YYYY-MM-DD",
         "defaultInsertAsLink": "false"
       },
       "id": "1",
@@ -13,16 +13,17 @@
       "name": "status",
       "options": {
         "valuesList": {
-          "2": "🤍ToPlan",
-          "3": "💚ToDo",
-          "4": "💛ToCheck",
-          "5": "💙ToAct",
-          "6": "🟡ToOrganize",
-          "7": "🟠ToPublish",
-          "8": "🟣Maintained",
-          "9": "🟢Published",
-          "10": "🔵Archived",
-          "11": "⤵️Snooze"
+          "2": "⚪Backlog",
+          "3": "🤍ToPlan",
+          "4": "💚ToDo",
+          "5": "💛ToCheck",
+          "6": "💙ToAct",
+          "7": "🟡ToOrganize",
+          "8": "🟠ToPublish",
+          "9": "🟣Maintained",
+          "10": "🟢Published",
+          "11": "🔵Archived",
+          "12": "⤵️Snooze"
         },
         "sourceType": "ValuesList",
         "valuesListNotePath": "",
@@ -64,7 +65,7 @@
           "3": "AI",
           "4": "PMP",
           "5": "Codespace",
-          "6": "English-Improving"
+          "6": "English"
         },
         "sourceType": "ValuesList",
         "valuesListNotePath": "",
@@ -106,7 +107,7 @@
           "3": "PKM-Productivity",
           "4": "PMP",
           "5": "Life-Tricks",
-          "6": "English-Learning"
+          "6": "English-Improving"
         },
         "sourceType": "ValuesList",
         "valuesListNotePath": "",
@@ -121,7 +122,9 @@
         "valuesList": {
           "1": "P0",
           "2": "P1",
-          "3": "P2"
+          "3": "P2",
+          "4": "P3",
+          "5": "P4"
         },
         "sourceType": "ValuesList",
         "valuesListNotePath": "",
@@ -129,6 +132,15 @@
       },
       "id": "13",
       "type": "Select"
+    },
+    {
+      "name": "DateCompleted",
+      "options": {
+        "dateFormat": "YYYY-MM-DD",
+        "defaultInsertAsLink": "false"
+      },
+      "id": "14",
+      "type": "Date"
     }
   ],
   "fileClassQueries": [],

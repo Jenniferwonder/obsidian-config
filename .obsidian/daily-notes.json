@@ -1,6 +1,6 @@
 {
   "folder": "Daily",
   "autorun": false,
-  "template": "zz-templates/tp/Daily Plan",
+  "template": "zz-templates/tp/tp-Daily Plan",
   "format": "YYYY-MM-DD"
 }

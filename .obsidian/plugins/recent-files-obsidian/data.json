@@ -1,64 +1,192 @@
 {
   "recentFiles": [
     {
-      "basename": "怎样用日历进行任务追踪管理-Calendar, Full Calendar, Fantasy Calendar, Big Calendar",
-      "path": "Resources/PKM/05.Obs-Project and Task Management/怎样用日历进行任务追踪管理-Calendar, Full Calendar, Fantasy Calendar, Big Calendar.md"
+      "basename": "DB-Tasks",
+      "path": "OKRTs/Tasks/DB-Tasks.md"
     },
     {
-      "basename": "看板追踪每日笔记中待办事项进展情况——CardBoard与Full Calendar, Memo",
-      "path": "看板追踪每日笔记中待办事项进展情况——CardBoard与Full Calendar, Memo.md"
+      "basename": "如何搭建完善OKRTs 项目目标、关键结果、项目、行动事项数据库——DB Folders",
+      "path": "Programs/PKM/如何搭建完善OKRTs 项目目标、关键结果、项目、行动事项数据库——DB Folders.md"
+    },
+    {
+      "basename": "tp-Tasks",
+      "path": "zz-templates/tp/tp-Tasks.md"
+    },
+    {
+      "basename": "怎样搭建项目管理面板和表格数据视图-Projects, Dataview, Kanban, Table, DB Folder",
+      "path": "Programs/PKM/05.Obs-Project and Task Management/怎样搭建项目管理面板和表格数据视图-Projects, Dataview, Kanban, Table, DB Folder.md"
     },
     {
       "basename": "2023-05-10",
       "path": "Daily/2023-05-10.md"
     },
     {
-      "basename": "怎样高效追踪管理利用每日笔记数据-DB Folder",
-      "path": "Resources/PKM/05.Obs-Project and Task Management/怎样高效追踪管理利用每日笔记数据-DB Folder.md"
+      "basename": "2023-05-11",
+      "path": "Daily/2023-05-11.md"
     },
     {
-      "basename": "tp-Daily Plan",
-      "path": "zz-templates/tp/tp-Daily Plan.md"
+      "basename": "Obs-Button",
+      "path": "Programs/PKM/04.Obs-Quick Add and Capture/Obs-Button.md"
     },
     {
-      "basename": "Coordinate",
-      "path": "Resources/PKM/Coordinate/Coordinate.md"
+      "basename": "用 Espanso 提高打字或编码输入效率",
+      "path": "Programs/PKM/04.Obs-Quick Add and Capture/用 Espanso 提高打字或编码输入效率.md"
     },
     {
-      "basename": "PKM",
-      "path": "Resources/PKM/PKM.md"
+      "basename": "五一假期无人机拍摄素材整理剪辑",
+      "path": "Programs/Life/五一假期无人机拍摄素材整理剪辑.md"
+    },
+    {
+      "basename": "Habit Tracker",
+      "path": "Programs/PKM/Habit Tracker.md"
+    },
+    {
+      "basename": "KB-Tasks",
+      "path": "OKRTs/Tasks/KB-Tasks.md"
+    },
+    {
+      "basename": "Obs-Kanban——真看板，怎么用",
+      "path": "Programs/PKM/05.Obs-Project and Task Management/Obs-Kanban——真看板，怎么用.md"
+    },
+    {
+      "basename": "PKM 命名规范",
+      "path": "Programs/PKM/PKM 命名规范.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Views/Homepage.md"
+    },
+    {
+      "basename": "Kanban (Priority)",
+      "path": "Views/Kanban (Priority).md"
+    },
+    {
+      "basename": "每日工作流例行事项进度提醒-Day Planner",
+      "path": "Programs/PKM/05.Obs-Project and Task Management/每日工作流例行事项进度提醒-Day Planner.md"
+    },
+    {
+      "basename": "看板追踪每日笔记中待办事项进展情况——CardBoard与Full Calendar, Memo",
+      "path": "Programs/PKM/05.Obs-Project and Task Management/看板追踪每日笔记中待办事项进展情况——CardBoard与Full Calendar, Memo.md"
+    },
+    {
+      "basename": "如何高效管理时间与任务，将任务落实到日-Daily Note, OKRTs DB",
+      "path": "Programs/PKM/05.Obs-Project and Task Management/如何高效管理时间与任务，将任务落实到日-Daily Note, OKRTs DB.md"
+    },
+    {
+      "basename": "思维导图与 UML 工具—— EdrawMind 和 Edrawmax",
+      "path": "Programs/PKM/06.Obs-Brainstorm and Visualization/思维导图与 UML 工具—— EdrawMind 和 Edrawmax.md"
+    },
+    {
+      "basename": "了解利用其他项目管理工具",
+      "path": "OKRTs/Tasks/了解利用其他项目管理工具.md"
+    },
+    {
+      "basename": "一年自学过程反思、成果整理、目标与需求明确与落实——2022.06-2023.04",
+      "path": "Programs/PKM/一年自学过程反思、成果整理、目标与需求明确与落实——2022.06-2023.04.md"
+    },
+    {
+      "basename": "Obs-Dataview——是什么，怎么用",
+      "path": "Programs/PKM/05.Obs-Project and Task Management/Obs-Dataview——是什么，怎么用.md"
+    },
+    {
+      "basename": "如何从图片链接或截图中提取复制文字",
+      "path": "Programs/PKM/04.Obs-Quick Add and Capture/如何从图片链接或截图中提取复制文字.md"
+    },
+    {
+      "basename": "Blue Topaz-怎样让时间以特殊样式显示",
+      "path": "Programs/PKM/03.Obs-Theme and Style/Blue Topaz-怎样让时间以特殊样式显示.md"
     },
     {
       "basename": "DB-Objectives",
       "path": "OKRTs/Objectives/DB-Objectives.md"
     },
     {
-      "basename": "Tech-Fundamentals",
-      "path": "Resources/Front-End Tech Stack/00-Tech-Fundamentals/Tech-Fundamentals.md"
+      "basename": "文件夹资料、网盘同步资料、备份资料整理-PKM Folder Resources Management",
+      "path": "Programs/PKM/05.Obs-Project and Task Management/文件夹资料、网盘同步资料、备份资料整理-PKM Folder Resources Management.md"
     },
     {
-      "basename": "DB-Tasks",
-      "path": "OKRTs/Projects/DB-Tasks.md"
+      "basename": "PMP导学课8小时听课+笔记",
+      "path": "OKRTs/Tasks/PMP导学课8小时听课+笔记.md"
     },
     {
-      "basename": "English Learning",
-      "path": "Resources/Engish-Improving/English Learning.md"
+      "basename": "PMP考试一本通教材+PMBOK（中英文版）通读",
+      "path": "Programs/PMP/PMP考试一本通教材+PMBOK（中英文版）通读.md"
     },
     {
-      "basename": "English Speaking",
-      "path": "Resources/Engish-Improving/English Speaking.md"
+      "basename": "前端项目关口：阶段项目收尾、知识资料整理，价值目标明确与落实规划",
+      "path": "Programs/Front-End/前端项目关口：阶段项目收尾、知识资料整理，价值目标明确与落实规划.md"
     },
     {
-      "basename": "Front-End Tech Stack",
-      "path": "Resources/Front-End Tech Stack/Front-End Tech Stack.md"
+      "basename": "Kanban(Content Flow)",
+      "path": "Views/Kanban(Content Flow).md"
     },
     {
-      "basename": "笔记软件评测-到底选哪款？",
-      "path": "Resources/PKM/01.Obs-Why/笔记软件评测-到底选哪款？.md"
+      "basename": "tp-Day Planner",
+      "path": "zz-templates/Day Planners/tp-Day Planner.md"
+    },
+    {
+      "basename": "tp-Note (Tool, How to)",
+      "path": "zz-templates/tp/tp-Note (Tool, How to).md"
+    },
+    {
+      "basename": "DB-KRs",
+      "path": "OKRTs/KRs/DB-KRs.md"
+    },
+    {
+      "basename": "tp-通用模板",
+      "path": "zz-templates/tp/tp-通用模板.md"
+    },
+    {
+      "basename": "tp-Daily Plan",
+      "path": "zz-templates/tp/tp-Daily Plan.md"
+    },
+    {
+      "basename": "怎样实现进度条自动追踪-MetaEdit",
+      "path": "Programs/PKM/05.Obs-Project and Task Management/怎样实现进度条自动追踪-MetaEdit.md"
+    },
+    {
+      "basename": "怎样用好日历-Calendar, Full Calendar, Fantasy Calendar, Big Calendar",
+      "path": "Programs/PKM/05.Obs-Project and Task Management/怎样用好日历-Calendar, Full Calendar, Fantasy Calendar, Big Calendar.md"
+    },
+    {
+      "basename": "Day Planner-20230511",
+      "path": "Day Planners/Day Planner-20230511.md"
     },
     {
       "basename": "DB-Daily",
       "path": "Daily/DB-Daily.md"
+    },
+    {
+      "basename": "Coordinate",
+      "path": "Programs/PKM/Coordinate/Coordinate.md"
+    },
+    {
+      "basename": "怎样高效追踪管理利用每日笔记数据-DB Folder",
+      "path": "Programs/PKM/05.Obs-Project and Task Management/怎样高效追踪管理利用每日笔记数据-DB Folder.md"
+    },
+    {
+      "basename": "PKM",
+      "path": "Programs/PKM/PKM.md"
+    },
+    {
+      "basename": "Tech-Fundamentals",
+      "path": "Programs/Front-End/00-Tech-Fundamentals/Tech-Fundamentals.md"
+    },
+    {
+      "basename": "English Learning",
+      "path": "Programs/Engish-Improving/English Learning.md"
+    },
+    {
+      "basename": "English Speaking",
+      "path": "Programs/Engish-Improving/English Speaking.md"
+    },
+    {
+      "basename": "Front-End Tech Stack",
+      "path": "Programs/Front-End/Front-End Tech Stack.md"
+    },
+    {
+      "basename": "笔记软件评测-到底选哪款？",
+      "path": "Programs/PKM/01.Obs-Why/笔记软件评测-到底选哪款？.md"
     },
     {
       "basename": "O2-PKM",
@@ -71,134 +199,6 @@
     {
       "basename": "tp-Objective",
       "path": "zz-templates/tp/tp-Objective.md"
-    },
-    {
-      "basename": "DB-KRs",
-      "path": "OKRTs/KRs/DB-KRs.md"
-    },
-    {
-      "basename": "MyTools",
-      "path": "zz-templates/button/MyTools.md"
-    },
-    {
-      "basename": "Content Editor",
-      "path": "Resources/Front-End Tech Stack/03-Front-End Frameworks/React/React Projects/Content-Editor/Content Editor.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Views/Homepage.md"
-    },
-    {
-      "basename": "Kanban (Status)",
-      "path": "Views/Kanban (Status).md"
-    },
-    {
-      "basename": "Kanban (Priority)",
-      "path": "Views/Kanban (Priority).md"
-    },
-    {
-      "basename": "Kanban(Content Flow)",
-      "path": "Views/Kanban(Content Flow).md"
-    },
-    {
-      "basename": "button",
-      "path": "zz-templates/button/button.md"
-    },
-    {
-      "basename": "OKR 拆解及进度管理",
-      "path": "Resources/PKM/05.Obs-Project and Task Management/OKR 拆解及进度管理.md"
-    },
-    {
-      "basename": "O2K2",
-      "path": "OKRTs/KRs/O2K2.md"
-    },
-    {
-      "basename": "O2K1-实现高效追踪学习进展与阶段成果工作流",
-      "path": "OKRTs/KRs/O2K1-实现高效追踪学习进展与阶段成果工作流.md"
-    },
-    {
-      "basename": "O1K1-夯实前端基础，完成基础系列笔记系统化整理与输出",
-      "path": "OKRTs/KRs/O1K1-夯实前端基础，完成基础系列笔记系统化整理与输出.md"
-    },
-    {
-      "basename": "2023-05-09",
-      "path": "Daily/2023-05-09.md"
-    },
-    {
-      "basename": "2023-01",
-      "path": "zz-archives/zz-Reflections/2023-01.md"
-    },
-    {
-      "basename": "T1",
-      "path": "OKRTs/Projects/T1.md"
-    },
-    {
-      "basename": "2023-05-04",
-      "path": "Daily/2023-05-04.md"
-    },
-    {
-      "basename": "tp-Task",
-      "path": "zz-templates/tp/tp-Task.md"
-    },
-    {
-      "basename": "sortspec",
-      "path": "zz-templates/sortspec.md"
-    },
-    {
-      "basename": "GE-付费专属内容与服务",
-      "path": "Resources/Front-End Tech Stack/03-Front-End Frameworks/React/React Projects/GeekEnglish Learning Platform/02-Functions&Features/GE-付费专属内容与服务.md"
-    },
-    {
-      "basename": "GE-主页布局与功能参考",
-      "path": "Resources/Front-End Tech Stack/03-Front-End Frameworks/React/React Projects/GeekEnglish Learning Platform/02-Functions&Features/GE-主页布局与功能参考.md"
-    },
-    {
-      "basename": "GE-核心功能模块需求",
-      "path": "Resources/Front-End Tech Stack/03-Front-End Frameworks/React/React Projects/GeekEnglish Learning Platform/02-Functions&Features/GE-核心功能模块需求.md"
-    },
-    {
-      "basename": "My Goals in 2023",
-      "path": "OKRTs/Objectives/My Goals in 2023.md"
-    },
-    {
-      "basename": "表格视图追踪管理方法-DB Folder",
-      "path": "Resources/PKM/05.Obs-Project and Task Management/表格视图追踪管理方法-DB Folder.md"
-    },
-    {
-      "basename": "怎样搭建项目管理面板和表格数据视图-Projects, Dataview, Kanban, Table, DB Folder",
-      "path": "Resources/PKM/05.Obs-Project and Task Management/怎样搭建项目管理面板和表格数据视图-Projects, Dataview, Kanban, Table, DB Folder.md"
-    },
-    {
-      "basename": "月度里程碑（看板、列表、甘特图）",
-      "path": "Resources/PKM/05.Obs-Project and Task Management/月度里程碑（看板、列表、甘特图）.md"
-    },
-    {
-      "basename": "Useful Metadata",
-      "path": "Resources/PKM/05.Obs-Project and Task Management/Useful Metadata.md"
-    },
-    {
-      "basename": "2023-05-08",
-      "path": "Daily/2023-05-08.md"
-    },
-    {
-      "basename": "怎样实现进度条自动追踪-MetaEdit",
-      "path": "Resources/PKM/05.Obs-Project and Task Management/怎样实现进度条自动追踪-MetaEdit.md"
-    },
-    {
-      "basename": "T2",
-      "path": "OKRTs/Projects/T2.md"
-    },
-    {
-      "basename": "tp-KRs",
-      "path": "zz-templates/tp/tp-KRs.md"
-    },
-    {
-      "basename": "Front-End OKR-Mindmap",
-      "path": "Resources/Front-End Tech Stack/00-Roadmap/Front-End OKR-Mindmap.md"
-    },
-    {
-      "basename": "Obs-Dataview——是什么，怎么用",
-      "path": "Resources/PKM/05.Obs-Project and Task Management/Obs-Dataview——是什么，怎么用.md"
     }
   ],
   "omittedPaths": [],

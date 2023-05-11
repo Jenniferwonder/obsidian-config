@@ -10,7 +10,7 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "Tasks",
+      "folder": "OKRTs/Tasks",
       "template": "zz-templates/tp/tp-Tasks.md"
     }
   ],
