@@ -1,10 +1,11 @@
 ---
 Title: Database
-tags: Database
+tags: Codespace
 DateStarted: 2023-03-01
-due:
+due: null
 DateModified: 2023-03-07 Tue
-status:
+status: null
+Progress: NaN%
 ---
 
 [7 Database Paradigms - YouTube](https://www.youtube.com/watch?v=W2Z7fbCLSTw&list=PL0vfts4VzfNjQOM9VClyL5R0LeuTxlAR3&index=10)

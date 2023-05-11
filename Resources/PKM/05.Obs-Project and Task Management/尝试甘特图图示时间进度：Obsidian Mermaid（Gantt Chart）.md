@@ -1,7 +1,8 @@
 ---
 tags: PKM
 DateStarted: 2023-04-28
-status: ⚪Capturing
+status: ""
+Progress: NaN%
 ---
 
 [Gantt diagrams | Mermaid](https://mermaid.js.org/syntax/gantt.html)

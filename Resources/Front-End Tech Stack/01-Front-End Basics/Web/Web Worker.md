@@ -1,10 +1,11 @@
 ---
 Title: Web Worker
-tags: JS
+tags: Codespace
 DateStarted: 2022-12-16
-due:
+due: null
 DateModified: 2022-12-16
-status:
+status: null
+Progress: NaN%
 ---
 
 - [浅谈 HTML5 Web Worker](https://juejin.cn/post/6844903496550989837 "https://juejin.cn/post/6844903496550989837")

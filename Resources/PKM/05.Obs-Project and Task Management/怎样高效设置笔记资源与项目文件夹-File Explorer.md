@@ -1,8 +1,9 @@
 ---
 tags: PKM
-progress:
+progress: null
 DateStarted: 2023-04-27
-status: 🟡Organizing
+status: ""
+Progress: NaN%
 ---
 
 - ? How can I track, organize, modify and use my notes in a more efficient and valuable way?

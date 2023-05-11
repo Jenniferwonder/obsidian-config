@@ -1,10 +1,11 @@
 ---
 Title: CS50x Final Project
-tags: Web
-status: Done
+tags: Codespace
+status: ""
 DateStarted: 2022-09-12
-due:
-aliases:
+due: null
+aliases: null
+Progress: NaN%
 ---
 
 ### Final Project (Aug 11- Sept 19) : **Full-fledged Website**3 Days

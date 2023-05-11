@@ -1,10 +1,11 @@
 ---
 Title: Obsidian Auto Mover
-tags: PKM/Efficiency
+tags: PKM
 DateStarted: 2023-04-17 Mon
 DateModified: 2023-04-17 Mon
-status: 🟡Organizing
+status: ""
 aliases: Auto Note Mover
+Progress: NaN%
 ---
 
 ## Auto Note Mover

@@ -1,10 +1,11 @@
 ---
 Title: Prototype Chain
-tags: JS
+tags: Codespace
 DateStarted: 2022-12-02
-due:
+due: null
 DateModified: 2022-12-05 Mon
-status:
+status: null
+Progress: NaN%
 ---
 
 > [Inheritance and the prototype chain - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)  

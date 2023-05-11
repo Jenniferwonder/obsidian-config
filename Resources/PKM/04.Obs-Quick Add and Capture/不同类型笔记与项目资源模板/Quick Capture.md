@@ -1,10 +1,11 @@
 ---
 Title: Quick Capture
-tags: PKM/Capture
+tags: PKM
 DateStarted: 2023-04-20
-due:
+due: null
 DateModified: 2023-04-20
-status: ⚪Capture
+status: ""
+Progress: NaN%
 ---
 
 从链接或图片，截图取文字 Extract Text

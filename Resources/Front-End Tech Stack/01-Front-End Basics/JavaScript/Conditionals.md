@@ -1,10 +1,11 @@
 ---
 Title: Conditionals
-tags: JS
+tags: Codespace
 DateStarted: 2022-12-08 Thu
-due:
+due: null
 DateModified: 2022-12-10
-status:
+status: null
+Progress: NaN%
 ---
 
 ### Tenary Operation

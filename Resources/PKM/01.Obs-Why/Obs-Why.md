@@ -1,10 +1,11 @@
 ---
 Title: PKM-My Experience
-tags: Obsidian
+tags: PKM
 started: 2023-04-19 Wed
-due:
+due: null
 DateModified: 2023-04-19 Wed
-status: 🟠Distilling
+status: ""
+Progress: NaN%
 ---
 
 ## 笔记目的

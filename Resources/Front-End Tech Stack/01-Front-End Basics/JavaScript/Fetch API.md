@@ -1,10 +1,11 @@
 ---
 Title: Fetch API
-tags: JS
+tags: Codespace
 DateStarted: 2022-12-05 Mon
-due:
+due: null
 DateModified: 2022-12-05 Mon
-status:
+status: null
+Progress: NaN%
 ---
 
 > [Fetch API - Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)

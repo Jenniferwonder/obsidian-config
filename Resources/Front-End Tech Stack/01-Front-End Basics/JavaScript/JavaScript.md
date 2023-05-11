@@ -1,11 +1,12 @@
 ---
 Title: JavaScript
-tags: JS
+tags: Codespace
 DateStarted: 2022-11-29 Tue
 DateDue: 2022-12-02
 DateModified: 2022-12-14
-status: Doing
+status: ""
 number headings: auto, first-level 4, max 6, 1._.1.1.
+Progress: NaN%
 ---
 
 ## Questions

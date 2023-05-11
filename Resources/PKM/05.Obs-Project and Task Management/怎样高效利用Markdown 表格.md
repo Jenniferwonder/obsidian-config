@@ -1,8 +1,9 @@
 ---
 tags: PKM
 DateStarted: 2023-04-27
-status: 🟡Organizing
+status: ""
 aliases: Markdown Table
+Progress: NaN%
 ---
 
 ## Markdown 表格

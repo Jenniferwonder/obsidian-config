@@ -1,10 +1,11 @@
 ---
 Title: Timer
-tags: JS
+tags: Codespace
 DateStarted: 2022-12-14
-due:
+due: null
 DateModified: 2022-12-14
-status:
+status: null
+Progress: NaN%
 ---
 
 ## Timer Functions

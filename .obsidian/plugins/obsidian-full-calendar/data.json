@@ -3,12 +3,7 @@
     {
       "type": "dailynote",
       "color": "hsl( 210,  34%, calc( 63% + 2.5%))",
-      "heading": "Tasks"
-    },
-    {
-      "type": "local",
-      "color": "hsl( 210,  34%, calc( 63% + 2.5%))",
-      "directory": "Tasks"
+      "heading": "Actions"
     }
   ],
   "defaultCalendar": 0,

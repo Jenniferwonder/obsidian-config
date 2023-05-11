@@ -1,10 +1,11 @@
 ---
 Title: PKM-备份与同步
-tags: Obsidian
+tags: PKM
 DateStarted: 2023-04-19
-due:
+due: null
 DateModified: 2023-04-19
-status: 🟠Distilling
+status: ""
+Progress: NaN%
 ---
 
 # PKM-备份与同步

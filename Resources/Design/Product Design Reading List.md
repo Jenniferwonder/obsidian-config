@@ -1,10 +1,11 @@
 ---
 Title: Product Design Reading List
 tags: Design
-status:
+status: null
 DateStarted: 2022-11-22 Tue
 DateModified: 2023-04-10 Mon
-due:
+due: null
+Progress: NaN%
 ---
 
 Blog  

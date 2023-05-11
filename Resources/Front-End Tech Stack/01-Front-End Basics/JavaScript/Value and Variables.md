@@ -1,10 +1,11 @@
 ---
 Title: Value and Variables
-tags: JS
+tags: Codespace
 DateStarted: 2022-12-02
-due:
+due: null
 DateModified: 2022-12-15
-status:
+status: null
+Progress: NaN%
 ---
 
 > [Storing the information you need — Variables - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Variables)

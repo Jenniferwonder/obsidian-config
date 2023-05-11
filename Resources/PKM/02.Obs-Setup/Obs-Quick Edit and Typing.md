@@ -1,10 +1,11 @@
 ---
 Title: PKM-快速编辑输入
-tags: PKM/Efficiency
+tags: PKM
 DateStarted: 2023-04-19
-due:
+due: null
 DateModified: 2023-04-19
-status: 🟠Distilling
+status: ""
+Progress: NaN%
 ---
 
 ## How-to 💡

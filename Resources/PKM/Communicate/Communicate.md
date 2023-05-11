@@ -1,10 +1,11 @@
 ---
 Title: Communicate
-tags: PKM/Communicate
+tags: PKM
 DateStarted: 2023-04-19
-due:
+due: null
 DateModified: 2023-04-21
-status:
+status: null
+Progress: NaN%
 ---
 
 ### Communication

@@ -1,10 +1,11 @@
 ---
 Title: 灵感板 MoodBoard
 tags: Design
-status:
+status: null
 DateStarted: 2022-11-22 Tue
 DateModified: 2023-04-10 Mon
-due:
+due: null
+Progress: NaN%
 ---
 
 创作时间：2022 年 11 月 2 日  

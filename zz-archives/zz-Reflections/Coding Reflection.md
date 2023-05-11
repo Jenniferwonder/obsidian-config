@@ -1,10 +1,11 @@
 ---
 Title: Coding Reflection
-tags: Content-Creating
+tags: Content-Making
 DateStarted: 2023-02-22
-due:
+due: null
 DateModified: 2023-04-10 Mon
-status:
+status: null
+Progress: NaN%
 ---
 
 ## Learning Efficiency

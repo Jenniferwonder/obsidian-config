@@ -1,6 +1,6 @@
 ---
 Title: Baby Prep
-tags: Life-Tricks
+tags: Life
 type: 💪Tracking
 DateStarted: 2023-02-02
 due:

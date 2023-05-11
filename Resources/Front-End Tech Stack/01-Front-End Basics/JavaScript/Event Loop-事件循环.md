@@ -1,10 +1,11 @@
 ---
 Title: Event Loop-事件循环
-tags: JS
+tags: Codespace
 DateStarted: 2022-12-08
-due:
+due: null
 DateModified: 2022-12-16
-status:
+status: null
+Progress: NaN%
 ---
 
 > [What the heck is the event loop anyway? | Philip Roberts | JSConf EU - YouTube](https://www.youtube.com/watch?v=8aGhZQkoFbQ)

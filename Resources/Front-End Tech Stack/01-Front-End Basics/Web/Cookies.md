@@ -1,10 +1,11 @@
 ---
 Title: Cookies
-tags: Web
+tags: Codespace
 DateStarted: 2023-02-16 Thu
-due:
+due: null
 DateModified: 2023-02-16 Thu
-status:
+status: null
+Progress: NaN%
 ---
 
 [What are cookies? | Cookies & You](https://www.cookiesandyou.com/)

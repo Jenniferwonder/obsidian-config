@@ -1,10 +1,11 @@
 ---
 Title: Debounce and Throttle-防抖节流
-tags: JS
+tags: Codespace
 DateStarted: 2022-12-15 Thu
-due:
+due: null
 DateModified: 2022-12-16
-status:
+status: null
+Progress: NaN%
 ---
 
 > [Learn Debounce And Throttle In 16 Minutes - YouTube](https://www.youtube.com/watch?v=cjIswDCKgu0)

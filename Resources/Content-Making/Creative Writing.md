@@ -2,9 +2,10 @@
 Title: Creative Writing
 tags: Content-Making
 DateStarted: 2023-03-28 Tue
-due:
+due: null
 DateModified: 2023-04-10 Mon
-status:
+status: null
+Progress: NaN%
 ---
 
 [5 Basic Writing Skills and How to Improve and Highlight Them | Indeed.com](https://www.indeed.com/career-advice/career-development/writing-skills)

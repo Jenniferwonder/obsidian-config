@@ -1,10 +1,11 @@
 ---
 Title: 怎样实现 Obsidian 笔记 Windows 与 iPhone, iPad 同步与备份
-tags: PKM/Setup
+tags: PKM
 DateStarted: 2023-04-25 Tue
-due:
+due: null
 DateModified: 2023-04-25 Tue
-status: 🟡Organizing
+status: ""
+Progress: NaN%
 ---
 
 ## 怎样实现 Obsidian 笔记 Windows 与 iPhone, iPad 同步与备份？

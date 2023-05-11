@@ -1,10 +1,11 @@
 ---
 Title: Scope
-tags: JS
+tags: Codespace
 DateStarted: 2022-11-30
-due:
+due: null
 DateModified: 2022-12-01
-status:
+status: null
+Progress: NaN%
 ---
 
 ## Questions

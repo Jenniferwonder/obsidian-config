@@ -1,10 +1,11 @@
 ---
 Title: PKM-导出与分享
-tags: PKM/Share
+tags: PKM
 DateStarted: 2023-04-19
-due:
+due: null
 DateModified: 2023-04-19
-status: 🟡Organizing
+status: ""
+Progress: NaN%
 ---
 
 # Obs-导出与分享

@@ -1,11 +1,12 @@
 ---
 Title: Templater in Obsidian
-tags: PKM/Efficiency
+tags: PKM
 DateStarted: 2023-04-18 Tue
-due:
+due: null
 DateModified: 2023-04-18 Tue
-status: ⚪Capture
+status: ""
 aliases: Templater
+Progress: NaN%
 ---
 
 ## Reference

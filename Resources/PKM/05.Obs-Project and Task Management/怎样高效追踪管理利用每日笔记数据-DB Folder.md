@@ -1,9 +1,10 @@
 ---
 tags: PKM
 DateStarted: 2023-04-24
-status: 🟡Organizing
-progress:
-cssclass:
+status: ""
+progress: null
+cssclass: null
+Progress: NaN%
 ---
 
 ## Problems

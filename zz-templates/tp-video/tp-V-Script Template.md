@@ -1,15 +1,16 @@
 ---
 id: 2304.01.SRT
 Title: Video Script Template
-tags: Script
-Genre:
-Channel:
+tags: Content-Making
+Genre: null
+Channel: null
 DateStarted: 2023-04-11
 DateModified: 2023-04-11
-due:
-status:
-Sponsor:
-URL:
+due: null
+status: null
+Sponsor: null
+URL: null
+Progress: NaN%
 ---
 
 ```toc

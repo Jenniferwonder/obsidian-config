@@ -2,12 +2,13 @@
 Title: 怎样实现进度条自动追踪-MetaEdit
 tags: PKM
 DateModified: 2023-05-09
-DateDue: 
+DateDue: null
 DateStarted: 2023-04-27
-status: ⚪Capturing
+status: ""
 Completed: 2
 Incomplete: 0
 Total: 2
+Progress: 100%
 ---
 
 - [x] 怎样实现进度条自动追踪 ✅ 2023-05-09

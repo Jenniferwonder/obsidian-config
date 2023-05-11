@@ -1,7 +1,7 @@
 ---
 Title: PDF Annotator
 tags:
-  - PDF
+  - Snooze
 DateStarted: 2023-04-17 Mon
 DateDue: null
 DateModified: 2023-04-24 Mon

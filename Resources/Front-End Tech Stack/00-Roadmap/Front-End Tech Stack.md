@@ -1,10 +1,11 @@
 ---
 Title: Front-End Tech Stack
-tags: Front-End
+tags: Codespace
 DateStarted: 2023-01-17 Tue
-due:
+due: null
 DateModified: 2023-03-13 Mon
-status:
+status: null
+Progress: NaN%
 ---
 
 ## Reference and Resources

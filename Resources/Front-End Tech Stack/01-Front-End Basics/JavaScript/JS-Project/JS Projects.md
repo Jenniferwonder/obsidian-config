@@ -1,12 +1,13 @@
 ---
 Title: JS Projects
 tags:
-  - Projects
-  - Projects/JS-Project
+  - Codespace
+  - Codespace
 DateStarted: 2022-12-01
-due:
+due: null
 DateModified: 2023-01-30 Mon
-status:
+status: null
+Progress: NaN%
 ---
 
 > [30 JS Projects | Wes Bos](https://courses.wesbos.com/account)  

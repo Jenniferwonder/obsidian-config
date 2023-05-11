@@ -2,9 +2,10 @@
 Title: PS
 tags: Design
 DateStarted: 2023-01-19
-due:
+due: null
 DateModified: 2023-01-19
-status:
+status: null
+Progress: NaN%
 ---
 
 ```toc

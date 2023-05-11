@@ -1,10 +1,11 @@
 ---
 Title: Photo Editing
-tags: CSS
+tags: Codespace
 DateStarted: 2022-12-16
-due:
+due: null
 DateModified: 2023-02-26 Sun
-status:
+status: null
+Progress: NaN%
 ---
 
 ## Tool Tricks

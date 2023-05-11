@@ -1,10 +1,11 @@
 ---
 Title: Pig Game
-tags: Projects/JS-Project
+tags: Codespace
 DateStarted: 2022-12-06 Tue
-due:
+due: null
 DateModified: 2022-12-12 Mon
-status:
+status: null
+Progress: NaN%
 ---
 
 ## 项目介绍 Project Brief

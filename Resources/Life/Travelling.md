@@ -1,6 +1,6 @@
 ---
 Title: Travelling
-tags: Life-Tricks
+tags: Life
 type: 💪Tracking
 DateStarted: 2023-04-26
 DateModified: 2023-04-26

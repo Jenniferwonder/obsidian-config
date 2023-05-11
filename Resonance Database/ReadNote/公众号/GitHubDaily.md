@@ -6,7 +6,7 @@ cover: http://wx.qlogo.cn/mmhead/Q3auHgzwzM4ib0ibq11X0ysib7MDGLwvmxm1NHqHW2lDTS8
 reviewCount: 0
 noteCount: 1
 name: GitHubDaily
-tags: weread
+tags: Snooze
 isbn: null
 rating: null
 banner: "![[true.jpg]]"

@@ -1,10 +1,11 @@
 ---
 Title: Obs-阅读笔记（PDF、书与图片）
-tags: PKM/Capture
+tags: PKM
 DateStarted: 2023-04-19
-due:
+due: null
 DateModified: 2023-04-21
-status: 🟠Distilling
+status: ""
+Progress: NaN%
 ---
 
 # Obs-阅读笔记（PDF、书与图片）

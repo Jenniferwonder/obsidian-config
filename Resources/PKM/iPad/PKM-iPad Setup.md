@@ -1,10 +1,11 @@
 ---
 Title: PKM-iPad Setup
-tags: iPad
+tags: PKM
 DateStarted: 2023-04-19
-due:
+due: null
 DateModified: 2023-04-19
-status:
+status: null
+Progress: NaN%
 ---
 
 ## PKM-iPad

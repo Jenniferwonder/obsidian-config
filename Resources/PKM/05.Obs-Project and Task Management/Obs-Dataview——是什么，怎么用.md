@@ -3,9 +3,10 @@ Title: Obs-Dataview——是什么，怎么用
 tags: PKM
 DateStarted: 2023-04-21
 DateModified: 2023-05-08
-status: 🟡Organizing
+status: ""
 aliases: Dataview
-progress:
+progress: null
+Progress: NaN%
 ---
 
 [Structure of a Query - Dataview](https://blacksmithgu.github.io/obsidian-dataview/queries/structure/)  

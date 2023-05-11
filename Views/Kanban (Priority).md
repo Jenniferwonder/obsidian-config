@@ -16,7 +16,9 @@ kanban-plugin: basic
 
 
 
+***
 
+## Archive
 
 %% kanban:settings
 ```

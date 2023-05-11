@@ -1,10 +1,11 @@
 ---
 Title: Figma
 tags: Design
-status:
+status: null
 DateStarted: 2022-11-28 Mon
 DateModified: 2023-04-10 Mon
 DateDue: 2022-11-28 Mon
+Progress: NaN%
 ---
 
 ## Core Functions

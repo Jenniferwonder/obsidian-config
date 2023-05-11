@@ -1,6 +1,6 @@
 ---
 Title: Love and Fun
-tags: Life-Tricks
+tags: Life
 DateStarted: 2023-01-16 Mon
 due:
 DateModified: 2023-01-17 Tue

@@ -2,9 +2,10 @@
 UID: 20230426085053
 tags: PKM
 DateStarted: 2023-04-25
-status: 🟡Organizing
-progress:
+status: ""
+progress: null
 AutoNoteMover: disable
+Progress: NaN%
 ---
 
 - ? 怎样管理前端学习项目，实现前端学习项目交付收尾，找到相关前端工作？
@@ -17,7 +18,7 @@ AutoNoteMover: disable
 
 ## 模板
 
-[[Daily Plan Template]]
+[[tp-Daily Plan]]
 
 ## 相关笔记
 

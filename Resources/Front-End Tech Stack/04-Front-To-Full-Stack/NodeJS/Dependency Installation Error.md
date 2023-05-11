@@ -1,10 +1,11 @@
 ---
 Title: Dependency Installation Error
-tags: Front-End
+tags: Codespace
 DateStarted: 2023-02-17
-due:
+due: null
 DateModified: 2023-02-17
-status:
+status: null
+Progress: NaN%
 ---
 
 #### 1. parsing error: cannot find module '@babel/preset-env'

@@ -2,9 +2,10 @@
 Title: Vectors & Clip Art
 tags: Design
 DateStarted: 2022-12-16
-due:
+due: null
 DateModified: 2023-04-10 Mon
-status:
+status: null
+Progress: NaN%
 ---
 
 ## Vectors & Clip Art

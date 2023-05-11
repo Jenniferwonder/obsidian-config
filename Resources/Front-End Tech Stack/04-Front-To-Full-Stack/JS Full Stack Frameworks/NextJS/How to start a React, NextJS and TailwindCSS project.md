@@ -1,10 +1,11 @@
 ---
 Title: How to start a React, NextJS and TailwindCSS project
-tags: Projects/React-Project
+tags: Codespace
 DateStarted: 2023-02-17
-due:
+due: null
 DateModified: 2023-02-17
-status:
+status: null
+Progress: NaN%
 ---
 
 ## Options

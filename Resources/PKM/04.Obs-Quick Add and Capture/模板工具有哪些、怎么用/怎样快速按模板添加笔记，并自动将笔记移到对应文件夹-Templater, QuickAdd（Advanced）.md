@@ -1,10 +1,13 @@
 ---
 Title: 怎样快速按模板添加笔记，并自动将笔记移到对应文件夹-Templater, QuickAdd（Advanced）
-tags: [PKM/Capture, PKM/Efficiency]
+tags:
+  - PKM
+  - PKM
 type: 💪Tracking
 DateStarted: 2023-04-27
 DateModified: 2023-04-27
-status: 🟡Organizing
+status: ""
+Progress: NaN%
 ---
 
 ## QuickAdd + Templater

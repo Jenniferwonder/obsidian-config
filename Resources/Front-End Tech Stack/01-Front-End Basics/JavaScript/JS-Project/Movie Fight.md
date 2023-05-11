@@ -1,10 +1,11 @@
 ---
 Title: Movie Fight
-tags: Projects/JS-Project
+tags: Codespace
 DateStarted: 2022-12-15
-due:
+due: null
 DateModified: 2022-12-15
-status:
+status: null
+Progress: NaN%
 ---
 
 # Project Plan

@@ -2,9 +2,10 @@
 Title: Content Workflow
 tags: Content-Making
 DateStarted: 2023-04-10 Mon
-due:
+due: null
 DateModified: 2023-04-10 Mon
-status:
+status: null
+Progress: NaN%
 ---
 
 ## Content

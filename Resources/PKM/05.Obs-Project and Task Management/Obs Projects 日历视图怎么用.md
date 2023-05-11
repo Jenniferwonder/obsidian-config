@@ -3,7 +3,8 @@ Title: Obs Projects 日历视图怎么用
 DateStarted: 2023-05-08
 DateModified: 2023-05-08
 tags: PKM
-status: 🟡Organizing
+status: ""
+Progress: NaN%
 ---
 [GitHub - marcusolsson/obsidian-projects: Plain text project planning in Obsidian](https://github.com/marcusolsson/obsidian-projects)
 

@@ -3,8 +3,9 @@ Title: Obs-怎样快速分栏展示
 tags: PKM
 DateStarted: 2023-04-21
 DateModified: 2023-04-23
-DateDue:
-status: 🟡Organizing
+DateDue: null
+status: ""
+Progress: NaN%
 ---
 ## Solutions
 - Blue Topaz 内置自定义 Admonition 样式：

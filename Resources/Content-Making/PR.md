@@ -2,9 +2,10 @@
 Title: PR
 tags: Content-Making
 DateStarted: 2023-04-11 Tue
-due:
+due: null
 DateModified: 2023-04-11 Tue
-status:
+status: null
+Progress: NaN%
 ---
 
 > [[Davinci Resolve]]

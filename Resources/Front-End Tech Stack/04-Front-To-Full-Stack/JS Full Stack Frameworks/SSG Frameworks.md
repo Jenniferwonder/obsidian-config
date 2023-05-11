@@ -1,10 +1,11 @@
 ---
 Title: SSG Frameworks
-tags: Front-End
+tags: Codespace
 DateStarted: 2023-03-08
-due:
+due: null
 DateModified: 2023-03-08
-status:
+status: null
+Progress: NaN%
 ---
 
 ## What

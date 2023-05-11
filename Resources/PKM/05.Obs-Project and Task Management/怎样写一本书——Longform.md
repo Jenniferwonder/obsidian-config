@@ -1,8 +1,9 @@
 ---
 tags: PKM
 DateStarted: 2023-04-27
-status: ⚪Capturing
+status: ""
 aliases: Longform
+Progress: NaN%
 ---
 
 怎样写一本书

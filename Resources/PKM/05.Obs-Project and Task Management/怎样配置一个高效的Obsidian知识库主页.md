@@ -1,11 +1,12 @@
 ---
 tags: PKM
 DateStarted: 2023-04-20
-progress:
-status: ⚪Capturing
+progress: null
+status: ""
 aliases:
   - Obsidian Homepage
   - Obsidian 主页
+Progress: NaN%
 ---
 
 ## How to Build a Homepage

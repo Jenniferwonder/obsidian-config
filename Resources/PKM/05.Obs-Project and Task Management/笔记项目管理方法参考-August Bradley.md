@@ -2,9 +2,10 @@
 UID: 20230504095759
 tags: PKM
 DateStarted: 2023-05-04
-status: ⚪Capturing
-cssclass:
+status: ""
+cssclass: null
 Title: 笔记项目管理方法参考-August Bradley
+Progress: NaN%
 ---
 
 ## Reference

@@ -24,12 +24,14 @@ cssclass: kanban gridlist noyaml
 		- **Script**
 			- [[Obsidian Post-2]]
 			- [[Obsidian-Post1]]
+		- [[笔记软件评测-到底选哪款？]]
 	- **[[02.Obs-Setup]]**
 		- [[Obs-Quick Edit and Typing]]
 		- [[Obs-Quick Replace and Delete (blank line)]]
 		- [[Obs-Quick Search and Command]]
 		- [[Obs-Views (Basic)]]
 	- **[[03.Obs-Theme and Style]]**
+		- [[Icon-Folder 好用图标包]]
 		- [[Obs-Blue Topaz Simplified]]
 		- [[Obs-Image Import and Resize]]
 		- [[Obs-Theme and Style (Basic)]]
@@ -37,6 +39,8 @@ cssclass: kanban gridlist noyaml
 		- [[Obs-超爱的主题 Blue Topaz Nord]]
 		- [[Releases · PKM-erBlue-topaz-example]]
 		- [[分栏效果示例]]
+		- [[笔记cssclass布局技巧]]
+		- [[笔记中内嵌网页的方法]]
 	- **04.Backup, Sync, and Recover**
 		- [[Obs-Backup and Sync]]
 		- [[内容资料意外丢失，怎样恢复？⚒️]]
@@ -64,16 +68,22 @@ cssclass: kanban gridlist noyaml
 			- [[怎样自动移动笔记到对应文件夹-Auto Note Mover (Simple)]]
 			- [[每日笔记：怎样随时高效记录每日灵感与活动-Memo, QuickAdd]]
 	- **05.Obs-Project and Task Management**
+		- [[Action Zone]]
+		- [[Alignment Zone]]
 		- [[Excel或CSV表格如何导入Obsidian，或在Obsidian中打开编辑]]
 		- [[Obs Projects 日历视图怎么用]]
 		- [[Obs-Dataview——是什么，怎么用]]
 		- [[Obs-Kanban——真看板，怎么用]]
+		- [[OKR 拆解及进度管理]]
+		- [[Pillars]]
+		- [[Timeline]]
+		- [[Useful Metadata]]
 		- [[尝试甘特图图示时间进度：Obsidian Mermaid（Gantt Chart）]]
 		- [[怎样写一本书——Longform]]
 		- [[怎样实现表格视图灵活排序与添加内容-弥补Projects插件不足]]
 		- [[怎样实现进度条自动追踪-MetaEdit]]
 		- [[怎样搭建项目管理面板和表格数据视图-Projects, Dataview, Kanban, Table, DB Folder]]
-		- [[怎样用日历进行任务追踪管理-Calendar, Full Calendar]]
+		- [[怎样用日历进行任务追踪管理-Calendar, Full Calendar, Fantasy Calendar, Big Calendar]]Fantasy Calendar, Big Calendar]]
 		- [[怎样自动生成文件夹笔记导航-Moc]]
 		- [[怎样设置并快速切换不同工作区-Workspace]]
 		- [[怎样配置一个高效的Obsidian知识库主页]]
@@ -81,11 +91,13 @@ cssclass: kanban gridlist noyaml
 		- [[怎样高效添加管理待办事项-Checklist, Task, Planner, Calendar, Memo]]
 		- [[怎样高效设置笔记资源与项目文件夹-File Explorer]]
 		- [[怎样高效追踪管理利用每日笔记数据-DB Folder]]
+		- [[月度里程碑（看板、列表、甘特图）]]
 		- [[热力图怎么用-Heatmap]]
 		- [[笔记项目管理方法参考-August Bradley]]
 		- [[能否链接文件或文件夹到Obsidian]]
 		- [[表格视图追踪管理方法-DB Folder]]
 		- [[记录待办事项-Full Calendar, Day Planner, Reminder]]
+		- [[项目目标制定方法]]
 		- [[项目管理视图工具有哪些，怎么用]]
 	- **[[06.Obs-Brainstorm and Visualization]]**
 		- **Obs-AI Tools**
@@ -109,12 +121,12 @@ cssclass: kanban gridlist noyaml
 		- [[Obs-Fast Start]]
 	- **[[Communicate]]**
 	- **[[Coordinate]]**
-	- [[Icon-Folder 好用图标包]]
 	- **iPad**
 		- [[Canvas in iPad.canvas]]
 		- [[Note in iPhone.canvas]]
 		- [[PKM-iPad Setup]]
 	- **[[Teamwork]]**
-	- [[笔记中内嵌网页的方法]]
+	- **Workflow**
+		- [[Knowledge Workflow.canvas]]
 
 %% End Waypoint %%

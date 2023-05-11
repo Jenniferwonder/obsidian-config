@@ -2,9 +2,10 @@
 Title: Drawing
 tags: Design
 DateStarted: 2023-03-28 Tue
-due:
+due: null
 DateModified: 2023-04-10 Mon
-status:
+status: null
+Progress: NaN%
 ---
 
 ## Comics

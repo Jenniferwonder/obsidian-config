@@ -1,10 +1,11 @@
 ---
 Title: Obsidian Post-2
-tags: PKM/Setup
+tags: PKM
 DateStarted: 2022-11-25
 DateModified: 2023-04-19
 status: 🟢Published
-due:
+due: null
+Progress: NaN%
 ---
 
 工具推荐：一款好用且免费的笔记软件 Obsidian-2

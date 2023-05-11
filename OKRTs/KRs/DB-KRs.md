@@ -336,10 +336,10 @@ config:
   show_metadata_inlinks: false
   show_metadata_outlinks: true
   show_metadata_tags: false
-  source_data: tag
-  source_form_result: "#KRs"
+  source_data: current_folder
+  source_form_result: 
   source_destination_path: OKRTs/KRs
-  row_templates_folder: /
+  row_templates_folder: zz-templates/tp/tp-KRs
   current_row_template: 
   pagination_size: 40
   font_size: 16

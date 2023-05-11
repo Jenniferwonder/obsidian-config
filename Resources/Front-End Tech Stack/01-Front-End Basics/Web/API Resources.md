@@ -1,10 +1,11 @@
 ---
 Title: API Resources
-tags: Web
+tags: Codespace
 DateStarted: 2022-12-16
-due:
+due: null
 DateModified: 2022-12-16
-status:
+status: null
+Progress: NaN%
 ---
 
 > [Rapid API](https://rapidapi.com/hub) | Discover and connect to thousands of APIs.

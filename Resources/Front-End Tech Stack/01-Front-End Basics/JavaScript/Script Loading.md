@@ -1,10 +1,11 @@
 ---
 Title: JS-Script Loading
-tags: JS
+tags: Codespace
 DateStarted: 2022-11-30
-due:
+due: null
 DateModified: 2022-11-30
-status:
+status: null
+Progress: NaN%
 ---
 
 ## Script loading

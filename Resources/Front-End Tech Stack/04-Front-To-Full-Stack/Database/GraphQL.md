@@ -1,10 +1,11 @@
 ---
 Title: GraphQL
-tags: Front-End
+tags: Codespace
 DateStarted: 2023-03-01
-due:
+due: null
 DateModified: 2023-03-01
-status:
+status: null
+Progress: NaN%
 ---
 
 ## Reference

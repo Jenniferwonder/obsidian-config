@@ -1,5 +1,6 @@
 ---
-status: 🟡Organizing
-tags: PKM/Setup
+status: ""
+tags: PKM
+Progress: NaN%
 ---
 

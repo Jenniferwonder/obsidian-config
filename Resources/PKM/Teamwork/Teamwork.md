@@ -1,10 +1,11 @@
 ---
 Title: Teamwork
-tags: PKM/Teamwork
+tags: PKM
 DateStarted: 2023-04-19
-due:
+due: null
 DateModified: 2023-04-21
 status: ""
+Progress: NaN%
 ---
 
 ### Create with team

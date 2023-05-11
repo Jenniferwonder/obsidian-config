@@ -2,7 +2,8 @@
 tags:
   - PKM
 DateStarted: 2023-04-27
-status: ⚪Capturing
+status: ""
+Progress: NaN%
 ---
 
 - ? How can I visually map out everything in my mind and link to notes?
@@ -16,7 +17,7 @@ I created a _Project Overview_ canvas- [[Front-End Projects Overview.canvas]]
 - ! But it's still rather time-consuming for me to edit on canvas.  
   I had to switch between my mouse and keyboard constantly when editing on canvas. I haven't find any ways that can enable me to add card like in Mindmap with hotkeys.  
   Are there any better ways to use canvas?  
-  I haven't figured out yet. #todo
+  I haven't figured out yet. #Snooze
 
 ## 相关资源工具
 

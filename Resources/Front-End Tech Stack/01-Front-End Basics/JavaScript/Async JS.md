@@ -1,10 +1,11 @@
 ---
 Title: Async JS
-tags: JS
+tags: Codespace
 DateStarted: 2022-12-08
-due:
+due: null
 DateModified: 2022-12-09
-status:
+status: null
+Progress: NaN%
 ---
 
 ## What?

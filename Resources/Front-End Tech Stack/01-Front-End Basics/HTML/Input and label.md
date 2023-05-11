@@ -1,10 +1,11 @@
 ---
 Title: Input
-tags: HTML
+tags: Codespace
 DateStarted: 2022-12-06 Tue
-due:
+due: null
 DateModified: 2022-12-06 Tue
-status:
+status: null
+Progress: NaN%
 ---
 
 > [The Input (Form Input) element - HTML | MDN](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)

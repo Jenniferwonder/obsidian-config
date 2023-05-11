@@ -1,12 +1,13 @@
 ---
 Title: Editing Checklist Template
 id: 2304.01.ED
-tags: Video-Project/2302.01
+tags: Content-Making
 Location: Home
 DateStarted: 2023-04-12
 DateModified: 2023-04-12
 due: 2023-02-24
-status: TODO
+status: ""
+Progress: NaN%
 ---
 
 ## A-Cut

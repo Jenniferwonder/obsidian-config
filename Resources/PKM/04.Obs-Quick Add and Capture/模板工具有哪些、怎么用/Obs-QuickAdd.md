@@ -1,11 +1,12 @@
 ---
 Title: QuickAdd in Obsidian
-tags: PKM/Efficiency
+tags: PKM
 DateStarted: 2023-04-17 Mon
 DateDue: null
 DateModified: 2023-04-17 Mon
-status: ⚪Capture
+status: ""
 aliases: QuickAdd
+Progress: NaN%
 ---
 
 [Getting DateStarted | QuickAdd](https://quickadd.obsidian.guide/docs/)

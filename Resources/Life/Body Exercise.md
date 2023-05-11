@@ -1,6 +1,6 @@
 ---
 Title: Body Exercise
-tags: Life-Tricks
+tags: Life
 type: 💪Tracking
 DateStarted: 2023-01-16 Mon
 due:

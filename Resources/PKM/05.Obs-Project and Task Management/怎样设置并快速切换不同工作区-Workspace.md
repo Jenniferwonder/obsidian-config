@@ -1,9 +1,10 @@
 ---
 tags: PKM
-progress:
+progress: null
 DateStarted: 2023-04-27
-status: 🟡Organizing
+status: ""
 aliases: Obsidian Workspace
+Progress: NaN%
 ---
 
 ## Purpose

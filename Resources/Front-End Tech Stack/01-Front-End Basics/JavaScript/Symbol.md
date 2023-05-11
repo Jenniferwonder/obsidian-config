@@ -1,10 +1,11 @@
 ---
 Title: Symbol
-tags: JS
+tags: Codespace
 DateStarted: 2023-02-15
-due:
+due: null
 DateModified: 2023-02-15
-status:
+status: null
+Progress: NaN%
 ---
 
 ## Reference

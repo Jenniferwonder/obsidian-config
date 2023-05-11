@@ -1,8 +1,9 @@
 ---
 Title: SEO
-tags: Web
+tags: Codespace
 DateStarted: 2023-03-06 Mon
-due:
+due: null
 DateModified: 2023-03-06 Mon
-status:
+status: null
+Progress: NaN%
 ---

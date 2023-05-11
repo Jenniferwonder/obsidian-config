@@ -1,10 +1,11 @@
 ---
 Title: Obsidian-Post1
-tags: PKM/Setup
+tags: PKM
 DateStarted: 2022-11-24
 DateModified: 2023-04-19
 status: 🟢Published
-due:
+due: null
+Progress: NaN%
 ---
 
 > [!attention]  

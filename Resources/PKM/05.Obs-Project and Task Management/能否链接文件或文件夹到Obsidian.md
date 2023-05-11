@@ -1,9 +1,10 @@
 ---
 Title: 能否链接文件或文件夹到Obsidian
-tags: PKM 
+tags: PKM
 DateStarted: 2023-05-08
 DateModified: 2023-05-08
-status: ⚪Capturing
+status: ""
+Progress: NaN%
 ---
 ### 链接方法（同步 > 备份 ）
 #### 1. ➡️链接到 OneDrive 共享链接 (100 G, Excel)

@@ -1,10 +1,11 @@
 ---
 Title: Obs-Core Views
-tags: PKM/Efficiency
+tags: PKM
 DateStarted: 2023-04-19
-due:
+due: null
 DateModified: 2023-04-21
-status: 🟠Distilling
+status: ""
+Progress: NaN%
 ---
 
 # 如何玩转 Obsidian 核心视图

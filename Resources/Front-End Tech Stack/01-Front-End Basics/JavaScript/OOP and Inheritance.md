@@ -1,10 +1,11 @@
 ---
 Title: OOP and In heritance
-tags: JS
+tags: Codespace
 DateStarted: 2022-12-05 Mon
-due:
+due: null
 DateModified: 2023-03-10
-status:
+status: null
+Progress: NaN%
 ---
 
 ## Reference

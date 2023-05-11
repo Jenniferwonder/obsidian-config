@@ -1,9 +1,10 @@
 ---
 Title: Second Brain Setup
-tags: PKM/Capture
+tags: PKM
 DateStarted: 2023-04-26 Wed
 DateModified: 2023-04-26 Wed
-status: ⚪Capturing
+status: ""
+Progress: NaN%
 ---
 
 - ? 08:52 PAPA/ GTD - Second Brain Setup

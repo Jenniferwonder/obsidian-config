@@ -1,6 +1,6 @@
 ---
 Title: Core Value
-tags: Goals
+tags: Objective
 DateStarted: 2023-04-09
 DateDue: null
 DateModified: 2023-04-09

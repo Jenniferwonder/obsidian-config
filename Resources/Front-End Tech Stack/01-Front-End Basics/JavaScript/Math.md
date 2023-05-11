@@ -1,11 +1,12 @@
 ---
 Title: Math
-tags: JS
+tags: Codespace
 DateStarted: 2022-12-01
-due:
+due: null
 DateModified: 2022-12-06 Tue
-status:
+status: null
 number headings: auto, first-level 4, max 6, 1._.1.1.
+Progress: NaN%
 ---
 
 > [Math - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math)  

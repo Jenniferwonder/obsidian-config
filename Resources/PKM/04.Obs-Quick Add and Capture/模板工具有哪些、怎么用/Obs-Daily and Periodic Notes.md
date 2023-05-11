@@ -1,10 +1,11 @@
 ---
 Title: Obs-周期记录
-tags: PKM/Capture
+tags: PKM
 DateStarted: 2023-04-19
 DateModified: 2023-04-21
-due:
-status: 🟠Distilling
+due: null
+status: ""
+Progress: NaN%
 ---
 
 # Obs-周期记录

@@ -1,10 +1,11 @@
 ---
 Title: 如何生成文件目录到 Markdown 文档
-tags: PKM/Capture
+tags: PKM
 DateStarted: 2023-04-19
-due:
+due: null
 DateModified: 2023-04-19
 status: 🔵Archived
+Progress: NaN%
 ---
 
 ## 如何生成文件目录到 Markdown 文档

@@ -1,6 +1,6 @@
 ---
 Title: Health& Fitness
-tags: Life-Tricks
+tags: Life
 status:
 DateStarted: 2022-11-22 Tue
 DateModified: 2023-01-16 Mon

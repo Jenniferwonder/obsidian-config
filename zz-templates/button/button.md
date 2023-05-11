@@ -1,6 +1,36 @@
 ---
 desc: 用来集中存放通过button插件创建按钮，以便其他笔记调用
 ---
+
+[亿图脑图MindMaster协同版](https://mm.edrawsoft.cn/app/create?_gl=1*kg37l8*_ga*MzU4MTI1NjUwLjE2ODM2OTg5MTc.*_ga_24WTSJBD5B*MTY4MzY5ODkxNy4xLjEuMTY4MzcwMDc3NC4zMi4wLjA.)
+`button-uml`
+`button-mindmap`
+`button-map`
+`button-suibi`
+`button-suibi`
+## 绘图工具
+```button
+name ✏️导图
+type link
+action https://mm.edrawsoft.cn/app/create
+class grad_button g_yellow
+```
+^button-map
+```button
+name ✏️导图
+type link
+action https://mm.edrawsoft.cn/app/create
+class grad_button g_yellow
+```
+^button-mindmap
+```button
+name 📊UML
+type link
+action https://www.edrawmax.cn/online/zh/
+class grad_button g_green
+```
+^button-uml
+
 ## 常用工具
 
 ```button
@@ -137,9 +167,9 @@ class blank
 ^button-richeng
 
 ```button
-name 💕 随笔
-type command
-action QuickAdd: 随笔记录
+name ✏️导图
+type link
+action https://mm.edrawsoft.cn/app/create
 class grad_button g_yellow
 ```
 ^button-suibi

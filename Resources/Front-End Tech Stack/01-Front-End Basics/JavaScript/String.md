@@ -1,11 +1,12 @@
 ---
 Title: String
-tags: JS
+tags: Codespace
 DateStarted: 2022-12-01
-due:
+due: null
 DateModified: 2022-12-06 Tue
-status:
+status: null
 number headings: auto, first-level 4, max 6, 1._.1.1.
+Progress: NaN%
 ---
 
 > [Useful string methods - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Useful_string_methods)

@@ -1,11 +1,12 @@
 ---
 Title: Object
-tags: JS
+tags: Codespace
 DateStarted: 2022-12-01
-due:
+due: null
 DateModified: 2022-12-05 Mon
-status:
+status: null
 number headings: auto, first-level 4, max 6, 1._.1.1.
+Progress: NaN%
 ---
 
 ## Learning Resources

@@ -1,10 +1,11 @@
 ---
 Title: TypeScript
-tags: TS
+tags: Codespace
 DateStarted: 2022-11-29 Tue
-due:
+due: null
 DateModified: 2022-12-16
-status:
+status: null
+Progress: NaN%
 ---
 
 [TypeScript Deep Dive-EN](https://basarat.gitbook.io/typescript/getting-started)

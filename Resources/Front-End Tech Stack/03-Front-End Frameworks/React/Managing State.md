@@ -1,10 +1,11 @@
 ---
 Title: Managing State
-tags: React
+tags: Codespace
 DateStarted: 2023-02-14 Tue
-due:
+due: null
 DateModified: 2023-02-14 Tue
-status:
+status: null
+Progress: NaN%
 ---
 
 #### 1. [Reacting to Input with State • React](https://beta.reactjs.org/learn/reacting-to-input-with-state)

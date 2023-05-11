@@ -197,7 +197,6 @@
   "blue-topaz-theme@@background-markdown-page-theme-dark-custom": "url(\"https://www.transparenttextures.com/patterns/batthern.png\")",
   "blue-topaz-theme@@background-markdown-page-theme-light-custom": "url(\"https://wallpapercave.com/dwp1x/wp5776683.jpg\")",
   "blue-topaz-theme@@bg-markdown-page-opacity-cp": 0.4,
-  "blue-topaz-theme@@bottom-padding-value": "5em",
   "anuppuccin-theme-settings@@anp-custom-checkboxes": true,
   "anuppuccin-theme-settings@@anp-speech-bubble": true,
   "anuppuccin-theme-settings@@anp-background-image-toggle": true,
@@ -221,7 +220,6 @@
   "hover-editor@@he-title-bar-height": "28px",
   "blue-topaz-theme@@tab-title-bar-position": false,
   "blue-topaz-theme@@text-normal@@light": "#262626",
-  "blue-topaz-theme@@background-settings-workplace-theme-light-custom": "url(\"https://wallpapercave.com/dwp1x/wp5776683.jpg\")",
   "blue-topaz-theme@@background-image-settings-command-palette-custom": true,
   "blue-topaz-theme@@background-command-palette-theme-light-custom": "url(\"https://wallpapercave.com/dwp1x/wp5776683.jpg\")",
   "blue-topaz-theme@@stack-tabs-text-ori-options": "default-stack-text-ori-style",
@@ -243,5 +241,10 @@
   "minimal-style@@table-text-size": "1.2em",
   "minimal-style@@window-title-off": false,
   "blue-topaz-theme@@remove-colorful-highlight-bg": true,
-  "minimal-style@@h3-weight": 600
+  "minimal-style@@h3-weight": 600,
+  "blue-topaz-theme@@font-family-strong": "Bookerly,'Inter', 'Segoe UI', 'Segoe UI Emoji', var(--font-default)",
+  "blue-topaz-theme@@bottom-padding-value": "5em",
+  "blue-topaz-theme@@background-settings-workplace-theme-light-custom": "url(\"https://wallpapercave.com/dwp1x/wp5776683.jpg\")",
+  "blue-topaz-theme@@font-family-vault": "'Segoe UI Emoji'",
+  "blue-topaz-theme@@font-weight-strong": "bolder"
 }

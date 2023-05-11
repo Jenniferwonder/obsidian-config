@@ -1,17 +1,18 @@
 ---
 Title: Learn Front-End Technology in English
 id: 2304.01
-tags: Video-Project/2304.01
+tags: Content-Making
 Niche: English Coding Experience
 DateStarted: 2023-04-11
 DateModified: 2023-04-12
 DateDue: 2023-02-24
-status: Published
+status: ""
 project: tru
 Views: 1k+
 Length: 2'49
 Time: 3 Days
 url: https://www.bilibili.com/video/BV12M41177m6/
+Progress: NaN%
 ---
 
 # Video Project Template

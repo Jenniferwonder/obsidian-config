@@ -1,11 +1,12 @@
 ---
 Title: Array
-tags: JS
+tags: Codespace
 DateStarted: 2022-12-01
-due:
+due: null
 DateModified: 2022-12-05 Mon
-status:
+status: null
 number headings: auto, first-level 4, max 6, 1.1.
+Progress: NaN%
 ---
 
 > [Arrays - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Arrays)

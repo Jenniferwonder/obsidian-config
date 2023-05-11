@@ -1,10 +1,11 @@
 ---
 Title: Next.js
-tags: NextJS
+tags: Codespace
 DateStarted: 2022-11-29 Tue
-due:
+due: null
 DateModified: 2023-03-01
-status:
+status: null
+Progress: NaN%
 ---
 
 ## Reference

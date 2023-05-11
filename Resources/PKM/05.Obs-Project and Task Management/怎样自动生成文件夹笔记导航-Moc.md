@@ -1,7 +1,8 @@
 ---
 tags: PKM
 DateStarted: 2023-04-27
-status: 🟡Organizing
+status: ""
+Progress: NaN%
 ---
 
 ## 怎样自动生成文件夹笔记导航

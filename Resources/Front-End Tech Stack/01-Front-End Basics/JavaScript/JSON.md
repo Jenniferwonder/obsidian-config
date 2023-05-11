@@ -1,10 +1,11 @@
 ---
 Title: JSON
-tags: JS
+tags: Codespace
 DateStarted: 2022-12-05 Mon
-due:
+due: null
 DateModified: 2022-12-05 Mon
-status:
+status: null
+Progress: NaN%
 ---
 
 > [JSON - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON) >[Working with JSON - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) >[JSON - MDN Web Docs Glossary: Definitions of Web-related terms | MDN](https://developer.mozilla.org/en-US/docs/Glossary/JSON)

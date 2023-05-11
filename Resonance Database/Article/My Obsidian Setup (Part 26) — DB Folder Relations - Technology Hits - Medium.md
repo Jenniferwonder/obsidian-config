@@ -1,6 +1,7 @@
 ---
 tags:
-  - Blog
+  - Content-Making
+Progress: NaN%
 ---
 [[ReadItLater]] [[Article]]
 

@@ -1,10 +1,11 @@
 ---
 Title: Async...await
-tags: JS
+tags: Codespace
 DateStarted: 2022-12-09
-due:
+due: null
 DateModified: 2022-12-09
-status:
+status: null
+Progress: NaN%
 ---
 
 ## Async... await (Syntactical Sugar)

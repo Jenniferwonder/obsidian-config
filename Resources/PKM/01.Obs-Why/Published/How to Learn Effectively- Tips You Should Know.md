@@ -1,10 +1,11 @@
 ---
 Title: PKM Efficiency
-tags: PKM/Organize
+tags: PKM
 DateStarted: 2023-03-03
-due:
+due: null
 DateModified: 2023-04-19
 status: 🟢Published
+Progress: NaN%
 ---
 
 [[Ultimate Productivity System-CODE]] 💡

@@ -1,10 +1,11 @@
 ---
 Title: Web APIs and API Design Patterns
-tags: Web
+tags: Codespace
 DateStarted: 2022-12-02
-due:
+due: null
 DateModified: 2023-03-15
-status:
+status: null
+Progress: NaN%
 ---
 
 > [Web APIs | MDN](https://developer.mozilla.org/en-US/docs/Web/API)

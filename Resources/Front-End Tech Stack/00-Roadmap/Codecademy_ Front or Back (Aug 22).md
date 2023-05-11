@@ -1,9 +1,10 @@
 ---
 Title: Codecademy_ Front or Back (Aug 22)
-tags: Front-End
-status: Done
+tags: Codespace
+status: ""
 DateStarted: 2022-08-22
-due:
+due: null
+Progress: NaN%
 ---
 
 ### Codecademy: Which Programming Language Should You Choose?

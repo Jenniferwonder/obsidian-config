@@ -1,10 +1,11 @@
 ---
 Title: Operators
-tags: JS
+tags: Codespace
 DateStarted: 2022-11-29 Tue
-due:
+due: null
 DateModified: 2022-12-01
-status:
+status: null
+Progress: NaN%
 ---
 
 > [Basic math in JavaScript — numbers and operators - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Math#types_of_numbers)

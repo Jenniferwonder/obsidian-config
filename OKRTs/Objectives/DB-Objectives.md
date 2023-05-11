@@ -3,7 +3,7 @@ database-plugin: basic
 ---
 
 ```yaml:dbfolder
-name: new database
+name: DB-Objective
 description: new description
 columns:
   column1:
@@ -340,10 +340,10 @@ config:
   show_metadata_inlinks: false
   show_metadata_outlinks: false
   show_metadata_tags: false
-  source_data: tag
-  source_form_result: "#Objectives"
+  source_data: current_folder
+  source_form_result: 
   source_destination_path: OKRTs/Objectives
-  row_templates_folder: /
+  row_templates_folder: zz-templates/tp/tp-Objective
   current_row_template: 
   pagination_size: 40
   font_size: 16
@@ -358,6 +358,6 @@ config:
   implementation: default
   show_metadata_modified: false
 filters:
-  enabled: false
+  enabled: true
   conditions:
 ```

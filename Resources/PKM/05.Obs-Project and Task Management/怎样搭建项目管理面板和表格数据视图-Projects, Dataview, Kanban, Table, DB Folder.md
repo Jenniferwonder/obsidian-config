@@ -2,7 +2,8 @@
 tags: PKM
 DateStarted: 2023-04-27
 status: 🟡ToOrganize
-progress:
+progress: null
+Progress: NaN%
 ---
 
 - ? 怎样搭建项目管理面板和数据视图

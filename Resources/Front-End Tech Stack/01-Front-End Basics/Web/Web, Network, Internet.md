@@ -1,10 +1,11 @@
 ---
 Title: Web, Network, Internet
-tags: Web
+tags: Codespace
 DateStarted: 2022-12-02
-due:
+due: null
 DateModified: 2023-03-10
-status:
+status: null
+Progress: NaN%
 ---
 
 [100+ Web Development Things you Should Know - YouTube](https://www.youtube.com/watch?v=erEgovG9WBs&list=PL0vfts4VzfNjQOM9VClyL5R0LeuTxlAR3&index=13)

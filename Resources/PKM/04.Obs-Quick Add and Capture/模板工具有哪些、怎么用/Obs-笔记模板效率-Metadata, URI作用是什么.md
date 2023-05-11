@@ -2,9 +2,10 @@
 Title: 笔记模板效率-Metadata, URI作用是什么
 tags: PKM
 DateStarted: 2023-04-24
-status: ⚪Captured
-cssclass:
+status: ""
+cssclass: null
 DateModified: 2023-04-24
+Progress: NaN%
 ---
 
 ## Purpose

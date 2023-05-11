@@ -27,7 +27,7 @@ status:
 #### 1. Biggest Achievements
 
 - Build up [[My Goals in 2023]]
-- Figure out the **priority** to be a front-end engineer- be good at [[Front-End Tech Stack]]
+- Figure out the **priority** to be a front-end engineer- be good at [[Resources/Front-End Tech Stack/00-Roadmap/Front-End Tech Stack]]
 - Figure out [[English Learning]] myths and the final way to truly be proficient in English, which is to **use and integrate** it in things you care.
 
 #### 2. Why is it hard to stay focused?

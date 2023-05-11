@@ -1,11 +1,12 @@
 ---
 Title: Obs-Memos
-tags: PKM/Capture
+tags: PKM
 DateStarted: 2023-04-17 Mon
-due:
+due: null
 DateModified: 2023-04-21
-status: 🟡Organizing
+status: ""
 aliases: Memo
+Progress: NaN%
 ---
 
 ## Memo 功能与用法

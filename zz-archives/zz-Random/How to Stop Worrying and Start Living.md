@@ -1,6 +1,6 @@
 ---
 Title: How to Stop Worrying and Start Living
-tags: Life-Tricks
+tags: Life
 DateStarted: 2023-02-02
 due:
 DateModified: 2023-03-03

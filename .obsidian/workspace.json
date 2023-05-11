@@ -4,22 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "4cc9e8a64481ab2e",
+        "id": "a4529338dcdfe9c3",
         "type": "tabs",
-        "dimension": 48.825065274151434,
+        "dimension": 23.101018010963195,
         "children": [
           {
-            "id": "e3ddea56be2b3f32",
+            "id": "42ca6775f33c028e",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
+              "type": "markdown",
               "state": {
-                "file": "OKRTs/Tasks/DB-Tasks.md"
+                "file": "Resources/PKM/Coordinate/Coordinate.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           },
           {
-            "id": "005137fcf8cd1ca6",
+            "id": "d08b39a023876eb5",
             "type": "leaf",
             "state": {
               "type": "database-plugin",
@@ -29,125 +32,28 @@
             }
           },
           {
-            "id": "3b4bfff1ac4dcb23",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "OKRTs/Objectives/DB-Objectives.md"
-              }
-            }
-          },
-          {
-            "id": "9884a44962cd3f91",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "Projects/DB-Codespace Projects.md"
-              }
-            }
-          },
-          {
-            "id": "461c48e25675f243",
+            "id": "5b94f9c875b11c22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temp/OKR 拆解及进度管理.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cc4cd812d0e32ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OKRTs/KRs/O2K2.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b274759457c58518",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OKRTs/KRs/O2K1-实现高效追踪学习进展与阶段成果工作流.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e75851388a076d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OKRTs/KRs/O1K1-夯实前端基础，完成基础系列笔记系统化整理与输出.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a52655ecba8cd41",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OKRTs/Objectives/O1-Front-End.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e855ff94d815a89e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OKRTs/Objectives/O2-PKM.md",
+                "file": "zz-templates/tp/tp-Daily Plan.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
-        "id": "54447adcf3fb1897",
+        "id": "23d6e76518464ade",
         "type": "tabs",
-        "dimension": 51.174934725848566,
+        "dimension": 22.631166797180892,
         "children": [
           {
-            "id": "ffabe40420b9928b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2023-05-09.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2a345874e3430c4e",
+            "id": "473de1b20ddb3b1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,8 +65,60 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "03f1ccb35cf94fb2",
+        "type": "tabs",
+        "dimension": 31.949882537196554,
+        "children": [
+          {
+            "id": "edd2f41521290654",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/PKM/05.Obs-Project and Task Management/怎样用日历进行任务追踪管理-Calendar, Full Calendar, Fantasy Calendar, Big Calendar.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "134430e2431a4ac9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Resources/PKM/05.Obs-Project and Task Management/怎样高效追踪管理利用每日笔记数据-DB Folder.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "25afeee8e5b8154d",
+        "type": "tabs",
+        "dimension": 22.31793265465936,
+        "children": [
+          {
+            "id": "4c28514e88be6b03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "看板追踪每日笔记中待办事项进展情况——CardBoard与Full Calendar, Memo.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,7 +137,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Status/⚪Captured",
+                "query": "tag:#Design",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -231,12 +189,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 255.5
   },
   "right": {
     "id": "617127011ede853a",
@@ -245,6 +202,7 @@
       {
         "id": "48e4df7056d011b2",
         "type": "tabs",
+        "dimension": 78.0701754385965,
         "children": [
           {
             "id": "8456fea1d36da9b5",
@@ -252,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2023-05-10.md",
+                "file": "Resources/PKM/05.Obs-Project and Task Management/怎样用日历进行任务追踪管理-Calendar, Full Calendar, Fantasy Calendar, Big Calendar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -269,19 +227,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2023-05-10.md",
+                "file": "Resources/PKM/05.Obs-Project and Task Management/怎样用日历进行任务追踪管理-Calendar, Full Calendar, Fantasy Calendar, Big Calendar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "4713a21889e76e49",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Daily/2023-05-10.md"
               }
             }
           },
@@ -297,12 +245,22 @@
             }
           },
           {
+            "id": "4713a21889e76e49",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Resources/PKM/05.Obs-Project and Task Management/怎样用日历进行任务追踪管理-Calendar, Full Calendar, Fantasy Calendar, Big Calendar.md"
+              }
+            }
+          },
+          {
             "id": "3ff613d8b4842cb2",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Daily/2023-05-10.md",
+                "file": "Resources/PKM/05.Obs-Project and Task Management/怎样用日历进行任务追踪管理-Calendar, Full Calendar, Fantasy Calendar, Big Calendar.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -388,11 +346,32 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 2
+      },
+      {
+        "id": "ab14d7f6127c3db3",
+        "type": "tabs",
+        "dimension": 21.929824561403507,
+        "children": [
+          {
+            "id": "1d288d4b7c49b89c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zz-templates/button/MyTools.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 281.5
+    "width": 223.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -401,7 +380,6 @@
       "flashcards-obsidian:Generate flashcards": false,
       "custom-sort:Toggle custom sorting": false,
       "templater-obsidian:Templater": false,
-      "surfing:surfing-bookmark-manager": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -424,10 +402,10 @@
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "webpage-html-export:Export Vault to HTML": false,
-      "periodic-notes:Open today": false,
-      "obsidian-memos:Memos": false,
       "big-calendar:Big Calendar": false,
-      "card-board:CardBoard": false
+      "card-board:CardBoard": false,
+      "periodic-notes:Open today": false,
+      "obsidian-memos:Memos": false
     }
   },
   "floating": {
@@ -454,43 +432,53 @@
           }
         ],
         "direction": "vertical",
-        "x": 2323,
-        "y": 168,
-        "width": 346,
-        "height": 652,
+        "x": 1614,
+        "y": 96,
+        "width": 324,
+        "height": 689,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "2a345874e3430c4e",
+  "active": "edd2f41521290654",
   "lastOpenFiles": [
-    "OKRTs/Tasks/DB-Tasks.md",
+    "看板追踪每日笔记中待办事项进展情况——CardBoard与Full Calendar, Memo.md",
+    "Resources/PKM/05.Obs-Project and Task Management/怎样用日历进行任务追踪管理-Calendar, Full Calendar, Fantasy Calendar, Big Calendar.md",
     "Daily/2023-05-10.md",
-    "Daily/2023-05-09.md",
-    "zz-archives/zz-Reflections/2023-01.md",
-    "OKRTs/Tasks/T1.md",
-    "OKRTs/KRs/DB-KRs.md",
-    "tp-Objective.md",
-    "Daily/2023-05-04.md",
+    "Resources/PKM/05.Obs-Project and Task Management/怎样高效追踪管理利用每日笔记数据-DB Folder.md",
+    "zz-templates/tp/tp-Daily Plan.md",
+    "Resources/PKM/Coordinate/Coordinate.md",
+    "Resources/PKM/PKM.md",
     "OKRTs/Objectives/DB-Objectives.md",
-    "Projects/DB-Codespace Projects.md",
-    "OKRTs/KRs/O2K2.md",
-    "OKRTs/KRs/O1K1-夯实前端基础，完成基础系列笔记系统化整理与输出.md",
-    "OKRTs/Objectives/O1-Front-End.md",
-    "zz-templates/tp/tp-Task.md",
-    "Temp/OKR 拆解及进度管理.md",
-    "OKRTs/Objectives/O2-PKM.md",
-    "OKRTs/KRs/O2K1-实现高效追踪学习进展与阶段成果工作流.md",
-    "zz-templates/sortspec.md",
-    "Projects/React Projects/GeekEnglish Learning Platform/02-Functions&Features/GE-付费专属内容与服务.md",
-    "Projects/React Projects/GeekEnglish Learning Platform/02-Functions&Features/GE-主页布局与功能参考.md",
-    "Projects/React Projects/GeekEnglish Learning Platform/02-Functions&Features/GE-核心功能模块需求.md",
+    "Resources/Front-End Tech Stack/00-Tech-Fundamentals/Tech-Fundamentals.md",
+    "Tracking/Codespace/DB-Codespace Projects.md",
+    "OKRTs/Projects/DB-Tasks.md",
+    "Resources/Engish-Improving/English Learning.md",
+    "Resources/Engish-Improving/English Speaking.md",
     "Resources/Front-End Tech Stack/Front-End Tech Stack DB.md",
-    "OKRTs/Objectives/My Goals in 2023.md",
-    "Resources/PKM/05.Obs-Project and Task Management/表格视图追踪管理方法-DB Folder.md",
-    "Resources/PKM/05.Obs-Project and Task Management/怎样搭建项目管理面板和表格数据视图-Projects, Dataview, Kanban, Table, DB Folder.md",
-    "Temp/月度里程碑（看板、列表、甘特图）.md",
+    "Resources/Front-End Tech Stack/Front-End Tech Stack.md",
+    "Resources/PKM/01.Obs-Why/笔记软件评测-到底选哪款？.md",
+    "Daily/DB-Daily.md",
+    "SOPs",
+    "Daily/2023-05-11.md",
+    "OKRTs/Objectives/O2-PKM.md",
+    "OKRTs/Objectives/O1-Front-End.md",
+    "zz-templates/tp/tp-Objective.md",
+    "OKRTs/KRs/DB-KRs.md",
+    "zz-templates/button/MyTools.md",
+    "Resources/Front-End Tech Stack/03-Front-End Frameworks/React/React Projects/Content-Editor/Content Editor.md",
+    "Views/Homepage.md",
+    "Views/Kanban (Status).md",
+    "zz-assets/Button-Logo/Figma.svg",
+    "zz-assets/Button-Logo/EdrawMind.svg",
+    "zz-assets/Button-Logo/EdrawMax.svg",
+    "zz-assets/Button-Logo/image 2.svg",
+    "zz-assets/Button-Logo/image 4.svg",
+    "zz-assets/Button-Logo/image 3.svg",
+    "zz-assets/Button-Logo/image 2.png",
+    "zz-assets/Button-Logo",
+    "My",
     "zz-assets/Pasted image 20230508203655.png",
     "PKM软件对比.xlsx",
     "zz-assets/Pasted image 20230508181558.png",
@@ -502,18 +490,8 @@
     "Periodic/Monthly",
     "Periodic/Weekly",
     "Views/Untitled.canvas",
-    "zz-assets/Pasted image 20230506195830.png",
-    "zz-assets/Pasted image 20230506195752.png",
-    "Resonance Calendar",
-    "OKRTs",
-    "OKRTs/KRs",
-    "zz-assets/Pasted image 20230504200844.png",
-    "zz-assets/Pasted image 20230504185936.png",
-    "zz-assets/Pasted image 20230504185028.png",
-    "zz-assets/Pasted image 20230504184747.png",
-    "zz-assets/Pasted image 20230504184626.png",
-    "Tracking/Workflow/Knowledge Workflow.canvas",
-    "Tracking/Workflow/Front-End Projects Overview.canvas",
+    "Resources/PKM/Workflow/Knowledge Workflow.canvas",
+    "Resources/Front-End Tech Stack/00-Roadmap/Front-End Projects Overview.canvas",
     "Resources/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/PKM-Map.canvas",
     "Resources/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/Canvas Demo.canvas",
     "GeekEnglish/GE-Resources/Projects Overview.canvas",

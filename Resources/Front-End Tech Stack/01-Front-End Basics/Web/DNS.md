@@ -1,10 +1,11 @@
 ---
 Title: DNS
-tags: Web
+tags: Codespace
 DateStarted: 2023-03-06 Mon
-due:
+due: null
 DateModified: 2023-03-06 Mon
-status:
+status: null
+Progress: NaN%
 ---
 
 [What is a Domain Name? - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name)

@@ -1,10 +1,11 @@
 ---
 Title: Obs-AI Tools for Idea Generation
-tags: PKM/Capture
+tags: PKM
 DateStarted: 2023-04-19
-due:
+due: null
 DateModified: 2023-04-21
-status: ⚪Capture
+status: ""
+Progress: NaN%
 ---
 
 ## PKM-AI 工具

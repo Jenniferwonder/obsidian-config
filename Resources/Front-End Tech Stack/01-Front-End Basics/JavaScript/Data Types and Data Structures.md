@@ -1,11 +1,12 @@
 ---
 Title: Data Types and Data Structures
-tags: JS
+tags: Codespace
 DateStarted: 2022-11-30
-due:
+due: null
 DateModified: 2022-12-02
-status:
+status: null
 number headings: auto, first-level 4, max 6, 1._.1.1.
+Progress: NaN%
 ---
 
 > [JavaScript data types and data structures - JavaScript | MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)

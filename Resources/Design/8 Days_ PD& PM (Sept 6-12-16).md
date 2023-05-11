@@ -1,10 +1,11 @@
 ---
 Title: 8 Days_ PD& PM (Sept 6-12-16)
 tags: Design
-status: Done
+status: ""
 DateStarted: 2022-09-06
-due:
-aliases:
+due: null
+aliases: null
+Progress: NaN%
 ---
 
 ## Task for This Sprint

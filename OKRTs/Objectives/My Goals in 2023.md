@@ -1,6 +1,6 @@
 ---
 Title: My Goals in 2023
-tags: Goals/2023
+tags: Objective
 DateStarted: 2023-01-09 Mon
 DateDue: null
 DateModified: 2023-04-01
@@ -22,7 +22,7 @@ Score(0-1): .nan
 
 ## Programming
 
-[[Front-End Tech Stack]]
+[[Resources/Front-End Tech Stack/00-Roadmap/Front-End Tech Stack]]
 
 #### 1. [[Algorithms and Data Structure]]
 

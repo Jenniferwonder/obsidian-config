@@ -5,9 +5,10 @@ tags: PMP
 type: 🗒️Resource
 DateStarted: 2023-04-26
 DateModified: 2023-04-26
-status: ⚪Capturing
-due:
-cssclass:
+status: ""
+due: null
+cssclass: null
+Progress: NaN%
 ---
 
 ## Purpose

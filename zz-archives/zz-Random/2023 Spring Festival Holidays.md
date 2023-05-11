@@ -1,6 +1,6 @@
 ---
 Title: 2023 Spring Festival Holidays
-tags: Life-Tricks
+tags: Life
 DateStarted: 2023-01-29
 due:
 DateModified: 2023-02-02

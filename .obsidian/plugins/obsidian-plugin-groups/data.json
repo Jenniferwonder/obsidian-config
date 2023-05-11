@@ -188,6 +188,14 @@
         {
           "id": "obsidian-excel-to-markdown-table",
           "name": "Excel to Markdown Table"
+        },
+        {
+          "id": "big-calendar",
+          "name": "Obsidian Big Calendar"
+        },
+        {
+          "id": "card-board",
+          "name": "CardBoard"
         }
       ],
       "groupIds": [],

@@ -1,8 +1,9 @@
 ---
 tags: PKM
 DateStarted: 2023-04-27
-status: ⚪Capturing
+status: ""
 aliases: Projects
+Progress: NaN%
 ---
 
 - ? 怎样搭建项目管理面板和数据视图?

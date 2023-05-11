@@ -1,9 +1,10 @@
 ---
 tags: PKM
 DateStarted: 2023-05-08
-status:
+status: null
 Title:
-  "{ 笔记软件 }":
+  "{ 笔记软件 }": null
+Progress: NaN%
 ---
 
 #### 1. Tryout
