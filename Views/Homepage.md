@@ -14,7 +14,7 @@ Progress: NaN%
 ### OKRTs
 [[DB-Objectives]]  
 [[DB-KRs]]  
-[[DB-Tasks]]  
+[[DB-Projects]]  
 [[DB-Daily]]  
 [[DB-Daily]]
 

@@ -92,6 +92,8 @@ columns:
       - { label: "flex", value: "flex", color: "hsl(291, 95%, 90%)"}
       - { label: "PMP", value: "PMP", color: "hsl(76, 95%, 90%)"}
       - { label: "moc", value: "moc", color: "hsl(209, 95%, 90%)"}
+      - { label: "Content-Making", value: "Content-Making", color: "hsl(182, 95%, 90%)"}
+      - { label: "Snooze", value: "Snooze", color: "hsl(159, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
@@ -190,21 +192,21 @@ config:
   remove_field_when_delete_column: false
   cell_size: normal
   sticky_first_column: false
-  group_folder_column:
+  group_folder_column: 
   remove_empty_folders: false
   automatically_group_files: false
   hoist_files_with_empty_attributes: true
   show_metadata_created: true
-  show_metadata_DateModified:  false
+  show_metadata_DateModified: false
   show_metadata_tasks: true
   show_metadata_inlinks: true
   show_metadata_outlinks: true
   show_metadata_tags: false
   source_data: current_folder
-  source_form_result:
+  source_form_result: 
   source_destination_path: /
   row_templates_folder: /
-  current_row_template:
+  current_row_template: 
   pagination_size: 40
   font_size: 16
   enable_js_formulas: false
@@ -216,6 +218,7 @@ config:
   metadata_date_format: "yyyy-MM-dd HH:mm:ss"
   enable_footer: false
   implementation: default
+  show_metadata_modified: false
 filters:
   enabled: false
   conditions:

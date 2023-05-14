@@ -12,53 +12,53 @@ Progress: NaN%
 
 #### 1. Project Design
 
-- [ ] Product management
-- [ ] Project Management: **Agile **Scrum Methodology (Kanban/ Trello) - Whole web development process > architecture and setup - Track progress (using Github Project) - created a project, created and labeled issues - worked in **sprints**, held **sprint reviews **and **retrospectives**, wrote documentation (readme) - present to **stakeholders **(what went well, what could improve)
-- [ ] Time Management: Ensure to finish in a certain time - **Time needed** to finish each task and the project as a whole - Add **milestones/ epics** - **Label **items like **improvements **and **new features** and assign them to me - Label **bugs** or defects to fix
-- [ ] Readme.md
-- [ ] About the project: user needs (problems > solutions)
-- [ ] Tech stack/ dependencies
-- [ ] How to use
-- [ ] Problems, achievement, improvement (Overall reflection)
-- [ ] Key functions
-- [ ] Different views (home view> authentication > )
-- [ ] Language switch
-- [ ] Navigation, calendar
-- [ ] Accessibility
-- [ ] Responsive design: able to adjust to differnt viewport/ screen size
-- [ ] File and folder structure/ Architecture and design system
-- [ ] Clean code: to make sure it's reusable and scalable
-- [ ] SCSS: mixins;
-- [ ] CSS: variables (primary color)
-- [ ] JS: switch
-- [ ] Typescript
-- [ ] WordPress
-- [ ] Web Performance
-- [ ] SEO
-- [ ] Git deployment and version control: gitignore
-- [ ] Testing:
+- [x] Product management
+- [x] Project Management: **Agile **Scrum Methodology (Kanban/ Trello) - Whole web development process > architecture and setup - Track progress (using Github Project) - created a project, created and labeled issues - worked in **sprints**, held **sprint reviews **and **retrospectives**, wrote documentation (readme) - present to **stakeholders **(what went well, what could improve)
+- [x] Time Management: Ensure to finish in a certain time - **Time needed** to finish each task and the project as a whole - Add **milestones/ epics** - **Label **items like **improvements **and **new features** and assign them to me - Label **bugs** or defects to fix
+- [x] Readme.md
+- [x] About the project: user needs (problems > solutions)
+- [x] Tech stack/ dependencies
+- [x] How to use
+- [x] Problems, achievement, improvement (Overall reflection)
+- [x] Key functions
+- [x] Different views (home view> authentication > )
+- [x] Language switch
+- [x] Navigation, calendar
+- [x] Accessibility
+- [x] Responsive design: able to adjust to differnt viewport/ screen size
+- [x] File and folder structure/ Architecture and design system
+- [x] Clean code: to make sure it's reusable and scalable
+- [x] SCSS: mixins;
+- [x] CSS: variables (primary color)
+- [x] JS: switch
+- [x] Typescript
+- [x] WordPress
+- [x] Web Performance
+- [x] SEO
+- [x] Git deployment and version control: gitignore
+- [x] Testing:
   - Using Jest
   - Extension: Lighthouse to test accessibility
-- [ ] Hosting Deployment (Github page/ Netlify) > Video demo
-- [ ] Tools:
+- [x] Hosting Deployment (Github page/ Netlify) > Video demo
+- [x] Tools:
   - Online code editor: Codepen
   - Editor: VS Code
   - Design tools: Figma; Canva
 
 #### 2. Skills Prep:
 
-- [ ] HTML, CSS (flexbox, color, font, grid, animation, bootstrap...)
+- [x] HTML, CSS (flexbox, color, font, grid, animation, bootstrap...)
   - To improve web layout
   - Efforts:
 - [x] CS50x
 - [x] ZTM-Complete Web Developer
 - [x] FCC- Responsive Web Design
 - [x] Advanced CSS and SASS (Aug 23- Sept 4 Natours)
-- [ ] **JavaScript Algorithms and Data Structure (Aug 11- )**
+- [x] **JavaScript Algorithms and Data Structure (Aug 11- )**
   - To improve web interaction
   - Efforts:
-- [ ] Complete JS
-- [ ] Python and flask
-- [ ] SQL and Python
-- [ ] Front-end Libraries (React, Redux)
-- [ ] Back-end Deployment and APIs
+- [x] Complete JS
+- [x] Python and flask
+- [x] SQL and Python
+- [x] Front-end Libraries (React, Redux)
+- [x] Back-end Deployment and APIs

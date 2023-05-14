@@ -3,36 +3,6 @@
   "data": {
     "boardConfigs": [
       {
-        "tag": "tagBoardConfig",
-        "data": {
-          "columns": [
-            {
-              "tag": "ToKeep",
-              "displayTitle": "To Keep"
-            },
-            {
-              "tag": "ToImprove",
-              "displayTitle": "To Improve"
-            }
-          ],
-          "showColumnTags": true,
-          "completedCount": 10,
-          "filters": [
-            {
-              "tag": "pathFilter",
-              "data": "Daily"
-            }
-          ],
-          "filterPolarity": "Allow",
-          "filterScope": "Both",
-          "showFilteredTags": true,
-          "includeOthers": false,
-          "includeUntagged": false,
-          "title": "Review",
-          "collapsedColumns": []
-        }
-      },
-      {
         "tag": "dateBoardConfig",
         "data": {
           "completedCount": 10,
@@ -47,6 +17,48 @@
           "showFilteredTags": true,
           "includeUndated": false,
           "title": "Date Board",
+          "collapsedColumns": []
+        }
+      },
+      {
+        "tag": "tagBoardConfig",
+        "data": {
+          "columns": [
+            {
+              "tag": "PKM",
+              "displayTitle": "PKM"
+            },
+            {
+              "tag": "PMP",
+              "displayTitle": "PMP"
+            },
+            {
+              "tag": "Codespace",
+              "displayTitle": "Codespace"
+            },
+            {
+              "tag": "Content-Making",
+              "displayTitle": "Content-Making"
+            },
+            {
+              "tag": "English",
+              "displayTitle": "English"
+            }
+          ],
+          "showColumnTags": true,
+          "completedCount": 10,
+          "filters": [
+            {
+              "tag": "pathFilter",
+              "data": "/"
+            }
+          ],
+          "filterPolarity": "Allow",
+          "filterScope": "Both",
+          "showFilteredTags": true,
+          "includeOthers": false,
+          "includeUntagged": false,
+          "title": "Tag Board",
           "collapsedColumns": []
         }
       }

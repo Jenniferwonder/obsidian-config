@@ -4,20 +4,70 @@
     "type": "split",
     "children": [
       {
-        "id": "2c489f5c88e2ef07",
+        "id": "98164dc322256c7d",
         "type": "tabs",
         "children": [
           {
-            "id": "709cfd5f5a9033d2",
+            "id": "8649af347dbd4a3d",
+            "type": "leaf",
+            "state": {
+              "type": "kanban",
+              "state": {
+                "file": "OKRTs/Tasks/KB-Tasks.md"
+              }
+            }
+          },
+          {
+            "id": "5377ec6ccbaaf535",
+            "type": "leaf",
+            "state": {
+              "type": "card-board-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f51612502e321c5",
             "type": "leaf",
             "state": {
               "type": "database-plugin",
               "state": {
-                "file": "OKRTs/Tasks/DB-Tasks.md"
+                "file": "Daily/DB-Daily.md"
+              }
+            }
+          },
+          {
+            "id": "dbf17faea256a33b",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "OKRTs/Tasks/DB-Projects.md"
+              }
+            }
+          },
+          {
+            "id": "69589ee754b02108",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d56d10abe5165697",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2023-05-13.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -36,7 +86,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Design",
+                "query": "tag:#Tasks",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -122,7 +172,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OKRTs/Tasks/DB-Tasks.md",
+                "file": "Daily/2023-05-13.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +189,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OKRTs/Tasks/DB-Tasks.md",
+                "file": "Daily/2023-05-13.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +212,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OKRTs/Tasks/DB-Tasks.md"
+                "file": "Daily/2023-05-13.md"
               }
             }
           },
@@ -172,7 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "OKRTs/Tasks/DB-Tasks.md",
+                "file": "Daily/2023-05-13.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,9 +306,17 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "ba9b0aa9ca01140a",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       },
       {
         "id": "ab14d7f6127c3db3",
@@ -282,13 +340,16 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 228.5
   },
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-weread-plugin:Weread": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
       "flashcards-obsidian:Generate flashcards": false,
+      "cmdr:QuickAdd: 添加任务": false,
+      "big-calendar:Big Calendar": false,
+      "card-board:CardBoard": false,
       "custom-sort:Toggle custom sorting": false,
       "templater-obsidian:Templater": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
@@ -298,7 +359,6 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "remotely-save:Remotely Save": false,
@@ -313,8 +373,7 @@
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "obsidian-spaced-repetition:Review flashcards": false,
       "webpage-html-export:Export Vault to HTML": false,
-      "big-calendar:Big Calendar": false,
-      "card-board:CardBoard": false,
+      "workspaces:Manage workspace layouts": false,
       "periodic-notes:Open today": false,
       "obsidian-memos:Memos": false
     }
@@ -343,46 +402,89 @@
           }
         ],
         "direction": "vertical",
-        "x": 3108,
+        "x": 2910,
         "y": 4,
-        "width": 330,
-        "height": 689,
+        "width": 280,
+        "height": 634,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "ad0e04970dc4c649",
+        "type": "window",
+        "children": [
+          {
+            "id": "ae1e03e60b349bcc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7e7ce4e8293510b6",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "CVS-Task Workflow.canvas",
+                    "viewState": {
+                      "x": -1819.4146709734828,
+                      "y": -580.7706968719267,
+                      "zoom": -0.23955894666414068
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1980,
+        "y": 122,
+        "width": 403,
+        "height": 436,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "3e28e9c79ee063b1",
+  "active": "d56d10abe5165697",
   "lastOpenFiles": [
-    "Programs/PKM/如何搭建完善OKRTs 项目目标、关键结果、项目、行动事项数据库——DB Folders.md",
-    "OKRTs/Tasks/DB-Tasks.md",
-    "zz-templates/tp/tp-Tasks.md",
-    "Programs/PKM/05.Obs-Project and Task Management/怎样搭建项目管理面板和表格数据视图-Projects, Dataview, Kanban, Table, DB Folder.md",
-    "Daily/2023-05-10.md",
-    "Daily/2023-05-11.md",
-    "Programs/PKM/04.Obs-Quick Add and Capture/Obs-Button.md",
-    "Programs/PKM/04.Obs-Quick Add and Capture/用 Espanso 提高打字或编码输入效率.md",
-    "Programs/Life/五一假期无人机拍摄素材整理剪辑.md",
-    "Programs/PKM/Habit Tracker.md",
+    "CVS-Task Workflow.canvas",
+    "Daily/2023-05-13.md",
+    "OKRTs/Tasks/DB-Projects.md",
+    "Areas/PKM/05.Obs-Project and Task Management/PKM-Metadata 设置规范.md",
+    "Daily/DB-Daily.md",
     "OKRTs/Tasks/KB-Tasks.md",
-    "Programs/PKM/05.Obs-Project and Task Management/Obs-Kanban——真看板，怎么用.md",
-    "Programs/PKM/PKM 命名规范.md",
-    "Views/Homepage.md",
-    "Views/Kanban (Priority).md",
-    "Programs/PKM/05.Obs-Project and Task Management/每日工作流例行事项进度提醒-Day Planner.md",
-    "Programs/PKM/05.Obs-Project and Task Management/看板追踪每日笔记中待办事项进展情况——CardBoard与Full Calendar, Memo.md",
-    "Programs/PKM/05.Obs-Project and Task Management/如何高效管理时间与任务，将任务落实到日-Daily Note, OKRTs DB.md",
-    "Programs/PKM/06.Obs-Brainstorm and Visualization/思维导图与 UML 工具—— EdrawMind 和 Edrawmax.md",
-    "OKRTs/Tasks/了解利用其他项目管理工具.md",
-    "Programs/PKM/一年自学过程反思、成果整理、目标与需求明确与落实——2022.06-2023.04.md",
-    "Programs/PKM/05.Obs-Project and Task Management/Obs-Dataview——是什么，怎么用.md",
-    "Snooze/Snooze.md",
-    "Programs/PKM/04.Obs-Quick Add and Capture/如何从图片链接或截图中提取复制文字.md",
-    "Programs/PKM/03.Obs-Theme and Style/Blue Topaz-怎样让时间以特殊样式显示.md",
-    "OKRTs/Objectives/DB-Objectives.md",
+    "71aae469-0b30-4733-bf18-1b2e9fcc4ddf_db.md",
+    "Resonance Database/Resonance Database.md",
+    "Areas/PKM/05.Obs-Project and Task Management/如何高效管理时间与任务，将任务落实到日-Daily Note, OKRTs DB.md",
+    "Areas/PMP/8 月中旬3 A 通过 PMP 认证考试.md",
+    "Areas/Front-End/00-Tech-Fundamentals/System Design/UML.md",
+    "Resonance Database/Youtube/Youtube - Zotero Obsidian Integration.md",
+    "Areas/PKM/09.Snooze/Obs-Fast Start.md",
+    "Areas/PKM/00.Obs-Community/00.Obs-Community.md",
+    "Areas/PKM/01.Obs-Why/Captured/Second Brain Setup.md",
+    "Areas/PKM/02.Obs-Setup/02.Obs-Setup.md",
+    "Areas/PKM/04.Backup, Sync, and Recover/内容资料意外丢失，怎样恢复？⚒️.md",
+    "Areas/PKM/04.Backup, Sync, and Recover/怎样实现 Obsidian 笔记 Windows 与 iPhone, iPad 同步与备份.md",
+    "Areas/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/Obs-Memos.md",
+    "Areas/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/Obs-QuickAdd.md",
+    "Areas/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/Obs-Templater.md",
+    "Areas/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/怎样自动移动笔记到对应文件夹-Auto Note Mover (Simple).md",
+    "Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Excalidraw/Obs-Excalidraw.md",
+    "Areas/PKM/07.Obs-Review, Refactor and Distill/Obs-Flashcard and Spaced Repetition.md",
+    "zz-archives/zz-Daily/2022-12/2022-12-12.md",
+    "Daily/2023-05-05.md",
+    "zz-assets/Pasted image 20230512162050.png",
+    "zz-templates/script/template/taskprogress.js",
+    "zz-templates/script/template/getrandomImage.js",
+    "zz-templates/script/template",
+    "zz-templates/script/tasksCalendar/view.js",
+    "zz-templates/script/tasksCalendar/view.css",
+    "zz-templates/script/tasksCalendar",
+    "zz-templates/script/Taskido/view.js",
+    "zz-templates/script/Taskido/view.css",
+    "zz-templates/script/Taskido",
+    "zz-templates/script/SwitcLightdark.js",
     "zz-assets/Pasted image 20230511182804.png",
-    "Day Planners",
-    "SOPs",
     "zz-assets/Button-Logo/Figma.svg",
     "zz-assets/Button-Logo/EdrawMind.svg",
     "zz-assets/Button-Logo/EdrawMax.svg",
@@ -390,25 +492,15 @@
     "zz-assets/Button-Logo/image 4.svg",
     "zz-assets/Button-Logo/image 3.svg",
     "zz-assets/Button-Logo/image 2.png",
-    "zz-assets/Button-Logo",
-    "My",
     "zz-assets/Pasted image 20230508203655.png",
-    "PKM软件对比.xlsx",
-    "zz-assets/Pasted image 20230508181558.png",
-    "PKM软件对比.csv",
-    "PKM软件对比.CSV",
-    "CSV-Test",
-    "Periodic",
-    "Periodic/Monthly",
     "Views/Untitled.canvas",
-    "Programs/PKM/Workflow/Knowledge Workflow.canvas",
-    "Programs/Front-End/00-Roadmap/Front-End Projects Overview.canvas",
-    "Programs/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/PKM-Map.canvas",
-    "Programs/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/Canvas Demo.canvas",
+    "Areas/PKM/Workflow/Knowledge Workflow.canvas",
+    "Areas/Front-End/00-Roadmap/Front-End Projects Overview.canvas",
+    "Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/PKM-Map.canvas",
+    "Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/Canvas Demo.canvas",
     "GeekEnglish/GE-Resources/Projects Overview.canvas",
     "Resources/GeekEnglish/Projects Overview.canvas",
-    "Programs/PKM/iPad/Note in iPhone.canvas",
-    "Programs/PKM/iPad/Canvas in iPad.canvas",
-    "Programs/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/How Memo Works.canvas"
+    "Areas/PKM/iPad/Note in iPhone.canvas",
+    "Areas/PKM/iPad/Canvas in iPad.canvas"
   ]
 }

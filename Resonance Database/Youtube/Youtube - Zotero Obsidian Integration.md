@@ -1,4 +1,13 @@
 ---
+Title: Zotero Obsidian Integration
+Topic:
+DateStarted: 2023-05-05
+DateModified: 2023-05-13
+DateDue:
+status: ⤵️Snooze
+Total:
+Completed:
+Incomplete:
 tags:
   - PKM
 Progress: NaN%

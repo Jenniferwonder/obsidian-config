@@ -5,15 +5,30 @@
       "fieldConfig": {
         "status": {
           "options": [
-            "⚪Captured",
-            "🟡Organized",
-            "🟠Distilled",
+            "⚪Backlog",
+            "🤍ToPlan",
+            "💚ToDo",
+            "🟡ToOrganize",
+            "🟠ToPublish",
+            "💛ToCheck",
             "🟢Published",
-            "🔵Archived"
+            "💙ToAct",
+            "🔵Archived",
+            "⤵️Snooze"
           ]
         },
         "Title": {},
-        "DateModified": {}
+        "DateModified": {},
+        "ToKeep": {},
+        "Task": {},
+        "Priority": {
+          "options": [
+            "P0",
+            "P1",
+            "P2",
+            "P3"
+          ]
+        }
       },
       "defaultName": "",
       "templates": [],
@@ -58,19 +73,54 @@
                 "hide": true
               },
               "name": {
-                "width": 306
+                "width": 383
+              },
+              "O2T": {
+                "hide": true
+              },
+              "O2Ts": {
+                "hide": true
+              },
+              "tags": {
+                "hide": true
+              },
+              "Completion": {
+                "hide": true
+              },
+              "Total": {
+                "hide": true
+              },
+              "Completed": {
+                "hide": true
+              },
+              "DateDo": {
+                "hide": true
+              },
+              "Tasks": {
+                "hide": true
+              },
+              "Task": {
+                "hide": false
+              },
+              "DateModified": {
+                "hide": true
               }
             },
             "orderFields": [
               "name",
-              "modified",
-              "started",
               "status",
-              "tags",
-              "due",
-              "title"
+              "Priority",
+              "DateStarted",
+              "Incomplete",
+              "KRs",
+              "Objectives",
+              "Progress",
+              "ToImprove",
+              "Topic",
+              "ToKeep",
+              "Task"
             ],
-            "sortField": "status",
+            "sortField": "Priority",
             "sortAsc": true
           },
           "filter": {
@@ -93,26 +143,38 @@
               "No status": {
                 "weight": 0
               },
-              "🔵Archived": {
+              "⚪Backlog": {
                 "weight": 1
               },
-              "🟠Distilled": {
+              "🟡ToOrganize": {
                 "weight": 2
               },
-              "⚪Captured": {
+              "💛ToCheck": {
                 "weight": 3
               },
-              "⚪Capture": {
+              "⤵️Snooze": {
                 "weight": 4
               },
-              "🟡Organizing": {
+              "💚ToDo": {
                 "weight": 5
               },
-              "🟠Distilling": {
+              "🟠ToPublish": {
                 "weight": 6
               },
-              "🟢Published": {
+              "🟡Organized": {
                 "weight": 7
+              },
+              "🔵Archived": {
+                "weight": 8
+              },
+              "🟠Distilled": {
+                "weight": 9
+              },
+              "⚪Captured": {
+                "weight": 10
+              },
+              "🟢Published": {
+                "weight": 11
               }
             }
           },
@@ -157,16 +219,18 @@
         }
       },
       "defaultName": "",
-      "templates": [],
+      "templates": [
+        "zz-templates/tp/tp-Tasks.md"
+      ],
       "excludedNotes": [],
       "isDefault": false,
       "dataSource": {
         "kind": "tag",
         "config": {
-          "tag": "#Projects"
+          "tag": "#Codespace"
         }
       },
-      "newNotesFolder": "",
+      "newNotesFolder": "Areas/Front-End",
       "views": [
         {
           "config": {
@@ -315,23 +379,22 @@
       "name": "Codespace"
     },
     {
-      "fieldConfig": {
-        "Title": {}
-      },
+      "fieldConfig": {},
       "defaultName": "",
-      "templates": [],
+      "templates": [
+        "zz-templates/tp/tp-Tasks.md"
+      ],
       "excludedNotes": [
-        "zz-templates/tp/Daily Plan.md",
-        ""
+        "OKRTs/Tasks/KB-Tasks.md"
       ],
       "isDefault": false,
       "dataSource": {
         "kind": "tag",
         "config": {
-          "tag": "#Daily"
+          "tag": "#PMP"
         }
       },
-      "newNotesFolder": "",
+      "newNotesFolder": "Areas/PMP",
       "views": [
         {
           "config": {
@@ -339,66 +402,59 @@
               "path": {
                 "hide": true
               },
-              "aliases": {
+              "Completion": {
                 "hide": true
               },
-              "due": {
+              "cssclass": {
                 "hide": true
               },
-              "status": {
+              "Progress": {
                 "hide": true
               },
               "tags": {
                 "hide": true
               },
-              "uid": {
+              "Title": {
                 "hide": true
               },
-              "name": {
-                "width": 119
-              },
-              "started": {
+              "Topic": {
                 "hide": true
               },
-              "modified": {
+              "Total": {
                 "hide": true
               },
-              "topic": {
+              "UID": {
                 "hide": true
               },
-              "title": {
-                "width": 235
+              "Completed": {
+                "hide": true
               },
-              "Daily": {
+              "DateModified": {
                 "hide": true
               }
-            },
-            "orderFields": [
-              "name",
-              "title",
-              "DateStarted",
-              "DateModified",
-              "Topic"
-            ],
-            "sortField": "name",
-            "sortAsc": true
+            }
           },
           "filter": {
-            "conditions": [
-              {
-                "field": "name",
-                "operator": "contains",
-                "enabled": false,
-                "value": "2023-04"
-              }
-            ]
+            "conditions": []
           },
           "colors": {
             "conditions": []
           },
-          "id": "120448e2-341b-4488-bb47-b0095e5f1502",
+          "id": "c7e921b0-bf62-4008-9ef5-0a76a19eb25e",
           "name": "Table",
           "type": "table"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "id": "20e77589-a3b2-4a2c-a0a1-5a001bebaa94",
+          "name": "Board",
+          "type": "board"
         },
         {
           "config": {
@@ -411,13 +467,13 @@
           "colors": {
             "conditions": []
           },
-          "id": "5f077970-0d5d-45b3-b0b8-c5faf01e7e02",
+          "id": "359e037c-3f9d-4249-b639-901d565a7880",
           "name": "Calendar",
           "type": "calendar"
         }
       ],
-      "id": "6cb51ce3-4489-4945-b023-032e8576ff00",
-      "name": "Daily"
+      "id": "cb97cc7d-6885-4f27-acd0-be8e25295268",
+      "name": "PMP"
     }
   ],
   "preferences": {

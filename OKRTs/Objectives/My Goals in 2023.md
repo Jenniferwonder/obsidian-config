@@ -22,7 +22,7 @@ Score(0-1): .nan
 
 ## Programming
 
-[[Programs/Front-End/00-Roadmap/Front-End Tech Stack]]
+[[Areas/Front-End/00-Roadmap/Front-End Tech Stack]]
 
 #### 1. [[Algorithms and Data Structure]]
 

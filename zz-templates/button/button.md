@@ -8,6 +8,26 @@ desc: 用来集中存放通过button插件创建按钮，以便其他笔记调�
 `button-map`
 `button-suibi`
 `button-suibi`
+
+`button-linkpl`
+
+`button-unlinkpl`  
+
+## 任务追踪与取消
+```button
+name ☕
+type command
+action Day Planner: Unlink today's Day Planner from its note
+class blank main-bar
+```
+^button-unlinkpl
+```button
+name ⏰
+type command
+action Day Planner: Link today's Day Planner to the current note
+class blank main-bar
+```
+^button-linkpl
 ## 绘图工具
 ```button
 name ✏️导图

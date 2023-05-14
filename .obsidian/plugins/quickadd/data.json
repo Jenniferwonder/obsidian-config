@@ -53,7 +53,7 @@
       },
       "insertAfter": {
         "enabled": true,
-        "after": "## Backlog",
+        "after": "## ⚪Backlog",
         "insertAtEnd": false,
         "createIfNotFound": false,
         "createIfNotFoundLocation": "top"
@@ -67,13 +67,6 @@
       },
       "openFile": false,
       "openFileInMode": "default"
-    },
-    {
-      "id": "aa6840fd-9b83-4d4a-87d6-2b6471c1009b",
-      "name": "打开任务看板",
-      "type": "Macro",
-      "command": true,
-      "macroId": "96067d39-1c22-4c96-9100-829814ac3251"
     },
     {
       "id": "9858a60b-c362-434f-a71d-a55816668bd7",
@@ -122,14 +115,7 @@
     {
       "name": "打开看板",
       "id": "96067d39-1c22-4c96-9100-829814ac3251",
-      "commands": [
-        {
-          "name": "Workspaces Plus: Load: kanban",
-          "type": "Obsidian",
-          "id": "5a92a49f-f682-4771-86b6-64676154cf61",
-          "commandId": "workspaces-plus:kanban"
-        }
-      ],
+      "commands": [],
       "runOnStartup": false
     },
     {
