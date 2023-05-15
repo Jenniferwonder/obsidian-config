@@ -1,6 +1,6 @@
 ---
 Title: Goal Update (Sept 14)
-tags: Objective
+tags: Objectives
 status:
 DateStarted: 2022-11-22 Tue
 DateModified: 2023-04-10 Mon

@@ -543,36 +543,12 @@
     }
   ],
   "various-complements:reload-custom-dictionaries": [],
-  "workspaces-plus:Front-End": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "F"
-    }
-  ],
-  "workspaces-plus:PKM": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "P"
-    }
-  ],
   "workspaces-plus:Projects": [
     {
       "modifiers": [
         "Shift"
       ],
       "key": "R"
-    }
-  ],
-  "workspaces-plus:Tech-Fundamentals": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "T"
     }
   ],
   "note-refactor-obsidian:app:extract-selection-first-line": [
@@ -614,5 +590,14 @@
       ],
       "key": "H"
     }
-  ]
+  ],
+  "quickadd:choice:1331d6d4-4efe-4d24-b585-80a9de29b397": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "="
+    }
+  ],
+  "obsidian-citation-plugin:update-bib-data": []
 }

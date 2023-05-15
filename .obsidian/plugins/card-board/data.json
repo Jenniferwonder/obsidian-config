@@ -7,28 +7,48 @@
         "data": {
           "columns": [
             {
-              "tag": "ToKeep",
-              "displayTitle": "To Keep"
+              "tag": "PKM",
+              "displayTitle": "PKM"
             },
             {
-              "tag": "ToImprove",
-              "displayTitle": "To Improve"
+              "tag": "Codespace",
+              "displayTitle": "Codespace"
+            },
+            {
+              "tag": "PMP",
+              "displayTitle": "PMP"
+            },
+            {
+              "tag": "Content-Making",
+              "displayTitle": "Content-Making"
             }
           ],
           "showColumnTags": true,
           "completedCount": 10,
           "filters": [
             {
-              "tag": "pathFilter",
-              "data": "Daily"
+              "tag": "tagFilter",
+              "data": "PMP"
+            },
+            {
+              "tag": "tagFilter",
+              "data": "PKM"
+            },
+            {
+              "tag": "tagFilter",
+              "data": "Content-Making"
+            },
+            {
+              "tag": "tagFilter",
+              "data": "Codespace"
             }
           ],
           "filterPolarity": "Allow",
           "filterScope": "Both",
           "showFilteredTags": true,
-          "includeOthers": false,
-          "includeUntagged": false,
-          "title": "Review",
+          "includeOthers": true,
+          "includeUntagged": true,
+          "title": "Tag Board",
           "collapsedColumns": []
         }
       },
@@ -45,7 +65,7 @@
           "filterPolarity": "Allow",
           "filterScope": "Both",
           "showFilteredTags": true,
-          "includeUndated": false,
+          "includeUndated": true,
           "title": "Date Board",
           "collapsedColumns": []
         }

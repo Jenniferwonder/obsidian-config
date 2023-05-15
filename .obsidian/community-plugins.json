@@ -23,7 +23,6 @@
   "obsidian-excalidraw-plugin",
   "better-word-count",
   "multi-column-markdown",
-  "buttons",
   "obsidian-tasks-plugin",
   "obsidian-advanced-uri",
   "obsidian-hide-sidebars-when-narrow",
@@ -90,5 +89,6 @@
   "big-calendar",
   "card-board",
   "cmdr",
-  "auto-note-mover"
+  "auto-note-mover",
+  "buttons"
 ]

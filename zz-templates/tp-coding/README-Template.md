@@ -2,9 +2,8 @@
 Title: README-Template
 tags: Codespace
 DateStarted: 2023-03-21
-due: null
 DateModified: 2023-03-21
-status: null
+status:
 Progress: NaN%
 ---
 
@@ -42,7 +41,7 @@ Fix deprecated function problems in the original project:
 
 ### e-commerce-local
 
-- [ ] Connect Frontend App with local MongoDB Database
+- [x] Connect Frontend App with local MongoDB Database
 
 ## 参考资料 Reference
 

@@ -1,40 +1,40 @@
 {
-  "trigger_auto_manual": "Automatic",
+  "trigger_auto_manual": "Manual",
   "use_regex_to_check_for_tags": false,
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
-      "folder": "Programs/Content-Making",
+      "folder": "200-GeneralSkills/Content-Making",
       "tag": "#Content-Making",
       "pattern": ""
     },
     {
-      "folder": "Programs/PKM",
+      "folder": "200-GeneralSkills/PKM",
       "tag": "#PKM",
       "pattern": ""
     },
     {
-      "folder": "Programs/PMP",
+      "folder": "200-GeneralSkills/PM/PMP",
       "tag": "#PMP",
       "pattern": ""
     },
     {
-      "folder": "Programs/Front-End",
+      "folder": "100-TechSkills",
       "tag": "#Codespace",
       "pattern": ""
     },
     {
-      "folder": "Programs/Life",
+      "folder": "200-GeneralSkills/Life",
       "tag": "#Life",
       "pattern": ""
     },
     {
-      "folder": "Programs/AI-Tools",
+      "folder": "200-GeneralSkills/AI-Tools",
       "tag": "#AI",
       "pattern": ""
     },
     {
-      "folder": "Programs/Design",
+      "folder": "200-GeneralSkills/Design",
       "tag": "#Design",
       "pattern": ""
     }
@@ -42,7 +42,7 @@
   "use_regex_to_check_for_excluded_folder": false,
   "excluded_folder": [
     {
-      "folder": "Daily"
+      "folder": "000-OKRTs/Daily"
     },
     {
       "folder": "zz-templates"
@@ -52,39 +52,6 @@
     },
     {
       "folder": "zz-assets"
-    },
-    {
-      "folder": "Programs/PKM/00.Obs-Community"
-    },
-    {
-      "folder": "Programs/PKM/01.Obs-Why"
-    },
-    {
-      "folder": "Programs/PKM/02.Obs-Setup"
-    },
-    {
-      "folder": "Programs/PKM/03.Obs-Theme and Style"
-    },
-    {
-      "folder": "Programs/PKM/04.Backup, Sync, and Recover"
-    },
-    {
-      "folder": "Programs/PKM/05.Obs-Project and Task Management"
-    },
-    {
-      "folder": "Programs/PKM/04.Obs-Quick Add and Capture"
-    },
-    {
-      "folder": "Programs/PKM/06.Obs-Brainstorm and Visualization"
-    },
-    {
-      "folder": "Programs/PKM/07.Obs-Review, Refactor and Distill"
-    },
-    {
-      "folder": "Programs/PKM/08.Obs-Present and Share"
-    },
-    {
-      "folder": "Programs"
     }
   ]
 }

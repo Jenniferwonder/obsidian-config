@@ -1,5 +1,5 @@
 {
-  "folder": "Daily",
+  "folder": "000-OKRTs/Daily",
   "autorun": false,
   "template": "zz-templates/tp/tp-Daily Plan",
   "format": "YYYY-MM-DD"

@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2c489f5c88e2ef07",
+        "id": "4ec403e64eb1a6c0",
         "type": "tabs",
         "children": [
           {
-            "id": "709cfd5f5a9033d2",
+            "id": "b42140c686d36f6a",
             "type": "leaf",
             "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "OKRTs/Tasks/DB-Tasks.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -36,7 +34,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Design",
+                "query": "tag:#Life",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -105,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 378.5
   },
   "right": {
     "id": "617127011ede853a",
@@ -114,7 +112,7 @@
       {
         "id": "48e4df7056d011b2",
         "type": "tabs",
-        "dimension": 78.0701754385965,
+        "dimension": 68.31140350877193,
         "children": [
           {
             "id": "8456fea1d36da9b5",
@@ -122,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OKRTs/Tasks/DB-Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +136,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OKRTs/Tasks/DB-Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +157,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "OKRTs/Tasks/DB-Tasks.md"
-              }
+              "state": {}
             }
           },
           {
@@ -172,7 +166,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "OKRTs/Tasks/DB-Tasks.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -256,14 +249,22 @@
               "type": "review-queue-list-view",
               "state": {}
             }
+          },
+          {
+            "id": "ba9b0aa9ca01140a",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       },
       {
-        "id": "ab14d7f6127c3db3",
+        "id": "814fc99fc8f22807",
         "type": "tabs",
-        "dimension": 21.929824561403507,
+        "dimension": 31.688596491228072,
         "children": [
           {
             "id": "1d288d4b7c49b89c",
@@ -282,16 +283,13 @@
       }
     ],
     "direction": "horizontal",
-    "width": 390.5
+    "width": 268.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-weread-plugin:Weread": false,
-      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
-      "flashcards-obsidian:Generate flashcards": false,
-      "custom-sort:Toggle custom sorting": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "dbfolder:Create a new database table": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -300,21 +298,25 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
-      "remotely-save:Remotely Save": false,
-      "omnisearch:Omnisearch": false,
-      "mermaid-tools:Open Mermaid Toolbar": false,
-      "dbfolder:Create a new database table": false,
-      "fantasy-calendar:Open Large Fantasy Calendar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "obsidian-projects:Open projects": false,
+      "custom-sort:Toggle custom sorting": false,
+      "templater-obsidian:Templater": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-projects:Open projects": false,
+      "omnisearch:Omnisearch": false,
       "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-weread-plugin:Weread": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "remotely-save:Remotely Save": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
       "big-calendar:Big Calendar": false,
       "card-board:CardBoard": false,
+      "cmdr:QuickAdd: 添加任务": false,
       "periodic-notes:Open today": false,
       "obsidian-memos:Memos": false
     }
@@ -343,72 +345,72 @@
           }
         ],
         "direction": "vertical",
-        "x": 3108,
+        "x": 2462,
         "y": 4,
-        "width": 330,
-        "height": 689,
+        "width": 404,
+        "height": 842,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "3e28e9c79ee063b1",
+  "active": "b42140c686d36f6a",
   "lastOpenFiles": [
-    "Programs/PKM/如何搭建完善OKRTs 项目目标、关键结果、项目、行动事项数据库——DB Folders.md",
-    "OKRTs/Tasks/DB-Tasks.md",
-    "zz-templates/tp/tp-Tasks.md",
-    "Programs/PKM/05.Obs-Project and Task Management/怎样搭建项目管理面板和表格数据视图-Projects, Dataview, Kanban, Table, DB Folder.md",
-    "Daily/2023-05-10.md",
-    "Daily/2023-05-11.md",
-    "Programs/PKM/04.Obs-Quick Add and Capture/Obs-Button.md",
-    "Programs/PKM/04.Obs-Quick Add and Capture/用 Espanso 提高打字或编码输入效率.md",
-    "Programs/Life/五一假期无人机拍摄素材整理剪辑.md",
-    "Programs/PKM/Habit Tracker.md",
-    "OKRTs/Tasks/KB-Tasks.md",
-    "Programs/PKM/05.Obs-Project and Task Management/Obs-Kanban——真看板，怎么用.md",
-    "Programs/PKM/PKM 命名规范.md",
-    "Views/Homepage.md",
-    "Views/Kanban (Priority).md",
-    "Programs/PKM/05.Obs-Project and Task Management/每日工作流例行事项进度提醒-Day Planner.md",
-    "Programs/PKM/05.Obs-Project and Task Management/看板追踪每日笔记中待办事项进展情况——CardBoard与Full Calendar, Memo.md",
-    "Programs/PKM/05.Obs-Project and Task Management/如何高效管理时间与任务，将任务落实到日-Daily Note, OKRTs DB.md",
-    "Programs/PKM/06.Obs-Brainstorm and Visualization/思维导图与 UML 工具—— EdrawMind 和 Edrawmax.md",
-    "OKRTs/Tasks/了解利用其他项目管理工具.md",
-    "Programs/PKM/一年自学过程反思、成果整理、目标与需求明确与落实——2022.06-2023.04.md",
-    "Programs/PKM/05.Obs-Project and Task Management/Obs-Dataview——是什么，怎么用.md",
-    "Snooze/Snooze.md",
-    "Programs/PKM/04.Obs-Quick Add and Capture/如何从图片链接或截图中提取复制文字.md",
-    "Programs/PKM/03.Obs-Theme and Style/Blue Topaz-怎样让时间以特殊样式显示.md",
-    "OKRTs/Objectives/DB-Objectives.md",
-    "zz-assets/Pasted image 20230511182804.png",
-    "Day Planners",
-    "SOPs",
-    "zz-assets/Button-Logo/Figma.svg",
-    "zz-assets/Button-Logo/EdrawMind.svg",
-    "zz-assets/Button-Logo/EdrawMax.svg",
-    "zz-assets/Button-Logo/image 2.svg",
-    "zz-assets/Button-Logo/image 4.svg",
-    "zz-assets/Button-Logo/image 3.svg",
-    "zz-assets/Button-Logo/image 2.png",
-    "zz-assets/Button-Logo",
-    "My",
-    "zz-assets/Pasted image 20230508203655.png",
-    "PKM软件对比.xlsx",
-    "zz-assets/Pasted image 20230508181558.png",
-    "PKM软件对比.csv",
-    "PKM软件对比.CSV",
-    "CSV-Test",
-    "Periodic",
-    "Periodic/Monthly",
+    "zz-templates/button/MyTools.md",
+    "Daily/2023-05-14.md",
+    "zz-archives/zz-Random/Music and Songs.md",
+    "妈妈.md",
+    "月支出.md",
+    "Areas/PKM/04.Obs-Quick Add and Capture/Obs-Button.md",
+    "Daily/2023-05-15.md",
+    "Areas/Front-End/00-Roadmap/前端工作需求与目标.md",
+    "OKRTs/Objectives/O1-前端学习成果总结，入行前端开发.md",
+    "Areas/Front-End/00-Roadmap/怎样找到前端工作-WBS-XMind.png",
+    "OKRTs/KRs/K1-夯实前端基础，完成基础系列笔记系统化整理与输出.md",
+    "OKRTs/KRs/K2-梳理完成前端项目，完成项目部署与展示.md",
+    "OKRTs/KRs/DB-KRs.md",
+    "Resonance Database/Article/Article.md.baiduyun.uploading.cfg",
+    "Resonance Database/Article/What's the Best Calendar Plugin for Obsidian 🗓️.md.baiduyun.uploading.cfg",
+    "Daily/2023-05-15.md.baiduyun.uploading.cfg",
+    "OKRTs/KRs/K3-实现高效追踪学习进展与阶段成果工作流.md.baiduyun.uploading.cfg",
+    "OKRTs/KRs/DB-KRs.md.baiduyun.uploading.cfg",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/面试常见问题/产品经理面试常见问题.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/面试常见问题/demo.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/长尾理论/长尾理论-为什么商业的未来是小众市场.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/自我介绍/自我介绍.png",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/自我介绍/自我介绍.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/竞品分析/竞品分析-模版.png",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/竞品分析/竞品分析-模版.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/竞品分析/demo.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/神策分析/神策分析——多维度分析.xmind",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/神策分析/神策分析——多维度分析.png",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/神策分析/神策分析——基本介绍.png",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/神策分析/神策分析--基础介绍.xmind",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/数据产品经理修炼手册/数据产品经理修炼手册.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/数据产品经理修炼手册/demo.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/用户体验五要素/网页UI与用户体验设计五要素.xmind",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/用户体验五要素/用户体验五要素—概要.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/用户体验五要素/demo.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/商业模式/商业模式.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/商业模式/demo.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/启示录/启示录.xmind",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/启示录/启示录.png",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/启示录/启示录-打造用户喜爱的产品.png",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/启示录/启示录-打造用户喜爱的产品.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/人人都是产品经理/人人都是产品经理.pdf",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/什么是好产品/什么样的产品才算是一个好产品.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/产品思维/产品思维.png",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/为什么选择当产品经理/为什么要当产品经理.png",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/PRD/PRD—模版.png",
+    "Areas/PKM/CVS-Task Workflow.canvas",
+    "Areas/Front-End/00-Roadmap/Front-End Projects Overview.canvas",
     "Views/Untitled.canvas",
-    "Programs/PKM/Workflow/Knowledge Workflow.canvas",
-    "Programs/Front-End/00-Roadmap/Front-End Projects Overview.canvas",
-    "Programs/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/PKM-Map.canvas",
-    "Programs/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/Canvas Demo.canvas",
+    "Areas/PKM/Workflow/Knowledge Workflow.canvas",
+    "Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/PKM-Map.canvas",
+    "Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/Canvas Demo.canvas",
     "GeekEnglish/GE-Resources/Projects Overview.canvas",
     "Resources/GeekEnglish/Projects Overview.canvas",
-    "Programs/PKM/iPad/Note in iPhone.canvas",
-    "Programs/PKM/iPad/Canvas in iPad.canvas",
-    "Programs/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/How Memo Works.canvas"
+    "Areas/PKM/iPad/Note in iPhone.canvas",
+    "Areas/PKM/iPad/Canvas in iPad.canvas"
   ]
 }

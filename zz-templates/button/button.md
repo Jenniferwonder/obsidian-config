@@ -8,7 +8,35 @@ desc: 用来集中存放通过button插件创建按钮，以便其他笔记调�
 `button-map`
 `button-suibi`
 `button-suibi`
+
+`button-linkpl`
+
+`button-unlinkpl`  
+
+`button-excel`
+## 任务追踪与取消
+```button
+name ☕
+type command
+action Day Planner: Unlink today's Day Planner from its note
+class blank main-bar
+```
+^button-unlinkpl
+```button
+name ⏰
+type command
+action Day Planner: Link today's Day Planner to the current note
+class blank main-bar
+```
+^button-linkpl
 ## 绘图工具
+```button
+name 📈Excel
+type link
+action https://onedrive.live.com/edit.aspx?action=editnew&resid=E2E428D2362A2B97!51568&ithint=file%2cxlsx&action=editnew&ct=1684071040354&wdNewAndOpenCt=1684071040354&wdPreviousSession=34128d7a-39b6-43d4-975e-102769fa9955&wdOrigin=OFFICECOM-WEB.START.NEW
+class grad_button g_blue
+```
+^button-excel
 ```button
 name ✏️导图
 type link

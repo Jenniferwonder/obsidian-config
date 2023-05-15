@@ -196,6 +196,10 @@
         {
           "id": "card-board",
           "name": "CardBoard"
+        },
+        {
+          "id": "cmdr",
+          "name": "Commander"
         }
       ],
       "groupIds": [],

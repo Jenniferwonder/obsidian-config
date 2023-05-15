@@ -1,6 +1,6 @@
 ---
 Title: English Writing and Speaking
-tags: Objective
+tags: Objectives
 status:
 DateStarted:
 DateDue: 2022-11-23, 1:00:13 pm

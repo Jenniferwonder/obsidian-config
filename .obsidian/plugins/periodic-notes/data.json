@@ -4,32 +4,32 @@
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "YYYY-MM-DD",
-    "folder": "Daily",
-    "template": "zz-templates/tp/Daily Plan Template.md",
+    "folder": "000-OKRTs/Daily",
+    "template": "zz-templates/tp/tp-Daily Plan.md",
     "enabled": true
   },
   "weekly": {
     "format": "gggg-[W]ww",
     "template": "",
-    "folder": "Daily",
+    "folder": "000-OKRTs/Daily",
     "enabled": true
   },
   "monthly": {
     "format": "YYYY-MM",
     "template": "",
-    "folder": "Daily",
+    "folder": "000-OKRTs/Daily",
     "enabled": true
   },
   "quarterly": {
     "format": "YYYY-[Q]Q",
     "template": "",
-    "folder": "Daily",
+    "folder": "000-OKRTs/Daily",
     "enabled": true
   },
   "yearly": {
     "format": "YYYY",
     "template": "",
-    "folder": "Daily",
+    "folder": "000-OKRTs/Daily",
     "enabled": true
   }
 }

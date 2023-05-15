@@ -36,17 +36,5 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "e128215c42aabe5d",
-      "parent": 0,
-      "droppable": true,
-      "text": "亿图图示在线",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }
