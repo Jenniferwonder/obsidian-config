@@ -4,54 +4,30 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
-      "folder": "200-GeneralSkills/Content-Making",
-      "tag": "#Content-Making",
-      "pattern": ""
-    },
-    {
-      "folder": "200-GeneralSkills/PKM",
+      "folder": "300-Areas/PKM",
       "tag": "#PKM",
       "pattern": ""
     },
     {
-      "folder": "200-GeneralSkills/PM/PMP",
+      "folder": "300-Areas/PM",
       "tag": "#PMP",
+      "pattern": ""
+    },
+    {
+      "folder": "300-Areas/Content-Making",
+      "tag": "#Content-Making",
       "pattern": ""
     },
     {
       "folder": "100-TechSkills",
       "tag": "#Codespace",
       "pattern": ""
-    },
-    {
-      "folder": "200-GeneralSkills/Life",
-      "tag": "#Life",
-      "pattern": ""
-    },
-    {
-      "folder": "200-GeneralSkills/AI-Tools",
-      "tag": "#AI",
-      "pattern": ""
-    },
-    {
-      "folder": "200-GeneralSkills/Design",
-      "tag": "#Design",
-      "pattern": ""
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,
   "excluded_folder": [
     {
-      "folder": "000-OKRTs/Daily"
-    },
-    {
-      "folder": "zz-templates"
-    },
-    {
-      "folder": "zz-archives"
-    },
-    {
-      "folder": "zz-assets"
+      "folder": ""
     }
   ]
 }

@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4ec403e64eb1a6c0",
+        "id": "3d21307eada8c5e3",
         "type": "tabs",
         "children": [
           {
-            "id": "b42140c686d36f6a",
+            "id": "b5e6703bfb6d4b5f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "300-Areas/PKM/如何搭建完善OKRTs 项目目标、关键结果、项目、行动事项数据库——DB Folders.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -34,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Life",
+                "query": "learnenglish",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -103,7 +108,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378.5
+    "width": 342.5
   },
   "right": {
     "id": "617127011ede853a",
@@ -120,6 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "300-Areas/PKM/如何搭建完善OKRTs 项目目标、关键结果、项目、行动事项数据库——DB Folders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,6 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "300-Areas/PKM/如何搭建完善OKRTs 项目目标、关键结果、项目、行动事项数据库——DB Folders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +164,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "300-Areas/PKM/如何搭建完善OKRTs 项目目标、关键结果、项目、行动事项数据库——DB Folders.md"
+              }
             }
           },
           {
@@ -166,6 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "300-Areas/PKM/如何搭建完善OKRTs 项目目标、关键结果、项目、行动事项数据库——DB Folders.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -259,7 +269,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "814fc99fc8f22807",
@@ -283,7 +293,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 215.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -317,7 +328,6 @@
       "big-calendar:Big Calendar": false,
       "card-board:CardBoard": false,
       "cmdr:QuickAdd: 添加任务": false,
-      "periodic-notes:Open today": false,
       "obsidian-memos:Memos": false
     }
   },
@@ -345,72 +355,72 @@
           }
         ],
         "direction": "vertical",
-        "x": 2462,
-        "y": 4,
-        "width": 404,
-        "height": 842,
+        "x": 2928,
+        "y": 3,
+        "width": 315,
+        "height": 620,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "b42140c686d36f6a",
+  "active": "b5e6703bfb6d4b5f",
   "lastOpenFiles": [
-    "zz-templates/button/MyTools.md",
-    "Daily/2023-05-14.md",
-    "zz-archives/zz-Random/Music and Songs.md",
-    "妈妈.md",
-    "月支出.md",
-    "Areas/PKM/04.Obs-Quick Add and Capture/Obs-Button.md",
-    "Daily/2023-05-15.md",
-    "Areas/Front-End/00-Roadmap/前端工作需求与目标.md",
-    "OKRTs/Objectives/O1-前端学习成果总结，入行前端开发.md",
+    "300-Areas/PKM/如何搭建完善OKRTs 项目目标、关键结果、项目、行动事项数据库——DB Folders.md",
+    "300-Areas/PKM/如何搭建完善OKRTs 项目目标、关键结果、项目、行动事项数据库——DB Folders.md",
+    "000-OKRTs/KRs/K1-夯实前端基础，完成基础系列笔记系统化整理与输出.md",
+    "000-OKRTs/Objectives/O1-前端学习成果总结，入行前端开发.md",
+    "000-OKRTs/Tasks/O1-一年自学过程反思、成果整理、目标与需求明确与落实——2022.06-2023.05.md",
+    "300-Areas/PKM/怎样将行动事项完成日期或指定日期与每日笔记相连——了解 Tasks, Big Calendar, CardBoard 功能.md",
+    "000-OKRTs/Daily/2023-05-15.md",
+    "000-OKRTs/KRs/K4-PMP-通过 PMP 认证考试——8 月中旬3 A.md",
+    "000-OKRTs/KRs/K3-PKM-实现高效追踪学习进展与阶段成果工作流.md",
+    "300-Areas/Content-Making/Videos/2302/2302.01/2302.01-Shot List.md",
+    "300-Areas/Content-Making/Videos/2302/2302.01/2302.01-Script.md",
+    "300-Areas/Content-Making/Videos/2302/2302.01/2302.01-Publishing Checklist.md",
+    "300-Areas/Content-Making/Videos/2302/2302.01/2302.01-Project.md",
+    "300-Areas/Content-Making/Videos/2302/2302.01/2302.01-Note Inspirations.md",
+    "300-Areas/Content-Making/Videos/2302/2302.01/2302.01-Editing Checklist.md",
+    "300-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Excalidraw/Obs-Excalidraw.md",
+    "300-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/怎样可视化梳理知识体系，头脑风暴-Canvas.md",
+    "300-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/PKM-Map.canvas",
+    "300-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/Canvas Demo.canvas",
+    "300-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-AI Tools/Obs-AI Tools for Idea Generation.md",
+    "300-Areas/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/每日笔记：怎样随时高效记录每日灵感与活动-Memo, QuickAdd.md",
+    "300-Areas/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/怎样自动移动笔记到对应文件夹-Auto Note Mover (Simple).md",
+    "300-Areas/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/怎样优化每日笔记模板，提高效率与价值——STAR法则.md",
+    "300-Areas/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/怎样快速按模板添加笔记，并自动将笔记移到对应文件夹-Templater, QuickAdd（Advanced）.md",
+    "300-Areas/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/Obs-笔记模板效率-Metadata, URI作用是什么.md",
+    "300-Areas/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/Obs-模板效率工具（Basic）.md",
+    "300-Areas/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/Obs-库中库-为什么，如何实现.md",
+    "300-Areas/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/Obs-Templater.md",
+    "300-Areas/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/How Memo Works.canvas",
+    "300-Areas/Content-Making/Videos/2302/2302.01",
+    "300-Areas/PKM/iPad/Note in iPhone.canvas",
+    "300-Areas/PKM/iPad/Canvas in iPad.canvas",
+    "300-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Mindmap",
+    "300-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Excalidraw",
+    "300-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas",
+    "300-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-AI Tools",
+    "300-Areas/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用",
+    "300-Areas/PKM/04.Obs-Quick Add and Capture/不同类型笔记与项目资源模板",
+    "300-Areas/PKM/01.Obs-Why/Script",
+    "300-Areas/PKM/01.Obs-Why/Published",
+    "300-Areas/PKM/01.Obs-Why/Captured",
+    "300-GeneralSkills/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/How Memo Works.canvas",
+    "300-GeneralSkills/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/PKM-Map.canvas",
+    "300-GeneralSkills/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/Canvas Demo.canvas",
+    "300-GeneralSkills/PKM/iPad/Note in iPhone.canvas",
+    "300-GeneralSkills/PKM/iPad/Canvas in iPad.canvas",
     "Areas/Front-End/00-Roadmap/怎样找到前端工作-WBS-XMind.png",
-    "OKRTs/KRs/K1-夯实前端基础，完成基础系列笔记系统化整理与输出.md",
-    "OKRTs/KRs/K2-梳理完成前端项目，完成项目部署与展示.md",
-    "OKRTs/KRs/DB-KRs.md",
-    "Resonance Database/Article/Article.md.baiduyun.uploading.cfg",
-    "Resonance Database/Article/What's the Best Calendar Plugin for Obsidian 🗓️.md.baiduyun.uploading.cfg",
-    "Daily/2023-05-15.md.baiduyun.uploading.cfg",
-    "OKRTs/KRs/K3-实现高效追踪学习进展与阶段成果工作流.md.baiduyun.uploading.cfg",
-    "OKRTs/KRs/DB-KRs.md.baiduyun.uploading.cfg",
-    "Resonance Database/PMP/ProductManager/ProductManager-main/面试常见问题/产品经理面试常见问题.md",
-    "Resonance Database/PMP/ProductManager/ProductManager-main/面试常见问题/demo.md",
-    "Resonance Database/PMP/ProductManager/ProductManager-main/长尾理论/长尾理论-为什么商业的未来是小众市场.md",
     "Resonance Database/PMP/ProductManager/ProductManager-main/自我介绍/自我介绍.png",
-    "Resonance Database/PMP/ProductManager/ProductManager-main/自我介绍/自我介绍.md",
     "Resonance Database/PMP/ProductManager/ProductManager-main/竞品分析/竞品分析-模版.png",
-    "Resonance Database/PMP/ProductManager/ProductManager-main/竞品分析/竞品分析-模版.md",
-    "Resonance Database/PMP/ProductManager/ProductManager-main/竞品分析/demo.md",
-    "Resonance Database/PMP/ProductManager/ProductManager-main/神策分析/神策分析——多维度分析.xmind",
     "Resonance Database/PMP/ProductManager/ProductManager-main/神策分析/神策分析——多维度分析.png",
     "Resonance Database/PMP/ProductManager/ProductManager-main/神策分析/神策分析——基本介绍.png",
-    "Resonance Database/PMP/ProductManager/ProductManager-main/神策分析/神策分析--基础介绍.xmind",
-    "Resonance Database/PMP/ProductManager/ProductManager-main/数据产品经理修炼手册/数据产品经理修炼手册.md",
-    "Resonance Database/PMP/ProductManager/ProductManager-main/数据产品经理修炼手册/demo.md",
-    "Resonance Database/PMP/ProductManager/ProductManager-main/用户体验五要素/网页UI与用户体验设计五要素.xmind",
-    "Resonance Database/PMP/ProductManager/ProductManager-main/用户体验五要素/用户体验五要素—概要.md",
-    "Resonance Database/PMP/ProductManager/ProductManager-main/用户体验五要素/demo.md",
-    "Resonance Database/PMP/ProductManager/ProductManager-main/商业模式/商业模式.md",
-    "Resonance Database/PMP/ProductManager/ProductManager-main/商业模式/demo.md",
-    "Resonance Database/PMP/ProductManager/ProductManager-main/启示录/启示录.xmind",
     "Resonance Database/PMP/ProductManager/ProductManager-main/启示录/启示录.png",
     "Resonance Database/PMP/ProductManager/ProductManager-main/启示录/启示录-打造用户喜爱的产品.png",
-    "Resonance Database/PMP/ProductManager/ProductManager-main/启示录/启示录-打造用户喜爱的产品.md",
-    "Resonance Database/PMP/ProductManager/ProductManager-main/人人都是产品经理/人人都是产品经理.pdf",
-    "Resonance Database/PMP/ProductManager/ProductManager-main/什么是好产品/什么样的产品才算是一个好产品.md",
     "Resonance Database/PMP/ProductManager/ProductManager-main/产品思维/产品思维.png",
     "Resonance Database/PMP/ProductManager/ProductManager-main/为什么选择当产品经理/为什么要当产品经理.png",
-    "Resonance Database/PMP/ProductManager/ProductManager-main/PRD/PRD—模版.png",
-    "Areas/PKM/CVS-Task Workflow.canvas",
-    "Areas/Front-End/00-Roadmap/Front-End Projects Overview.canvas",
-    "Views/Untitled.canvas",
-    "Areas/PKM/Workflow/Knowledge Workflow.canvas",
-    "Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/PKM-Map.canvas",
-    "Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/Canvas Demo.canvas",
-    "GeekEnglish/GE-Resources/Projects Overview.canvas",
-    "Resources/GeekEnglish/Projects Overview.canvas",
-    "Areas/PKM/iPad/Note in iPhone.canvas",
-    "Areas/PKM/iPad/Canvas in iPad.canvas"
+    "Resonance Database/PMP/ProductManager/ProductManager-main/PRD/PRD—模版.png"
   ]
 }

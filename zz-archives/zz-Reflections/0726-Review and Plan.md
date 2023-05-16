@@ -16,13 +16,13 @@ aliases:
 
 ### **To do list**
 
-- [ ] **Web Design**: Framework and Note improvement
+<del>- [ ] **Web Design**: Framework and Note improvement</del>
 - [ ] Survey Form
 - [x] Rothko Painting (CSS Box model) 11:00-; 15:05-
 - [x] Review Photo Gallery (CSS flexbox)✅
 - [x] Nutrition label (Typography)
 - [x] Quiz (Accessibility)✅
-- [ ] **Tribute Page**
+- [x] **Tribute Page** @completed(2023-05-16T06:08:10)
 - [ ] Study(plan, rest, food, sports, study) vlog
 - [ ] Recipe
 - [ ] Sports

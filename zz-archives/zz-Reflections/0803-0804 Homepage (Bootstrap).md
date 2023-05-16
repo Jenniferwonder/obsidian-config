@@ -16,8 +16,8 @@ aliases:
 
 ### **To-do > Result**
 
-- [ ] **JavaScript**
-- [ ] **Web Design Tasks**
+- [x] **JavaScript** @completed(2023-05-16T06:08:08)
+- [x] **Web Design Tasks** @completed(2023-05-16T06:08:16)
 - [x] City Skyline (CSS variables) Aug 2
 - [ ] Magazine (CSS grid)
 - [ ] Grid (CSS grid)
@@ -32,7 +32,7 @@ aliases:
 - [x] Images & videos
 - [x] Icons & illustrations
       **Food (Breakfast/ Lunch/ Dinner)**
-- [ ] **Food (Cooking/ Eating**/ ~~Photo Editing~~)
+- [x] **Food (Cooking/ Eating**/ ~~Photo Editing~~) @completed(2023-05-16T06:08:04)
 - [ ] Lunch
 - [ ] lunch cooking 15min+ 15min
 - [ ] lunch eating (photo) 30min

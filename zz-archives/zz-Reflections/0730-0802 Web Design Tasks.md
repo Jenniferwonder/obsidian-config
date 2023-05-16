@@ -18,7 +18,7 @@ aliases:
 
 - [x] 0801 换 Dell 电脑 > 0802 软件安装 （**VPN**/ Git/ VS Code/ WSL Ubuntu/ PS/ PR/ Chrome/...）
 - [x] ZTM 课程学习 （CSS Grid）
-- [ ] **Web Design Tasks**
+- [x] **Web Design Tasks** @completed(2023-05-16T06:08:12)
 - [x] City Skyline (CSS variables) Aug 2
 - [ ] Magazine (CSS grid)
 - [ ] Grid (CSS grid)
@@ -34,7 +34,7 @@ aliases:
 - [x] Images & videos
 - [x] Icons & illustrations
       **Food (Breakfast/ Lunch/ Dinner)**
-- [ ] **Food (Cooking/ Eating**/ ~~Photo Editing~~)
+- [x] **Food (Cooking/ Eating**/ ~~Photo Editing~~) @completed(2023-05-16T06:08:02)
 - [ ] Lunch
 - [ ] lunch cooking 15min+ 15min
 - [ ] lunch eating (photo) 30min

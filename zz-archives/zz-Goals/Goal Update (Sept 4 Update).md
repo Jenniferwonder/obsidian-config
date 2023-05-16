@@ -168,7 +168,7 @@ aliases:
 #### JavaScript
 
 - [x] **Basics**: number, string, operands, variables, array, list, object, conditionals, loops（Aug 11）
-- [ ] **DOM** (Aug 12- )
+- [x] **DOM** (Aug 12- ) @completed(2023-05-16T06:07:56)
 
 #### Python and AI (Machine Learning)
 

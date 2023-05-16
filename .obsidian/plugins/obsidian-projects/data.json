@@ -31,8 +31,12 @@
         }
       },
       "defaultName": "",
-      "templates": [],
-      "excludedNotes": [],
+      "templates": [
+        "zz-templates/tp/tp-Tasks.md"
+      ],
+      "excludedNotes": [
+        ""
+      ],
       "isDefault": true,
       "dataSource": {
         "kind": "tag",
@@ -40,7 +44,7 @@
           "tag": "#PKM"
         }
       },
-      "newNotesFolder": "",
+      "newNotesFolder": "200-GeneralSkills/PKM",
       "views": [
         {
           "config": {
@@ -146,35 +150,32 @@
               "⚪Backlog": {
                 "weight": 1
               },
-              "🟡ToOrganize": {
+              "🤍ToPlan": {
                 "weight": 2
               },
-              "💛ToCheck": {
+              "💚ToDo": {
                 "weight": 3
               },
-              "⤵️Snooze": {
+              "💛ToCheck": {
                 "weight": 4
               },
-              "💚ToDo": {
+              "🟡ToOrganize": {
                 "weight": 5
               },
-              "🟠ToPublish": {
+              "💙ToAct": {
                 "weight": 6
               },
-              "🟡Organized": {
+              "⤵️Snooze": {
                 "weight": 7
               },
-              "🔵Archived": {
+              "🟠ToPublish": {
                 "weight": 8
               },
-              "🟠Distilled": {
+              "🔵Archived": {
                 "weight": 9
               },
-              "⚪Captured": {
-                "weight": 10
-              },
               "🟢Published": {
-                "weight": 11
+                "weight": 10
               }
             }
           },
@@ -215,6 +216,14 @@
             "🟠Distilling",
             "🟢Published",
             "🔵Archived"
+          ]
+        },
+        "Priority": {
+          "options": [
+            "P0",
+            "P1",
+            "P2",
+            "P3"
           ]
         }
       },
@@ -258,22 +267,28 @@
               },
               "Topic": {
                 "hide": true
+              },
+              "tags": {
+                "hide": true
               }
             },
             "orderFields": [
               "name",
-              "type",
               "tags",
+              "Priority",
               "status",
               "DateDue",
               "DateModified",
               "DateStarted",
-              "Priority",
               "Progress",
-              "Tasks",
-              "Title"
+              "Title",
+              "Completed",
+              "DateCompleted",
+              "Incomplete",
+              "TimeEstimated",
+              "Total"
             ],
-            "sortField": "status",
+            "sortField": "Priority",
             "sortAsc": true
           },
           "filter": {
@@ -445,8 +460,21 @@
               },
               "DateModified": {
                 "hide": true
+              },
+              "kanban-plugin": {
+                "hide": true
               }
-            }
+            },
+            "orderFields": [
+              "name",
+              "Priority",
+              "status",
+              "DateDue",
+              "DateStarted",
+              "Incomplete"
+            ],
+            "sortField": "Priority",
+            "sortAsc": true
           },
           "filter": {
             "conditions": []

@@ -55,10 +55,10 @@ aliases:
 
 ### To-do List (0728 )
 
-- [ ] **Software Developing Basics**
+- [x] **Software Developing Basics** @completed(2023-05-16T06:08:09)
 - [ ] Git and github:
       [https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/8725828#overview](https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/learn/lecture/8725828#overview)
 - [ ] Developing environment set up
-- [ ] **Web Design**
+<del>- [ ] **Web Design**</del>
 - [ ] City Skyline (CSS variables)
 - [ ] Magazine (CSS grid)

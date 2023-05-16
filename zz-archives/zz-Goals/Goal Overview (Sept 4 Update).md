@@ -148,7 +148,7 @@ Pset 7: Fiftyville
 - [x] ZTM-Complete Web Developer
 - [x] FCC- Responsive Web Design
 - [ ] Advanced CSS and SASS (Aug 23- Sept 4 <Natours>--)
-- [ ] **JavaScript Algorithms and Data Structure (Aug 11- )**
+- [x] **JavaScript Algorithms and Data Structure (Aug 11- )** @completed(2023-05-16T06:08:06)
   - To improve web interaction
   - Efforts:
 - [ ] Complete JS (--)

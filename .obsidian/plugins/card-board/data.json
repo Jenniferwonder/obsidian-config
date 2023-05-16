@@ -19,36 +19,19 @@
               "displayTitle": "PMP"
             },
             {
-              "tag": "Content-Making",
-              "displayTitle": "Content-Making"
+              "tag": "Design",
+              "displayTitle": "Design"
             }
           ],
           "showColumnTags": true,
           "completedCount": 10,
-          "filters": [
-            {
-              "tag": "tagFilter",
-              "data": "PMP"
-            },
-            {
-              "tag": "tagFilter",
-              "data": "PKM"
-            },
-            {
-              "tag": "tagFilter",
-              "data": "Content-Making"
-            },
-            {
-              "tag": "tagFilter",
-              "data": "Codespace"
-            }
-          ],
+          "filters": [],
           "filterPolarity": "Allow",
           "filterScope": "Both",
           "showFilteredTags": true,
-          "includeOthers": true,
-          "includeUntagged": true,
-          "title": "Tag Board",
+          "includeOthers": false,
+          "includeUntagged": false,
+          "title": "TagBoard",
           "collapsedColumns": []
         }
       },
@@ -59,14 +42,14 @@
           "filters": [
             {
               "tag": "pathFilter",
-              "data": "Daily"
+              "data": "000-OKRTs/Daily"
             }
           ],
           "filterPolarity": "Allow",
           "filterScope": "Both",
           "showFilteredTags": true,
-          "includeUndated": true,
-          "title": "Date Board",
+          "includeUndated": false,
+          "title": "DateBoard",
           "collapsedColumns": []
         }
       }

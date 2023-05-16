@@ -13,7 +13,7 @@ aliases:
 
 ### **Result**
 
-- [ ] **Web Design Tasks**
+- [x] **Web Design Tasks** @completed(2023-05-16T06:08:14)
 - [ ] City Skyline (CSS variables)
 - [ ] Magazine (CSS grid)
 - [ ] Homepage
@@ -36,11 +36,11 @@ aliases:
 - Jul 28
 - [x] Extention:
 - [x] Keyboard shortcut
-- [ ] **Health**
-- [ ] **Fitness** (**Laundry/ Cleaning**/ Nap/ **Shower**/ ~~Connection~~)
+- [x] **Health** @completed(2023-05-16T06:08:06)
+- [x] **Fitness** (**Laundry/ Cleaning**/ Nap/ **Shower**/ ~~Connection~~) @completed(2023-05-16T06:08:00)
 - [ ] Nap: 20mins
 - [ ] Shower: 20mins
-- [ ] **Food (Cooking/ Eating**/ Photo Editing)
+- [x] **Food (Cooking/ Eating**/ Photo Editing) @completed(2023-05-16T06:08:01)
 - [ ] Lunch
 - [ ] lunch cooking 15min+ 15min
 - [ ] lunch eating (photo) 30min
@@ -49,7 +49,7 @@ aliases:
 - [ ] dinner cooking15min
 - [ ] dinner eating (photo) 20 min
 - [ ] after dinner break (cleaning) 20min
-- [ ] **Exercise (Aerobics/ Strength/** **Stretch**/ **Walking**)
+- [x] **Exercise (Aerobics/ Strength/** **Stretch**/ **Walking**) @completed(2023-05-16T06:08:00)
 - [ ] 有氧操 10min
 - [ ] 腿腰腹背 10min
 - [ ] 日常拉伸 5min
