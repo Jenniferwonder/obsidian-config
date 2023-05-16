@@ -4,20 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3d21307eada8c5e3",
+        "id": "5156d41c8a331b7d",
         "type": "tabs",
         "children": [
           {
-            "id": "b5e6703bfb6d4b5f",
+            "id": "d749b0b5d036b2f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "300-Areas/PKM/如何搭建完善OKRTs 项目目标、关键结果、项目、行动事项数据库——DB Folders.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -108,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 249.5,
+    "collapsed": true
   },
   "right": {
     "id": "617127011ede853a",
@@ -125,7 +121,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300-Areas/PKM/如何搭建完善OKRTs 项目目标、关键结果、项目、行动事项数据库——DB Folders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +137,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "300-Areas/PKM/如何搭建完善OKRTs 项目目标、关键结果、项目、行动事项数据库——DB Folders.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,9 +158,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "300-Areas/PKM/如何搭建完善OKRTs 项目目标、关键结果、项目、行动事项数据库——DB Folders.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,7 +167,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "300-Areas/PKM/如何搭建完善OKRTs 项目目标、关键结果、项目、行动事项数据库——DB Folders.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -269,7 +260,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "814fc99fc8f22807",
@@ -293,7 +284,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 215.5,
+    "width": 221.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -355,58 +346,58 @@
           }
         ],
         "direction": "vertical",
-        "x": 2928,
-        "y": 3,
-        "width": 315,
-        "height": 620,
+        "x": 3005,
+        "y": 87,
+        "width": 329,
+        "height": 641,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "b5e6703bfb6d4b5f",
+  "active": "d749b0b5d036b2f5",
   "lastOpenFiles": [
-    "300-Areas/PKM/如何搭建完善OKRTs 项目目标、关键结果、项目、行动事项数据库——DB Folders.md",
-    "300-Areas/PKM/如何搭建完善OKRTs 项目目标、关键结果、项目、行动事项数据库——DB Folders.md",
-    "000-OKRTs/KRs/K1-夯实前端基础，完成基础系列笔记系统化整理与输出.md",
-    "000-OKRTs/Objectives/O1-前端学习成果总结，入行前端开发.md",
-    "000-OKRTs/Tasks/O1-一年自学过程反思、成果整理、目标与需求明确与落实——2022.06-2023.05.md",
-    "300-Areas/PKM/怎样将行动事项完成日期或指定日期与每日笔记相连——了解 Tasks, Big Calendar, CardBoard 功能.md",
-    "000-OKRTs/Daily/2023-05-15.md",
-    "000-OKRTs/KRs/K4-PMP-通过 PMP 认证考试——8 月中旬3 A.md",
-    "000-OKRTs/KRs/K3-PKM-实现高效追踪学习进展与阶段成果工作流.md",
-    "300-Areas/Content-Making/Videos/2302/2302.01/2302.01-Shot List.md",
-    "300-Areas/Content-Making/Videos/2302/2302.01/2302.01-Script.md",
-    "300-Areas/Content-Making/Videos/2302/2302.01/2302.01-Publishing Checklist.md",
-    "300-Areas/Content-Making/Videos/2302/2302.01/2302.01-Project.md",
-    "300-Areas/Content-Making/Videos/2302/2302.01/2302.01-Note Inspirations.md",
-    "300-Areas/Content-Making/Videos/2302/2302.01/2302.01-Editing Checklist.md",
-    "300-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Excalidraw/Obs-Excalidraw.md",
-    "300-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/怎样可视化梳理知识体系，头脑风暴-Canvas.md",
+    "zz-templates/Day Planners/tp-Day Planner.md",
+    "Resonance/ReadNote/程序算法与人生选择  酷 壳 - CoolShell.md",
+    "000-OKRTs/Tasks/KB-Tasks.md",
+    "000-OKRTs/Tasks/DV-Tasks.md",
+    "100-TechSkills/50-Front-End Frameworks/Front-End Frameworks.md",
+    "100-TechSkills/45-Performance Optimization/Performance Optimization.md",
+    "000-OKRTs/Daily/2023-05-16.md",
+    "000-OKRTs/Daily/2023-05-17.md",
+    "100-TechSkills/50-Front-End Frameworks/Vue/Vue.md",
+    "100-TechSkills/50-Front-End Frameworks/React/React.md",
+    "100-TechSkills/40-Front-End Basics/Front-End Basics.md",
+    "100-TechSkills/40-Front-End Basics/Web/Browser-浏览器工作原理.md",
+    "100-TechSkills/40-Front-End Basics/Web/Protocols-网络协议.md",
+    "100-TechSkills/40-Front-End Basics/JavaScript/JavaScript.md",
+    "100-TechSkills/40-Front-End Basics/HTML/HTML.md",
+    "100-TechSkills/40-Front-End Basics/CSS/CSS.md",
+    "100-TechSkills/40-Front-End Basics/CSS/HTML, CSS 学习资源.md",
+    "zz-templates/tp-TechGuide.md",
+    "Resonance/ReadNote/Article/CoolShell-前端基础和底层原理.md",
+    "100-TechSkills/55-UI Design/Video Resources-视频资源.md",
+    "300-Areas/SOPs/PKM-Metadata 设置规范.md",
+    "Resonance/CourseNote/Notion Masterclass Maximise Your Productivity & Organisation  Ali Abdaal.md",
+    "Resonance/Untitled",
+    "100-TechSkills/10-Tech-Fundamentals/Tech-Fundamentals.md",
+    "000-OKRTs/Untitled.md",
+    "200-Projects/Content-Editor/Content Editor.md",
+    "100-TechSkills/70-Database/Database.md",
+    "200-Projects/GeekEnglish Learning Platform/Logs",
+    "200-Projects/GeekEnglish Learning Platform/04-Workflow",
+    "200-Projects/GeekEnglish Learning Platform/05-DemoTest",
+    "200-Projects/GeekEnglish Learning Platform/03-System Design",
+    "200-Projects/GeekEnglish Learning Platform/02-Setup",
+    "200-Projects/GeekEnglish Learning Platform/02-Functions&Features",
+    "200-Projects/GeekEnglish Learning Platform/01-Design",
+    "200-Projects/GeekEnglish Learning Platform/00-Plan and Research",
+    "200-Projects/Video Content Platform",
     "300-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/PKM-Map.canvas",
     "300-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/Canvas Demo.canvas",
-    "300-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-AI Tools/Obs-AI Tools for Idea Generation.md",
-    "300-Areas/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/每日笔记：怎样随时高效记录每日灵感与活动-Memo, QuickAdd.md",
-    "300-Areas/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/怎样自动移动笔记到对应文件夹-Auto Note Mover (Simple).md",
-    "300-Areas/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/怎样优化每日笔记模板，提高效率与价值——STAR法则.md",
-    "300-Areas/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/怎样快速按模板添加笔记，并自动将笔记移到对应文件夹-Templater, QuickAdd（Advanced）.md",
-    "300-Areas/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/Obs-笔记模板效率-Metadata, URI作用是什么.md",
-    "300-Areas/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/Obs-模板效率工具（Basic）.md",
-    "300-Areas/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/Obs-库中库-为什么，如何实现.md",
-    "300-Areas/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/Obs-Templater.md",
     "300-Areas/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/How Memo Works.canvas",
-    "300-Areas/Content-Making/Videos/2302/2302.01",
     "300-Areas/PKM/iPad/Note in iPhone.canvas",
     "300-Areas/PKM/iPad/Canvas in iPad.canvas",
-    "300-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Mindmap",
-    "300-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Excalidraw",
-    "300-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas",
-    "300-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-AI Tools",
-    "300-Areas/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用",
-    "300-Areas/PKM/04.Obs-Quick Add and Capture/不同类型笔记与项目资源模板",
-    "300-Areas/PKM/01.Obs-Why/Script",
-    "300-Areas/PKM/01.Obs-Why/Published",
-    "300-Areas/PKM/01.Obs-Why/Captured",
     "300-GeneralSkills/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/How Memo Works.canvas",
     "300-GeneralSkills/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/PKM-Map.canvas",
     "300-GeneralSkills/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/Canvas Demo.canvas",

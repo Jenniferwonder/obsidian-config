@@ -1,6 +1,110 @@
 {
   "recentFiles": [
     {
+      "basename": "tp-Day Planner",
+      "path": "zz-templates/Day Planners/tp-Day Planner.md"
+    },
+    {
+      "basename": "程序算法与人生选择  酷 壳 - CoolShell",
+      "path": "Resonance/ReadNote/程序算法与人生选择  酷 壳 - CoolShell.md"
+    },
+    {
+      "basename": "KB-Tasks",
+      "path": "000-OKRTs/Tasks/KB-Tasks.md"
+    },
+    {
+      "basename": "DV-Tasks",
+      "path": "000-OKRTs/Tasks/DV-Tasks.md"
+    },
+    {
+      "basename": "Front-End Frameworks",
+      "path": "100-TechSkills/50-Front-End Frameworks/Front-End Frameworks.md"
+    },
+    {
+      "basename": "Performance Optimization",
+      "path": "100-TechSkills/45-Performance Optimization/Performance Optimization.md"
+    },
+    {
+      "basename": "2023-05-16",
+      "path": "000-OKRTs/Daily/2023-05-16.md"
+    },
+    {
+      "basename": "Vue",
+      "path": "100-TechSkills/50-Front-End Frameworks/Vue/Vue.md"
+    },
+    {
+      "basename": "React",
+      "path": "100-TechSkills/50-Front-End Frameworks/React/React.md"
+    },
+    {
+      "basename": "Front-End Basics",
+      "path": "100-TechSkills/40-Front-End Basics/Front-End Basics.md"
+    },
+    {
+      "basename": "Browser-浏览器工作原理",
+      "path": "100-TechSkills/40-Front-End Basics/Web/Browser-浏览器工作原理.md"
+    },
+    {
+      "basename": "Protocols-网络协议",
+      "path": "100-TechSkills/40-Front-End Basics/Web/Protocols-网络协议.md"
+    },
+    {
+      "basename": "JavaScript",
+      "path": "100-TechSkills/40-Front-End Basics/JavaScript/JavaScript.md"
+    },
+    {
+      "basename": "HTML",
+      "path": "100-TechSkills/40-Front-End Basics/HTML/HTML.md"
+    },
+    {
+      "basename": "CSS",
+      "path": "100-TechSkills/40-Front-End Basics/CSS/CSS.md"
+    },
+    {
+      "basename": "HTML, CSS 学习资源",
+      "path": "100-TechSkills/40-Front-End Basics/CSS/HTML, CSS 学习资源.md"
+    },
+    {
+      "basename": "tp-TechGuide",
+      "path": "zz-templates/tp-TechGuide.md"
+    },
+    {
+      "basename": "CoolShell-前端基础和底层原理",
+      "path": "Resonance/ReadNote/Article/CoolShell-前端基础和底层原理.md"
+    },
+    {
+      "basename": "Video Resources-视频资源",
+      "path": "100-TechSkills/55-UI Design/Video Resources-视频资源.md"
+    },
+    {
+      "basename": "PKM-Metadata 设置规范",
+      "path": "300-Areas/SOPs/PKM-Metadata 设置规范.md"
+    },
+    {
+      "basename": "Notion Masterclass Maximise Your Productivity & Organisation  Ali Abdaal",
+      "path": "Resonance/CourseNote/Notion Masterclass Maximise Your Productivity & Organisation  Ali Abdaal.md"
+    },
+    {
+      "basename": "Content Editor",
+      "path": "200-Projects/Content-Editor/Content Editor.md"
+    },
+    {
+      "basename": "Database",
+      "path": "100-TechSkills/70-Database/Database.md"
+    },
+    {
+      "basename": "Architecture and System Design",
+      "path": "100-TechSkills/10-Tech-Fundamentals/System Design/Architecture and System Design.md"
+    },
+    {
+      "basename": "怎样高效添加管理待办事项-Checklist, Tasks, Planner, Calendar, Memo",
+      "path": "300-Areas/PKM/05.Obs-Project and Task Management/怎样高效添加管理待办事项-Checklist, Tasks, Planner, Calendar, Memo.md"
+    },
+    {
+      "basename": "sortspec",
+      "path": "zz-templates/sortspec.md"
+    },
+    {
       "basename": "如何搭建完善OKRTs 项目目标、关键结果、项目、行动事项数据库——DB Folders",
       "path": "300-Areas/PKM/如何搭建完善OKRTs 项目目标、关键结果、项目、行动事项数据库——DB Folders.md"
     },
@@ -27,18 +131,6 @@
     {
       "basename": "K3-PKM-实现高效追踪学习进展与阶段成果工作流",
       "path": "000-OKRTs/KRs/K3-PKM-实现高效追踪学习进展与阶段成果工作流.md"
-    },
-    {
-      "basename": "tp-Day Planner",
-      "path": "zz-templates/Day Planners/tp-Day Planner.md"
-    },
-    {
-      "basename": "2023-05-16",
-      "path": "000-OKRTs/Daily/2023-05-16.md"
-    },
-    {
-      "basename": "KB-Tasks",
-      "path": "000-OKRTs/Tasks/KB-Tasks.md"
     },
     {
       "basename": "2023-05-04",

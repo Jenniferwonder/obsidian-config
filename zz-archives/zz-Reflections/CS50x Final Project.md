@@ -1,6 +1,6 @@
 ---
 Title: CS50x Final Project
-tags: Codespace
+tags: TechSkills
 status: ""
 DateStarted: 2022-09-12
 aliases:

@@ -246,5 +246,6 @@
   "blue-topaz-theme@@bottom-padding-value": "5em",
   "blue-topaz-theme@@background-settings-workplace-theme-light-custom": "url(\"https://wallpapercave.com/dwp1x/wp5776683.jpg\")",
   "blue-topaz-theme@@font-family-vault": "'Segoe UI Emoji'",
-  "blue-topaz-theme@@font-weight-strong": "bolder"
+  "blue-topaz-theme@@font-weight-strong": "bolder",
+  "minimal-style@@h5-weight": 600
 }

@@ -23,6 +23,15 @@ sorting-spec: |
   Resources
   Snooze
   < a-z 
+  target-folder: 000-OKRTs
+  Objectives
+  KRs
+  Tasks
+  Daily
+  ...
+  delete
+  with-metadata: DateStarted
+  > a-z by-metadata: DateStarted
   target-folder: Daily
   ...
   delete
