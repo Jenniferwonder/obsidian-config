@@ -599,5 +599,13 @@
       "key": "="
     }
   ],
-  "obsidian-citation-plugin:update-bib-data": []
+  "obsidian-citation-plugin:update-bib-data": [],
+  "obsidian-footnotes:insert-autonumbered-footnote": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "6"
+    }
+  ]
 }

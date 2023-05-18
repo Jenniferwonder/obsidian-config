@@ -32,7 +32,7 @@
     "theme-test"
   ],
   "textFontFamily": "Microsoft YaHei",
-  "baseFontSize": 14,
+  "baseFontSize": 15,
   "showViewHeader": true,
   "nativeMenus": false,
   "baseFontSizeAction": false

@@ -17,12 +17,13 @@ Progress: NaN%
 
 ```
 
-### Intro
+### Intro& Hook
 
+### Outro
 Talkhead (Improvised)
 
 - xx
   Talkhead (Script)
   ==Voiceover for side stories (Script)==
 
-### Q1
+

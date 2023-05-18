@@ -43,7 +43,6 @@
   "canvas-mindmap",
   "various-complements",
   "recent-files-obsidian",
-  "folder-note-plugin",
   "obsidian-hover-editor",
   "note-refactor-obsidian",
   "quick-explorer",
@@ -91,5 +90,6 @@
   "cmdr",
   "auto-note-mover",
   "buttons",
-  "floating-toc"
+  "floating-toc",
+  "folder-note-plugin"
 ]

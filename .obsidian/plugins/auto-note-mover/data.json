@@ -20,6 +20,11 @@
     },
     {
       "folder": "100-TechSkills",
+      "tag": "#TechSkills",
+      "pattern": ""
+    },
+    {
+      "folder": "200-Projects",
       "tag": "#Codespace",
       "pattern": ""
     }

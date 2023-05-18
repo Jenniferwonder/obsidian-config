@@ -1,156 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "tp-Day Planner",
-      "path": "zz-templates/Day Planners/tp-Day Planner.md"
+      "basename": "Brainstorm, Inspiration and Idea Generation",
+      "path": "300-Areas/Content-Making/B-Workflow/Brainstorm, Inspiration and Idea Generation.md"
     },
     {
-      "basename": "程序算法与人生选择  酷 壳 - CoolShell",
-      "path": "Resonance/ReadNote/程序算法与人生选择  酷 壳 - CoolShell.md"
+      "basename": "Content Workflow",
+      "path": "300-Areas/Content-Making/B-Workflow/Content Workflow.md"
     },
     {
-      "basename": "KB-Tasks",
-      "path": "000-OKRTs/Tasks/KB-Tasks.md"
+      "basename": "KB-Videos",
+      "path": "000-OKRTs/Tasks/KB-Videos.md"
     },
     {
-      "basename": "DV-Tasks",
-      "path": "000-OKRTs/Tasks/DV-Tasks.md"
+      "basename": "Branding Components",
+      "path": "300-Areas/Content-Making/0-Values/Branding Components.md"
     },
     {
-      "basename": "Front-End Frameworks",
-      "path": "100-TechSkills/50-Front-End Frameworks/Front-End Frameworks.md"
+      "basename": "Community Impact",
+      "path": "300-Areas/Content-Making/B-Workflow/Community Impact.md"
+    },
+    {
+      "basename": "Why make videos",
+      "path": "300-Areas/Content-Making/0-Values/Why videos/Why make videos.md"
+    },
+    {
+      "basename": "PTRA-Part Time Youtuber Academy (Ali Abdaal)",
+      "path": "300-Areas/Content-Making/B-Workflow/PTRA-Part Time Youtuber Academy (Ali Abdaal).md"
+    },
+    {
+      "basename": "PKM",
+      "path": "300-Areas/PKM/PKM.md"
+    },
+    {
+      "basename": "Learning-Efficiency",
+      "path": "300-Areas/Learning-Efficiency/Learning-Efficiency.md"
+    },
+    {
+      "basename": "Learning Path",
+      "path": "300-Areas/Learning-Efficiency/Learning Path.md"
+    },
+    {
+      "basename": "How to Organize Knowledge",
+      "path": "300-Areas/Learning-Efficiency/How to Organize Knowledge.md"
+    },
+    {
+      "basename": "Part2-入门",
+      "path": "100-TechSkills/BB-Career Advice/Part2-入门.md"
+    },
+    {
+      "basename": "tp-Publishing Checklist",
+      "path": "zz-templates/tp-video/tp-Publishing Checklist.md"
+    },
+    {
+      "basename": "Changelog",
+      "path": "800-Reviews/Changelog.md"
+    },
+    {
+      "basename": "tp-V-Script Template",
+      "path": "zz-templates/tp-video/tp-V-Script Template.md"
+    },
+    {
+      "basename": "tp-Book",
+      "path": "zz-templates/tp-blog/tp-Book.md"
+    },
+    {
+      "basename": "Part1-启蒙",
+      "path": "100-TechSkills/BB-Career Advice/Part1-启蒙.md"
+    },
+    {
+      "basename": "BB-Career Advice",
+      "path": "100-TechSkills/BB-Career Advice/BB-Career Advice.md"
+    },
+    {
+      "basename": "Algorithm and Data Structure",
+      "path": "100-TechSkills/10-Tech Fundamentals/Programming Fundamentals/Algorithm and Data Structure/Algorithm and Data Structure.md"
+    },
+    {
+      "basename": "Computer Network Fundamentals",
+      "path": "100-TechSkills/10-Tech Fundamentals/System Fundamentals/3-Computer Network/Computer Network Fundamentals.md"
     },
     {
       "basename": "Performance Optimization",
       "path": "100-TechSkills/45-Performance Optimization/Performance Optimization.md"
     },
     {
-      "basename": "2023-05-16",
-      "path": "000-OKRTs/Daily/2023-05-16.md"
+      "basename": "40-Front-End Basics",
+      "path": "100-TechSkills/40-Front-End Basics/40-Front-End Basics.md"
     },
     {
-      "basename": "Vue",
-      "path": "100-TechSkills/50-Front-End Frameworks/Vue/Vue.md"
-    },
-    {
-      "basename": "React",
-      "path": "100-TechSkills/50-Front-End Frameworks/React/React.md"
-    },
-    {
-      "basename": "Front-End Basics",
-      "path": "100-TechSkills/40-Front-End Basics/Front-End Basics.md"
-    },
-    {
-      "basename": "Browser-浏览器工作原理",
-      "path": "100-TechSkills/40-Front-End Basics/Web/Browser-浏览器工作原理.md"
-    },
-    {
-      "basename": "Protocols-网络协议",
-      "path": "100-TechSkills/40-Front-End Basics/Web/Protocols-网络协议.md"
-    },
-    {
-      "basename": "JavaScript",
-      "path": "100-TechSkills/40-Front-End Basics/JavaScript/JavaScript.md"
-    },
-    {
-      "basename": "HTML",
-      "path": "100-TechSkills/40-Front-End Basics/HTML/HTML.md"
+      "basename": "Programming Patterns-编程范式",
+      "path": "100-TechSkills/10-Tech Fundamentals/Programming Fundamentals/Programming Patterns/Programming Patterns-编程范式.md"
     },
     {
       "basename": "CSS",
       "path": "100-TechSkills/40-Front-End Basics/CSS/CSS.md"
     },
     {
-      "basename": "HTML, CSS 学习资源",
-      "path": "100-TechSkills/40-Front-End Basics/CSS/HTML, CSS 学习资源.md"
+      "basename": "Learning Strategies-怎样拥有技术领导力",
+      "path": "100-TechSkills/BB-Career Advice/Learning Strategies-怎样拥有技术领导力.md"
     },
     {
-      "basename": "tp-TechGuide",
-      "path": "zz-templates/tp-TechGuide.md"
+      "basename": "Google 的评分卡",
+      "path": "100-TechSkills/BB-Career Advice/Google 的评分卡.md"
     },
     {
-      "basename": "CoolShell-前端基础和底层原理",
-      "path": "Resonance/ReadNote/Article/CoolShell-前端基础和底层原理.md"
+      "basename": "Distributed System Design-分布式技术架构",
+      "path": "100-TechSkills/10-Tech Fundamentals/System Fundamentals/5-System Design/Distributed System Design-分布式技术架构.md"
     },
     {
-      "basename": "Video Resources-视频资源",
-      "path": "100-TechSkills/55-UI Design/Video Resources-视频资源.md"
+      "basename": "10-Tech Fundamentals",
+      "path": "100-TechSkills/10-Tech Fundamentals/10-Tech Fundamentals.md"
     },
     {
-      "basename": "PKM-Metadata 设置规范",
-      "path": "300-Areas/SOPs/PKM-Metadata 设置规范.md"
+      "basename": "Career Advice-技术领导力(Tech Leadership)",
+      "path": "100-TechSkills/BB-Career Advice/Career Advice-技术领导力(Tech Leadership).md"
     },
     {
-      "basename": "Notion Masterclass Maximise Your Productivity & Organisation  Ali Abdaal",
-      "path": "Resonance/CourseNote/Notion Masterclass Maximise Your Productivity & Organisation  Ali Abdaal.md"
+      "basename": "Career Advice-技术变现(Tech Value)",
+      "path": "100-TechSkills/BB-Career Advice/Career Advice-技术变现(Tech Value).md"
     },
     {
-      "basename": "Content Editor",
-      "path": "200-Projects/Content-Editor/Content Editor.md"
+      "basename": "Database-数据库原理",
+      "path": "100-TechSkills/10-Tech Fundamentals/System Fundamentals/4-Database/Database-数据库原理.md"
     },
     {
-      "basename": "Database",
-      "path": "100-TechSkills/70-Database/Database.md"
+      "basename": "Database Choices",
+      "path": "100-TechSkills/10-Tech Fundamentals/System Fundamentals/4-Database/Database Choices.md"
     },
     {
-      "basename": "Architecture and System Design",
-      "path": "100-TechSkills/10-Tech-Fundamentals/System Design/Architecture and System Design.md"
+      "basename": "Headless CMS",
+      "path": "100-TechSkills/10-Tech Fundamentals/System Fundamentals/4-Database/Headless CMS.md"
     },
     {
-      "basename": "怎样高效添加管理待办事项-Checklist, Tasks, Planner, Calendar, Memo",
-      "path": "300-Areas/PKM/05.Obs-Project and Task Management/怎样高效添加管理待办事项-Checklist, Tasks, Planner, Calendar, Memo.md"
+      "basename": "NoSQL Databases",
+      "path": "100-TechSkills/10-Tech Fundamentals/System Fundamentals/4-Database/NoSQL Databases.md"
     },
     {
-      "basename": "sortspec",
-      "path": "zz-templates/sortspec.md"
+      "basename": "Mock Data",
+      "path": "100-TechSkills/10-Tech Fundamentals/System Fundamentals/4-Database/Mock Data.md"
     },
     {
-      "basename": "如何搭建完善OKRTs 项目目标、关键结果、项目、行动事项数据库——DB Folders",
-      "path": "300-Areas/PKM/如何搭建完善OKRTs 项目目标、关键结果、项目、行动事项数据库——DB Folders.md"
+      "basename": "JSON",
+      "path": "100-TechSkills/10-Tech Fundamentals/System Fundamentals/4-Database/JSON.md"
     },
     {
-      "basename": "K1-夯实前端基础，完成基础系列笔记系统化整理与输出",
-      "path": "000-OKRTs/KRs/K1-夯实前端基础，完成基础系列笔记系统化整理与输出.md"
+      "basename": "ORMS",
+      "path": "100-TechSkills/10-Tech Fundamentals/System Fundamentals/4-Database/ORMS.md"
     },
     {
-      "basename": "O1-前端学习成果总结，入行前端开发",
-      "path": "000-OKRTs/Objectives/O1-前端学习成果总结，入行前端开发.md"
+      "basename": "SQLRelational Databases",
+      "path": "100-TechSkills/10-Tech Fundamentals/System Fundamentals/4-Database/SQLRelational Databases.md"
     },
     {
-      "basename": "怎样将行动事项完成日期或指定日期与每日笔记相连——了解 Tasks, Big Calendar, CardBoard 功能",
-      "path": "300-Areas/PKM/怎样将行动事项完成日期或指定日期与每日笔记相连——了解 Tasks, Big Calendar, CardBoard 功能.md"
+      "basename": "Operating Systems-操作系统原理和基础",
+      "path": "100-TechSkills/10-Tech Fundamentals/System Fundamentals/2-Operating Systems/Operating Systems-操作系统原理和基础.md"
     },
     {
-      "basename": "2023-05-15",
-      "path": "000-OKRTs/Daily/2023-05-15.md"
+      "basename": "Front-End Roadmap",
+      "path": "000-OKRTs/OKRT-Reference/Front-End Roadmap.md"
     },
     {
-      "basename": "K4-PMP-通过 PMP 认证考试——8 月中旬3 A",
-      "path": "000-OKRTs/KRs/K4-PMP-通过 PMP 认证考试——8 月中旬3 A.md"
+      "basename": "Companies Tech Blog-公司博客",
+      "path": "100-TechSkills/AA-Tech Source/Companies Tech Blog-公司博客.md"
     },
     {
-      "basename": "K3-PKM-实现高效追踪学习进展与阶段成果工作流",
-      "path": "000-OKRTs/KRs/K3-PKM-实现高效追踪学习进展与阶段成果工作流.md"
+      "basename": "C 语言",
+      "path": "100-TechSkills/10-Tech Fundamentals/Programming Fundamentals/C/C 语言.md"
     },
     {
-      "basename": "2023-05-04",
-      "path": "000-OKRTs/Daily/2023-05-04.md"
+      "basename": "Computer System-计算机系统原理",
+      "path": "100-TechSkills/10-Tech Fundamentals/System Fundamentals/1-Computer System Principles/Computer System-计算机系统原理.md"
     },
     {
-      "basename": "2023-05-10",
-      "path": "000-OKRTs/Daily/2023-05-10.md"
+      "basename": "Youtube Tech Channels",
+      "path": "100-TechSkills/AA-Tech Source/Youtube Tech Channels.md"
     },
     {
-      "basename": "2023-05-09",
-      "path": "000-OKRTs/Daily/2023-05-09.md"
+      "basename": "Scientific Papers-技术论文",
+      "path": "100-TechSkills/AA-Tech Source/Scientific Papers-技术论文.md"
     },
     {
-      "basename": "2023-05-08",
-      "path": "000-OKRTs/Daily/2023-05-08.md"
+      "basename": "Personal Tech Blog-个人博客",
+      "path": "100-TechSkills/AA-Tech Source/Personal Tech Blog-个人博客.md"
     },
     {
-      "basename": "vim",
-      "path": "100-TechSkills/10-Tech-Fundamentals/Windows/vim.md"
+      "basename": "KB-Tasks",
+      "path": "000-OKRTs/Tasks/KB-Tasks.md"
+    },
+    {
+      "basename": "UI Design",
+      "path": "100-TechSkills/55-UI Design/UI Design.md"
+    },
+    {
+      "basename": "UI Componenet Library",
+      "path": "100-TechSkills/55-UI Design/UI Componenet Library.md"
+    },
+    {
+      "basename": "CSS Frameworks",
+      "path": "100-TechSkills/40-Front-End Basics/CSS/CSS Frameworks/CSS Frameworks.md"
     }
   ],
   "omittedPaths": [],
