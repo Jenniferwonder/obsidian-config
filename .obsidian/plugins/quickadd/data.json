@@ -44,8 +44,8 @@
       "captureToActiveFile": false,
       "createFileIfItDoesntExist": {
         "enabled": true,
-        "createWithTemplate": false,
-        "template": "zz-templates/tp/tp-Tasks.md"
+        "createWithTemplate": true,
+        "template": "000-Templates/Tp-Notes/tp-Tasks.md"
       },
       "format": {
         "enabled": true,

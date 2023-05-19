@@ -160,7 +160,7 @@
   "blue-topaz-theme@@show-full-metadata": false,
   "blue-topaz-theme@@canvas-card-focus-mode": true,
   "blue-topaz-theme@@toggle-canvas-grid": true,
-  "blue-topaz-theme@@callout-style-settings": "traditional-callout-style",
+  "blue-topaz-theme@@callout-style-settings": "shade-callout-style",
   "blue-topaz-theme@@style-options-for-admonition-plugin": true,
   "blue-topaz-theme@@toggle-calendar-shadow": true,
   "blue-topaz-theme@@toggle-calendar-transparent": true,
@@ -247,5 +247,6 @@
   "blue-topaz-theme@@background-settings-workplace-theme-light-custom": "url(\"https://wallpapercave.com/dwp1x/wp5776683.jpg\")",
   "blue-topaz-theme@@font-family-vault": "'Segoe UI Emoji'",
   "blue-topaz-theme@@font-weight-strong": "bolder",
-  "minimal-style@@h5-weight": 600
+  "minimal-style@@h5-weight": 600,
+  "blue-topaz-theme@@full-width-callout": false
 }

@@ -1,39 +1,31 @@
 {
-  "showGettingStartedBanner": false,
+  "showGettingStartedBanner": true,
   "hasMigratedDailyNoteSettings": true,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
     "format": "YYYY-MM-DD",
-<<<<<<< HEAD
     "folder": "000-OKRTs/Daily",
-=======
-    "folder": "Daily",
->>>>>>> 3a19905bbd54cc7c64b5e234406ceec5d6947f4e
-    "template": "zz-templates/tp/tp-Daily Plan.md",
+    "template": "000-Templates/Tp-Notes/tp-Daily Plan",
     "enabled": true
   },
   "weekly": {
-    "format": "gggg-[W]ww",
+    "format": "",
     "template": "",
-    "folder": "000-OKRTs/Daily",
-    "enabled": true
+    "folder": ""
   },
   "monthly": {
-    "format": "YYYY-MM",
+    "format": "",
     "template": "",
-    "folder": "000-OKRTs/Daily",
-    "enabled": true
+    "folder": ""
   },
   "quarterly": {
-    "format": "YYYY-[Q]Q",
+    "format": "",
     "template": "",
-    "folder": "000-OKRTs/Daily",
-    "enabled": true
+    "folder": ""
   },
   "yearly": {
-    "format": "YYYY",
+    "format": "",
     "template": "",
-    "folder": "000-OKRTs/Daily",
-    "enabled": true
+    "folder": ""
   }
 }

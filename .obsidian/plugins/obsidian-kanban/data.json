@@ -1,7 +1,6 @@
 {
   "show-checkboxes": false,
   "new-note-folder": "000-OKRTs/Tasks",
-  "new-note-template": "zz-templates/tp/tp-Tasks.md",
   "show-relative-date": true,
   "archive-with-date": false,
   "append-archive-date": true,

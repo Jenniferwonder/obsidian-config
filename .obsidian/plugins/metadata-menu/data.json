@@ -23,7 +23,9 @@
           "9": "🟣Maintained",
           "10": "🟢Published",
           "11": "🔵Archived",
-          "12": "⤵️Snooze"
+          "12": "⤵️Snooze",
+          "13": "🟨Doing",
+          "14": "🟩Done"
         },
         "sourceType": "ValuesList",
         "valuesListNotePath": "",
@@ -60,12 +62,17 @@
       "name": "tags",
       "options": {
         "valuesList": {
-          "1": "PKM",
-          "2": "Content-Making",
-          "3": "AI",
-          "4": "PMP",
-          "5": "Codespace",
-          "6": "English"
+          "1": "TechSkills",
+          "2": "Codespace",
+          "3": "CPE",
+          "4": "PKM",
+          "5": "Content-Making",
+          "6": "AI",
+          "7": "PMP",
+          "8": "English",
+          "9": "People",
+          "10": "Life",
+          "11": "Published"
         },
         "sourceType": "ValuesList",
         "valuesListNotePath": "",
@@ -73,30 +80,6 @@
       },
       "id": "7",
       "type": "Multi"
-    },
-    {
-      "name": "Sports",
-      "options": {},
-      "id": "8",
-      "type": "Boolean"
-    },
-    {
-      "name": "Codespace",
-      "options": {},
-      "id": "9",
-      "type": "Boolean"
-    },
-    {
-      "name": "Workflow",
-      "options": {},
-      "id": "10",
-      "type": "Boolean"
-    },
-    {
-      "name": "Content-Making",
-      "options": {},
-      "id": "11",
-      "type": "Boolean"
     },
     {
       "name": "Topic",
@@ -142,6 +125,12 @@
       },
       "id": "14",
       "type": "Date"
+    },
+    {
+      "name": "Source",
+      "options": {},
+      "id": "15",
+      "type": "File"
     }
   ],
   "fileClassQueries": [],

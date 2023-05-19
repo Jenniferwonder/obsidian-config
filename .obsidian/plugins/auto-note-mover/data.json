@@ -4,17 +4,17 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
-      "folder": "300-Areas/PKM",
+      "folder": "500-Areas/PKM",
       "tag": "#PKM",
       "pattern": ""
     },
     {
-      "folder": "300-Areas/PM",
+      "folder": "500-Areas/Project Management",
       "tag": "#PMP",
       "pattern": ""
     },
     {
-      "folder": "300-Areas/Content-Making",
+      "folder": "500-Areas/Content-Making",
       "tag": "#Content-Making",
       "pattern": ""
     },
@@ -26,6 +26,21 @@
     {
       "folder": "200-Projects",
       "tag": "#Codespace",
+      "pattern": ""
+    },
+    {
+      "folder": "300-CPE",
+      "tag": "#CPE",
+      "pattern": ""
+    },
+    {
+      "folder": "600-Life",
+      "tag": "#Life-Tricks",
+      "pattern": ""
+    },
+    {
+      "folder": "700-People",
+      "tag": "#People",
       "pattern": ""
     }
   ],
