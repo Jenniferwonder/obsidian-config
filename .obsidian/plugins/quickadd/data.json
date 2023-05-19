@@ -7,7 +7,7 @@
       "command": true,
       "appendLink": false,
       "captureTo": "Inbox/{{Value}}.md",
-      "captureToActiveFile": false,
+      "captureToActiveFile": true,
       "createFileIfItDoesntExist": {
         "enabled": true,
         "createWithTemplate": true,
@@ -19,13 +19,13 @@
       },
       "insertAfter": {
         "enabled": true,
-        "after": "## Initiation",
+        "after": "## Actions",
         "insertAtEnd": true,
         "createIfNotFound": true,
         "createIfNotFoundLocation": "bottom"
       },
       "prepend": false,
-      "task": false,
+      "task": true,
       "openFileInNewTab": {
         "enabled": false,
         "direction": "vertical",

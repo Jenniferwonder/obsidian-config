@@ -47,7 +47,7 @@
   "floating-toc-styles@@enable-bar-icon": true,
   "floating-toc-styles@@indicator-bar-position": 0,
   "floating-toc-styles@@enable-outline-style": "float-curves-outline-style",
-  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-topaz-nord",
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-chocolate-topaz",
   "blue-topaz-theme@@disable-auto-hide-header": true,
   "blue-topaz-theme@@magic-main-color@@dark": "#D6870CBF",
   "blue-topaz-theme@@magic-main-color@@light": "#34495E",
@@ -248,5 +248,10 @@
   "blue-topaz-theme@@font-family-vault": "'Segoe UI Emoji'",
   "blue-topaz-theme@@font-weight-strong": "bolder",
   "minimal-style@@h5-weight": 600,
-  "blue-topaz-theme@@full-width-callout": false
+  "blue-topaz-theme@@full-width-callout": false,
+  "anuppuccin-theme-settings@@anuppuccin-theme-light": "ctp-latte",
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha",
+  "anuppuccin-theme-settings@@anuppuccin-light-theme-accents": "ctp-accent-light-rosewater",
+  "blue-topaz-theme@@img-grid": false,
+  "blue-topaz-theme@@obsidian-default-image": true
 }

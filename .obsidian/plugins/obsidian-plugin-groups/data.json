@@ -200,6 +200,62 @@
         {
           "id": "cmdr",
           "name": "Commander"
+        },
+        {
+          "id": "breadcrumbs",
+          "name": "Breadcrumbs"
+        },
+        {
+          "id": "cm-editor-syntax-highlight-obsidian",
+          "name": "Editor Syntax Highlight"
+        },
+        {
+          "id": "emoji-shortcodes",
+          "name": "Emoji Shortcodes"
+        },
+        {
+          "id": "graph-analysis",
+          "name": "Graph Analysis"
+        },
+        {
+          "id": "notion-like-tables",
+          "name": "Notion-Like Tables"
+        },
+        {
+          "id": "obsidian-charts",
+          "name": "Obsidian Charts"
+        },
+        {
+          "id": "obsidian-timestamp-notes",
+          "name": "Timestamp Notes"
+        },
+        {
+          "id": "obsidian-vault-changelog",
+          "name": "Vault Changelog"
+        },
+        {
+          "id": "obsidian-zotero-desktop-connector",
+          "name": "Zotero Integration"
+        },
+        {
+          "id": "obsidian-metatable",
+          "name": "Metatable"
+        },
+        {
+          "id": "obsidian-focus-mode",
+          "name": "Focus Mode"
+        },
+        {
+          "id": "obsidian-hider",
+          "name": "Hider"
+        },
+        {
+          "id": "excalibrain",
+          "name": "ExcaliBrain"
+        },
+        {
+          "id": "juggl",
+          "name": "Juggl"
         }
       ],
       "groupIds": [],

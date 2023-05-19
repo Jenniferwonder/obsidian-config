@@ -2,8 +2,18 @@
   "items": [
     {
       "type": "file",
-      "title": "从这开始",
-      "path": "从这开始.md"
+      "title": "DB-Daily",
+      "path": "000-OKRTs/Daily/DB-Daily.md"
+    },
+    {
+      "type": "file",
+      "title": "DV-Tasks",
+      "path": "000-OKRTs/Tasks/DV-Tasks.md"
+    },
+    {
+      "type": "file",
+      "title": "CVS-Task Workflow",
+      "path": "000-OKRTs/Canvas/CVS-Task Workflow.canvas"
     }
   ]
 }

@@ -17,6 +17,13 @@
       "label": "Due",
       "shouldHideLabel": false,
       "containsMarkdown": false
+    },
+    {
+      "metadataKey": "Priority",
+      "label": "",
+      "shouldHideLabel": false,
+      "containsMarkdown": false
     }
-  ]
+  ],
+  "new-note-template": "000-Templates/Tp-Notes/tp-Tasks.md"
 }

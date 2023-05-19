@@ -36,17 +36,5 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [
-    {
-      "id": "a620086573816b00",
-      "parent": 0,
-      "droppable": true,
-      "text": "PKM软件对比.xlsx - Microsoft Excel Online",
-      "data": {
-        "fileType": "site",
-        "fileSize": "",
-        "icon": {}
-      }
-    }
-  ]
+  "treeData": []
 }

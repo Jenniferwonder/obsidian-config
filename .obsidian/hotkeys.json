@@ -496,7 +496,6 @@
       "key": "C"
     }
   ],
-  "quickadd:choice:2f9f18b1-c339-4b24-bdbb-cc13b7c42261": [],
   "quickadd:choice:7212b18c-757f-4eb8-b5df-9bf3cdc3682a": [
     {
       "modifiers": [
@@ -606,6 +605,14 @@
         "Alt"
       ],
       "key": "6"
+    }
+  ],
+  "quickadd:choice:2f9f18b1-c339-4b24-bdbb-cc13b7c42261": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "N"
     }
   ]
 }

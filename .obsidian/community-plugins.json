@@ -85,12 +85,15 @@
   "folder-note-plugin",
   "emoji-shortcodes",
   "notion-like-tables",
-  "breadcrumbs",
   "obsidian-charts",
   "obsidian-zotero-desktop-connector",
   "cm-editor-syntax-highlight-obsidian",
   "surfing",
   "obsidian-version-history-diff",
   "obsidian-enhancing-mindmap",
-  "obsidian-timestamp-notes"
+  "obsidian-timestamp-notes",
+  "obsidian-hider",
+  "juggl",
+  "excalibrain",
+  "customjs"
 ]
