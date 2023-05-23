@@ -4,30 +4,26 @@
     "type": "split",
     "children": [
       {
-        "id": "37e3a850e4bfdd83",
+        "id": "f6406fe2e10b1e35",
         "type": "tabs",
-        "dimension": 66.82080924855491,
         "children": [
           {
-            "id": "e6abeb7879b8fe7f",
+            "id": "26f2f4071ebea2b0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "database-plugin",
               "state": {
-                "file": "Homepage.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
+                "file": "000-OKRTs/Daily/DB-Daily.md"
               }
             }
           },
           {
-            "id": "fb19337093d87323",
+            "id": "67b100006b629f41",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300-CPE/1-Ideas/有趣的笔记概念.md",
+                "file": "000-OKRTs/Daily/2023-05-23.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -36,23 +32,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "760b2f84419a90f3",
-        "type": "tabs",
-        "dimension": 33.179190751445084,
-        "children": [
-          {
-            "id": "192cf06fd99286f2",
-            "type": "leaf",
-            "state": {
-              "type": "kanban",
-              "state": {
-                "file": "000-OKRTs/Tasks/KB-Videos.md"
-              }
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -132,7 +111,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 338.5
   },
   "right": {
     "id": "617127011ede853a",
@@ -141,7 +120,7 @@
       {
         "id": "48e4df7056d011b2",
         "type": "tabs",
-        "dimension": 75.43859649122807,
+        "dimension": 66.99561403508771,
         "children": [
           {
             "id": "39371486e0d803c5",
@@ -160,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300-CPE/1-Ideas/有趣的笔记概念.md"
+                "file": "000-OKRTs/Daily/2023-05-23.md"
               }
             }
           },
@@ -170,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "300-CPE/1-Ideas/有趣的笔记概念.md",
+                "file": "000-OKRTs/Daily/2023-05-23.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -295,7 +274,7 @@
       {
         "id": "9402e90c052643eb",
         "type": "tabs",
-        "dimension": 24.561403508771928,
+        "dimension": 33.00438596491228,
         "children": [
           {
             "id": "1d288d4b7c49b89c",
@@ -316,7 +295,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "300-CPE/1-Ideas/有趣的笔记概念.md",
+                "file": "000-OKRTs/Daily/2023-05-23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -328,7 +307,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300-CPE/1-Ideas/有趣的笔记概念.md",
+                "file": "000-OKRTs/Daily/2023-05-23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -344,7 +323,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 249.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -418,35 +398,38 @@
       }
     ]
   },
-  "active": "fb19337093d87323",
+  "active": "67b100006b629f41",
   "lastOpenFiles": [
-    "zz-Excalidraw/excalibrain.md",
-    "300-CPE/1-Ideas/有趣的笔记概念.md",
-    "000-Templates/Tp-Notes/tp-GNotes.md",
-    "300-CPE/Title Ideas.table",
-    "000-OKRTs/Tasks/KB-Videos.md",
+    "000-OKRTs/Daily/DB-Daily.md",
     "000-OKRTs/Daily/2023-05-23.md",
-    "Homepage.md",
-    "300-CPE/Ideas.md",
-    "AAA-Resonance/AAA-Resonance.md",
-    "AAA-Resonance/YouTube - Rethinking MY PKM How I Organize Everything In Obsidian.md",
-    "000-OKRTs/Tasks/KB-Tasks.md",
-    "400-Areas/PKM/00-Learning Strategy & Workflow/CVS-Task Workflow.canvas",
-    "400-Areas/PKM/05.Obs-Project and Task Management/如何搭建完善OKRTs 项目目标、关键结果、项目、行动事项数据库——DB Folders.md",
     "000-Templates/Tp-Notes/tp-Tasks.md",
+    "AAA-Resonance/Linking Your Thinking.md",
     "000-Templates/Tp-Notes/tp-Daily Plan.md",
-    "400-Areas/PKM/00-Learning Strategy & Workflow/Pillars, Pipelines, Cycles.md",
-    "400-Areas/PKM/05.Obs-Project and Task Management/Pillars.md",
-    "000-OKRTs/Objectives/DB-Objectives.md",
-    "000-OKRTs/Tasks/DB-Projects.md",
-    "000-OKRTs/Tasks/DV-Tasks.md",
-    "000-OKRTs/Objectives/O1-前端学习成果总结，入行前端开发.md",
-    "000-OKRTs/Objectives/O3-PMP-通过 PMP 认证考试——8 月中旬3 A.md",
-    "000-OKRTs/Objectives/O2-PKM-实现高效追踪学习进展与阶段成果工作流.md",
-    "000-OKRTs/Daily/2023-05-22.md",
+    "000-Templates/Tp-Videos/tp-CPE Script.md",
+    "000-Templates/Tp-Videos/tp-CPE Project.md",
+    "400-Areas/PKM/04.Obs-Quick Add and Capture/04.Obs-Quick Add and Capture.md",
+    "400-Areas/PKM/04b.Obs-Link and Navigation/Breadcrumbs.md",
+    "400-Areas/PKM/02.Obs-Setup/02.Obs-Setup.md",
+    "400-Areas/PKM/04b.Obs-Link and Navigation/04b.Obs-Link and Navigation.md",
+    "400-Areas/PKM/04b.Obs-Link and Navigation",
+    "zz-Excalidraw/excalibrain.md",
+    "000-Templates/Tp-Notes/tp-moc.md",
+    "000-Templates/Tp-Notes/tp-GNotes.md",
+    "000-Templates/Tp-Atoms/tp-Metadata.md",
+    "300-CPE/1-Ideas/有趣的笔记概念.md",
+    "600-People/Nick Milo.md",
+    "000-Templates/Tp-Notes/tp-People.md",
+    "AAA-Resonance/YouTube- Rethinking MY PKM How I Organize Everything In Obsidian.md",
+    "AAA-Resonance/MeisterTask Project Management Alternatives  Developer.com.md",
+    "AAA-Resonance/Use Notion as a database for your Next.JS Blog.md",
+    "100-TechSkills/100-TechSkills.md",
+    "000-Templates/tp-test/tp-默认笔记模板.md",
+    "300-CPE/1-Ideas/Bilibili Title Ideas.table",
+    "000-OKRTs/Tasks/KB-Videos.md",
+    "Homepage.md",
+    "300-CPE/1-Ideas/Ideas.md",
+    "400-Areas/PKM/00-Learning Strategy & Workflow/CVS-Task Workflow.canvas",
     "000-OKRTs/Objectives",
-    "000-OKRTs/Daily/Daily.md",
-    "000-Templates/Tp-Notes/Tp-Notes.md",
     "zz-assets/Add Link to Existing File and Open.svg",
     "zz-assets/white-bg.png",
     "zz-assets/Uniform size.svg",
@@ -466,7 +449,6 @@
     "zz-Excalidraw/Scripts/Downloaded",
     "zz-Excalidraw/Scripts",
     "zz-Excalidraw",
-    "100-TechSkills/BB-Career Advice/~$reer Advice-技术变现(Tech Value).docx",
     "400-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/PKM-Map.canvas",
     "400-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/Canvas Demo.canvas",
     "400-Areas/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/How Memo Works.canvas",

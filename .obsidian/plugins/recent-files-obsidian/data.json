@@ -1,28 +1,104 @@
 {
   "recentFiles": [
     {
-      "basename": "有趣的笔记概念",
-      "path": "300-CPE/1-Ideas/有趣的笔记概念.md"
+      "basename": "2023-05-23",
+      "path": "000-OKRTs/Daily/2023-05-23.md"
+    },
+    {
+      "basename": "DB-Daily",
+      "path": "000-OKRTs/Daily/DB-Daily.md"
+    },
+    {
+      "basename": "tp-Tasks",
+      "path": "000-Templates/Tp-Notes/tp-Tasks.md"
+    },
+    {
+      "basename": "Linking Your Thinking",
+      "path": "AAA-Resonance/Linking Your Thinking.md"
+    },
+    {
+      "basename": "tp-Daily Plan",
+      "path": "000-Templates/Tp-Notes/tp-Daily Plan.md"
+    },
+    {
+      "basename": "tp-CPE Script",
+      "path": "000-Templates/Tp-Videos/tp-CPE Script.md"
+    },
+    {
+      "basename": "tp-CPE Project",
+      "path": "000-Templates/Tp-Videos/tp-CPE Project.md"
+    },
+    {
+      "basename": "04.Obs-Quick Add and Capture",
+      "path": "400-Areas/PKM/04.Obs-Quick Add and Capture/04.Obs-Quick Add and Capture.md"
+    },
+    {
+      "basename": "Breadcrumbs",
+      "path": "400-Areas/PKM/04b.Obs-Link and Navigation/Breadcrumbs.md"
+    },
+    {
+      "basename": "02.Obs-Setup",
+      "path": "400-Areas/PKM/02.Obs-Setup/02.Obs-Setup.md"
+    },
+    {
+      "basename": "04b.Obs-Link and Navigation",
+      "path": "400-Areas/PKM/04b.Obs-Link and Navigation/04b.Obs-Link and Navigation.md"
     },
     {
       "basename": "excalibrain",
       "path": "zz-Excalidraw/excalibrain.md"
     },
     {
+      "basename": "tp-moc",
+      "path": "000-Templates/Tp-Notes/tp-moc.md"
+    },
+    {
       "basename": "tp-GNotes",
       "path": "000-Templates/Tp-Notes/tp-GNotes.md"
     },
     {
-      "basename": "Title Ideas",
-      "path": "300-CPE/Title Ideas.table"
+      "basename": "tp-Metadata",
+      "path": "000-Templates/Tp-Atoms/tp-Metadata.md"
+    },
+    {
+      "basename": "有趣的笔记概念",
+      "path": "300-CPE/1-Ideas/有趣的笔记概念.md"
+    },
+    {
+      "basename": "Nick Milo",
+      "path": "600-People/Nick Milo.md"
+    },
+    {
+      "basename": "tp-People",
+      "path": "000-Templates/Tp-Notes/tp-People.md"
+    },
+    {
+      "basename": "YouTube- Rethinking MY PKM How I Organize Everything In Obsidian",
+      "path": "AAA-Resonance/YouTube- Rethinking MY PKM How I Organize Everything In Obsidian.md"
+    },
+    {
+      "basename": "MeisterTask Project Management Alternatives  Developer.com",
+      "path": "AAA-Resonance/MeisterTask Project Management Alternatives  Developer.com.md"
+    },
+    {
+      "basename": "Use Notion as a database for your Next.JS Blog",
+      "path": "AAA-Resonance/Use Notion as a database for your Next.JS Blog.md"
+    },
+    {
+      "basename": "100-TechSkills",
+      "path": "100-TechSkills/100-TechSkills.md"
+    },
+    {
+      "basename": "tp-默认笔记模板",
+      "path": "000-Templates/tp-test/tp-默认笔记模板.md"
+    },
+    {
+      "basename": "Bilibili Title Ideas",
+      "path": "300-CPE/1-Ideas/Bilibili Title Ideas.table"
     },
     {
       "basename": "KB-Videos",
       "path": "000-OKRTs/Tasks/KB-Videos.md"
-    },
-    {
-      "basename": "2023-05-23",
-      "path": "000-OKRTs/Daily/2023-05-23.md"
     },
     {
       "basename": "Homepage",
@@ -30,15 +106,11 @@
     },
     {
       "basename": "Ideas",
-      "path": "300-CPE/Ideas.md"
+      "path": "300-CPE/1-Ideas/Ideas.md"
     },
     {
       "basename": "AAA-Resonance",
       "path": "AAA-Resonance/AAA-Resonance.md"
-    },
-    {
-      "basename": "YouTube - Rethinking MY PKM How I Organize Everything In Obsidian",
-      "path": "AAA-Resonance/YouTube - Rethinking MY PKM How I Organize Everything In Obsidian.md"
     },
     {
       "basename": "KB-Tasks",
@@ -51,14 +123,6 @@
     {
       "basename": "如何搭建完善OKRTs 项目目标、关键结果、项目、行动事项数据库——DB Folders",
       "path": "400-Areas/PKM/05.Obs-Project and Task Management/如何搭建完善OKRTs 项目目标、关键结果、项目、行动事项数据库——DB Folders.md"
-    },
-    {
-      "basename": "tp-Tasks",
-      "path": "000-Templates/Tp-Notes/tp-Tasks.md"
-    },
-    {
-      "basename": "tp-Daily Plan",
-      "path": "000-Templates/Tp-Notes/tp-Daily Plan.md"
     },
     {
       "basename": "Pillars, Pipelines, Cycles",
@@ -126,7 +190,7 @@
     },
     {
       "basename": "Obs-Tracker",
-      "path": "400-Areas/PKM/Obs-Tracker.md"
+      "path": "400-Areas/PKM/05.Obs-Project and Task Management/Obs-Tracker.md"
     },
     {
       "basename": "Project Plan and Research - GeekEnglish 2023-03-17 20.04.08.excalidraw",
@@ -135,66 +199,6 @@
     {
       "basename": "Project Plan and Research - GeekEnglish 2023-03-19 09.52.56.excalidraw",
       "path": "zz-Excalidraw/Project Plan and Research - GeekEnglish 2023-03-19 09.52.56.excalidraw.md"
-    },
-    {
-      "basename": "Project Plan and Research - Portfolio 2023-03-15 19.29.45.excalidraw",
-      "path": "zz-Excalidraw/Project Plan and Research - Portfolio 2023-03-15 19.29.45.excalidraw.md"
-    },
-    {
-      "basename": "Project Plan and Research - Portfolio 2023-03-14 10.26.10.excalidraw",
-      "path": "zz-Excalidraw/Project Plan and Research - Portfolio 2023-03-14 10.26.10.excalidraw.md"
-    },
-    {
-      "basename": "Project Plan and Research - Portfolio 2023-03-14 10.04.58.excalidraw",
-      "path": "zz-Excalidraw/Project Plan and Research - Portfolio 2023-03-14 10.04.58.excalidraw.md"
-    },
-    {
-      "basename": "My Goals in 2023 2023-04-03 21.31.54.excalidraw",
-      "path": "zz-Excalidraw/My Goals in 2023 2023-04-03 21.31.54.excalidraw.md"
-    },
-    {
-      "basename": "Number Guessing Game 2022-12-08 09.49.04.excalidraw",
-      "path": "zz-Excalidraw/Number Guessing Game 2022-12-08 09.49.04.excalidraw.md"
-    },
-    {
-      "basename": "Portfolio-个人主页 2023-03-11 15.12.05.excalidraw",
-      "path": "zz-Excalidraw/Portfolio-个人主页 2023-03-11 15.12.05.excalidraw.md"
-    },
-    {
-      "basename": "YouTube - Folders or Links The key to both is A.C.C.E.S.S. 2023-05-22 09.30.25.excalidraw",
-      "path": "zz-Excalidraw/YouTube - Folders or Links The key to both is A.C.C.E.S.S. 2023-05-22 09.30.25.excalidraw.md"
-    },
-    {
-      "basename": "Stop Watch 2022-12-13 16.13.09.excalidraw",
-      "path": "zz-Excalidraw/Stop Watch 2022-12-13 16.13.09.excalidraw.md"
-    },
-    {
-      "basename": "2022-12",
-      "path": "zz-archives/zz-Reflections/2022-12.md"
-    },
-    {
-      "basename": "Pasted image 20221207233901",
-      "path": "zz-assets/Pasted image 20221207233901.png"
-    },
-    {
-      "basename": "CCC-ContentPublished",
-      "path": "CCC-ContentPublished/CCC-ContentPublished.md"
-    },
-    {
-      "basename": "BBB-Resources",
-      "path": "BBB-Resources/BBB-Resources.md"
-    },
-    {
-      "basename": "700-Reviews",
-      "path": "700-Reviews/700-Reviews.md"
-    },
-    {
-      "basename": "600-People",
-      "path": "600-People/600-People.md"
-    },
-    {
-      "basename": "Knowledge Workflow",
-      "path": "400-Areas/PKM/00-Learning Strategy & Workflow/Knowledge Workflow.canvas"
     }
   ],
   "omittedPaths": [],

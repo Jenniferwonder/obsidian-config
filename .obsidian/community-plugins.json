@@ -100,5 +100,6 @@
   "oz-clear-unused-images",
   "breadcrumbs",
   "heatmap-calendar",
-  "obsidian-book-search-plugin"
+  "obsidian-book-search-plugin",
+  "obsidian-copy-block-link"
 ]

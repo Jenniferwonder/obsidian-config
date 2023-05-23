@@ -2,8 +2,8 @@
   "calendarSources": [
     {
       "type": "dailynote",
-      "color": "hsl( 210,  34%, calc( 63% + 2.5%))",
-      "heading": "Actions"
+      "color": "hsl( 17,  44%, calc( 32% + 2.5%))",
+      "heading": "Checklist"
     }
   ],
   "defaultCalendar": 0,

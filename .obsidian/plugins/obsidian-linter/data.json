@@ -28,7 +28,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "Title:\nTopic: \ntags: \nDateStarted: \nDateModified:\n\n"
+      "text-to-insert": "Title:\ntags: \nDateStarted: \nDateModified:\n\n"
     },
     "move-tags-to-yaml": {
       "enabled": false,
@@ -41,7 +41,7 @@
     },
     "yaml-key-sort": {
       "enabled": true,
-      "yaml-key-priority-sort-order": "Title Topic tags DateStarted DateModified ",
+      "yaml-key-priority-sort-order": "Title tags DateStarted DateModified ",
       "priority-keys-at-start-of-yaml": true,
       "yaml-sort-order-for-other-keys": "None"
     },

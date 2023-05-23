@@ -18,5 +18,6 @@
   },
   "tabSize": 2,
   "spellcheck": true,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "newLinkFormat": "shortest"
 }
