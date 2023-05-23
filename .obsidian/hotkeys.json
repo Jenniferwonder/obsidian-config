@@ -614,5 +614,14 @@
       ],
       "key": "N"
     }
+  ],
+  "graph:open": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "G"
+    }
   ]
 }

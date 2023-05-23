@@ -256,6 +256,22 @@
         {
           "id": "juggl",
           "name": "Juggl"
+        },
+        {
+          "id": "customjs",
+          "name": "CustomJS"
+        },
+        {
+          "id": "obsidian-book-search-plugin",
+          "name": "Book Search"
+        },
+        {
+          "id": "obsidian-paste-image-rename",
+          "name": "Paste image rename"
+        },
+        {
+          "id": "oz-clear-unused-images",
+          "name": "Clear Unused Images"
         }
       ],
       "groupIds": [],

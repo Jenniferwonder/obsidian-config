@@ -12,6 +12,26 @@
     {
       "folder": "000-OKRTs/Tasks",
       "template": "000-Templates/Tp-Notes/tp-Tasks.md"
+    },
+    {
+      "folder": "400-Areas/PKM",
+      "template": "000-Templates/Tp-Notes/tp-GNotes.md"
+    },
+    {
+      "folder": "400-Areas/Content-Making",
+      "template": "000-Templates/Tp-Notes/tp-GNotes.md"
+    },
+    {
+      "folder": "400-Areas/Project Management",
+      "template": "000-Templates/Tp-Notes/tp-GNotes.md"
+    },
+    {
+      "folder": "400-Areas/Engish",
+      "template": "000-Templates/Tp-Notes/tp-GNotes.md"
+    },
+    {
+      "folder": "400-Areas/AI-Tools",
+      "template": "000-Templates/Tp-Notes/tp-GNotes.md"
     }
   ],
   "syntax_highlighting": true,

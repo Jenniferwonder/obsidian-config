@@ -13,7 +13,12 @@
     {
       "type": "file",
       "title": "CVS-Task Workflow",
-      "path": "000-OKRTs/Canvas/CVS-Task Workflow.canvas"
+      "path": "400-Areas/PKM/00-Learning Strategy & Workflow/CVS-Task Workflow.canvas"
+    },
+    {
+      "type": "file",
+      "title": "excalibrain",
+      "path": "zz-Excalidraw/excalibrain.md"
     }
   ]
 }
