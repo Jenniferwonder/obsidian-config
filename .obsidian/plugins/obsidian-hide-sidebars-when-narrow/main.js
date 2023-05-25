@@ -20,26 +20,6 @@ var __copyProps = (to, from, except, desc) => {
   return to;
 };
 var __toCommonJS = (mod) => __copyProps(__defProp({}, "__esModule", { value: true }), mod);
-var __async = (__this, __arguments, generator) => {
-  return new Promise((resolve, reject) => {
-    var fulfilled = (value) => {
-      try {
-        step(generator.next(value));
-      } catch (e) {
-        reject(e);
-      }
-    };
-    var rejected = (value) => {
-      try {
-        step(generator.throw(value));
-      } catch (e) {
-        reject(e);
-      }
-    };
-    var step = (x) => x.done ? resolve(x.value) : Promise.resolve(x.value).then(fulfilled, rejected);
-    step((generator = generator.apply(__this, __arguments)).next());
-  });
-};
 
 // src/main.ts
 var main_exports = {};
@@ -53,7 +33,8 @@ var import_obsidian2 = require("obsidian");
 var import_obsidian = require("obsidian");
 var DEFAULT_SETTINGS = {
   leftMinWidth: 1400,
-  rightMinWidth: 1100
+  rightMinWidth: 1100,
+  showSidebarsBack: true
 };
 var SettingsTab = class extends import_obsidian.PluginSettingTab {
   constructor(app2, plugin) {
@@ -64,64 +45,75 @@ var SettingsTab = class extends import_obsidian.PluginSettingTab {
     const { containerEl } = this;
     containerEl.empty();
     containerEl.createEl("h3", { text: "Hide Sidebars on Window Resize" });
-    new import_obsidian.Setting(containerEl).setName("Hide the left sidebar when the window is this narrow").setDesc("Increase this to hide the left sidebar sooner; decrease it to delay hiding").addText((text) => text.setPlaceholder(`Default: ${DEFAULT_SETTINGS.leftMinWidth}`).setValue(this.plugin.settings.leftMinWidth.toString()).onChange((value) => __async(this, null, function* () {
-      const num = parseInt(value);
-      if (num) {
-        this.plugin.settings.leftMinWidth = num;
-      } else {
-        this.plugin.settings.leftMinWidth = DEFAULT_SETTINGS.leftMinWidth;
-      }
-      yield this.plugin.saveSettings();
-    })));
-    new import_obsidian.Setting(containerEl).setName("Hide the right sidebar when the window is this narrow").setDesc("Increase this to hide the right sidebar sooner; decrease it to delay hiding").addText((text) => text.setPlaceholder(`Default: ${DEFAULT_SETTINGS.rightMinWidth}`).setValue(this.plugin.settings.rightMinWidth.toString()).onChange((value) => __async(this, null, function* () {
-      const num = parseInt(value);
-      if (num) {
-        this.plugin.settings.rightMinWidth = num;
-      } else {
-        this.plugin.settings.rightMinWidth = DEFAULT_SETTINGS.rightMinWidth;
-      }
-      yield this.plugin.saveSettings();
-    })));
+    new import_obsidian.Setting(containerEl).setName("Hide the left sidebar when the window is this narrow").setDesc(
+      "Increase this to hide the left sidebar sooner; decrease it to delay hiding"
+    ).addText(
+      (text) => text.setPlaceholder(`Default: ${DEFAULT_SETTINGS.leftMinWidth}`).setValue(this.plugin.settings.leftMinWidth.toString()).onChange(async (value) => {
+        const num = parseInt(value);
+        if (num) {
+          this.plugin.settings.leftMinWidth = num;
+        } else {
+          this.plugin.settings.leftMinWidth = DEFAULT_SETTINGS.leftMinWidth;
+        }
+        await this.plugin.saveSettings();
+      })
+    );
+    new import_obsidian.Setting(containerEl).setName("Hide the right sidebar when the window is this narrow").setDesc(
+      "Increase this to hide the right sidebar sooner; decrease it to delay hiding"
+    ).addText(
+      (text) => text.setPlaceholder(
+        `Default: ${DEFAULT_SETTINGS.rightMinWidth}`
+      ).setValue(this.plugin.settings.rightMinWidth.toString()).onChange(async (value) => {
+        const num = parseInt(value);
+        if (num) {
+          this.plugin.settings.rightMinWidth = num;
+        } else {
+          this.plugin.settings.rightMinWidth = DEFAULT_SETTINGS.rightMinWidth;
+        }
+        await this.plugin.saveSettings();
+      })
+    );
+    new import_obsidian.Setting(this.containerEl).setName("Show sidebars back when window becomes wide again").setDesc("Sidebars remain hidden if option is disabled").addToggle((component) => {
+      component.setValue(this.plugin.settings.showSidebarsBack);
+      component.onChange((value) => {
+        this.plugin.settings.showSidebarsBack = value;
+        this.plugin.saveSettings();
+      });
+    });
   }
 };
 
 // src/main.ts
 var HideSidebarsOnWindowResizePlugin = class extends import_obsidian2.Plugin {
-  onload() {
-    return __async(this, null, function* () {
-      console.log("loading HideSidebarsOnWindowResizePlugin");
-      yield this.loadSettings();
-      this.addSettingTab(new SettingsTab(this.app, this));
-      this.app.workspace.onLayoutReady(() => {
-        this.previousWidth = window.innerWidth;
-        this.toggleSidebars();
-        app.workspace.on("resize", () => this.toggleSidebars());
-      });
+  async onload() {
+    console.log("loading HideSidebarsOnWindowResizePlugin");
+    await this.loadSettings();
+    this.addSettingTab(new SettingsTab(this.app, this));
+    this.app.workspace.onLayoutReady(() => {
+      this.previousWidth = window.innerWidth;
+      this.toggleSidebars();
+      app.workspace.on("resize", () => this.toggleSidebars());
     });
   }
   toggleSidebars() {
     const width = window.innerWidth;
     if (width < this.settings.leftMinWidth && width < this.previousWidth && !this.app.workspace.leftSplit.collapsed) {
       this.app.workspace.leftSplit.collapse();
-    } else if (width > this.settings.leftMinWidth && width > this.previousWidth && this.app.workspace.leftSplit.collapsed) {
+    } else if (width > this.settings.leftMinWidth && width > this.previousWidth && this.app.workspace.leftSplit.collapsed && this.settings.showSidebarsBack) {
       this.app.workspace.leftSplit.expand();
     }
     if (width < this.settings.rightMinWidth && width < this.previousWidth && !this.app.workspace.rightSplit.collapsed) {
       this.app.workspace.rightSplit.collapse();
-    } else if (width > this.settings.rightMinWidth && width > this.previousWidth && this.app.workspace.rightSplit.collapsed) {
+    } else if (width > this.settings.rightMinWidth && width > this.previousWidth && this.app.workspace.rightSplit.collapsed && this.settings.showSidebarsBack) {
       this.app.workspace.rightSplit.expand();
     }
     this.previousWidth = width;
   }
-  loadSettings() {
-    return __async(this, null, function* () {
-      this.settings = Object.assign({}, DEFAULT_SETTINGS, yield this.loadData());
-    });
+  async loadSettings() {
+    this.settings = Object.assign({}, DEFAULT_SETTINGS, await this.loadData());
   }
-  saveSettings() {
-    return __async(this, null, function* () {
-      yield this.saveData(this.settings);
-      this.toggleSidebars();
-    });
+  async saveSettings() {
+    await this.saveData(this.settings);
+    this.toggleSidebars();
   }
 };

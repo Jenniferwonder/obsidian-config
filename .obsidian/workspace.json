@@ -4,34 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f6406fe2e10b1e35",
+        "id": "f4318afa55570e8a",
         "type": "tabs",
         "children": [
           {
-            "id": "26f2f4071ebea2b0",
-            "type": "leaf",
-            "state": {
-              "type": "database-plugin",
-              "state": {
-                "file": "000-OKRTs/Daily/DB-Daily.md"
-              }
-            }
-          },
-          {
-            "id": "67b100006b629f41",
+            "id": "ee637757266f5fd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-OKRTs/Daily/2023-05-23.md",
+                "file": "AAA-Resonance/PKM/YouTube- Rethinking MY PKM How I Organize Everything In Obsidian.md",
                 "mode": "source",
-                "backlinks": true,
+                "backlinks": false,
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -105,13 +95,22 @@
               "type": "surfing-tab-tree",
               "state": {}
             }
+          },
+          {
+            "id": "3d9ef7a1002e6d41",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 338.5
+    "width": 264.5,
+    "collapsed": true
   },
   "right": {
     "id": "617127011ede853a",
@@ -139,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "000-OKRTs/Daily/2023-05-23.md"
+                "file": "AAA-Resonance/PKM/YouTube- Rethinking MY PKM How I Organize Everything In Obsidian.md"
               }
             }
           },
@@ -149,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000-OKRTs/Daily/2023-05-23.md",
+                "file": "AAA-Resonance/PKM/YouTube- Rethinking MY PKM How I Organize Everything In Obsidian.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -295,7 +294,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000-OKRTs/Daily/2023-05-23.md",
+                "file": "AAA-Resonance/PKM/YouTube- Rethinking MY PKM How I Organize Everything In Obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -307,7 +306,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000-OKRTs/Daily/2023-05-23.md",
+                "file": "AAA-Resonance/PKM/YouTube- Rethinking MY PKM How I Organize Everything In Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -323,7 +322,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
+    "width": 707.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -340,8 +339,6 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "custom-sort:Toggle custom sorting": false,
       "templater-obsidian:Templater": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-projects:Open projects": false,
       "omnisearch:Omnisearch": false,
       "webpage-html-export:Export Vault to HTML": false,
@@ -356,13 +353,18 @@
       "big-calendar:Big Calendar": false,
       "card-board:CardBoard": false,
       "cmdr:QuickAdd: 添加任务": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "notion-like-tables:Create Notion-Like table": false,
       "juggl:Juggl global graph": false,
       "obsidian-book-search-plugin:Create new book note": false,
+      "privacy-glasses:Hide all": false,
+      "privacy-glasses:Reveal non-private": false,
+      "privacy-glasses:Reveal all": false,
       "periodic-notes:Open today": false,
       "obsidian-memos:Memos": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "notion-like-tables:Create Notion-Like table": false
     }
   },
   "floating": {
@@ -370,15 +372,15 @@
     "type": "floating",
     "children": [
       {
-        "id": "74a154e034d29d03",
+        "id": "800ae70bf50b0846",
         "type": "window",
         "children": [
           {
-            "id": "8489129962188d47",
+            "id": "274664a7a065ebf9",
             "type": "tabs",
             "children": [
               {
-                "id": "ce19f339f0145acf",
+                "id": "247206126eb93c31",
                 "type": "leaf",
                 "state": {
                   "type": "memos_view",
@@ -389,71 +391,71 @@
           }
         ],
         "direction": "vertical",
-        "x": 2638,
-        "y": 243,
-        "width": 376,
-        "height": 577,
+        "x": 1149,
+        "y": 42,
+        "width": 344,
+        "height": 768,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "67b100006b629f41",
+  "active": "ee637757266f5fd9",
   "lastOpenFiles": [
-    "000-OKRTs/Daily/DB-Daily.md",
-    "000-OKRTs/Daily/2023-05-23.md",
-    "000-Templates/Tp-Notes/tp-Tasks.md",
-    "AAA-Resonance/Linking Your Thinking.md",
-    "000-Templates/Tp-Notes/tp-Daily Plan.md",
-    "000-Templates/Tp-Videos/tp-CPE Script.md",
-    "000-Templates/Tp-Videos/tp-CPE Project.md",
-    "400-Areas/PKM/04.Obs-Quick Add and Capture/04.Obs-Quick Add and Capture.md",
-    "400-Areas/PKM/04b.Obs-Link and Navigation/Breadcrumbs.md",
-    "400-Areas/PKM/02.Obs-Setup/02.Obs-Setup.md",
-    "400-Areas/PKM/04b.Obs-Link and Navigation/04b.Obs-Link and Navigation.md",
-    "400-Areas/PKM/04b.Obs-Link and Navigation",
+    "zz-assets/Zsolt-Tasks Demo.png",
+    "zz-assets/Zsolt-Dv Tasks.png",
+    "zz-assets/Zsolt-Geo Tags.png",
+    "300-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Excalidraw/Obs-Excalidraw.md",
+    "AAA-Resonance/PKM/YouTube- Rethinking MY PKM How I Organize Everything In Obsidian.md",
+    "zz-assets/Zsolt-Filename Convention.png",
+    "CCC-CPE/1-Ideas/PKM 笔记理念与方法.md",
+    "Zsolt.md",
+    "Tiago Forte.md",
+    "500-People/Nick Milo.md",
     "zz-Excalidraw/excalibrain.md",
-    "000-Templates/Tp-Notes/tp-moc.md",
+    "zz-assets/Zsolt-Formated Tags for Excalibrain.png",
+    "zz-assets/Zsolt's PKM folder.png",
+    "300-Areas/PKM/00-Learning Strategy & Workflow/LATCH.md",
+    "zz-assets/LATCH Source-Information Anxiety.png",
+    "000-OKRTs/Tasks/KB-Tasks.md",
     "000-Templates/Tp-Notes/tp-GNotes.md",
-    "000-Templates/Tp-Atoms/tp-Metadata.md",
-    "300-CPE/1-Ideas/有趣的笔记概念.md",
-    "600-People/Nick Milo.md",
-    "000-Templates/Tp-Notes/tp-People.md",
-    "AAA-Resonance/YouTube- Rethinking MY PKM How I Organize Everything In Obsidian.md",
-    "AAA-Resonance/MeisterTask Project Management Alternatives  Developer.com.md",
-    "AAA-Resonance/Use Notion as a database for your Next.JS Blog.md",
-    "100-TechSkills/100-TechSkills.md",
-    "000-Templates/tp-test/tp-默认笔记模板.md",
-    "300-CPE/1-Ideas/Bilibili Title Ideas.table",
-    "000-OKRTs/Tasks/KB-Videos.md",
-    "Homepage.md",
-    "300-CPE/1-Ideas/Ideas.md",
-    "400-Areas/PKM/00-Learning Strategy & Workflow/CVS-Task Workflow.canvas",
-    "000-OKRTs/Objectives",
+    "zz-assets/Zolt-PKM Principles.png",
+    "000-OKRTs/Tasks/KB-CPE.md",
+    "000-OKRTs/O3/O3-PMP-通过 PMP 认证考试——8 月中旬3 A.md",
+    "000-Templates/Tp-Plugins/sortspec.md",
+    "000-OKRTs/DB-OKRTs",
+    "000-OKRTs/O4",
+    "000-OKRTs/O3",
+    "000-OKRTs/O2",
+    "000-OKRTs/O1",
+    "000-Templates/Tp-Notes/tp-Objective.md",
+    "000-OKRTs/O4/O4-CPE 内容输出实现突破.md",
+    "000-OKRTs/Daily/2023-05-25.md",
+    "300-Areas/PKM/05.Obs-Project and Task Management/如何高效管理时间与任务，将任务落实到日-Daily Note, OKRTs DB.md",
+    "000-Templates/Tp-Notes/tp-Daily Plan.md",
+    "000-OKRTs/Daily/2023-05-24.md",
+    "zz-assets/Relationships-v1.0.0.png",
+    "zz-assets/Daily Note-Habits-v.1.0.0-0525.png",
+    "300-Areas/PKM/05.Obs-Project and Task Management/Obs-Kanban——真看板，怎么用.md",
+    "300-Areas/PKM/04.Obs-Quick Add and Capture/不同类型笔记与项目资源模板/Obs-Reading Notes (PDF, Books, Photo).md",
+    "000-OKRTs/O1/O1-前端学习成果总结，入行前端开发.md",
+    "000-Templates/Tp-Notes/tp-Tasks.md",
+    "000-OKRTs/O1/K1-夯实前端基础，完成基础系列笔记系统化整理与输出.md",
+    "100-TechSkills/00-Roadmap/Front-End Roadmap.md",
+    "BBB-Resources/PMP/PMP 电子版教材/PMBOK-E7-CH(Bookmarked).pdf",
+    "BBB-Resources/PMP/PMP 电子版教材/PMI：PMBOK第七版中文版（带书签）.pdf",
+    "BBB-Resources/PMP/新版考纲.pdf",
+    "BBB-Resources/PMP/敏捷相关资料/英文版Agile Practice Guide 密码123456.pdf",
+    "BBB-Resources/PMP/敏捷相关资料/新版《敏捷实践指南》.pdf",
+    "300-Areas/PKM/00-Learning Strategy & Workflow/CVS-Task Workflow.canvas",
     "zz-assets/Add Link to Existing File and Open.svg",
-    "zz-assets/white-bg.png",
-    "zz-assets/Uniform size.svg",
-    "zz-assets/Split text by lines.svg",
-    "zz-assets/Snipaste_2022-11-25_10-54-52.png",
-    "zz-assets/Slideshow.svg",
-    "zz-assets/Select Elements of Type.svg",
-    "zz-assets/Reverse arrows.svg",
-    "zz-assets/Rename Image.svg",
-    "zz-assets/Record_2022_12_14_18_44_21_740.gif",
-    "400-Areas/PKM/00-Learning Strategy & Workflow/Knowledge Workflow.canvas",
+    "300-Areas/PKM/00-Learning Strategy & Workflow/Knowledge Workflow.canvas",
     "100-TechSkills/00-Roadmap/Front-End Projects Overview.canvas",
-    "100-TechSkills/00-Roadmap",
-    "400-Areas/PKM/09.Obs-Collaboration",
-    "400-Areas/PKM/09.Obs-Publish",
-    "100-TechSkills/10-Tech Fundamentals/System Fundamentals/Untitled",
-    "zz-Excalidraw/Scripts/Downloaded",
-    "zz-Excalidraw/Scripts",
-    "zz-Excalidraw",
-    "400-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/PKM-Map.canvas",
-    "400-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/Canvas Demo.canvas",
-    "400-Areas/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/How Memo Works.canvas",
-    "400-Areas/PKM/iPad/Note in iPhone.canvas",
-    "400-Areas/PKM/iPad/Canvas in iPad.canvas",
+    "300-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/PKM-Map.canvas",
+    "300-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/Canvas Demo.canvas",
+    "300-Areas/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/How Memo Works.canvas",
+    "300-Areas/PKM/iPad/Note in iPhone.canvas",
+    "300-Areas/PKM/iPad/Canvas in iPad.canvas",
     "300-GeneralSkills/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/How Memo Works.canvas",
     "300-GeneralSkills/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/PKM-Map.canvas"
   ]

@@ -623,5 +623,21 @@
       ],
       "key": "G"
     }
+  ],
+  "quickadd:choice:69d06959-fef8-43fc-95b8-c73e0e1ce2d1": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "`"
+    }
+  ],
+  "quickadd:choice:77970902-151e-423e-ac80-dae72c0a167c": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "`"
+    }
   ]
 }

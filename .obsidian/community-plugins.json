@@ -62,7 +62,6 @@
   "obsidian-plugin-groups",
   "obsidian-memos",
   "quickadd",
-  "remember-cursor-position",
   "obsidian-full-calendar",
   "canvas-css-class",
   "link-nodes-in-canvas",
@@ -101,5 +100,8 @@
   "breadcrumbs",
   "heatmap-calendar",
   "obsidian-book-search-plugin",
-  "obsidian-copy-block-link"
+  "obsidian-copy-block-link",
+  "privacy-glasses",
+  "remember-cursor-position",
+  "mousewheel-image-zoom"
 ]

@@ -272,6 +272,22 @@
         {
           "id": "oz-clear-unused-images",
           "name": "Clear Unused Images"
+        },
+        {
+          "id": "obsidian-copy-block-link",
+          "name": "Copy Block Link"
+        },
+        {
+          "id": "better-pdf-plugin",
+          "name": "Better PDF Plugin"
+        },
+        {
+          "id": "mousewheel-image-zoom",
+          "name": "Mousewheel Image zoom"
+        },
+        {
+          "id": "privacy-glasses",
+          "name": "Privacy Glasses"
         }
       ],
       "groupIds": [],

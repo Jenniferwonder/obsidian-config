@@ -17,8 +17,10 @@
     ]
   },
   "IgnoredProperties": {
-    "enabled": false,
-    "properties": []
+    "enabled": true,
+    "properties": [
+      "DateCompleted"
+    ]
   },
   "AutoProperties": {
     "enabled": true,

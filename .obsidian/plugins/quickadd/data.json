@@ -2,7 +2,7 @@
   "choices": [
     {
       "id": "2f9f18b1-c339-4b24-bdbb-cc13b7c42261",
-      "name": "随笔记录",
+      "name": "Add Log",
       "type": "Capture",
       "command": true,
       "appendLink": false,
@@ -36,7 +36,7 @@
     },
     {
       "id": "1331d6d4-4efe-4d24-b585-80a9de29b397",
-      "name": "添加任务",
+      "name": "Add Task",
       "type": "Capture",
       "command": true,
       "appendLink": false,
@@ -69,10 +69,74 @@
       "openFileInMode": "default"
     },
     {
+      "id": "69d06959-fef8-43fc-95b8-c73e0e1ce2d1",
+      "name": "Add Ideas",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "000-OKRTs/Tasks/KB-CPE.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "000-Templates/Tp-Notes/tp-GNote.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "{{VALUE:请输入灵感话题}}"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "## 💡Ideas",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "77970902-151e-423e-ac80-dae72c0a167c",
+      "name": "GWrite",
+      "type": "Template",
+      "command": true,
+      "templatePath": "000-Templates/Tp-Notes/tp-GWrite",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "CCC-CPE/1-Ideas"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default",
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
       "id": "9858a60b-c362-434f-a71d-a55816668bd7",
       "name": "主题设置",
       "type": "Macro",
-      "command": true,
+      "command": false,
       "macroId": "8f7eb649-553c-4115-803a-b05e98ead7f7"
     },
     {
@@ -86,7 +150,7 @@
       "id": "b49b9d51-881b-4f59-901d-d3e79f18558e",
       "name": "inbox",
       "type": "Template",
-      "command": true,
+      "command": false,
       "templatePath": "zz-templates/tp/tp-笔记收集箱.md",
       "fileNameFormat": {
         "enabled": true,
@@ -109,34 +173,6 @@
       "openFileInMode": "default",
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": true
-    },
-    {
-      "id": "21020326-656e-4df8-aa7f-fd977b282448",
-      "name": "Moc",
-      "type": "Template",
-      "command": false,
-      "templatePath": "",
-      "fileNameFormat": {
-        "enabled": false,
-        "format": ""
-      },
-      "folder": {
-        "enabled": false,
-        "folders": [],
-        "chooseWhenCreatingNote": false,
-        "createInSameFolderAsActiveFile": false,
-        "chooseFromSubfolders": false
-      },
-      "appendLink": false,
-      "openFileInNewTab": {
-        "enabled": false,
-        "direction": "vertical",
-        "focus": true
-      },
-      "openFile": false,
-      "openFileInMode": "default",
-      "fileExistsMode": "Increment the file name",
-      "setFileExistsBehavior": false
     }
   ],
   "macros": [
@@ -255,7 +291,8 @@
   "devMode": false,
   "templateFolderPath": "zz-templates",
   "announceUpdates": true,
-  "version": "0.23.0",
+  "version": "1.0.2",
+  "disableOnlineFeatures": true,
   "ai": {
     "OpenAIApiKey": "",
     "defaultModel": "Ask me",
