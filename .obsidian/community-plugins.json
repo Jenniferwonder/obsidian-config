@@ -93,7 +93,6 @@
   "obsidian-timestamp-notes",
   "obsidian-hider",
   "juggl",
-  "excalibrain",
   "customjs",
   "obsidian-paste-image-rename",
   "oz-clear-unused-images",
@@ -103,5 +102,6 @@
   "obsidian-copy-block-link",
   "privacy-glasses",
   "remember-cursor-position",
-  "mousewheel-image-zoom"
+  "mousewheel-image-zoom",
+  "excalibrain"
 ]

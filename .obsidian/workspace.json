@@ -4,16 +4,29 @@
     "type": "split",
     "children": [
       {
-        "id": "f4318afa55570e8a",
+        "id": "43ca2d92c1ee9444",
         "type": "tabs",
         "children": [
           {
-            "id": "ee637757266f5fd9",
+            "id": "89540fd725f2ad5c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AAA-Resonance/PKM/YouTube- Rethinking MY PKM How I Organize Everything In Obsidian.md",
+                "file": "300-Areas/00-Learning Strategy & Workflow/How to Read a Book.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52c6944c8721ab1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300-Areas/PKM/04.Obs-Quick Add and Capture/不同类型笔记与项目资源模板/Obs-Reading Notes (PDF, Books, Photo).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -21,6 +34,7 @@
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -33,6 +47,7 @@
       {
         "id": "8201dfdfd238859b",
         "type": "tabs",
+        "dimension": 57.78508771929825,
         "children": [
           {
             "id": "ffc2db0d12688bb7",
@@ -40,21 +55,13 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "PDF-",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
-            }
-          },
-          {
-            "id": "a1f145b4f75956ec",
-            "type": "leaf",
-            "state": {
-              "type": "starred",
-              "state": {}
             }
           },
           {
@@ -68,10 +75,18 @@
             }
           },
           {
-            "id": "f1b6fbbbfa6f670d",
+            "id": "3d9ef7a1002e6d41",
             "type": "leaf",
             "state": {
-              "type": "recent-files",
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "00ef91170a88277b",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
               "state": {}
             }
           },
@@ -87,30 +102,28 @@
                 "source": false
               }
             }
-          },
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "01e21c8d501e85ca",
+        "type": "tabs",
+        "dimension": 42.21491228070175,
+        "children": [
           {
-            "id": "00ef91170a88277b",
+            "id": "f1b6fbbbfa6f670d",
             "type": "leaf",
             "state": {
-              "type": "surfing-tab-tree",
-              "state": {}
-            }
-          },
-          {
-            "id": "3d9ef7a1002e6d41",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
+              "type": "recent-files",
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 264.5,
-    "collapsed": true
+    "width": 260.5
   },
   "right": {
     "id": "617127011ede853a",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AAA-Resonance/PKM/YouTube- Rethinking MY PKM How I Organize Everything In Obsidian.md"
+                "file": "300-Areas/PKM/04.Obs-Quick Add and Capture/不同类型笔记与项目资源模板/Obs-Reading Notes (PDF, Books, Photo).md"
               }
             }
           },
@@ -148,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "AAA-Resonance/PKM/YouTube- Rethinking MY PKM How I Organize Everything In Obsidian.md",
+                "file": "300-Areas/PKM/04.Obs-Quick Add and Capture/不同类型笔记与项目资源模板/Obs-Reading Notes (PDF, Books, Photo).md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -178,7 +191,7 @@
             }
           },
           {
-            "id": "30704f12bddfb28a",
+            "id": "20808bf68f3a412c",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -294,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AAA-Resonance/PKM/YouTube- Rethinking MY PKM How I Organize Everything In Obsidian.md",
+                "file": "300-Areas/PKM/04.Obs-Quick Add and Capture/不同类型笔记与项目资源模板/Obs-Reading Notes (PDF, Books, Photo).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -306,7 +319,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AAA-Resonance/PKM/YouTube- Rethinking MY PKM How I Organize Everything In Obsidian.md",
+                "file": "300-Areas/PKM/04.Obs-Quick Add and Capture/不同类型笔记与项目资源模板/Obs-Reading Notes (PDF, Books, Photo).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -322,7 +335,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 707.5,
+    "width": 476.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -341,7 +354,6 @@
       "templater-obsidian:Templater": false,
       "obsidian-projects:Open projects": false,
       "omnisearch:Omnisearch": false,
-      "webpage-html-export:Export Vault to HTML": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "obsidian-weread-plugin:Weread": false,
       "obsidian-kindle-plugin:Sync your Kindle highlights": false,
@@ -358,13 +370,14 @@
       "privacy-glasses:Hide all": false,
       "privacy-glasses:Reveal non-private": false,
       "privacy-glasses:Reveal all": false,
-      "periodic-notes:Open today": false,
-      "obsidian-memos:Memos": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "notion-like-tables:Create Notion-Like table": false
+      "notion-like-tables:Create Notion-Like table": false,
+      "periodic-notes:Open today": false,
+      "obsidian-memos:Memos": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "webpage-html-export:Export Vault to HTML": false
     }
   },
   "floating": {
@@ -400,56 +413,56 @@
       }
     ]
   },
-  "active": "ee637757266f5fd9",
+  "active": "52c6944c8721ab1d",
   "lastOpenFiles": [
+    "300-Areas/00-Learning Strategy & Workflow/How to Read a Book.md",
+    "300-Areas/PKM/04.Obs-Quick Add and Capture/不同类型笔记与项目资源模板/Obs-Reading Notes (PDF, Books, Photo).md",
+    "000-OKRTs/O3-PMP/O3-PMP-通过 PMP 认证考试——8 月中旬3 A.md",
+    "100-TechSkills/10-Tech Fundamentals/System Fundamentals/3-Computer Network/TCP-IP.md",
+    "100-TechSkills/10-Tech Fundamentals/System Fundamentals/3-Computer Network/BookNote-TCP-IP Illustrated- Vol 1 Protocols.md",
+    "Book List.md",
+    "000-OKRTs/Daily/2023-05-25.md",
+    "000-OKRTs/Tasks/KB-Projects.md",
+    "Book Resources.md",
+    "100-TechSkills/50-Front-End Frameworks/50-Front-End Frameworks.md",
+    "BBB-Resources/BBB-Resources.md",
+    "BBB-Resources/Computer Network/PDF-TCP_IP_Illustrated,_Volume_1__The_Protocols-Addison-Wesley_Professional(2011).pdf",
+    "BBB-Resources/PMP/PDF-PMP新版考纲.pdf",
+    "BBB-Resources/PMP/敏捷相关资料/PDF-英文版Agile Practice Guide 密码123456.pdf",
+    "BBB-Resources/PMP/敏捷相关资料/PDF-新版《敏捷实践指南》.pdf",
+    "BBB-Resources/PMP/敏捷相关资料/PDF-光环国际：敏捷知识点补充.pdf",
+    "BBB-Resources/PMP/敏捷相关资料/PDF-Scrum-中文版.pdf",
+    "BBB-Resources/PMP/敏捷相关资料/PDF-2020-Scrum-Guide-US.pdf",
+    "BBB-Resources/PMP/PMP 电子版教材/PDF-PMI：PMBOK第七版英文版（无水印密码）.pdf",
+    "BBB-Resources/PMP/PMP 电子版教材/PDF-PMBOK第七版_中文版.pdf",
+    "BBB-Resources/PMP/PMP 电子版教材/PDF-PMBOK指南第6版-英文（密码：123456）.pdf",
+    "zz-Excalidraw/excalibrain.md",
+    "500-People/Richard Stevens.md",
+    "500-People/Zsolt.md",
+    "100-TechSkills/10-Tech Fundamentals/System Fundamentals/3-Computer Network/3-Computer Network.md",
+    "100-TechSkills/10-Tech Fundamentals/System Fundamentals/3-Computer Network/Protocols-网络协议.md",
+    "AAA-Resonance/AAA-Resonance.md",
+    "000-OKRTs/Daily/2023-05-26.md",
+    "100-TechSkills/40-Front-End Basics/40-Front-End Basics.md",
+    "100-TechSkills/10-Tech Fundamentals/System Fundamentals/5-Distributed System Design-分布式技术架构/5-Distributed System Design-分布式技术架构.md",
+    "100-TechSkills/10-Tech Fundamentals/System Fundamentals/4-Database-数据库原理/4-Database-数据库原理.md",
+    "100-TechSkills/10-Tech Fundamentals/System Fundamentals/1-Computer System Principles-计算机系统原理/1-Computer System Principles-计算机系统原理.md",
+    "100-TechSkills/10-Tech Fundamentals/Programming Fundamentals/C 语言/C 语言.md",
+    "100-TechSkills/10-Tech Fundamentals/Programming Fundamentals/Algorithm and Data Structure/Algorithm and Data Structure.md",
+    "100-TechSkills/10-Tech Fundamentals/Programming Fundamentals/Programming Paradigm-编程范式/Programming Paradigm-编程范式.md",
+    "100-TechSkills/10-Tech Fundamentals/System Fundamentals/3-Computer Network/Browser-浏览器工作原理.md",
+    "300-Areas/00-Learning Strategy & Workflow/CVS-Task Workflow.canvas",
     "zz-assets/Zsolt-Tasks Demo.png",
     "zz-assets/Zsolt-Dv Tasks.png",
     "zz-assets/Zsolt-Geo Tags.png",
-    "300-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Excalidraw/Obs-Excalidraw.md",
-    "AAA-Resonance/PKM/YouTube- Rethinking MY PKM How I Organize Everything In Obsidian.md",
     "zz-assets/Zsolt-Filename Convention.png",
-    "CCC-CPE/1-Ideas/PKM 笔记理念与方法.md",
-    "Zsolt.md",
-    "Tiago Forte.md",
-    "500-People/Nick Milo.md",
-    "zz-Excalidraw/excalibrain.md",
     "zz-assets/Zsolt-Formated Tags for Excalibrain.png",
     "zz-assets/Zsolt's PKM folder.png",
-    "300-Areas/PKM/00-Learning Strategy & Workflow/LATCH.md",
     "zz-assets/LATCH Source-Information Anxiety.png",
-    "000-OKRTs/Tasks/KB-Tasks.md",
-    "000-Templates/Tp-Notes/tp-GNotes.md",
     "zz-assets/Zolt-PKM Principles.png",
-    "000-OKRTs/Tasks/KB-CPE.md",
-    "000-OKRTs/O3/O3-PMP-通过 PMP 认证考试——8 月中旬3 A.md",
-    "000-Templates/Tp-Plugins/sortspec.md",
-    "000-OKRTs/DB-OKRTs",
-    "000-OKRTs/O4",
-    "000-OKRTs/O3",
-    "000-OKRTs/O2",
-    "000-OKRTs/O1",
-    "000-Templates/Tp-Notes/tp-Objective.md",
-    "000-OKRTs/O4/O4-CPE 内容输出实现突破.md",
-    "000-OKRTs/Daily/2023-05-25.md",
-    "300-Areas/PKM/05.Obs-Project and Task Management/如何高效管理时间与任务，将任务落实到日-Daily Note, OKRTs DB.md",
-    "000-Templates/Tp-Notes/tp-Daily Plan.md",
-    "000-OKRTs/Daily/2023-05-24.md",
     "zz-assets/Relationships-v1.0.0.png",
     "zz-assets/Daily Note-Habits-v.1.0.0-0525.png",
-    "300-Areas/PKM/05.Obs-Project and Task Management/Obs-Kanban——真看板，怎么用.md",
-    "300-Areas/PKM/04.Obs-Quick Add and Capture/不同类型笔记与项目资源模板/Obs-Reading Notes (PDF, Books, Photo).md",
-    "000-OKRTs/O1/O1-前端学习成果总结，入行前端开发.md",
-    "000-Templates/Tp-Notes/tp-Tasks.md",
-    "000-OKRTs/O1/K1-夯实前端基础，完成基础系列笔记系统化整理与输出.md",
-    "100-TechSkills/00-Roadmap/Front-End Roadmap.md",
-    "BBB-Resources/PMP/PMP 电子版教材/PMBOK-E7-CH(Bookmarked).pdf",
-    "BBB-Resources/PMP/PMP 电子版教材/PMI：PMBOK第七版中文版（带书签）.pdf",
-    "BBB-Resources/PMP/新版考纲.pdf",
-    "BBB-Resources/PMP/敏捷相关资料/英文版Agile Practice Guide 密码123456.pdf",
-    "BBB-Resources/PMP/敏捷相关资料/新版《敏捷实践指南》.pdf",
-    "300-Areas/PKM/00-Learning Strategy & Workflow/CVS-Task Workflow.canvas",
-    "zz-assets/Add Link to Existing File and Open.svg",
-    "300-Areas/PKM/00-Learning Strategy & Workflow/Knowledge Workflow.canvas",
+    "300-Areas/00-Learning Strategy & Workflow/Knowledge Workflow.canvas",
     "100-TechSkills/00-Roadmap/Front-End Projects Overview.canvas",
     "300-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/PKM-Map.canvas",
     "300-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/Canvas Demo.canvas",

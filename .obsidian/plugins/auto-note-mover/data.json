@@ -4,17 +4,17 @@
   "statusBar_trigger_indicator": true,
   "folder_tag_pattern": [
     {
-      "folder": "400-Areas/PKM",
+      "folder": "300-Areas/PKM",
       "tag": "#PKM",
       "pattern": ""
     },
     {
-      "folder": "400-Areas/Project Management",
+      "folder": "300-Areas/Project Management",
       "tag": "#PMP",
       "pattern": ""
     },
     {
-      "folder": "400-Areas/Content-Making",
+      "folder": "300-Areas/Content-Making",
       "tag": "#Content-Making",
       "pattern": ""
     },
@@ -29,17 +29,17 @@
       "pattern": ""
     },
     {
-      "folder": "300-CPE",
+      "folder": "CCC-CPE",
       "tag": "#CPE",
       "pattern": ""
     },
     {
-      "folder": "500-Life",
+      "folder": "400-Life",
       "tag": "#Life-Tricks",
       "pattern": ""
     },
     {
-      "folder": "600-People",
+      "folder": "500-People",
       "tag": "#People",
       "pattern": ""
     }
