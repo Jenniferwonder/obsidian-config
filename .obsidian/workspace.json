@@ -4,29 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "43ca2d92c1ee9444",
+        "id": "393a1825fd652ef2",
         "type": "tabs",
         "children": [
           {
-            "id": "89540fd725f2ad5c",
+            "id": "8c2c32ebd487f70b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300-Areas/00-Learning Strategy & Workflow/How to Read a Book.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52c6944c8721ab1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "300-Areas/PKM/04.Obs-Quick Add and Capture/不同类型笔记与项目资源模板/Obs-Reading Notes (PDF, Books, Photo).md",
+                "file": "CCC-CPE/Free Writing/2023-05-31 出发前.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -34,7 +21,6 @@
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -47,7 +33,7 @@
       {
         "id": "8201dfdfd238859b",
         "type": "tabs",
-        "dimension": 57.78508771929825,
+        "dimension": 68.0921052631579,
         "children": [
           {
             "id": "ffc2db0d12688bb7",
@@ -109,7 +95,7 @@
       {
         "id": "01e21c8d501e85ca",
         "type": "tabs",
-        "dimension": 42.21491228070175,
+        "dimension": 31.907894736842103,
         "children": [
           {
             "id": "f1b6fbbbfa6f670d",
@@ -123,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 260.5
+    "width": 250.5
   },
   "right": {
     "id": "617127011ede853a",
@@ -151,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300-Areas/PKM/04.Obs-Quick Add and Capture/不同类型笔记与项目资源模板/Obs-Reading Notes (PDF, Books, Photo).md"
+                "file": "CCC-CPE/Free Writing/2023-05-31 出发前.md"
               }
             }
           },
@@ -161,7 +147,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "300-Areas/PKM/04.Obs-Quick Add and Capture/不同类型笔记与项目资源模板/Obs-Reading Notes (PDF, Books, Photo).md",
+                "file": "CCC-CPE/Free Writing/2023-05-31 出发前.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -307,7 +293,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "300-Areas/PKM/04.Obs-Quick Add and Capture/不同类型笔记与项目资源模板/Obs-Reading Notes (PDF, Books, Photo).md",
+                "file": "CCC-CPE/Free Writing/2023-05-31 出发前.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -319,7 +305,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "300-Areas/PKM/04.Obs-Quick Add and Capture/不同类型笔记与项目资源模板/Obs-Reading Notes (PDF, Books, Photo).md",
+                "file": "CCC-CPE/Free Writing/2023-05-31 出发前.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -335,7 +321,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 476.5,
+    "width": 431.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -374,10 +360,11 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "notion-like-tables:Create Notion-Like table": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "periodic-notes:Open today": false,
       "obsidian-memos:Memos": false,
-      "breadcrumbs:Breadcrumbs Visualisation": false,
-      "webpage-html-export:Export Vault to HTML": false
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
   "floating": {
@@ -399,8 +386,35 @@
                   "type": "memos_view",
                   "state": {}
                 }
+              },
+              {
+                "id": "256ab850c05f4d14",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000-OKRTs/Daily/2023-05-30.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "76571b8dbdded0c2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "000-OKRTs/Daily/2023-05-31.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           }
         ],
         "direction": "vertical",
@@ -413,63 +427,63 @@
       }
     ]
   },
-  "active": "52c6944c8721ab1d",
+  "active": "8c2c32ebd487f70b",
   "lastOpenFiles": [
-    "300-Areas/00-Learning Strategy & Workflow/How to Read a Book.md",
-    "300-Areas/PKM/04.Obs-Quick Add and Capture/不同类型笔记与项目资源模板/Obs-Reading Notes (PDF, Books, Photo).md",
-    "000-OKRTs/O3-PMP/O3-PMP-通过 PMP 认证考试——8 月中旬3 A.md",
-    "100-TechSkills/10-Tech Fundamentals/System Fundamentals/3-Computer Network/TCP-IP.md",
-    "100-TechSkills/10-Tech Fundamentals/System Fundamentals/3-Computer Network/BookNote-TCP-IP Illustrated- Vol 1 Protocols.md",
-    "Book List.md",
-    "000-OKRTs/Daily/2023-05-25.md",
-    "000-OKRTs/Tasks/KB-Projects.md",
-    "Book Resources.md",
-    "100-TechSkills/50-Front-End Frameworks/50-Front-End Frameworks.md",
-    "BBB-Resources/BBB-Resources.md",
-    "BBB-Resources/Computer Network/PDF-TCP_IP_Illustrated,_Volume_1__The_Protocols-Addison-Wesley_Professional(2011).pdf",
-    "BBB-Resources/PMP/PDF-PMP新版考纲.pdf",
-    "BBB-Resources/PMP/敏捷相关资料/PDF-英文版Agile Practice Guide 密码123456.pdf",
-    "BBB-Resources/PMP/敏捷相关资料/PDF-新版《敏捷实践指南》.pdf",
-    "BBB-Resources/PMP/敏捷相关资料/PDF-光环国际：敏捷知识点补充.pdf",
-    "BBB-Resources/PMP/敏捷相关资料/PDF-Scrum-中文版.pdf",
-    "BBB-Resources/PMP/敏捷相关资料/PDF-2020-Scrum-Guide-US.pdf",
-    "BBB-Resources/PMP/PMP 电子版教材/PDF-PMI：PMBOK第七版英文版（无水印密码）.pdf",
-    "BBB-Resources/PMP/PMP 电子版教材/PDF-PMBOK第七版_中文版.pdf",
-    "BBB-Resources/PMP/PMP 电子版教材/PDF-PMBOK指南第6版-英文（密码：123456）.pdf",
-    "zz-Excalidraw/excalibrain.md",
-    "500-People/Richard Stevens.md",
+    "A Drive Through Inner Mongolia.md",
+    "CCC-CPE/Free Writing/2023-05-31 出发前.md",
+    "AAA-Resonance/YouTube- China's Inner Mongolia will blow your mind! 中国的内蒙古会让你大吃一惊！.md",
+    "Inner Mongolia-Can You Believe This is China.md",
+    "zz-assets/Genghis Khan.png",
+    "zz-assets/Map-Mongolia.png",
+    "zz-Excalidraw/Comment-China's Inner Mongolia will blow your mind! .excalidraw.md",
+    "zz-assets/Pasted Image 20230531172244_505.png",
+    "000-OKRTs/Daily/2023-05-31.md",
+    "000-OKRTs/Daily/Travel Vlog-My ICELAND Experience-Ultimate Travel Vlog.md",
+    "CCC-CPE/Free Writing/Travel Plan-内蒙5日游行程安排.png",
+    "CCC-CPE/Free Writing/Travel Plan-内蒙5日游行程安排.md",
+    "400-Life/五一假期无人机拍摄素材整理剪辑.md",
+    "400-Life/400-Life.md",
+    "000-OKRTs/Daily/DB-Daily.md",
+    "000-OKRTs/Daily/2023-05-30.md",
+    "zz-archives/zz-Daily/2023-04/2023-04-18.md",
+    "000-Templates/Tp-Notes/tp-Daily Plan.md",
+    "000-OKRTs/Daily/2023-05-19.md",
+    "000-OKRTs/Daily/2023-05-28.md",
+    "000-OKRTs/Daily/Daily.md",
+    "000-OKRTs/Daily/2023-05-23.md",
+    "000-OKRTs/Tasks/内容输出——为什么，怎么做，我的 SWOT.md",
+    "000-OKRTs/Daily/2023-05-18.md",
+    "000-OKRTs/Daily/2023-05.md",
+    "300-Areas/00-Learning Strategy & Workflow/Brainstorm, Inspiration and Idea Generation.md",
+    "300-Areas/00-Learning Strategy & Workflow/Learning Path.md",
+    "CCC-CPE/Ideas/PKM 笔记理念与方法.md",
     "500-People/Zsolt.md",
-    "100-TechSkills/10-Tech Fundamentals/System Fundamentals/3-Computer Network/3-Computer Network.md",
-    "100-TechSkills/10-Tech Fundamentals/System Fundamentals/3-Computer Network/Protocols-网络协议.md",
-    "AAA-Resonance/AAA-Resonance.md",
-    "000-OKRTs/Daily/2023-05-26.md",
-    "100-TechSkills/40-Front-End Basics/40-Front-End Basics.md",
-    "100-TechSkills/10-Tech Fundamentals/System Fundamentals/5-Distributed System Design-分布式技术架构/5-Distributed System Design-分布式技术架构.md",
-    "100-TechSkills/10-Tech Fundamentals/System Fundamentals/4-Database-数据库原理/4-Database-数据库原理.md",
-    "100-TechSkills/10-Tech Fundamentals/System Fundamentals/1-Computer System Principles-计算机系统原理/1-Computer System Principles-计算机系统原理.md",
-    "100-TechSkills/10-Tech Fundamentals/Programming Fundamentals/C 语言/C 语言.md",
-    "100-TechSkills/10-Tech Fundamentals/Programming Fundamentals/Algorithm and Data Structure/Algorithm and Data Structure.md",
-    "100-TechSkills/10-Tech Fundamentals/Programming Fundamentals/Programming Paradigm-编程范式/Programming Paradigm-编程范式.md",
-    "100-TechSkills/10-Tech Fundamentals/System Fundamentals/3-Computer Network/Browser-浏览器工作原理.md",
+    "300-Areas/How to Read a Book/How to Read a Book.md",
+    "000-OKRTs/Tasks/CPE Ideas.canvas",
+    "AAA-Resonance/Italy Travel Vlog.canvas",
+    "zz-assets/Italy-Day2.png",
+    "zz-assets/Italy Vlog-Icecream-1.png",
+    "zz-assets/Italy Vlog-Icecream.png",
+    "zz-assets/Italy Vlog-Lunch Pizza-Cut by yourself.png",
+    "zz-assets/Italy Vlog-Lunch.png",
+    "zz-assets/Italy Vlog-Pizza.png",
+    "zz-Excalidraw/Scripts/Downloaded",
+    "CCC-CPE/Ideas/Bilibili Title Ideas.table",
+    "CCC-CPE/Free Writing",
+    "000-Templates/Bryan-Zotero/Formatting/Mermaid",
+    "000-Templates/Bryan-Zotero/Formatting/LaTeX",
+    "000-Templates/Bryan-Zotero/Formatting/Code",
+    "000-Templates/Bryan-Zotero/Temporal",
+    "000-Templates/Bryan-Zotero/mdnotes",
+    "000-Templates/Bryan-Zotero/Inputs",
+    "000-Templates/Bryan-Zotero/Formatting",
     "300-Areas/00-Learning Strategy & Workflow/CVS-Task Workflow.canvas",
-    "zz-assets/Zsolt-Tasks Demo.png",
-    "zz-assets/Zsolt-Dv Tasks.png",
-    "zz-assets/Zsolt-Geo Tags.png",
-    "zz-assets/Zsolt-Filename Convention.png",
-    "zz-assets/Zsolt-Formated Tags for Excalibrain.png",
-    "zz-assets/Zsolt's PKM folder.png",
-    "zz-assets/LATCH Source-Information Anxiety.png",
-    "zz-assets/Zolt-PKM Principles.png",
-    "zz-assets/Relationships-v1.0.0.png",
-    "zz-assets/Daily Note-Habits-v.1.0.0-0525.png",
     "300-Areas/00-Learning Strategy & Workflow/Knowledge Workflow.canvas",
     "100-TechSkills/00-Roadmap/Front-End Projects Overview.canvas",
     "300-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/PKM-Map.canvas",
     "300-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/Canvas Demo.canvas",
     "300-Areas/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/How Memo Works.canvas",
     "300-Areas/PKM/iPad/Note in iPhone.canvas",
-    "300-Areas/PKM/iPad/Canvas in iPad.canvas",
-    "300-GeneralSkills/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/How Memo Works.canvas",
-    "300-GeneralSkills/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/PKM-Map.canvas"
+    "300-Areas/PKM/iPad/Canvas in iPad.canvas"
   ]
 }

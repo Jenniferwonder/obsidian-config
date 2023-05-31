@@ -12,7 +12,6 @@
   "dataview",
   "templater-obsidian",
   "tag-wrangler",
-  "number-headings-obsidian",
   "obsidian-pandoc",
   "obsidian-git",
   "obsidian-outliner",
@@ -103,5 +102,9 @@
   "privacy-glasses",
   "remember-cursor-position",
   "mousewheel-image-zoom",
-  "excalibrain"
+  "excalibrain",
+  "obsidian-enhancing-export",
+  "obsidian-link-converter",
+  "number-headings-obsidian",
+  "obsidian-leaflet-plugin"
 ]

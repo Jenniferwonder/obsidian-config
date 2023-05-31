@@ -323,15 +323,6 @@
       "key": "3"
     }
   ],
-  "workspace:split-vertical": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "S"
-    }
-  ],
   "obsidian-day-planner:app:show-day-planner-timeline": [
     {
       "modifiers": [
@@ -560,14 +551,6 @@
     }
   ],
   "note-refactor-obsidian:app:extract-selection-content-only": [],
-  "note-refactor-obsidian:app:split-note-first-line": [
-    {
-      "modifiers": [
-        "Shift"
-      ],
-      "key": "S"
-    }
-  ],
   "editor:insert-wikilink": [
     {
       "modifiers": [
@@ -638,6 +621,31 @@
         "Shift"
       ],
       "key": "`"
+    }
+  ],
+  "highlightr-plugin:Orange": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "O"
+    }
+  ],
+  "note-refactor-obsidian:app:split-note-first-line": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "obsidian-excalidraw-plugin:Downloaded/Split text by lines": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "S"
     }
   ]
 }

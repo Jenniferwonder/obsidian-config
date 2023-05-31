@@ -288,6 +288,22 @@
         {
           "id": "privacy-glasses",
           "name": "Privacy Glasses"
+        },
+        {
+          "id": "obsidian-enhancing-export",
+          "name": "Obsidian Enhancing Export"
+        },
+        {
+          "id": "obsidian-link-converter",
+          "name": "Obsidian Link Converter"
+        },
+        {
+          "id": "obsidian-banners",
+          "name": "Banners"
+        },
+        {
+          "id": "obsidian-leaflet-plugin",
+          "name": "Obsidian Leaflet"
         }
       ],
       "groupIds": [],

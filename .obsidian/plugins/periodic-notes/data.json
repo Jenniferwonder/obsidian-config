@@ -11,22 +11,25 @@
   "weekly": {
     "format": "",
     "template": "",
-    "folder": "",
+    "folder": "000-OKRTs/Daily",
     "enabled": true
   },
   "monthly": {
     "format": "",
     "template": "",
-    "folder": ""
+    "folder": "000-OKRTs/Daily",
+    "enabled": true
   },
   "quarterly": {
     "format": "",
     "template": "",
-    "folder": ""
+    "folder": "000-OKRTs/Daily",
+    "enabled": true
   },
   "yearly": {
     "format": "",
     "template": "",
-    "folder": ""
+    "folder": "000-OKRTs/Daily",
+    "enabled": true
   }
 }

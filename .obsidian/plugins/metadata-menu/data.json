@@ -132,6 +132,21 @@
       "options": {},
       "id": "15",
       "type": "File"
+    },
+    {
+      "name": "Type",
+      "options": {
+        "valuesList": {
+          "1": "Note",
+          "2": "Blog",
+          "3": "Card"
+        },
+        "sourceType": "ValuesList",
+        "valuesListNotePath": "",
+        "valuesFromDVQuery": ""
+      },
+      "id": "16",
+      "type": "Select"
     }
   ],
   "fileClassQueries": [],

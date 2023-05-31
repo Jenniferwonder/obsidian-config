@@ -4,7 +4,7 @@
   "promptDelete": false,
   "vimMode": false,
   "useMarkdownLinks": false,
-  "newFileLocation": "root",
+  "newFileLocation": "current",
   "attachmentFolderPath": "zz-assets",
   "showLineNumber": false,
   "foldHeading": true,

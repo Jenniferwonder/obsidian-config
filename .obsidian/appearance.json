@@ -25,7 +25,8 @@
     "【Memos】Popover",
     "【Linkcard】",
     "【callout】Custom page preview",
-    "config"
+    "config",
+    "academic-pdf-export"
   ],
   "textFontFamily": "Microsoft YaHei",
   "baseFontSize": 15,
