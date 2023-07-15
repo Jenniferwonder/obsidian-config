@@ -1,5 +1,6 @@
 {
   "pluginList": [
+    "nothingislost/obsidian-bartender",
     "Quorafind/Obsidian-Float-Search",
     "JuckZ/awesome-brain-manager",
     "felixchenier/obsidian-optimize-canvas-connections",

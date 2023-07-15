@@ -1,0 +1,456 @@
+{
+  "main": {
+    "id": "7259667b8f5bdee2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cf73e0933ac5400",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfc0caef2e450b26",
+            "type": "leaf",
+            "state": {
+              "type": "database-plugin",
+              "state": {
+                "file": "OKRTs/KRs/DB-KRs.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dad6ac64b56b906b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8201dfdfd238859b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ffc2db0d12688bb7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Tasks",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1f145b4f75956ec",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "d7d55bf1207e42ba",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93d926517ea78aa6",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-tab-tree",
+              "state": {}
+            }
+          },
+          {
+            "id": "18ce8af7c95c8033",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
+          },
+          {
+            "id": "f1b6fbbbfa6f670d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "713321029d00e5c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zz-templates/Day Planners/tp-Day Planner.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 378.5
+  },
+  "right": {
+    "id": "617127011ede853a",
+    "type": "split",
+    "children": [
+      {
+        "id": "48e4df7056d011b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8456fea1d36da9b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "OKRTs/KRs/DB-KRs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2bf4200a55a7a205",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "OKRTs/KRs/DB-KRs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "39371486e0d803c5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4713a21889e76e49",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "OKRTs/KRs/DB-KRs.md"
+              }
+            }
+          },
+          {
+            "id": "3ff613d8b4842cb2",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "OKRTs/KRs/DB-KRs.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6717561918911799,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "dbbca4e000bceca9",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "3e28e9c79ee063b1",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe2355858dd23345",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a72e376b1bbc8c56",
+            "type": "leaf",
+            "state": {
+              "type": "podcast_player_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "a73e2715f5e99633",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d9693eb26b53394",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          },
+          {
+            "id": "53ac1105418ad542",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ba9b0aa9ca01140a",
+            "type": "leaf",
+            "state": {
+              "type": "FANTASY_CALENDAR",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "6856005a27f0a67b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1d288d4b7c49b89c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zz-templates/button/MyTools.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 268.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "custom-sort:Toggle custom sorting": false,
+      "templater-obsidian:Templater": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-projects:Open projects": false,
+      "omnisearch:Omnisearch": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "obsidian-weread-plugin:Weread": false,
+      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "flashcards-obsidian:Generate flashcards": false,
+      "obsidian-memos:Memos": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "remotely-save:Remotely Save": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "dbfolder:Create a new database table": false,
+      "fantasy-calendar:Open Large Fantasy Calendar": false,
+      "big-calendar:Big Calendar": false,
+      "card-board:CardBoard": false,
+      "cmdr:QuickAdd: 添加任务": false
+    }
+  },
+  "floating": {
+    "id": "dc21bd79018167a7",
+    "type": "floating",
+    "children": [
+      {
+        "id": "74a154e034d29d03",
+        "type": "window",
+        "children": [
+          {
+            "id": "8489129962188d47",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ce19f339f0145acf",
+                "type": "leaf",
+                "state": {
+                  "type": "memos_view",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2781,
+        "y": 4,
+        "width": 309,
+        "height": 695,
+        "maximize": false,
+        "zoom": 0
+      },
+      {
+        "id": "ad0e04970dc4c649",
+        "type": "window",
+        "children": [
+          {
+            "id": "ae1e03e60b349bcc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "7e7ce4e8293510b6",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Areas/PKM/CVS-Task Workflow.canvas",
+                    "viewState": {
+                      "x": -801.8777341737406,
+                      "y": -1266.2661516607645,
+                      "zoom": -0.29256835696600375
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1980,
+        "y": 122,
+        "width": 879,
+        "height": 732,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "ce19f339f0145acf",
+  "lastOpenFiles": [
+    "Resonance Database/Article/What's the Best Calendar Plugin for Obsidian 🗓️.md.baiduyun.uploading.cfg",
+    "Daily/2023-05-15.md.baiduyun.uploading.cfg",
+    "Resonance Database/Article/Article.md.baiduyun.uploading.cfg",
+    "OKRTs/KRs/K3-实现高效追踪学习进展与阶段成果工作流.md.baiduyun.uploading.cfg",
+    "OKRTs/KRs/DB-KRs.md.baiduyun.uploading.cfg",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/面试常见问题/产品经理面试常见问题.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/面试常见问题/demo.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/长尾理论/长尾理论-为什么商业的未来是小众市场.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/自我介绍/自我介绍.png",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/自我介绍/自我介绍.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/竞品分析/竞品分析-模版.png",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/竞品分析/竞品分析-模版.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/竞品分析/demo.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/神策分析/神策分析——多维度分析.xmind",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/神策分析/神策分析——多维度分析.png",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/神策分析/神策分析——基本介绍.png",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/神策分析/神策分析--基础介绍.xmind",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/数据产品经理修炼手册/数据产品经理修炼手册.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/数据产品经理修炼手册/demo.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/用户体验五要素/网页UI与用户体验设计五要素.xmind",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/用户体验五要素/用户体验五要素—概要.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/用户体验五要素/demo.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/商业模式/商业模式.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/商业模式/demo.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/启示录/启示录.xmind",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/启示录/启示录.png",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/启示录/启示录-打造用户喜爱的产品.png",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/启示录/启示录-打造用户喜爱的产品.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/人人都是产品经理/人人都是产品经理.pdf",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/什么是好产品/什么样的产品才算是一个好产品.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/什么是好产品/demo.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/产品经理基本素养/产品经理需要具备的基本素质.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/产品经理基本素养/demo.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/产品思维/产品思维.png",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/产品思维/产品思维.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/产品经理分类/产品经理的分类.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/产品经理分类/demo.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/产品分析报告/产品分析报告模版.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/产品分析报告/demo.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/为什么选择当产品经理/为什么要当产品经理.png",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/为什么选择当产品经理/为什么要当产品经理.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/PRD/PRD—模版.png",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/PRD/PRD—模版.md",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/PM的日常工作/产品经理的日常工作.png",
+    "Resonance Database/PMP/ProductManager/ProductManager-main/PM的日常工作/产品经理的日常工作.md",
+    "Resonance Database/PMP/2304-深圳PMP面授班/1-班级同学预习学习笔记/军雄/第四章 4.1-4.4 项目整合管理.pdf",
+    "Areas/PKM/CVS-Task Workflow.canvas",
+    "Areas/Front-End/00-Roadmap/Front-End Projects Overview.canvas",
+    "Views/Untitled.canvas",
+    "Areas/PKM/Workflow/Knowledge Workflow.canvas",
+    "Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/PKM-Map.canvas",
+    "Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/Canvas Demo.canvas",
+    "GeekEnglish/GE-Resources/Projects Overview.canvas",
+    "Resources/GeekEnglish/Projects Overview.canvas",
+    "Areas/PKM/iPad/Note in iPhone.canvas",
+    "Areas/PKM/iPad/Canvas in iPad.canvas"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+	"nodes":[
+		{"id":"71e43e5f81f0d558","x":-109,"y":-500,"width":117,"height":60,"type":"text","text":"### PKM"},
+		{"id":"b1dd09873e397421","x":-1,"y":-143,"width":250,"height":60,"type":"text","text":"### Teamwork"},
+		{"id":"c151ae3dc2447957","x":-1,"y":-3,"width":250,"height":60,"type":"text","text":"### Communicate "},
+		{"id":"87cf2125096030bd","x":-360,"y":-280,"width":250,"height":60,"type":"text","text":"### Capture "},
+		{"id":"2b32a7bc23746c37","x":-360,"y":-143,"width":250,"height":60,"type":"text","text":"### Organize"},
+		{"id":"97047b2804ce0a37","x":-360,"y":-10,"width":250,"height":60,"type":"text","text":"### Distill"},
+		{"id":"7c7e50bee3e3aa9f","x":-360,"y":130,"width":250,"height":60,"type":"text","text":"### Present and Share"},
+		{"id":"9154a040f8e523b5","x":-1,"y":-280,"width":250,"height":60,"type":"text","text":"### Coordinate "},
+		{"id":"e9a730420b87a5f4","x":320,"y":-380,"width":175,"height":60,"type":"text","text":"### Efficiency "}
+	],
+	"edges":[
+		{"id":"631a6a9d9cc38a70","fromNode":"71e43e5f81f0d558","fromSide":"bottom","toNode":"87cf2125096030bd","toSide":"top"},
+		{"id":"0b688f2eb82d66be","fromNode":"87cf2125096030bd","fromSide":"bottom","toNode":"2b32a7bc23746c37","toSide":"top"},
+		{"id":"d30d717cb4c6156c","fromNode":"97047b2804ce0a37","fromSide":"bottom","toNode":"7c7e50bee3e3aa9f","toSide":"top"},
+		{"id":"2d382fee7ef08546","fromNode":"2b32a7bc23746c37","fromSide":"bottom","toNode":"97047b2804ce0a37","toSide":"top"},
+		{"id":"5d2085500be0d525","fromNode":"71e43e5f81f0d558","fromSide":"bottom","toNode":"9154a040f8e523b5","toSide":"top"},
+		{"id":"b1c010ba6b3b23de","fromNode":"b1dd09873e397421","fromSide":"bottom","toNode":"c151ae3dc2447957","toSide":"top","fromEnd":"arrow"},
+		{"id":"12a9c115ac9fe8ce","fromNode":"9154a040f8e523b5","fromSide":"bottom","toNode":"b1dd09873e397421","toSide":"top"}
+	]
+}

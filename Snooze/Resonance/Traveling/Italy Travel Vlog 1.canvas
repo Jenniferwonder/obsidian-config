@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"94152898664d6fe9","x":-320,"y":840,"width":1311,"height":2000,"type":"group","label":"Day2"},
+		{"id":"aca4c76f12ebf168","x":-320,"y":-60,"width":1135,"height":800,"type":"group","label":"Day1"},
+		{"type":"text","text":"## Italy Travel Vlog\n[[YouTube- Italy Travel Vlog exploring Florence, Tuscany and Venice (2022) 1|Italy Travel Vlog]]","id":"d36741ab0d01fde2","x":868,"y":-580,"width":277,"height":120},
+		{"type":"text","text":"![[YouTube- Italy Travel Vlog exploring Florence, Tuscany and Venice (2022) 1#^l0hwv5]]","id":"738f4a8be6d6d106","x":817,"y":-400,"width":380,"height":280},
+		{"type":"text","text":"We booked a business class for the **train** which in my option were worth it. I think it was only an additional 10 or 15 Euro but **it was so spacious and made the trip so much comfortable**. It went by so fast.\nWe arrived **in the late afternoon**, and we just felt so tired, so we went out for an early dinner. And this was probably some of the best food I had actually when we were in Venice, surprisingly the first night.\nI bought ... so good.","id":"875a94ae00b511d6","x":-300,"y":389,"width":375,"height":331},
+		{"type":"file","file":"zz-assets/Italy First Meal.png","id":"c3d794ef7acb40e8","x":121,"y":389,"width":390,"height":228},
+		{"type":"file","file":"zz-assets/Google Flights Maps.png","id":"215eb399db4dddf8","x":121,"y":-40,"width":292,"height":220},
+		{"type":"file","file":"zz-assets/trainline info.png","id":"538a3ecf65328788","x":472,"y":-40,"width":323,"height":390},
+		{"type":"text","text":"Our first stop in Italy is... \nWe **took a flight** from Madrid to Milan and then hoped on a **train** to Venice. It was actually much more affordable to fly into Milan versus flying into Venice directly. \nSo we just took a train from Milan which was fairly easy to navigate.","id":"e6e9195a1929afa8","x":-300,"y":-40,"width":370,"height":292},
+		{"type":"text","text":"But so many people asked me while we were travelling, how we were able to afford all of this?\nOne thing we did that we think was so smart is we **booked a hotel** actually outside the island of Venice and then took a bus which only took about 10 minutes into the city everyday.","id":"46d9db665e4e16b1","x":-300,"y":860,"width":385,"height":260},
+		{"type":"file","file":"zz-assets/Italy Vlog- Hotel.png","id":"1c5053ae90bb8ca9","x":132,"y":860,"width":400,"height":213},
+		{"type":"text","text":"We're in Venice. Yeah! \nThe first thing I need is a coffee. \nPizza. Yeah and he goes so hungry and my head is hurting because I haven't had a coffee yet. [On Scene]","id":"b9f1425a4cb65144","x":-300,"y":1200,"width":385,"height":240,"color":"4"},
+		{"type":"text","text":"Did you know in Italy, you have to cut your own pizza, because they just don't usually pre-slice it for you?","id":"2339106e438097cf","x":-300,"y":2120,"width":385,"height":320},
+		{"type":"file","file":"zz-assets/Italy Vlog-Lunch.png","id":"87a38a3d1bc93e56","x":132,"y":2120,"width":400,"height":300},
+		{"type":"file","file":"zz-assets/Italy Vlog-Lunch Pizza-Cut by yourself.png","id":"e02a543e1da86f3d","x":572,"y":2120,"width":399,"height":215},
+		{"type":"text","text":"Anyway. After we got pizza, we had to go and look for gelato spot.\nThere were only three places that really stood out to me in Venice and this was one of them.\nFor all the places that I loved I'll put a star next to it, so you know this is one of the three that I recommend you go to.\nThe spot has fewer flavors but they are all so fresh and it came highly rated by so many different travel guide and now I see why.","id":"b76e0a0f4b209aec","x":-300,"y":2500,"width":385,"height":320},
+		{"type":"file","file":"zz-assets/Italy Vlog-Icecream.png","id":"bdb8e6c31060d684","x":132,"y":2500,"width":400,"height":254},
+		{"type":"file","file":"zz-assets/Italy Vlog-Icecream-1.png","id":"a22deee5d63cdd14","x":571,"y":2501,"width":400,"height":252},
+		{"type":"text","text":"On my hunt to find coffee, we stumbled across this bar cafe and they had just taken this right out of the oven and it looked so good. \nWe weren't really planning on eating **pizza** at 10 am but we just had to.\nSpoiler alert.\nI'm probably gonna say this throughout the entire video, but it was so good like everything I feel like I've eaten in Italy was insane.","id":"73b0140c6618bc8f","x":-300,"y":1500,"width":385,"height":320},
+		{"type":"file","file":"zz-assets/Italy Vlog-Pizza.png","id":"ff029f431496c832","x":132,"y":1500,"width":400,"height":239},
+		{"type":"text","text":"So we had pizza number one and now Nico's on the hunt for Pizza Stop number two. We're basically just gonna be walking around and eating this entire time. [On Scene]","id":"1d6a7ead826f09f7","x":-300,"y":1900,"width":385,"height":160,"color":"4"},
+		{"type":"text","text":"It's Day 2. \nFirst thing first","id":"03a7f4b5c6f9c6aa","x":960,"y":-40,"width":370,"height":292},
+		{"id":"e33237833faad5db","x":1400,"y":-40,"width":400,"height":195,"type":"file","file":"zz-assets/Italy-Day2.png"}
+	],
+	"edges":[]
+}

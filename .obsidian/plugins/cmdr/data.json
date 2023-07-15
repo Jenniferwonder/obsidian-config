@@ -1,0 +1,94 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "quickadd:choice:1331d6d4-4efe-4d24-b585-80a9de29b397",
+      "icon": "album",
+      "name": "QuickAdd: 添加任务",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "auto-note-mover:Move-the-note",
+      "icon": "arrow-right-circle",
+      "name": "Auto Note Mover: Move the note",
+      "mode": "any"
+    }
+  ],
+  "macros": [
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "obsidian-day-planner:app:unlink-day-planner-from-note"
+        }
+      ],
+      "name": "Unlink Day Planner",
+      "icon": "alarm-clock-off",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "obsidian-day-planner:app:link-day-planner-to-note"
+        }
+      ],
+      "name": "Link Day Planner",
+      "icon": "alarm-clock",
+      "startup": false
+    }
+  ],
+  "explorer": [],
+  "hide": {
+    "statusbar": [
+      "obsidian-git",
+      "obsidian-git",
+      "obsidian-markmind",
+      "obsidian-plugin-groups",
+      "various-complements",
+      "flashcards-obsidian"
+    ],
+    "leftRibbon": [
+      "Weread",
+      "Sync your Kindle highlights",
+      "Generate flashcards",
+      "Templater",
+      "Open quick switcher",
+      "Open graph view",
+      "Open today's daily note",
+      "Insert template",
+      "Advanced Tables Toolbar",
+      "Open Full Calendar",
+      "Omnisearch",
+      "Open Mermaid Toolbar",
+      "Create a new database table",
+      "Open Large Fantasy Calendar",
+      "Open in Headings Mode",
+      "Open Symbols for the active editor",
+      "ReadItLater: Save clipboard",
+      "Export Vault to HTML",
+      "Open today",
+      "Memos"
+    ]
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

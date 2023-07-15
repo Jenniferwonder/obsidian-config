@@ -1,0 +1,13 @@
+{
+  "folder": "Capture",
+  "fileNameFormat": "C-{{title}{{author}}",
+  "frontmatter": "Title: {{title}}\nType: Note\ntags:\nauthor: [{{author}}]\npublisher: {{publisher}}\npublish: {{publishDate}}\ntotal: {{totalPage}}\nisbn: {{isbn10}} {{isbn13}}\ncover: {{coverUrl}}\nDateStarted: \nDateModified: ",
+  "content": "![cover|150]({{coverUrl}})\n\n# {{title}}\n\nhttp://books.google.com/books/content?id=3GOuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api\n\n## Extra\n- publisher:: {{publisher}}\n- publish:: {{publishDate}}\n- total:: {{totalPge}}\n- isbn:: {{isbn10}} {{isbn13}}\n- cover:: {{coverUrl}}\n- status:: 🟨Reading",
+  "useDefaultFrontmatter": false,
+  "defaultFrontmatterKeyType": "Camel Case",
+  "templateFile": "",
+  "serviceProvider": "google",
+  "naverClientId": "",
+  "naverClientSecret": "",
+  "localePreference": "default"
+}

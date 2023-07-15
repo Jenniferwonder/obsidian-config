@@ -304,6 +304,18 @@
         {
           "id": "obsidian-leaflet-plugin",
           "name": "Obsidian Leaflet"
+        },
+        {
+          "id": "obsidian-to-anki-plugin",
+          "name": "Obsidian_to_Anki"
+        },
+        {
+          "id": "obsidian-bartender",
+          "name": "Bartender"
+        },
+        {
+          "id": "OA-file-hider",
+          "name": "File Hider"
         }
       ],
       "groupIds": [],

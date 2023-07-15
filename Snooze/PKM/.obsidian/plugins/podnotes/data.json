@@ -1,0 +1,221 @@
+{
+  "savedFeeds": {
+    "No Stupid Questions": {
+      "title": "No Stupid Questions",
+      "url": "https://feeds.simplecast.com/dfh_verV",
+      "artworkUrl": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts115/v4/e8/13/98/e81398c3-bdfc-022e-5986-098e17a25446/mza_16328694702530013781.jpg/100x100bb.jpg",
+      "collectionId": 1510056899
+    },
+    "Lex Fridman Podcast": {
+      "title": "Lex Fridman Podcast",
+      "url": "https://lexfridman.com/feed/podcast/",
+      "artworkUrl": "https://is2-ssl.mzstatic.com/image/thumb/Podcasts115/v4/3e/e3/9c/3ee39c89-de08-47a6-7f3d-3849cef6d255/mza_16657851278549137484.png/100x100bb.jpg",
+      "collectionId": 1434243584
+    },
+    "A Slight Change of Plans": {
+      "title": "A Slight Change of Plans",
+      "artworkUrl": "https://is5-ssl.mzstatic.com/image/thumb/Podcasts126/v4/fb/9a/62/fb9a627e-3903-9705-1131-dfe674f34357/mza_3765182425554272740.jpeg/100x100bb.jpg",
+      "collectionId": 1561860622
+    }
+  },
+  "podNotes": {},
+  "defaultPlaybackRate": 1,
+  "playedEpisodes": {
+    "142. Is Pride the Worst Sin?": {
+      "title": "142. Is Pride the Worst Sin?",
+      "podcastName": "No Stupid Questions",
+      "time": 54.89167,
+      "duration": 2908.081438,
+      "finished": false
+    },
+    "#367 – Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI": {
+      "title": "#367 – Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI",
+      "podcastName": "Lex Fridman Podcast",
+      "time": 4258.555271,
+      "duration": 8888.448,
+      "finished": false
+    },
+    "No Stupid Questions-142. Is Pride the Worst Sin": {
+      "title": "No Stupid Questions-142. Is Pride the Worst Sin",
+      "podcastName": "local file",
+      "time": 1019.839703,
+      "duration": 8888.448,
+      "finished": false
+    },
+    "Lex Fridman Podcast-367 – Sam Altman OpenAI CEO on GPT-4 ChatGPT and the Future of AI": {
+      "title": "Lex Fridman Podcast-367 – Sam Altman OpenAI CEO on GPT-4 ChatGPT and the Future of AI",
+      "podcastName": "local file",
+      "time": 0,
+      "duration": 0,
+      "finished": true
+    },
+    "Podcast-Lex Fridman Podcast-367 – Sam Altman OpenAI CEO on GPT-4 ChatGPT and the Future of AI": {
+      "title": "Podcast-Lex Fridman Podcast-367 – Sam Altman OpenAI CEO on GPT-4 ChatGPT and the Future of AI",
+      "podcastName": "local file",
+      "time": 26.969552,
+      "duration": 8888.448,
+      "finished": false
+    }
+  },
+  "favorites": {
+    "icon": "lucide-star",
+    "name": "Favorites",
+    "shouldEpisodeRemoveAfterPlay": false,
+    "shouldRepeat": false,
+    "episodes": []
+  },
+  "queue": {
+    "icon": "list-ordered",
+    "name": "Queue",
+    "shouldEpisodeRemoveAfterPlay": true,
+    "shouldRepeat": false,
+    "episodes": [
+      {
+        "title": "#367 – Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI",
+        "streamUrl": "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sam_altman.mp3",
+        "url": "https://lexfridman.com/sam-altman/",
+        "description": "Sam Altman is the CEO of OpenAI, the company behind GPT-4, ChatGPT, DALL-E, Codex, and many other state-of-the-art AI technologies. Please support this podcast by checking out our sponsors:\n- NetSuite: http://netsuite.com/lex to get free product tour\n- SimpliSafe: https://simplisafe.com/lex\n- ExpressVPN: https://expressvpn.com/lexpod to get 3 months free\n\nEPISODE LINKS:\nSam's Twitter: https://twitter.com/sama\nOpenAI's Twitter: https://twitter.com/OpenAI\nOpenAI's Website: https://openai.com\nGPT-4 Website: https://openai.com/research/gpt-4\n\nPODCAST INFO:\nPodcast website: https://lexfridman.com/podcast\nApple Podcasts: https://apple.co/2lwqZIr\nSpotify: https://spoti.fi/2nEwCF8\nRSS: https://lexfridman.com/feed/podcast/\nYouTube Full Episodes: https://youtube.com/lexfridman\nYouTube Clips: https://youtube.com/lexclips\n\nSUPPORT & CONNECT:\n- Check out the sponsors above, it's the best way to support this podcast\n- Support on Patreon: https://www.patreon.com/lexfridman\n- Twitter: https://twitter.com/lexfridman\n- Instagram: https://www.instagram.com/lexfridman\n- LinkedIn: https://www.linkedin.com/in/lexfridman\n- Facebook: https://www.facebook.com/lexfridman\n- Medium: https://medium.com/@lexfridman\n\nOUTLINE:\nHere's the timestamps for the episode. On some podcast players you should be able to click the timestamp to jump to that time.\n(00:00) - Introduction\n(08:41) - GPT-4\n(20:06) - Political bias\n(27:07) - AI safety\n(47:47) - Neural network size\n(51:40) - AGI\n(1:13:09) - Fear\n(1:15:18) - Competition\n(1:17:38) - From non-profit to capped-profit\n(1:20:58) - Power\n(1:26:11) - Elon Musk\n(1:34:37) - Political pressure\n(1:52:51) - Truth and misinformation\n(2:05:13) - Microsoft\n(2:09:13) - SVB bank collapse\n(2:14:04) - Anthropomorphism\n(2:18:07) - Future applications\n(2:21:59) - Advice for young people\n(2:24:37) - Meaning of life",
+        "content": "<p>Sam Altman is the CEO of OpenAI, the company behind GPT-4, ChatGPT, DALL-E, Codex, and many other state-of-the-art AI technologies. Please support this podcast by checking out our sponsors:<br />\n&#8211; <b>NetSuite</b>: <a href=\"http://netsuite.com/lex\">http://netsuite.com/lex</a> to get free product tour<br />\n&#8211; <b>SimpliSafe</b>: <a href=\"https://simplisafe.com/lex\">https://simplisafe.com/lex</a><br />\n&#8211; <b>ExpressVPN</b>: <a href=\"https://expressvpn.com/lexpod\">https://expressvpn.com/lexpod</a> to get 3 months free</p>\n<p><b>EPISODE LINKS:</b><br />\nSam&#8217;s Twitter: <a href=\"https://twitter.com/sama\">https://twitter.com/sama</a><br />\nOpenAI&#8217;s Twitter: <a href=\"https://twitter.com/OpenAI\">https://twitter.com/OpenAI</a><br />\nOpenAI&#8217;s Website: <a href=\"https://openai.com\">https://openai.com</a><br />\nGPT-4 Website: <a href=\"https://openai.com/research/gpt-4\">https://openai.com/research/gpt-4</a></p>\n<p><b>PODCAST INFO:</b><br />\nPodcast website: <a href=\"https://lexfridman.com/podcast\">https://lexfridman.com/podcast</a><br />\nApple Podcasts: <a href=\"https://apple.co/2lwqZIr\">https://apple.co/2lwqZIr</a><br />\nSpotify: <a href=\"https://spoti.fi/2nEwCF8\">https://spoti.fi/2nEwCF8</a><br />\nRSS: <a href=\"https://lexfridman.com/feed/podcast/\">https://lexfridman.com/feed/podcast/</a><br />\nYouTube Full Episodes: <a href=\"https://youtube.com/lexfridman\">https://youtube.com/lexfridman</a><br />\nYouTube Clips: <a href=\"https://youtube.com/lexclips\">https://youtube.com/lexclips</a></p>\n<p><b>SUPPORT &amp; CONNECT:</b><br />\n&#8211; Check out the sponsors above, it&#8217;s the best way to support this podcast<br />\n&#8211; Support on Patreon: <a href=\"https://www.patreon.com/lexfridman\">https://www.patreon.com/lexfridman</a><br />\n&#8211; Twitter: <a href=\"https://twitter.com/lexfridman\">https://twitter.com/lexfridman</a><br />\n&#8211; Instagram: <a href=\"https://www.instagram.com/lexfridman\">https://www.instagram.com/lexfridman</a><br />\n&#8211; LinkedIn: <a href=\"https://www.linkedin.com/in/lexfridman\">https://www.linkedin.com/in/lexfridman</a><br />\n&#8211; Facebook: <a href=\"https://www.facebook.com/lexfridman\">https://www.facebook.com/lexfridman</a><br />\n&#8211; Medium: <a href=\"https://medium.com/@lexfridman\">https://medium.com/@lexfridman</a></p>\n<p><b>OUTLINE:</b><br />\nHere&#8217;s the timestamps for the episode. On some podcast players you should be able to click the timestamp to jump to that time.<br />\n(00:00) &#8211; Introduction<br />\n(08:41) &#8211; GPT-4<br />\n(20:06) &#8211; Political bias<br />\n(27:07) &#8211; AI safety<br />\n(47:47) &#8211; Neural network size<br />\n(51:40) &#8211; AGI<br />\n(1:13:09) &#8211; Fear<br />\n(1:15:18) &#8211; Competition<br />\n(1:17:38) &#8211; From non-profit to capped-profit<br />\n(1:20:58) &#8211; Power<br />\n(1:26:11) &#8211; Elon Musk<br />\n(1:34:37) &#8211; Political pressure<br />\n(1:52:51) &#8211; Truth and misinformation<br />\n(2:05:13) &#8211; Microsoft<br />\n(2:09:13) &#8211; SVB bank collapse<br />\n(2:14:04) &#8211; Anthropomorphism<br />\n(2:18:07) &#8211; Future applications<br />\n(2:21:59) &#8211; Advice for young people<br />\n(2:24:37) &#8211; Meaning of life</p>\n",
+        "podcastName": "Lex Fridman Podcast",
+        "artworkUrl": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
+        "episodeDate": "2023-03-25T18:04:11.000Z",
+        "feedUrl": "https://lexfridman.com/feed/podcast/",
+        "itunesTitle": ""
+      },
+      {
+        "title": "142. Is Pride the Worst Sin?",
+        "streamUrl": "https://chtbl.com/track/736CG3/pdst.fm/e/stitcher.simplecastaudio.com/fab071f4-583a-498c-a495-58f7d4c71242/episodes/8b65263f-f496-4126-bc4f-9f93342eddfd/audio/128/default.mp3?aid=rss_feed&awCollectionId=fab071f4-583a-498c-a495-58f7d4c71242&awEpisodeId=8b65263f-f496-4126-bc4f-9f93342eddfd&feed=dfh_verV",
+        "url": "https://freakonomics.com/nsq/",
+        "description": "<p>Is pride an emotion? Where’s the line between self-esteem and hubris? And what does Stephen have against peacocks?</p><p> </p><p>Take the Seven Deadly Sins survey: <a href=\"https://freakonomics.com/nsq-sins/\">freakonomics.com/nsq-sins/</a></p><p> </p>\n",
+        "content": "<p>Is pride an emotion? Where’s the line between self-esteem and hubris? And what does Stephen have against peacocks?</p><p> </p><p>Take the Seven Deadly Sins survey: <a href=\"https://freakonomics.com/nsq-sins/\">freakonomics.com/nsq-sins/</a></p><p> </p>\n",
+        "podcastName": "No Stupid Questions",
+        "artworkUrl": "https://image.simplecastcdn.com/images/42d2a406-817e-4291-8e96-123ac167308f/a779b77c-ab6c-4f9d-a9bd-ca32cd48e222/3000x3000/3000x3000-nsq-7deadlysins.jpg?aid=rss_feed",
+        "episodeDate": "2023-04-16T09:00:00.000Z",
+        "feedUrl": "https://feeds.simplecast.com/dfh_verV",
+        "itunesTitle": "142. Is Pride the Worst Sin?"
+      },
+      {
+        "title": "No Stupid Questions-142. Is Pride the Worst Sin",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[No Stupid Questions-142. Is Pride the Worst Sin]]",
+        "streamUrl": "blob:app://obsidian.md/ec0037bc-2338-4edb-8a06-a0119518a6ff",
+        "episodeDate": "2023-04-18T10:30:50.023Z"
+      }
+    ]
+  },
+  "playlists": {},
+  "skipBackwardLength": 15,
+  "skipForwardLength": 15,
+  "currentEpisode": {
+    "title": "127. How Can You Be a Better Communicator?",
+    "streamUrl": "https://chtbl.com/track/736CG3/pdst.fm/e/stitcher.simplecastaudio.com/fab071f4-583a-498c-a495-58f7d4c71242/episodes/9ca19b5f-0fbc-4dfe-acb0-699d32ee4ff7/audio/128/default.mp3?aid=rss_feed&awCollectionId=fab071f4-583a-498c-a495-58f7d4c71242&awEpisodeId=9ca19b5f-0fbc-4dfe-acb0-699d32ee4ff7&feed=dfh_verV",
+    "url": "https://freakonomics.com/nsq/",
+    "description": "<p>How do you express yourself when you're not sure what you want to say? What’s the number one way to get people to listen to you? And why are letters to advice columns always well-written? Plus: An update to the NSQ drinking game.</p>\n",
+    "content": "<p>How do you express yourself when you're not sure what you want to say? What’s the number one way to get people to listen to you? And why are letters to advice columns always well-written? Plus: An update to the NSQ drinking game.</p>\n",
+    "podcastName": "No Stupid Questions",
+    "artworkUrl": "https://is3-ssl.mzstatic.com/image/thumb/Podcasts115/v4/e8/13/98/e81398c3-bdfc-022e-5986-098e17a25446/mza_16328694702530013781.jpg/100x100bb.jpg",
+    "episodeDate": "2022-12-18T10:00:00.000Z",
+    "feedUrl": "https://feeds.simplecast.com/dfh_verV",
+    "itunesTitle": "127. How Can You Be a Better Communicator?"
+  },
+  "timestamp": {
+    "template": "{{linktime}} "
+  },
+  "note": {
+    "path": "Podnote/{{podcast}}-{{title}}",
+    "template": "---\nPodcast: {{podcast}}\nEpisode: {{title}}\nPublishDate: {{date:YYYY-MM-DD}}\nDescription: {{description}}\n---\n## {{title}}\n"
+  },
+  "download": {
+    "path": "{{podcast}}-{{title}}"
+  },
+  "downloadedEpisodes": {
+    "Lex Fridman Podcast": [
+      {
+        "title": "#367 – Sam Altman: OpenAI CEO on GPT-4, ChatGPT, and the Future of AI",
+        "streamUrl": "https://media.blubrry.com/takeituneasy/content.blubrry.com/takeituneasy/lex_ai_sam_altman.mp3",
+        "url": "https://lexfridman.com/sam-altman/",
+        "description": "Sam Altman is the CEO of OpenAI, the company behind GPT-4, ChatGPT, DALL-E, Codex, and many other state-of-the-art AI technologies. Please support this podcast by checking out our sponsors:\n- NetSuite: http://netsuite.com/lex to get free product tour\n- SimpliSafe: https://simplisafe.com/lex\n- ExpressVPN: https://expressvpn.com/lexpod to get 3 months free\n\nEPISODE LINKS:\nSam's Twitter: https://twitter.com/sama\nOpenAI's Twitter: https://twitter.com/OpenAI\nOpenAI's Website: https://openai.com\nGPT-4 Website: https://openai.com/research/gpt-4\n\nPODCAST INFO:\nPodcast website: https://lexfridman.com/podcast\nApple Podcasts: https://apple.co/2lwqZIr\nSpotify: https://spoti.fi/2nEwCF8\nRSS: https://lexfridman.com/feed/podcast/\nYouTube Full Episodes: https://youtube.com/lexfridman\nYouTube Clips: https://youtube.com/lexclips\n\nSUPPORT & CONNECT:\n- Check out the sponsors above, it's the best way to support this podcast\n- Support on Patreon: https://www.patreon.com/lexfridman\n- Twitter: https://twitter.com/lexfridman\n- Instagram: https://www.instagram.com/lexfridman\n- LinkedIn: https://www.linkedin.com/in/lexfridman\n- Facebook: https://www.facebook.com/lexfridman\n- Medium: https://medium.com/@lexfridman\n\nOUTLINE:\nHere's the timestamps for the episode. On some podcast players you should be able to click the timestamp to jump to that time.\n(00:00) - Introduction\n(08:41) - GPT-4\n(20:06) - Political bias\n(27:07) - AI safety\n(47:47) - Neural network size\n(51:40) - AGI\n(1:13:09) - Fear\n(1:15:18) - Competition\n(1:17:38) - From non-profit to capped-profit\n(1:20:58) - Power\n(1:26:11) - Elon Musk\n(1:34:37) - Political pressure\n(1:52:51) - Truth and misinformation\n(2:05:13) - Microsoft\n(2:09:13) - SVB bank collapse\n(2:14:04) - Anthropomorphism\n(2:18:07) - Future applications\n(2:21:59) - Advice for young people\n(2:24:37) - Meaning of life",
+        "content": "<p>Sam Altman is the CEO of OpenAI, the company behind GPT-4, ChatGPT, DALL-E, Codex, and many other state-of-the-art AI technologies. Please support this podcast by checking out our sponsors:<br />\n&#8211; <b>NetSuite</b>: <a href=\"http://netsuite.com/lex\">http://netsuite.com/lex</a> to get free product tour<br />\n&#8211; <b>SimpliSafe</b>: <a href=\"https://simplisafe.com/lex\">https://simplisafe.com/lex</a><br />\n&#8211; <b>ExpressVPN</b>: <a href=\"https://expressvpn.com/lexpod\">https://expressvpn.com/lexpod</a> to get 3 months free</p>\n<p><b>EPISODE LINKS:</b><br />\nSam&#8217;s Twitter: <a href=\"https://twitter.com/sama\">https://twitter.com/sama</a><br />\nOpenAI&#8217;s Twitter: <a href=\"https://twitter.com/OpenAI\">https://twitter.com/OpenAI</a><br />\nOpenAI&#8217;s Website: <a href=\"https://openai.com\">https://openai.com</a><br />\nGPT-4 Website: <a href=\"https://openai.com/research/gpt-4\">https://openai.com/research/gpt-4</a></p>\n<p><b>PODCAST INFO:</b><br />\nPodcast website: <a href=\"https://lexfridman.com/podcast\">https://lexfridman.com/podcast</a><br />\nApple Podcasts: <a href=\"https://apple.co/2lwqZIr\">https://apple.co/2lwqZIr</a><br />\nSpotify: <a href=\"https://spoti.fi/2nEwCF8\">https://spoti.fi/2nEwCF8</a><br />\nRSS: <a href=\"https://lexfridman.com/feed/podcast/\">https://lexfridman.com/feed/podcast/</a><br />\nYouTube Full Episodes: <a href=\"https://youtube.com/lexfridman\">https://youtube.com/lexfridman</a><br />\nYouTube Clips: <a href=\"https://youtube.com/lexclips\">https://youtube.com/lexclips</a></p>\n<p><b>SUPPORT &amp; CONNECT:</b><br />\n&#8211; Check out the sponsors above, it&#8217;s the best way to support this podcast<br />\n&#8211; Support on Patreon: <a href=\"https://www.patreon.com/lexfridman\">https://www.patreon.com/lexfridman</a><br />\n&#8211; Twitter: <a href=\"https://twitter.com/lexfridman\">https://twitter.com/lexfridman</a><br />\n&#8211; Instagram: <a href=\"https://www.instagram.com/lexfridman\">https://www.instagram.com/lexfridman</a><br />\n&#8211; LinkedIn: <a href=\"https://www.linkedin.com/in/lexfridman\">https://www.linkedin.com/in/lexfridman</a><br />\n&#8211; Facebook: <a href=\"https://www.facebook.com/lexfridman\">https://www.facebook.com/lexfridman</a><br />\n&#8211; Medium: <a href=\"https://medium.com/@lexfridman\">https://medium.com/@lexfridman</a></p>\n<p><b>OUTLINE:</b><br />\nHere&#8217;s the timestamps for the episode. On some podcast players you should be able to click the timestamp to jump to that time.<br />\n(00:00) &#8211; Introduction<br />\n(08:41) &#8211; GPT-4<br />\n(20:06) &#8211; Political bias<br />\n(27:07) &#8211; AI safety<br />\n(47:47) &#8211; Neural network size<br />\n(51:40) &#8211; AGI<br />\n(1:13:09) &#8211; Fear<br />\n(1:15:18) &#8211; Competition<br />\n(1:17:38) &#8211; From non-profit to capped-profit<br />\n(1:20:58) &#8211; Power<br />\n(1:26:11) &#8211; Elon Musk<br />\n(1:34:37) &#8211; Political pressure<br />\n(1:52:51) &#8211; Truth and misinformation<br />\n(2:05:13) &#8211; Microsoft<br />\n(2:09:13) &#8211; SVB bank collapse<br />\n(2:14:04) &#8211; Anthropomorphism<br />\n(2:18:07) &#8211; Future applications<br />\n(2:21:59) &#8211; Advice for young people<br />\n(2:24:37) &#8211; Meaning of life</p>\n",
+        "podcastName": "Lex Fridman Podcast",
+        "artworkUrl": "https://lexfridman.com/wordpress/wp-content/uploads/powerpress/artwork_3000-230.png",
+        "episodeDate": "2023-03-25T18:04:11.000Z",
+        "feedUrl": "https://lexfridman.com/feed/podcast/",
+        "itunesTitle": "",
+        "filePath": "Podcast-Lex Fridman Podcast-367 – Sam Altman OpenAI CEO on GPT-4 ChatGPT and the Future of AI.mp3",
+        "size": 106661376
+      }
+    ],
+    "local file": [
+      {
+        "title": "No Stupid Questions-142. Is Pride the Worst Sin",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[No Stupid Questions-142. Is Pride the Worst Sin]]",
+        "streamUrl": "blob:app://obsidian.md/ec0037bc-2338-4edb-8a06-a0119518a6ff",
+        "episodeDate": "2023-04-18T10:30:50.023Z",
+        "filePath": "Podnote/No Stupid Questions-142. Is Pride the Worst Sin.md",
+        "size": 159
+      },
+      {
+        "title": "Lex Fridman Podcast-367 – Sam Altman OpenAI CEO on GPT-4 ChatGPT and the Future of AI",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[Lex Fridman Podcast-367 – Sam Altman OpenAI CEO on GPT-4 ChatGPT and the Future of AI]]",
+        "streamUrl": "blob:app://obsidian.md/71eb4aff-4e4a-44b6-8023-69be4bcf6107",
+        "episodeDate": "2023-04-18T10:31:30.493Z",
+        "filePath": "Podnote/Lex Fridman Podcast-367 – Sam Altman OpenAI CEO on GPT-4 ChatGPT and the Future of AI.md",
+        "size": 463
+      },
+      {
+        "title": "Podcast-Lex Fridman Podcast-367 – Sam Altman OpenAI CEO on GPT-4 ChatGPT and the Future of AI",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "![[Podcast-Lex Fridman Podcast-367 – Sam Altman OpenAI CEO on GPT-4 ChatGPT and the Future of AI.mp3]]",
+        "streamUrl": "blob:app://obsidian.md/66234518-fdd7-48bb-a199-56ec82b86859",
+        "episodeDate": "2023-04-18T10:35:27.565Z",
+        "filePath": "Podcast-Lex Fridman Podcast-367 – Sam Altman OpenAI CEO on GPT-4 ChatGPT and the Future of AI.mp3",
+        "size": 106661376
+      }
+    ]
+  },
+  "localFiles": {
+    "icon": "folder",
+    "name": "Local Files",
+    "shouldEpisodeRemoveAfterPlay": false,
+    "shouldRepeat": false,
+    "episodes": [
+      {
+        "title": "No Stupid Questions-142. Is Pride the Worst Sin",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[No Stupid Questions-142. Is Pride the Worst Sin]]",
+        "streamUrl": "blob:app://obsidian.md/ec0037bc-2338-4edb-8a06-a0119518a6ff",
+        "episodeDate": "2023-04-18T10:30:50.023Z"
+      },
+      {
+        "title": "Lex Fridman Podcast-367 – Sam Altman OpenAI CEO on GPT-4 ChatGPT and the Future of AI",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "[[Lex Fridman Podcast-367 – Sam Altman OpenAI CEO on GPT-4 ChatGPT and the Future of AI]]",
+        "streamUrl": "blob:app://obsidian.md/71eb4aff-4e4a-44b6-8023-69be4bcf6107",
+        "episodeDate": "2023-04-18T10:31:30.493Z"
+      },
+      {
+        "title": "Podcast-Lex Fridman Podcast-367 – Sam Altman OpenAI CEO on GPT-4 ChatGPT and the Future of AI",
+        "description": "",
+        "content": "",
+        "podcastName": "local file",
+        "url": "![[Podcast-Lex Fridman Podcast-367 – Sam Altman OpenAI CEO on GPT-4 ChatGPT and the Future of AI.mp3]]",
+        "streamUrl": "blob:app://obsidian.md/66234518-fdd7-48bb-a199-56ec82b86859",
+        "episodeDate": "2023-04-18T10:35:27.565Z"
+      }
+    ]
+  }
+}

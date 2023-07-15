@@ -11,25 +11,29 @@
               "displayTitle": "PKM"
             },
             {
-              "tag": "Codespace",
-              "displayTitle": "Codespace"
+              "tag": "TechSkills",
+              "displayTitle": "TechSkills"
             },
             {
               "tag": "PMP",
               "displayTitle": "PMP"
             },
             {
-              "tag": "Design",
-              "displayTitle": "Design"
+              "tag": "Life",
+              "displayTitle": "Life"
+            },
+            {
+              "tag": "Content-Making",
+              "displayTitle": "CPE"
             }
           ],
           "showColumnTags": true,
-          "completedCount": 10,
+          "completedCount": 20,
           "filters": [],
           "filterPolarity": "Allow",
           "filterScope": "Both",
           "showFilteredTags": true,
-          "includeOthers": false,
+          "includeOthers": true,
           "includeUntagged": false,
           "title": "TagBoard",
           "collapsedColumns": []
@@ -55,7 +59,7 @@
       }
     ],
     "globalSettings": {
-      "taskCompletionFormat": "ObsidianCardBoard",
+      "taskCompletionFormat": "ObsidianTasks",
       "columnNames": {
         "today": "",
         "tomorrow": "",

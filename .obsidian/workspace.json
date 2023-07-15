@@ -4,23 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "393a1825fd652ef2",
+        "id": "f3e078e8581eb7ac",
         "type": "tabs",
         "children": [
           {
-            "id": "8c2c32ebd487f70b",
+            "id": "76df318d4c0605d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CCC-CPE/Free Writing/2023-05-31 出发前.md",
+                "file": "Plan/JS.md",
                 "mode": "source",
-                "backlinks": false,
+                "backlinks": true,
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "4a3b9e20fe8a4474",
+            "type": "leaf",
+            "state": {
+              "type": "mindmapview",
+              "state": {
+                "file": "Organize/O-JS/O-JS C03-Language Basics.md"
               }
             }
           }
         ],
+        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -33,7 +44,7 @@
       {
         "id": "8201dfdfd238859b",
         "type": "tabs",
-        "dimension": 68.0921052631579,
+        "dimension": 78.0701754385965,
         "children": [
           {
             "id": "ffc2db0d12688bb7",
@@ -41,21 +52,11 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "PDF-",
+                "query": "tag:#moc",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": true,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
-          {
-            "id": "d7d55bf1207e42ba",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
                 "sortOrder": "alphabetical"
               }
             }
@@ -69,11 +70,13 @@
             }
           },
           {
-            "id": "00ef91170a88277b",
+            "id": "530ac99e8b1f8204",
             "type": "leaf",
             "state": {
-              "type": "surfing-tab-tree",
-              "state": {}
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "custom"
+              }
             }
           },
           {
@@ -82,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Templates/Tp-Plugins/Day Planners/tp-Day Planner.md",
+                "file": "Templates/Tp-Plugins/Day Planners/tp-Day Planner.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -90,12 +93,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "01e21c8d501e85ca",
         "type": "tabs",
-        "dimension": 31.907894736842103,
+        "dimension": 21.929824561403507,
         "children": [
           {
             "id": "f1b6fbbbfa6f670d",
@@ -109,7 +112,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 200
   },
   "right": {
     "id": "617127011ede853a",
@@ -118,7 +121,7 @@
       {
         "id": "48e4df7056d011b2",
         "type": "tabs",
-        "dimension": 66.99561403508771,
+        "dimension": 57.565789473684205,
         "children": [
           {
             "id": "39371486e0d803c5",
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CCC-CPE/Free Writing/2023-05-31 出发前.md"
+                "file": "Organize/O-JS/O-JS C03-Language Basics.md"
               }
             }
           },
@@ -147,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "CCC-CPE/Free Writing/2023-05-31 出发前.md",
+                "file": "Organize/O-JS/O-JS C03-Language Basics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -272,7 +275,7 @@
       {
         "id": "9402e90c052643eb",
         "type": "tabs",
-        "dimension": 33.00438596491228,
+        "dimension": 42.434210526315795,
         "children": [
           {
             "id": "1d288d4b7c49b89c",
@@ -280,7 +283,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000-Templates/Tp-Plugins/button/MyTools.md",
+                "file": "Templates/Tp-Plugins/button/MyTools.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -293,7 +296,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CCC-CPE/Free Writing/2023-05-31 出发前.md",
+                "file": "Organize/O-JS/O-JS C03-Language Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -305,8 +308,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CCC-CPE/Free Writing/2023-05-31 出发前.md",
-                "collapseAll": false,
+                "file": "Organize/O-JS/O-JS C03-Language Basics.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -317,11 +320,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 431.5,
+    "width": 276.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -335,15 +338,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "custom-sort:Toggle custom sorting": false,
       "templater-obsidian:Templater": false,
-      "obsidian-projects:Open projects": false,
-      "omnisearch:Omnisearch": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
-      "obsidian-weread-plugin:Weread": false,
-      "obsidian-kindle-plugin:Sync your Kindle highlights": false,
-      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "flashcards-obsidian:Generate flashcards": false,
       "obsidian-full-calendar:Open Full Calendar": false,
       "remotely-save:Remotely Save": false,
@@ -356,134 +352,79 @@
       "privacy-glasses:Hide all": false,
       "privacy-glasses:Reveal non-private": false,
       "privacy-glasses:Reveal all": false,
+      "obsidian-projects:Open projects": false,
+      "webpage-html-export:Export Vault to HTML": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "obsidian-read-it-later:ReadItLater: Save clipboard": false,
+      "obsidian-weread-plugin:Weread": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false,
+      "notion-like-tables:Create new loom": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "notion-like-tables:Create Notion-Like table": false,
-      "webpage-html-export:Export Vault to HTML": false,
-      "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "periodic-notes:Open today": false,
       "obsidian-memos:Memos": false,
       "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "floating": {
-    "id": "dc21bd79018167a7",
-    "type": "floating",
-    "children": [
-      {
-        "id": "800ae70bf50b0846",
-        "type": "window",
-        "children": [
-          {
-            "id": "274664a7a065ebf9",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "247206126eb93c31",
-                "type": "leaf",
-                "state": {
-                  "type": "memos_view",
-                  "state": {}
-                }
-              },
-              {
-                "id": "256ab850c05f4d14",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "000-OKRTs/Daily/2023-05-30.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "76571b8dbdded0c2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "000-OKRTs/Daily/2023-05-31.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  }
-                }
-              }
-            ],
-            "currentTab": 2
-          }
-        ],
-        "direction": "vertical",
-        "x": 1149,
-        "y": 42,
-        "width": 344,
-        "height": 768,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "8c2c32ebd487f70b",
+  "active": "4a3b9e20fe8a4474",
   "lastOpenFiles": [
-    "A Drive Through Inner Mongolia.md",
-    "CCC-CPE/Free Writing/2023-05-31 出发前.md",
-    "AAA-Resonance/YouTube- China's Inner Mongolia will blow your mind! 中国的内蒙古会让你大吃一惊！.md",
-    "Inner Mongolia-Can You Believe This is China.md",
-    "zz-assets/Genghis Khan.png",
-    "zz-assets/Map-Mongolia.png",
-    "zz-Excalidraw/Comment-China's Inner Mongolia will blow your mind! .excalidraw.md",
-    "zz-assets/Pasted Image 20230531172244_505.png",
-    "000-OKRTs/Daily/2023-05-31.md",
-    "000-OKRTs/Daily/Travel Vlog-My ICELAND Experience-Ultimate Travel Vlog.md",
-    "CCC-CPE/Free Writing/Travel Plan-内蒙5日游行程安排.png",
-    "CCC-CPE/Free Writing/Travel Plan-内蒙5日游行程安排.md",
-    "400-Life/五一假期无人机拍摄素材整理剪辑.md",
-    "400-Life/400-Life.md",
-    "000-OKRTs/Daily/DB-Daily.md",
-    "000-OKRTs/Daily/2023-05-30.md",
-    "zz-archives/zz-Daily/2023-04/2023-04-18.md",
-    "000-Templates/Tp-Notes/tp-Daily Plan.md",
-    "000-OKRTs/Daily/2023-05-19.md",
-    "000-OKRTs/Daily/2023-05-28.md",
-    "000-OKRTs/Daily/Daily.md",
-    "000-OKRTs/Daily/2023-05-23.md",
-    "000-OKRTs/Tasks/内容输出——为什么，怎么做，我的 SWOT.md",
-    "000-OKRTs/Daily/2023-05-18.md",
-    "000-OKRTs/Daily/2023-05.md",
-    "300-Areas/00-Learning Strategy & Workflow/Brainstorm, Inspiration and Idea Generation.md",
-    "300-Areas/00-Learning Strategy & Workflow/Learning Path.md",
-    "CCC-CPE/Ideas/PKM 笔记理念与方法.md",
-    "500-People/Zsolt.md",
-    "300-Areas/How to Read a Book/How to Read a Book.md",
-    "000-OKRTs/Tasks/CPE Ideas.canvas",
-    "AAA-Resonance/Italy Travel Vlog.canvas",
-    "zz-assets/Italy-Day2.png",
-    "zz-assets/Italy Vlog-Icecream-1.png",
-    "zz-assets/Italy Vlog-Icecream.png",
-    "zz-assets/Italy Vlog-Lunch Pizza-Cut by yourself.png",
-    "zz-assets/Italy Vlog-Lunch.png",
-    "zz-assets/Italy Vlog-Pizza.png",
-    "zz-Excalidraw/Scripts/Downloaded",
-    "CCC-CPE/Ideas/Bilibili Title Ideas.table",
-    "CCC-CPE/Free Writing",
-    "000-Templates/Bryan-Zotero/Formatting/Mermaid",
-    "000-Templates/Bryan-Zotero/Formatting/LaTeX",
-    "000-Templates/Bryan-Zotero/Formatting/Code",
-    "000-Templates/Bryan-Zotero/Temporal",
-    "000-Templates/Bryan-Zotero/mdnotes",
-    "000-Templates/Bryan-Zotero/Inputs",
-    "000-Templates/Bryan-Zotero/Formatting",
-    "300-Areas/00-Learning Strategy & Workflow/CVS-Task Workflow.canvas",
-    "300-Areas/00-Learning Strategy & Workflow/Knowledge Workflow.canvas",
-    "100-TechSkills/00-Roadmap/Front-End Projects Overview.canvas",
-    "300-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/PKM-Map.canvas",
-    "300-Areas/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/Canvas Demo.canvas",
-    "300-Areas/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/How Memo Works.canvas",
-    "300-Areas/PKM/iPad/Note in iPhone.canvas",
-    "300-Areas/PKM/iPad/Canvas in iPad.canvas"
+    "Resource/S-PM/PMP一模讲义.pdf",
+    "Organize/O-JS/O-JS Syntax.md",
+    "Organize/O-JS/O-JS C03-Language Basics.md",
+    "Plan/JS.md",
+    "Capture/C-C03-Language Basics.md",
+    "Organize/O-JS/O-JS.md",
+    "Organize/O-JS/O-JS String.md",
+    "Organize/O-JS/O-JS Number.md",
+    "Organize/O-JS/O-JS Data Types.md",
+    "OKRTs/Tasks/DV-Tasks.md",
+    "Snooze/PM/PM 一模.md",
+    "zz-assets/How to Take Book Note-Zotero.png",
+    "zz-assets/PM 一模.png",
+    "zz-assets/成本.png",
+    "zz-assets/项目章程.png",
+    "zz-assets/PM 一模-1.png",
+    "OKRTs/Daily/2023-07-15.md",
+    "OKRTs/Daily/DB-Daily 2023.md",
+    "Plan/PM.md",
+    "zz-assets/PM 一模-15.png",
+    "zz-assets/PM 一模-14.png",
+    "zz-assets/PM 一模-13.png",
+    "zz-assets/PM 一模-12.png",
+    "zz-assets/PM 一模-11.png",
+    "Snooze/PM/PMP-ITTO/成本.md",
+    "Snooze/PM/PMP-ITTO/项目章程.md",
+    "Snooze/PKM/07.Obs-Review, Refactor and Distill/How to Take Book Note/PDF Tools 工具-分割，合并，解密.md",
+    "Organize/O-JS/O-JS Operators.md",
+    "Organize/O-JS/O-JS Object.md",
+    "Templates/Tp-Notes/tp-Zotero Paper.md",
+    "Capture/C-C02-JS in HTML.md",
+    "Capture/C-C06-Collection Reference Type.md",
+    "zz-assets/Zotero/C03LanguageBasics",
+    "Capture/C-C01-What is JS.md",
+    "zz-assets/Zotero/C01WhatJS",
+    "Capture/Test PDF.md",
+    "Capture/Test PDF-exportHighlight.md",
+    "Templates/Tp-Notes/tp-Zotero Paper 1.md",
+    "Resource/S-JS/B-JS/Professional JavaScript for Web Developers/C13-Client Detection.pdf",
+    "Projects/Front-End/Front-End Basics/JavaScript/JS Basics",
+    "Projects/Front-End/Front-End Basics/JavaScript",
+    "Projects/Front-End/Front-End Basics",
+    "Projects/Front-End",
+    "Projects",
+    "Resource/S-JS/B-JS/Professional JavaScript for Web Developers/C7-Iterators and Generators.pdf",
+    "Resource/S-JS/B-JS/Professional JavaScript for Web Developers/C8-Objects, Classes and OOP.pdf",
+    "Snooze/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/PKM-Map.canvas",
+    "Snooze/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas/Canvas Demo.canvas",
+    "Snooze/PKM/04.Obs-Quick Add and Capture/模板工具有哪些、怎么用/How Memo Works.canvas",
+    "Snooze/PKM/Mobile Study-iPhone, iPad/Note in iPhone.canvas",
+    "Snooze/PKM/Mobile Study-iPhone, iPad/Canvas in iPad.canvas",
+    "Snooze/PKM/00-Learning Strategy & Workflow/Knowledge Workflow.canvas",
+    "Snooze/PKM/00-Learning Strategy & Workflow/CVS-Task Workflow.canvas",
+    "Snooze/Front-End/z-Front-End Assets/Front-End Projects Overview.canvas",
+    "Snooze/CPE/Ideas/CPE Ideas.canvas",
+    "Snooze/Resonance/Traveling/Italy Travel Vlog.canvas"
   ]
 }

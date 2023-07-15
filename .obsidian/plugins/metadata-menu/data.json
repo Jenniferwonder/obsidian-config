@@ -66,7 +66,6 @@
           "2": "Codespace",
           "3": "CPE",
           "4": "PKM",
-          "5": "Content-Making",
           "6": "AI",
           "7": "PMP",
           "8": "English",
@@ -85,11 +84,11 @@
       "name": "Topic",
       "options": {
         "valuesList": {
-          "1": "Content-Making",
+          "1": "CPE",
           "2": "Codespace",
-          "3": "PKM-Productivity",
+          "3": "PKM",
           "4": "PMP",
-          "5": "Life-Tricks",
+          "5": "Life",
           "6": "English-Improving",
           "7": "TechSkills",
           "8": "AI-Tools"
@@ -137,9 +136,12 @@
       "name": "Type",
       "options": {
         "valuesList": {
-          "1": "Note",
-          "2": "Blog",
-          "3": "Card"
+          "1": "Plan",
+          "2": "Resource",
+          "3": "Scope",
+          "4": "Note",
+          "5": "Card",
+          "6": "Blog"
         },
         "sourceType": "ValuesList",
         "valuesListNotePath": "",

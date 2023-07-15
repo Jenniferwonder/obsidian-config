@@ -1,0 +1,36 @@
+{
+  "database": "Zotero",
+  "noteImportFolder": "Capture/",
+  "pdfExportImageDPI": 120,
+  "pdfExportImageFormat": "png",
+  "pdfExportImageQuality": 90,
+  "citeFormats": [
+    {
+      "name": "Cite",
+      "format": "template",
+      "template": "{{citekey}}"
+    }
+  ],
+  "exportFormats": [
+    {
+      "name": "Import #2",
+      "outputPathTemplate": "{{citekey}}.md",
+      "imageOutputPathTemplate": "{{citekey}}/",
+      "imageBaseNameTemplate": "image"
+    },
+    {
+      "name": "Import Paper",
+      "outputPathTemplate": "Capture/C-{{title}}.md",
+      "imageOutputPathTemplate": "zz-assets/Zotero/{{citekey}}/",
+      "imageBaseNameTemplate": "{{citekey}}",
+      "templatePath": "Templates/Tp-Notes/tp-Zotero Paper.md"
+    }
+  ],
+  "citeSuggestTemplate": "[[{{citekey}}]]",
+  "openNoteAfterImport": false,
+  "whichNotesToOpenAfterImport": "first-imported-note",
+  "pdfExportImageOCR": false,
+  "pdfExportImageTesseractPath": "D:\\Program Files\\Tesseract-OCR",
+  "pdfExportImageTessDataDir": "D:\\Program Files\\Tesseract-OCR\\tessdata",
+  "pdfExportImageOCRLang": "chi_sim"
+}

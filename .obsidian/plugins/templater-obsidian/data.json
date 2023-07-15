@@ -1,6 +1,6 @@
 {
   "command_timeout": 6,
-  "templates_folder": "000-Templates",
+  "templates_folder": "Templates",
   "templates_pairs": [],
   "trigger_on_file_creation": true,
   "auto_jump_to_cursor": true,
@@ -11,31 +11,31 @@
   "folder_templates": [
     {
       "folder": "000-OKRTs/Tasks",
-      "template": "000-Templates/Tp-Notes/tp-Tasks.md"
+      "template": "Templates/Tp-Notes/tp-Tasks.md"
     },
     {
-      "folder": "300-Areas/PKM",
-      "template": "000-Templates/Tp-Notes/tp-GNotes.md"
+      "folder": "Areas/PKM",
+      "template": "Templates/Tp-Notes/tp-GNotes.md"
     },
     {
-      "folder": "300-Areas/Content-Making",
-      "template": "000-Templates/Tp-Notes/tp-GNotes.md"
+      "folder": "Areas/CPE",
+      "template": "Templates/Tp-Notes/tp-GNotes.md"
     },
     {
-      "folder": "300-Areas/Project Management",
-      "template": "000-Templates/Tp-Notes/tp-GNotes.md"
+      "folder": "Areas/PM",
+      "template": "Templates/Tp-Notes/tp-GNotes.md"
     },
     {
-      "folder": "300-Areas/Engish",
-      "template": "000-Templates/Tp-Notes/tp-GNotes.md"
+      "folder": "Areas/Engish",
+      "template": "Templates/Tp-Notes/tp-GNotes.md"
     },
     {
-      "folder": "300-Areas/AI-Tools",
-      "template": "000-Templates/Tp-Notes/tp-GNotes.md"
+      "folder": "Areas/Front-End",
+      "template": "Templates/Tp-Notes/tp-GNotes.md"
     },
     {
-      "folder": "CCC-CPE/Free Writing",
-      "template": "000-Templates/Tp-Notes/tp-GWrite.md"
+      "folder": "Areas/CPE/Free Writing",
+      "template": "Templates/Tp-Notes/tp-GWrite.md"
     }
   ],
   "syntax_highlighting": true,

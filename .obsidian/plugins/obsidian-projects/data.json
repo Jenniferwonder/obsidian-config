@@ -133,6 +133,9 @@
           "colors": {
             "conditions": []
           },
+          "sort": {
+            "criteria": []
+          },
           "id": "0b97edb6-bd42-474f-8209-055f498a0349",
           "name": "Table",
           "type": "table"
@@ -185,6 +188,9 @@
           "colors": {
             "conditions": []
           },
+          "sort": {
+            "criteria": []
+          },
           "id": "401db4a4-f873-4889-8605-a07e26940afd",
           "name": "Kanban",
           "type": "board"
@@ -198,6 +204,9 @@
           },
           "colors": {
             "conditions": []
+          },
+          "sort": {
+            "criteria": []
           },
           "id": "d8edd6a3-7650-42f7-a60b-6fdd8321b2af",
           "name": "Calendar",
@@ -297,6 +306,9 @@
           "colors": {
             "conditions": []
           },
+          "sort": {
+            "criteria": []
+          },
           "id": "3e396594-f459-4920-9e85-e6621924f221",
           "name": "Table",
           "type": "table"
@@ -353,6 +365,9 @@
           "colors": {
             "conditions": []
           },
+          "sort": {
+            "criteria": []
+          },
           "id": "2d223f84-a6df-4d5f-89cb-306c101927c6",
           "name": "Board",
           "type": "board"
@@ -387,6 +402,9 @@
           "colors": {
             "conditions": []
           },
+          "sort": {
+            "criteria": []
+          },
           "id": "e48c4fcd-530e-49f1-b75c-36a446fdb72f",
           "name": "Kanban",
           "type": "board"
@@ -398,6 +416,9 @@
           },
           "colors": {
             "conditions": []
+          },
+          "sort": {
+            "criteria": []
           },
           "id": "d0d78378-d271-470f-b16a-f4ca8a1a1b6d",
           "name": "Calendar",
@@ -482,6 +503,9 @@
           "colors": {
             "conditions": []
           },
+          "sort": {
+            "criteria": []
+          },
           "id": "c7e921b0-bf62-4008-9ef5-0a76a19eb25e",
           "name": "Table",
           "type": "table"
@@ -493,6 +517,9 @@
           },
           "colors": {
             "conditions": []
+          },
+          "sort": {
+            "criteria": []
           },
           "id": "20e77589-a3b2-4a2c-a0a1-5a001bebaa94",
           "name": "Board",
@@ -508,6 +535,9 @@
           },
           "colors": {
             "conditions": []
+          },
+          "sort": {
+            "criteria": []
           },
           "id": "359e037c-3f9d-4249-b639-901d565a7880",
           "name": "Calendar",

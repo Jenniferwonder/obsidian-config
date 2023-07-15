@@ -1,0 +1,293 @@
+---
+
+excalidraw-plugin: parsed
+tags: [excalidraw]
+
+---
+==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
+
+
+# Text Elements
+Travel Vlog ^GHrWnEOa
+
+[[400-Life/Traveling/Italy/YouTube- Italy Travel Vlog exploring Florence, Tuscany and Venice (2022)#^l0hwv5]] ^Azu70i2Q
+
+
+# Embedded files
+ed09e94997013eecff08e9b6658bba1e9b489cdc: [[Google Flights Maps.png]]
+c2e3503baea92183c3ebc3590c301a141eb3691d: [[Italy-Food.png]]
+dca9710dd68eb02a4091edfc2ff838b133959d78: [[trainline info.png]]
+8b6a31c6de4b12432bc08a5cf536b2a6a9b3988f: [[Italy First Meal.png]]
+
+%%
+# Drawing
+```json
+{
+	"type": "excalidraw",
+	"version": 2,
+	"source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/1.9.7",
+	"elements": [
+		{
+			"type": "text",
+			"version": 266,
+			"versionNonce": 247204000,
+			"isDeleted": false,
+			"id": "GHrWnEOa",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -351.94933706895125,
+			"y": -384.99601195295907,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 200.4839324951172,
+			"height": 45,
+			"seed": 1727107299,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1688857862645,
+			"link": null,
+			"locked": false,
+			"fontSize": 36,
+			"fontFamily": 1,
+			"text": "Travel Vlog",
+			"rawText": "Travel Vlog",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "Travel Vlog",
+			"lineHeight": 1.25,
+			"baseline": 32
+		},
+		{
+			"type": "image",
+			"version": 622,
+			"versionNonce": 1365135712,
+			"isDeleted": false,
+			"id": "IdlKqhkc",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -703.3719008454807,
+			"y": -254.39772547264133,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 133.0706256729734,
+			"height": 100.44028068036688,
+			"seed": 75043,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1688857862645,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "ed09e94997013eecff08e9b6658bba1e9b489cdc",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "text",
+			"version": 399,
+			"versionNonce": 930215072,
+			"isDeleted": false,
+			"id": "Azu70i2Q",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -716.199305325059,
+			"y": -274.95471374861563,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 368.693603515625,
+			"height": 8.032863679396845,
+			"seed": 694431949,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1688857862645,
+			"link": "[[400-Life/Traveling/Italy/YouTube- Italy Travel Vlog exploring Florence, Tuscany and Venice (2022)#^l0hwv5]]",
+			"locked": false,
+			"fontSize": 6.426290943517476,
+			"fontFamily": 1,
+			"text": "📍[[400-Life/Traveling/Italy/YouTube- Italy Travel Vlog exploring Florence, Tuscany and Venice (2022)#^l0hwv5]]",
+			"rawText": "[[400-Life/Traveling/Italy/YouTube- Italy Travel Vlog exploring Florence, Tuscany and Venice (2022)#^l0hwv5]]",
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"containerId": null,
+			"originalText": "📍[[400-Life/Traveling/Italy/YouTube- Italy Travel Vlog exploring Florence, Tuscany and Venice (2022)#^l0hwv5]]",
+			"lineHeight": 1.25,
+			"baseline": 6
+		},
+		{
+			"type": "image",
+			"version": 307,
+			"versionNonce": 676144480,
+			"isDeleted": false,
+			"id": "JUaxYqdw",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -551.018822209851,
+			"y": -254.8271071604957,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 88.07931440094104,
+			"height": 106.3636363636364,
+			"seed": 78101,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1688857862645,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "dca9710dd68eb02a4091edfc2ff838b133959d78",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "image",
+			"version": 849,
+			"versionNonce": 713711776,
+			"isDeleted": false,
+			"id": "RIoIWX3Io-I0Kt0Leeru2",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -440.3332616692725,
+			"y": -252.15191776655624,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 104.49346634818043,
+			"height": 78.88829956507905,
+			"seed": 1503705123,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1688857862645,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "c2e3503baea92183c3ebc3590c301a141eb3691d",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "image",
+			"version": 192,
+			"versionNonce": 1648458080,
+			"isDeleted": false,
+			"id": "xtHujFKYokTy0CFbPVP1s",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -324.8728692972931,
+			"y": -248.7988701627879,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 114.6111662648323,
+			"height": 66.96969696969691,
+			"seed": 895553389,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1688857862645,
+			"link": null,
+			"locked": false,
+			"status": "pending",
+			"fileId": "8b6a31c6de4b12432bc08a5cf536b2a6a9b3988f",
+			"scale": [
+				1,
+				1
+			]
+		},
+		{
+			"type": "iframe",
+			"version": 2,
+			"versionNonce": 106034528,
+			"isDeleted": true,
+			"id": "IaEyaiqF",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": -709.8939419124563,
+			"y": -89.12448825726943,
+			"strokeColor": "transparent",
+			"backgroundColor": "transparent",
+			"width": 500,
+			"height": 500,
+			"seed": 68237,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"boundElements": [],
+			"updated": 1688858224677,
+			"link": "[[Front-End#Actions]]",
+			"locked": false,
+			"whitelisted": true
+		}
+	],
+	"appState": {
+		"theme": "light",
+		"viewBackgroundColor": "#ffffff",
+		"currentItemStrokeColor": "#1e1e1e",
+		"currentItemBackgroundColor": "transparent",
+		"currentItemFillStyle": "hachure",
+		"currentItemStrokeWidth": 1,
+		"currentItemStrokeStyle": "solid",
+		"currentItemRoughness": 1,
+		"currentItemOpacity": 100,
+		"currentItemFontFamily": 1,
+		"currentItemFontSize": 36,
+		"currentItemTextAlign": "left",
+		"currentItemStartArrowhead": null,
+		"currentItemEndArrowhead": "arrow",
+		"scrollX": 915.0456844281762,
+		"scrollY": 645.7844200591287,
+		"zoom": {
+			"value": 0.7316241351937691
+		},
+		"currentItemRoundness": "round",
+		"gridSize": null,
+		"currentStrokeOptions": null,
+		"previousGridSize": null
+	},
+	"files": {}
+}
+```
+%%

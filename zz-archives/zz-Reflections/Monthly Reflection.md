@@ -14,7 +14,7 @@ status:
 - Figure out two crucial fields to focus on in order to be Job Ready ASAP.
   - [[Blogs and Social Platforms]]
   - [[NextJS-Projects]]
-- Build [[GeekEnglish Platform]] with [[React]], [[Next.js]], [[Sanity]]
+- Build [[GeekEnglish Platform]] with [[100-Front-End Roadmap/1. TechSkills/1.2 Web Dev/1.2.3 Front-End Frameworks/React/React]], [[Next.js]], [[Sanity]]
 - Improve [[Video Editing]] and [[Photo Editing]] skills
 - Upload a video to Bilibili [[2302.01-Script]]
 
@@ -34,15 +34,15 @@ status:
 
 Till [[2023-01-31]], I've spent-
 
-- 3 days on [[JavaScript]] reflection
-- 3 days on learning [[React]]
+- 3 days on [[O-JS]] reflection
+- 3 days on learning [[100-Front-End Roadmap/1. TechSkills/1.2 Web Dev/1.2.3 Front-End Frameworks/React/React]]
 - 9 days on [[English Learning]] trying out ways to improve my spoken English while learning front-end technology
 - 1 day on [[Figma]]
-- 9 days spending [[2023 Spring Festival Holidays]] with my family
+- 9 days spending [[400-Life/Traveling/Ganzhou/2023 Spring Festival Holidays]] with my family
 - 2 days on reflection
   - [[Video Editing]]
   - [[Monthly Reflection]]
-- 1 day back on [[React]]  
+- 1 day back on [[100-Front-End Roadmap/1. TechSkills/1.2 Web Dev/1.2.3 Front-End Frameworks/React/React]]  
   I can see how ambitious I am.  
   Even though at the beginning of this month I set a goal to learn and master **React** mainly this month, I still end up spending a considerable amount of time thinking about how to be able to **speak English like a professional**.  
   I know how much my time cost, but I still want to be truly good at what I'm capable of - English and be able to make value out of it.  
