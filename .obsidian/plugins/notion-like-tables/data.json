@@ -1,13 +1,16 @@
 {
   "shouldDebug": false,
   "createAtObsidianAttachmentFolder": false,
-  "customFolderForNewFiles": "",
-  "exportRenderMarkdown": true,
+  "customFolderForNewFiles": "OKRTs",
+  "removeMarkdownOnExport": true,
   "defaultEmbedWidth": "100%",
   "defaultEmbedHeight": "340px",
   "hasMigratedTo800": true,
   "showWelcomeModal": false,
-  "pluginVersion": "8.0.0",
-  "hasMigratedTo700": true,
-  "customFolderForNewTables": "OKRTs/Table"
+  "showWhatsNewModal": true,
+  "defaultFrozenColumnCount": 1,
+  "pluginVersion": "8.12.2",
+  "showSupportModal": true,
+  "showDonationModal": true,
+  "exportRenderMarkdown": true
 }

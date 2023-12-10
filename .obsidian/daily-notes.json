@@ -1,6 +1,6 @@
 {
-  "folder": "OKRTs/Daily",
-  "autorun": true,
+  "folder": "Daily",
+  "autorun": false,
   "template": "Templates/Tp-Notes/tp-Daily Plan",
   "format": "YYYY-MM-DD"
 }

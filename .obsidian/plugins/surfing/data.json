@@ -1,19 +1,24 @@
 {
   "defaultSearchEngine": "bing",
-  "customSearchEngine": [],
+  "customSearchEngine": [
+    {
+      "name": "duckduckgo",
+      "url": "https://duckduckgo.com/?q="
+    }
+  ],
   "ignoreList": [
     "notion",
     "craft"
   ],
   "alwaysShowCustomSearch": false,
-  "showOtherSearchEngines": true,
+  "showOtherSearchEngines": false,
   "showSearchBarInPage": false,
   "markdownPath": "/",
   "customHighlightFormat": false,
   "highlightFormat": "[{CONTENT}]({URL})",
   "highlightInSameTab": false,
   "openInSameTab": false,
-  "showRefreshButton": true,
+  "showRefreshButton": false,
   "openInObsidianWeb": false,
   "useCustomIcons": false,
   "useWebview": false,
@@ -21,9 +26,11 @@
   "darkMode": false,
   "bookmarkManager": {
     "openBookMark": false,
-    "saveBookMark": true,
+    "saveBookMark": false,
+    "sendToReadWise": false,
     "pagination": "12",
-    "category": "-Front-End\n-Tools\n-PKM\n-Interview\n",
+    "category": "- Computer\n    - 算法\n    - 数据结构\n- obsidian\n    - surfing\n    - dataview\n",
+    "defaultCategory": "ROOT",
     "defaultColumnList": [
       "name",
       "description",

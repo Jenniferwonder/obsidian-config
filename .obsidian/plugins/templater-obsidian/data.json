@@ -36,6 +36,14 @@
     {
       "folder": "Areas/CPE/Free Writing",
       "template": "Templates/Tp-Notes/tp-GWrite.md"
+    },
+    {
+      "folder": "LeetCode",
+      "template": "Templates/Tp-Notes/tp-LC.md"
+    },
+    {
+      "folder": "LeetNote",
+      "template": "Templates/Tp-Notes/tp-LC.md"
     }
   ],
   "syntax_highlighting": true,

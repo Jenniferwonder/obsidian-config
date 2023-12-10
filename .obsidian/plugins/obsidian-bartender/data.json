@@ -1,6 +1,30 @@
 {
   "statusBarOrder": [],
-  "ribbonBarOrder": [],
+  "ribbonBarOrder": [
+    "1656053489991682367404267",
+    "348293930418176072679024",
+    "6619476611039232452673911",
+    "74370494056366082869607695",
+    "5394135326392322125746399",
+    "26938807974625282949999667",
+    "86618752942080004085668783",
+    "19586210510929924089782830",
+    "23373856269926401044791807",
+    "35900300187402241682684258",
+    "79197221253283843554360994",
+    "22537797936087042100426429",
+    "76917925058969602487345714",
+    "46153890361507843217128156",
+    "24931855656550401188934136",
+    "70539640926371843199063707",
+    "45551091701514243656382428",
+    "5475013855543296990270150",
+    "4761460873887744608231212",
+    "975301173575683235000764",
+    "41001948240936961319436037",
+    "3856008753446912907088109",
+    "76667013069537281389587857"
+  ],
   "fileExplorerOrder": {
     "300-Areas/CPE/Ideas": [
       "300-Areas/CPE/Ideas/Bilibili Title Ideas.table",
@@ -33,20 +57,17 @@
       "000-OKRTs/Daily/delete.md"
     ],
     "/": [
-      "OKRTs",
-      "Plan",
-      "Resource",
-      "S-Functional Programming-JS 函数式编程.md",
-      "Capture",
-      "Organize",
-      "Distill",
-      "Express",
-      "Snooze",
+      "DB-CSS.md",
+      "DB-Layout",
+      "O-CSS",
+      "B-CSS",
+      "Codespace",
+      "CSS Frameworks",
+      "S-CSS",
       "Templates",
-      "zz-archives",
-      "zz-assets",
-      "zz-Excalidraw",
-      "Vue"
+      "z-Assets",
+      "P-CSS",
+      "README.md.md"
     ],
     "CPE": [
       "CPE/O5-CPE-内容输出实现突破.md",
@@ -69,31 +90,58 @@
     ],
     "OKRTs/Daily": [
       "OKRTs/Daily/DB-Daily 2023.md",
-      "OKRTs/Daily/2023-07-07.md",
-      "OKRTs/Daily/2023-07",
-      "OKRTs/Daily/2023-08",
-      "OKRTs/Daily/2023-09",
-      "OKRTs/Daily/2023-10",
-      "OKRTs/Daily/2023-11",
-      "OKRTs/Daily/2023-12",
+      "OKRTs/Daily/MP-Daily 2023.md",
+      "OKRTs/Daily/To Improve.md",
       "OKRTs/Daily/2023",
-      "OKRTs/Daily/2022"
+      "OKRTs/Daily/2022",
+      "OKRTs/Daily/DB-Daily 2022.md",
+      "OKRTs/Daily/2023-08-07.md",
+      "OKRTs/Daily/2023-08-08.md",
+      "OKRTs/Daily/2023-08-09.md",
+      "OKRTs/Daily/2023-08-10.md",
+      "OKRTs/Daily/2023-08-11.md",
+      "OKRTs/Daily/2023-08-12.md",
+      "OKRTs/Daily/2023-08-13.md",
+      "OKRTs/Daily/2023-08-14.md",
+      "OKRTs/Daily/2023-08-15.md",
+      "OKRTs/Daily/2023-08-16.md",
+      "OKRTs/Daily/2023-08-17.md",
+      "OKRTs/Daily/2023-08-22.md",
+      "OKRTs/Daily/2023-08-22.md.baiduyun.uploading.cfg",
+      "OKRTs/Daily/2023-W32.md",
+      "OKRTs/Daily/2023-W33.md",
+      "OKRTs/Daily/Tech Source.md",
+      "OKRTs/Daily/2023-08-23.md",
+      "OKRTs/Daily/2023-08-18.md",
+      "OKRTs/Daily/2023-08-19.md",
+      "OKRTs/Daily/2023-08-20.md",
+      "OKRTs/Daily/2023-08-21.md",
+      "OKRTs/Daily/2023-W34.md",
+      "OKRTs/Daily/3-Computer Network.md",
+      "OKRTs/Daily/RM-Memory Palace-记忆宫殿.md"
     ],
     "Front-End": [
-      "Front-End/Tech Fundamentals",
+      "Front-End/Business Roadmap.md",
+      "Front-End/TechSkills Roadmap.md",
+      "Front-End/O-Front-End.md",
+      "Front-End/Tech Projects",
+      "Front-End/Dev Practice",
       "Front-End/Front-End Basics",
-      "Front-End/UI Frameworks",
+      "Front-End/Tech Fundamentals",
       "Front-End/Front-End Frameworks",
+      "Front-End/UI Component Library",
+      "Front-End/Front-End Practice",
       "Front-End/Back-End Basics",
-      "Front-End/Front-End Tools",
+      "Front-End/JS Full-Stack Frameworks",
+      "Front-End/Design",
       "Front-End/Performance Optimization",
       "Front-End/Visualization",
       "Front-End/Cross-Platform",
-      "Front-End/Codespace",
       "Front-End/Tech Interview",
       "Front-End/Front-End.md",
-      "Front-End/Tech Source",
-      "Front-End/Front-End Assets"
+      "Front-End/S-Tech Overall",
+      "Front-End/z-Front-End Assets",
+      "Front-End/Functional Programming-JS 函数式编程.md"
     ],
     "Front-End/TechSkills": [
       "Front-End/TechSkills/Tech Fundamentals",
@@ -180,19 +228,19 @@
       "Front-End/TechSkills/Tech Fundamentals/System Fundamentals/Computer Network-计算机网络/Web, Network, Internet.md"
     ],
     "Front-End/Front-End Basics": [
-      "Front-End/Front-End Basics/Front-End Basics.md",
+      "Front-End/Front-End Basics/JS",
       "Front-End/Front-End Basics/HTML",
       "Front-End/Front-End Basics/CSS",
-      "Front-End/Front-End Basics/JavaScript"
+      "Front-End/Front-End Basics/CSS Frameworks",
+      "Front-End/Front-End Basics/CASE - JS Stop Watch.md"
     ],
     "Front-End/Front-End Basics/CSS": [
-      "Front-End/Front-End Basics/CSS/20 Days_ Advanced CSS (Aug 23- Sept 8; Oct 9-13).md",
-      "Front-End/Front-End Basics/CSS/Animation-动画.md",
-      "Front-End/Front-End Basics/CSS/Chart-图表.md",
-      "Front-End/Front-End Basics/CSS/CSS Inspirations and Templates.md",
-      "Front-End/Front-End Basics/CSS/HTML, CSS 学习资源.md",
-      "Front-End/Front-End Basics/CSS/CSS.md",
-      "Front-End/Front-End Basics/CSS/Natours-Responsive Design (Sept 8).md"
+      "Front-End/Front-End Basics/CSS/S-CSS",
+      "Front-End/Front-End Basics/CSS/C-CSS",
+      "Front-End/Front-End Basics/CSS/D-CSS",
+      "Front-End/Front-End Basics/CSS/E-CSS",
+      "Front-End/Front-End Basics/CSS/P-CSS",
+      "Front-End/Front-End Basics/CSS/O-CSS"
     ],
     "Front-End/Front-End Basics/JavaScript": [
       "Front-End/Front-End Basics/JavaScript/JS Basics",
@@ -204,11 +252,10 @@
       "Front-End/Front-End Basics/JavaScript/ZTM JS Note.md"
     ],
     "OKRTs": [
+      "OKRTs/To Improve.md",
       "OKRTs/Daily",
       "OKRTs/Tasks",
       "OKRTs/Views",
-      "OKRTs/Table",
-      "OKRTs/Roadmap",
       "OKRTs/Homepage.md"
     ],
     "Structure": [
@@ -287,14 +334,14 @@
       "Scope/O-PM Tools.md"
     ],
     "Snooze": [
-      "Snooze/Tech Projects",
       "Snooze/Front-End",
-      "Snooze/CPE",
+      "Snooze/Tech Projects",
+      "Snooze/PM",
+      "Snooze/PKM",
       "Snooze/English",
+      "Snooze/CPE",
       "Snooze/Life",
       "Snooze/People",
-      "Snooze/PKM",
-      "Snooze/PM",
       "Snooze/Resonance"
     ],
     "Plan": [
@@ -331,21 +378,21 @@
       "Snooze/Front-End/CSS Frameworks/UI Design/UI Componenet Library.md"
     ],
     "Snooze/Front-End": [
-      "Snooze/Front-End/Codespace",
       "Snooze/Front-End/Front-End Basics",
-      "Snooze/Front-End/CSS Frameworks",
-      "Snooze/Front-End/UI Component Library",
       "Snooze/Front-End/Back-End Basics",
       "Snooze/Front-End/Tech Fundamentals",
-      "Snooze/Front-End/Cross-Platform",
       "Snooze/Front-End/Front-End Frameworks",
+      "Snooze/Front-End/UI Component Library",
       "Snooze/Front-End/Front-End Tools",
+      "Snooze/Front-End/Design",
+      "Snooze/Front-End/Cross-Platform",
       "Snooze/Front-End/Performance Optimization",
-      "Snooze/Front-End/Tech Interview",
-      "Snooze/Front-End/Testing",
-      "Snooze/Front-End/TypeScript",
       "Snooze/Front-End/Visualization",
-      "Snooze/Front-End/z-Front-End Assets"
+      "Snooze/Front-End/Tech Interview",
+      "Snooze/Front-End/z-Front-End Assets",
+      "Snooze/Front-End/Front-End.md",
+      "Snooze/Front-End/S-Tech Overall",
+      "Snooze/Front-End/O-Front-End.md"
     ],
     "Plan/Personal Projects": [
       "Plan/Personal Projects/JS Projects",
@@ -364,14 +411,18 @@
       "Plan/Personal Projects/Vue Projects"
     ],
     "Organize": [
-      "Organize/O-JS",
       "Organize/O-Front-End.md",
-      "Organize/O-Algo.md",
+      "Organize/O-JS",
       "Organize/O-HTML.md",
       "Organize/O-CSS.md",
       "Organize/O-Network.md",
+      "Organize/O-Algo.md",
       "Organize/O-PM Tools.md",
-      "Organize/O-PM.md"
+      "Organize/O-PM.md",
+      "Organize/JS-OOP and Inheritance",
+      "Organize/Async JS",
+      "Organize/JS Fundamentals",
+      "Organize/ZTM JS Note.md"
     ],
     "Snooze/Tech Projects": [
       "Snooze/Tech Projects/GeekEnglish Learning Platform",
@@ -387,12 +438,12 @@
       "Snooze/Tech Projects/Visualization"
     ],
     "Capture/C-JS": [
-      "Capture/C-JS/JavaScript The Good Parts - Douglas Crockford.md",
-      "Capture/C-JS/JS Basics",
-      "Capture/C-JS/JS Fundamentals",
-      "Capture/C-JS/JS-OOP and Inheritance",
-      "Capture/C-JS/Async JS",
-      "Capture/C-JS/ZTM JS Note.md"
+      "Capture/C-JS/ProJS-EN Anno.md",
+      "Capture/C-JS/ProJS-ZH Anno.md",
+      "Capture/C-JS/C06-Anno.md",
+      "Capture/C-JS/ZTM JS Note.md",
+      "Capture/C-JS/C-JS.md",
+      "Capture/C-JS/Functional Programming-JS 函数式编程.md"
     ],
     "Capture/C-JS/JS Basics": [
       "Capture/C-JS/JS Basics/JS-Data Types and Data Structures.md",
@@ -416,6 +467,272 @@
       "Distill/D-HTML",
       "Distill/D-Network",
       "Distill/D-PM"
+    ],
+    "Snooze/PKM/06.Obs-Brainstorm and Visualization": [
+      "Snooze/PKM/06.Obs-Brainstorm and Visualization/06.Obs-Brainstorm and Visualization.md",
+      "Snooze/PKM/06.Obs-Brainstorm and Visualization/Obs-Mindmap",
+      "Snooze/PKM/06.Obs-Brainstorm and Visualization/Obs-Excalidraw",
+      "Snooze/PKM/06.Obs-Brainstorm and Visualization/Obs-Diagram",
+      "Snooze/PKM/06.Obs-Brainstorm and Visualization/Obs-Canvas",
+      "Snooze/PKM/06.Obs-Brainstorm and Visualization/Obs-Table and Charts",
+      "Snooze/PKM/06.Obs-Brainstorm and Visualization/Obs-AI Tools",
+      "Snooze/PKM/06.Obs-Brainstorm and Visualization/Map View"
+    ],
+    "Snooze/PKM": [
+      "Snooze/PKM/00-Learning Strategy & Workflow",
+      "Snooze/PKM/01.Obs-Why",
+      "Snooze/PKM/02.Obs-Setup",
+      "Snooze/PKM/03.Obs-Theme and Style",
+      "Snooze/PKM/04.Backup, Sync and Recover",
+      "Snooze/PKM/05.Obs-Link and Navigation",
+      "Snooze/PKM/06.Obs-Quick Add and Capture",
+      "Snooze/PKM/07.Obs-Content Capture",
+      "Snooze/PKM/08.Obs-Project and Task Management",
+      "Snooze/PKM/PKM.md",
+      "Snooze/PKM/09.Obs-Brainstorm and Visualization",
+      "Snooze/PKM/10.Obs-Review, Refactor and Distill",
+      "Snooze/PKM/11.Obs-Present, Export, Share and Publish",
+      "Snooze/PKM/12.Obs-Collaboration",
+      "Snooze/PKM/SOPs",
+      "Snooze/PKM/z-Snooze"
+    ],
+    "Front-End/Front-End Basics/HTML": [
+      "Front-End/Front-End Basics/HTML/P-HTML",
+      "Front-End/Front-End Basics/HTML/S-HTML",
+      "Front-End/Front-End Basics/HTML/C-HTML",
+      "Front-End/Front-End Basics/HTML/O-HTML",
+      "Front-End/Front-End Basics/HTML/D-HTML",
+      "Front-End/Front-End Basics/HTML/E-HTML"
+    ],
+    "Front-End/Front-End Basics/JS": [
+      "Front-End/Front-End Basics/JS/DB-D-JS.md",
+      "Front-End/Front-End Basics/JS/DB-O-JS.md",
+      "Front-End/Front-End Basics/JS/Ex-JS.md",
+      "Front-End/Front-End Basics/JS/JS Tracker.md",
+      "Front-End/Front-End Basics/JS/KB-JS.md",
+      "Front-End/Front-End Basics/JS/C-JS",
+      "Front-End/Front-End Basics/JS/O-JS",
+      "Front-End/Front-End Basics/JS/D-JS",
+      "Front-End/Front-End Basics/JS/E-JS",
+      "Front-End/Front-End Basics/JS/JS.md"
+    ],
+    "Front-End/Tech Fundamentals/Programming Fundamentals/Algo": [
+      "Front-End/Tech Fundamentals/Programming Fundamentals/Algo/P-Algo",
+      "Front-End/Tech Fundamentals/Programming Fundamentals/Algo/S-Algo",
+      "Front-End/Tech Fundamentals/Programming Fundamentals/Algo/C-Algo",
+      "Front-End/Tech Fundamentals/Programming Fundamentals/Algo/O-Algo",
+      "Front-End/Tech Fundamentals/Programming Fundamentals/Algo/D-Algo",
+      "Front-End/Tech Fundamentals/Programming Fundamentals/Algo/E-Algo"
+    ],
+    "Front-End/Design": [
+      "Front-End/Design/Design.md",
+      "Front-End/Design/P-Design",
+      "Front-End/Design/S-Design",
+      "Front-End/Design/C-Design",
+      "Front-End/Design/O-Design",
+      "Front-End/Design/D-Design",
+      "Front-End/Design/E-Design"
+    ],
+    "Front-End/Tech Fundamentals/System Fundamentals/Network": [
+      "Front-End/Tech Fundamentals/System Fundamentals/Network/P-Network",
+      "Front-End/Tech Fundamentals/System Fundamentals/Network/S-Network",
+      "Front-End/Tech Fundamentals/System Fundamentals/Network/C-Network",
+      "Front-End/Tech Fundamentals/System Fundamentals/Network/O-Network",
+      "Front-End/Tech Fundamentals/System Fundamentals/Network/D-Network",
+      "Front-End/Tech Fundamentals/System Fundamentals/Network/E-Network"
+    ],
+    "Front-End/Tech Fundamentals/System Fundamentals": [
+      "Front-End/Tech Fundamentals/System Fundamentals/Network",
+      "Front-End/Tech Fundamentals/System Fundamentals/Computer System Principles-计算机系统原理",
+      "Front-End/Tech Fundamentals/System Fundamentals/Distributed System Design-分布式技术架构",
+      "Front-End/Tech Fundamentals/System Fundamentals/Operating Systems-操作系统原理和基础",
+      "Front-End/Tech Fundamentals/System Fundamentals/System Fundamentals.md"
+    ],
+    "Front-End/Dev Practice/DevTools": [
+      "Front-End/Dev Practice/DevTools/Containerization & Virtualization.md",
+      "Front-End/Dev Practice/DevTools/DevTools.md",
+      "Front-End/Dev Practice/DevTools/Git&GitHub",
+      "Front-End/Dev Practice/DevTools/Vim",
+      "Front-End/Dev Practice/DevTools/VS Code",
+      "Front-End/Dev Practice/DevTools/Windows"
+    ],
+    "Front-End/Dev Practice": [
+      "Front-End/Dev Practice/DevTools",
+      "Front-End/Dev Practice/DevOps",
+      "Front-End/Dev Practice/AI-Tools",
+      "Front-End/Dev Practice/No-Code Tools"
+    ],
+    "OKRTs/Views": [
+      "OKRTs/Views/DB-OKRTs",
+      "OKRTs/Views/Habit Tracker.md",
+      "OKRTs/Views/Kanban (Priority).md",
+      "OKRTs/Views/Kanban(Content Flow).md",
+      "OKRTs/Views/KB-Objectives.md",
+      "OKRTs/Views/KB-Tasks.md",
+      "OKRTs/Views/My Goals in 2023.md",
+      "OKRTs/Views/Reading Plan Tracker.md",
+      "OKRTs/Views/Untitled mindmap.md",
+      "OKRTs/Views/从这开始.md"
+    ],
+    "PKM/08.Obs-Project and Task Management": [
+      "PKM/08.Obs-Project and Task Management/08.Obs-Project and Task Management.md",
+      "PKM/08.Obs-Project and Task Management/OKRT-How to",
+      "PKM/08.Obs-Project and Task Management/Daily Note (Tasks, Ideas, Habits, Review)",
+      "PKM/08.Obs-Project and Task Management/Resources Management (Folders)",
+      "PKM/08.Obs-Project and Task Management/Kanban",
+      "PKM/08.Obs-Project and Task Management/Gantt Chart",
+      "PKM/08.Obs-Project and Task Management/Database and Dataview (Tags, Metadata, Charts, DB-Folder, Dashboard, CustomJS)",
+      "PKM/08.Obs-Project and Task Management/Timeline",
+      "PKM/08.Obs-Project and Task Management/Map View",
+      "PKM/08.Obs-Project and Task Management/Table and Charts",
+      "PKM/08.Obs-Project and Task Management/Book Project Tools",
+      "PKM/08.Obs-Project and Task Management/Coordinate",
+      "PKM/08.Obs-Project and Task Management/Workspace"
+    ],
+    "PKM/09.Obs-Brainstorm and Visualization": [
+      "PKM/09.Obs-Brainstorm and Visualization/09.Obs-Brainstorm and Visualization.md",
+      "PKM/09.Obs-Brainstorm and Visualization/Obs-AI Tools",
+      "PKM/09.Obs-Brainstorm and Visualization/Obs-Mindmap",
+      "PKM/09.Obs-Brainstorm and Visualization/Obs-Excalidraw",
+      "PKM/09.Obs-Brainstorm and Visualization/Obs-Canvas",
+      "PKM/09.Obs-Brainstorm and Visualization/Obs-Diagram"
+    ],
+    "PKM": [
+      "PKM/PKM.md",
+      "PKM/PM-项目管理与任务追踪",
+      "PKM/RM-资源管理",
+      "PKM/IL-增量学习",
+      "PKM/Collaboration-协同",
+      "PKM/Config-功能配置",
+      "PKM/PKM Sources",
+      "PKM/z-Snooze",
+      "PKM/PKM Tracker.md"
+    ],
+    "Source": [
+      "Source/S-JS",
+      "Source/S-CSS",
+      "Source/S-HTML",
+      "Source/S-Algo",
+      "Source/S-Network",
+      "Source/S-Computer System",
+      "Source/S-OS",
+      "Source/分布式相关面试题汇总.pdf",
+      "Source/技术面试常见智力题.pdf",
+      "Source/设计模式面试题汇总.pdf"
+    ],
+    "Source/S-JS/B-JS": [
+      "Source/S-JS/B-JS/B-JS.md",
+      "Source/S-JS/B-JS/ProJS",
+      "Source/S-JS/B-JS/Effective JavaScript 68 Specific Ways to Harness the Power of JavaScript by David Herman - 2013.pdf",
+      "Source/S-JS/B-JS/javascript-the-good-parts-annotate.md",
+      "Source/S-JS/B-JS/javascript-the-good-parts.pdf",
+      "Source/S-JS/B-JS/JS Bibile-4th-annotate.md",
+      "Source/S-JS/B-JS/JS Bibile-4th.pdf",
+      "Source/S-JS/B-JS/Professional-Javascript-for-Web-Developers, 3rd.pdf",
+      "Source/S-JS/B-JS/Secrets of the JavaScript Ninja_2nd.pdf"
+    ],
+    "PKM/PM-项目管理与任务追踪": [
+      "PKM/PM-项目管理与任务追踪/PM-项目管理与任务追踪.md",
+      "PKM/PM-项目管理与任务追踪/PMP",
+      "PKM/PM-项目管理与任务追踪/日常反思与习惯追踪-Daily Note (Tasks, Ideas, Habits, Review)",
+      "PKM/PM-项目管理与任务追踪/工作包优先级与进度管理-Projects, DB Folder, Dataview, Kanban, Dashboard, Table",
+      "PKM/PM-项目管理与任务追踪/活动优先级、时间追踪与进度管理-Focus ToDo 专注清单",
+      "PKM/PM-项目管理与任务追踪/模板工具有哪些、怎么用"
+    ],
+    "PM": [
+      "PM/PM.md",
+      "PM/A-PM",
+      "PM/B-PM",
+      "PM/V-PM",
+      "PM/S-PM",
+      "PM/C-PM",
+      "PM/O-PM",
+      "PM/D-PM",
+      "PM/E-PM",
+      "PM/z-PM"
+    ],
+    "LW": [
+      "LW/LW.md",
+      "LW/V-LW",
+      "LW/S-LW",
+      "LW/C-LW",
+      "LW/O-LW",
+      "LW/D-LW",
+      "LW/E-LW"
+    ],
+    "S-JS": [
+      "S-JS/R-JS.md",
+      "S-JS/T-JS.md",
+      "S-JS/JavaScript.md",
+      "S-JS/S-Functional Programming-JS 函数式编程.md",
+      "S-JS/course-material-v2.1",
+      "S-JS/ProJS-Code",
+      "S-JS/S-JS.md"
+    ],
+    "A-JS": [
+      "A-JS/A-JS Bankist App-JS Arr, Date, Intl(Oct 16-17).md",
+      "A-JS/A-JS Bankist Website-JS DOM (Oct14-15).md",
+      "A-JS/A-JS Forkify-JS MVC Async(Sept 30-Oct 8).md",
+      "A-JS/A-JS Mapty- JS Class(Oct 18).md",
+      "A-JS/A-JS Movie Fight.md",
+      "A-JS/A-JS Number Guessing Game.md",
+      "A-JS/A-JS Pig Game.md",
+      "A-JS/A-JS Silly Story Generator.md",
+      "A-JS/A-JS Stop Watch & Countdown Timer.md",
+      "A-JS/A-JS 方案要点：CSS, HTML，原生 JS, jQuery....md",
+      "A-JS/A-JS Number Guessing Game 2022-12-08 09.49.04.excalidraw.md",
+      "A-JS/A-JS Stop Watch 2022-12-13 16.13.09.excalidraw.md",
+      "A-JS/A-JS Projects.md",
+      "A-JS/A-JS Stop Watch.md"
+    ],
+    "LeetNote": [
+      "LeetNote/O-Algo.md",
+      "LeetNote/Intro",
+      "LeetNote/Recursive Algorithm",
+      "LeetNote/Searching (DS)",
+      "LeetNote/Sorting",
+      "LeetNote/Shortest Path",
+      "LeetNote/Math",
+      "LeetNote/核心方法.md",
+      "LeetNote/代码优化考虑.md"
+    ],
+    "C-Algo": [
+      "C-Algo/算法训练营",
+      "C-Algo/DS-Textbook",
+      "C-Algo/C-Algo-AlgoDL-anno.md",
+      "C-Algo/C-Algo-AlgoILU-P1-anno.md",
+      "C-Algo/C-Algo-AlgoILU-P2-anno.md",
+      "C-Algo/C-Algo-AlgoILU-P3-anno.md",
+      "C-Algo/C-Algo-AlgoILU-P4-anno.md",
+      "C-Algo/C-Algo-AlgoMH-anno.md",
+      "C-Algo/C-Algo-AlgoTJ-anno.md",
+      "C-Algo/C-Algo-DHDS-anno.md",
+      "C-Algo/C-Algo-DSDL-anno.md",
+      "C-Algo/C-Algo-LC-array-anno.md",
+      "C-Algo/C-Algo-LCarray-anno.md",
+      "C-Algo/C-Algo-LCCB-anno.md"
+    ],
+    "DevTools/S-Git&GitHub": [
+      "DevTools/S-Git&GitHub/S-Git",
+      "DevTools/S-Git&GitHub/B-Git",
+      "DevTools/S-Git&GitHub/D-Git",
+      "DevTools/S-Git&GitHub/E-Git"
+    ],
+    "Front-End Practice": [
+      "Front-End Practice/WebDev Basics.md",
+      "Front-End Practice/Authentication.md",
+      "Front-End Practice/CI-CD.md",
+      "Front-End Practice/Compilers and Bundlers.md",
+      "Front-End Practice/Data Request",
+      "Front-End Practice/Deploying",
+      "Front-End Practice/Parcel and Webpack Bug Fix.md",
+      "Front-End Practice/Performance Optimization",
+      "Front-End Practice/Routing.md",
+      "Front-End Practice/Testing",
+      "Front-End Practice/TypeScript",
+      "Front-End Practice/User Analytics.md",
+      "Front-End Practice/Vite.md",
+      "Front-End Practice/前端工程化.emmx"
     ]
   },
   "actionBarOrder": {},

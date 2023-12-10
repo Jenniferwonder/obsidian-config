@@ -1,7 +1,7 @@
 {
-  "accentColor": "",
-  "theme": "moonstone",
-  "cssTheme": "Blue Topaz",
+  "accentColor": "#56a4b3",
+  "theme": "obsidian",
+  "cssTheme": "Border",
   "enabledCssSnippets": [
     "【分栏】Easy multi-column notes",
     "【图标】双链图标",
@@ -13,7 +13,6 @@
     "【自定义】数字时钟",
     "【自定义】彩色时钟样式",
     "【自定义】多彩进度条",
-    "【天气】weather",
     "【图标】checkbox",
     "【卡片视图】zettelkasten",
     "【卡片视图】cards",
@@ -26,7 +25,13 @@
     "【Linkcard】",
     "【callout】Custom page preview",
     "config",
-    "academic-pdf-export"
+    "academic-pdf-export",
+    "custom-rainbow-colors",
+    "extended-colorschemes",
+    "MCL Gallery Cards",
+    "MCL Multi Column",
+    "MCL Wide Views",
+    "Math"
   ],
   "textFontFamily": "Microsoft YaHei",
   "baseFontSize": 15,

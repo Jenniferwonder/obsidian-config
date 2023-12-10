@@ -1,0 +1,21 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "DateStarted": "date",
+    "DateDone": "date",
+    "DateDue": "date",
+    "DateMature": "date",
+    "DateDo": "date",
+    "DateModified": "date",
+    "Like": "checkbox",
+    "Similar": "multitext",
+    "DateReviewed": "date",
+    "keywords": "text",
+    "status": "multitext",
+    "Topic": "multitext",
+    "Up": "text",
+    "Reviewed": "number"
+  }
+}

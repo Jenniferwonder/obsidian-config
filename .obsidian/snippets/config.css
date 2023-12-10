@@ -1,3 +1,9 @@
+.markdown-rendered code,
+.cm-s-obsidian span.cm-inline-code {
+	/* color: #f38977; */
+	background-color: var(--code-background);
+	font-size: 15px;
+}
 
 .mod-cm6 .cm-editor .HyperMD-header,
 :is(h1, h2, h3, h4, h5, h6) {
@@ -5,7 +11,6 @@
 	margin: 6px 0px 6px 0px !important;
 	padding: 6px 0px 6px 0px !important;
 }
-
 
 .markdown-preview-section,
 br {
@@ -16,7 +21,7 @@ br {
 
 .cm-s-obsidian .CodeMirror-line,
 .cm-s-obsidian .cm-line {
-  line-height: 1.7em;
+	line-height: 1.7em;
 	padding-bottom: 6.5px !important;
 	padding-top: 6.5px !important;
 }

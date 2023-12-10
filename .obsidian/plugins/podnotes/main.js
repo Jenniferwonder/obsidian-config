@@ -8676,7 +8676,8 @@ function podNotesURIHandler(_0, _1) {
       api.currentTime = parseFloat(time);
       return;
     }
-    const localFile = app.vault.getAbstractFileByPath(url);
+    const decodedUrl = url.replace(/\+/g, " ");
+    const localFile = app.vault.getAbstractFileByPath(decodedUrl);
     let episode;
     if (localFile) {
       episode = localFiles.getLocalEpisode(decodedName);
