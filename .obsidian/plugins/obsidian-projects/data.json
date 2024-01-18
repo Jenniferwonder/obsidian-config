@@ -1,6 +1,82 @@
 {
   "version": 2,
-  "projects": [],
+  "projects": [
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "D-JS",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "fieldConfig": {
+              "Cards-D": {
+                "hide": true
+              },
+              "database-plugin": {
+                "hide": true
+              }
+            }
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "77e184a1-726c-4780-98ef-ccb4df03e318",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "filepath": "D-JS/e3703610-c4b7-41da-86c7-88e9baa2860a_db.md"
+          },
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "e3703610-c4b7-41da-86c7-88e9baa2860a",
+          "name": "Database Folder",
+          "type": "dbfolder-view"
+        },
+        {
+          "config": {},
+          "filter": {
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "92b52835-5116-473b-8157-1e62d347b594",
+          "name": "Kanban",
+          "type": "board"
+        }
+      ],
+      "id": "93968e46-7ee9-4e3f-951e-1f55b3cc6cd9",
+      "name": "JS"
+    }
+  ],
   "archives": [],
   "preferences": {
     "projectSizeLimit": 1000,

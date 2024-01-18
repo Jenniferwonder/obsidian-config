@@ -1,6 +1,6 @@
 {
   "searchViewState": {
-    "query": "",
+    "query": "<%tp.file.title",
     "matchingCase": false,
     "explainSearch": false,
     "collapseAll": false,

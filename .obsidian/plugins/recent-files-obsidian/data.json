@@ -1,8 +1,124 @@
 {
   "recentFiles": [
     {
+      "basename": "前后端项目访问流程",
+      "path": "Front-End Practice/前后端项目访问流程.md"
+    },
+    {
+      "basename": "Front-End Practice",
+      "path": "Front-End Practice/Front-End Practice.md"
+    },
+    {
+      "basename": "Create & Publish Component Library (React)",
+      "path": "Component-Driven Development/Create & Publish Component Library (React).md"
+    },
+    {
+      "basename": "Component-Driven Development",
+      "path": "Component-Driven Development/Component-Driven Development.md"
+    },
+    {
+      "basename": "O-React",
+      "path": "React/O-React.md"
+    },
+    {
+      "basename": "D-HTML-Form",
+      "path": "O-HTML/D-HTML-Form.md"
+    },
+    {
+      "basename": "D-HTML-Link",
+      "path": "O-HTML/D-HTML-Link.md"
+    },
+    {
+      "basename": "D-HTML-Input and label",
+      "path": "O-HTML/D-HTML-Input and label.md"
+    },
+    {
+      "basename": "O-HTML",
+      "path": "O-HTML/O-HTML.md"
+    },
+    {
+      "basename": "Storybook",
+      "path": "Front-End Practice/Testing/Storybook.md"
+    },
+    {
+      "basename": "Cypress",
+      "path": "Front-End Practice/Testing/Cypress.md"
+    },
+    {
+      "basename": "Testing",
+      "path": "Front-End Practice/Testing/Testing.md"
+    },
+    {
+      "basename": "tp-Note-Mindmap",
+      "path": "Templates/tp-Note-Mindmap.md"
+    },
+    {
+      "basename": "New",
+      "path": "Templates/Bryan-Zotero/Inputs/New.md"
+    },
+    {
+      "basename": "tp-mindmap",
+      "path": "Templates/Tp-Atoms/tp-mindmap.md"
+    },
+    {
+      "basename": "O-NextJS",
+      "path": "NextJS/O-NextJS/O-NextJS.md"
+    },
+    {
+      "basename": "Paste image 1701323825262image",
+      "path": "NextJS/O-NextJS/z-Assets/Paste image 1701323825262image.png"
+    },
+    {
+      "basename": "O-React",
+      "path": "React/O-React/O-React.md"
+    },
+    {
+      "basename": "O-JS C14-DOM",
+      "path": "O-JS/O-JS C14-DOM.md"
+    },
+    {
       "basename": "ProJS-ZH Anno",
       "path": "B-JS/ProJS-ZH Anno.md"
+    },
+    {
+      "basename": "O-JS C16-DOM Level 2 and 3",
+      "path": "O-JS/O-JS C16-DOM Level 2 and 3.md"
+    },
+    {
+      "basename": "O-JS C15-DOM Extensions",
+      "path": "O-JS/O-JS C15-DOM Extensions.md"
+    },
+    {
+      "basename": "ProJS-EN Anno",
+      "path": "B-JS/ProJS-EN Anno.md"
+    },
+    {
+      "basename": "D-JS DOM",
+      "path": "O-JS/D-JS DOM.md"
+    },
+    {
+      "basename": "O-JS",
+      "path": "O-JS/O-JS.md"
+    },
+    {
+      "basename": "Grids",
+      "path": "O-CSS/Grids.md"
+    },
+    {
+      "basename": "O-CSS",
+      "path": "O-CSS/O-CSS.md"
+    },
+    {
+      "basename": "Tailwind-CSS",
+      "path": "O-CSS/Tailwind-CSS.md"
+    },
+    {
+      "basename": "Typography",
+      "path": "O-CSS/Typography.md"
+    },
+    {
+      "basename": "Font-字体",
+      "path": "S-CSS/S-Design/Font-字体.md"
     },
     {
       "basename": "D-JS Array Instance Methods",
@@ -15,18 +131,6 @@
     {
       "basename": "O-JS C08-Objects, Classes, OOP",
       "path": "O-JS/O-JS C08-Objects, Classes, OOP.md"
-    },
-    {
-      "basename": "O-JS",
-      "path": "O-JS/O-JS.md"
-    },
-    {
-      "basename": "O-JS C14-DOM",
-      "path": "O-JS/O-JS C14-DOM.md"
-    },
-    {
-      "basename": "D-JS DOM",
-      "path": "O-JS/D-JS DOM.md"
     },
     {
       "basename": "D-JS Function-函数",
@@ -95,110 +199,6 @@
     {
       "basename": "Web Worker",
       "path": "Network/Web Worker.md"
-    },
-    {
-      "basename": "O-Network",
-      "path": "Network/O-Network/O-Network.md"
-    },
-    {
-      "basename": "HTTP",
-      "path": "Network/O-Network/HTTP.md"
-    },
-    {
-      "basename": "HTTPS-HTTPS2",
-      "path": "Network/O-Network/HTTPS-HTTPS2.md"
-    },
-    {
-      "basename": "Protocols-网络协议",
-      "path": "Network/O-Network/Protocols-网络协议.md"
-    },
-    {
-      "basename": "Server",
-      "path": "Network/O-Network/Server.md"
-    },
-    {
-      "basename": "O-React",
-      "path": "React/O-React.md"
-    },
-    {
-      "basename": "O-Remix",
-      "path": "Remix/O-Remix/O-Remix.md"
-    },
-    {
-      "basename": "MyBlog",
-      "path": "Blog/MyBlog/MyBlog.md"
-    },
-    {
-      "basename": "O-Git",
-      "path": "DevTools/Git&GitHub/O-Git/O-Git.md"
-    },
-    {
-      "basename": "Pasted image 20230217104358",
-      "path": "z-Assets/Pasted image 20230217104358.png"
-    },
-    {
-      "basename": "BugPack_NextJS",
-      "path": "BugPack/BugPack_NextJS.md"
-    },
-    {
-      "basename": "Get Sanity Data in Next.js",
-      "path": "NextJS/O-NextJS/Get Sanity Data in Next.js.md"
-    },
-    {
-      "basename": "01-前后端初始化与工具安装",
-      "path": "NextJS/O-NextJS/01-前后端初始化与工具安装.md"
-    },
-    {
-      "basename": "Pasted image 20230308102356",
-      "path": "z-Assets/Pasted image 20230308102356.png"
-    },
-    {
-      "basename": "Pasted image 20230308102929",
-      "path": "z-Assets/Pasted image 20230308102929.png"
-    },
-    {
-      "basename": "NextJS Features (Pros & Cons)",
-      "path": "NextJS/O-NextJS/NextJS Features (Pros & Cons).md"
-    },
-    {
-      "basename": "VS Code 安装包解析报错解决思路与方法",
-      "path": "BugPack/VS Code 安装包解析报错解决思路与方法.md"
-    },
-    {
-      "basename": "S-NextJS",
-      "path": "NextJS/S-NextJS/S-NextJS.md"
-    },
-    {
-      "basename": "Pasted image 20230227195806",
-      "path": "z-Assets/Pasted image 20230227195806.png"
-    },
-    {
-      "basename": "O-NextJS",
-      "path": "NextJS/O-NextJS/O-NextJS.md"
-    },
-    {
-      "basename": "NextJS Rendering Methods",
-      "path": "NextJS/O-NextJS/NextJS Rendering Methods.md"
-    },
-    {
-      "basename": "WebDev Problems",
-      "path": "WebDev Problems.md"
-    },
-    {
-      "basename": "O-React",
-      "path": "O-React/O-React.md"
-    },
-    {
-      "basename": "S-React",
-      "path": "S-React/S-React.md"
-    },
-    {
-      "basename": "S-Gatsby",
-      "path": "Gatsby/S-Gatsby.md"
-    },
-    {
-      "basename": "Gatsby",
-      "path": "Gatsby/Gatsby.md"
     }
   ],
   "omittedPaths": [],

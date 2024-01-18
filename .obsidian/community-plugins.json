@@ -56,7 +56,6 @@
   "podnotes",
   "quick-explorer",
   "float-search",
-  "consistent-attachments-and-links",
   "mx-bili-plugin",
   "obsidian-timestamp-notes",
   "obsidian-vault-statistics-plugin",
@@ -75,5 +74,6 @@
   "obsidian-quiet-outline",
   "obsidian-wakatime",
   "various-complements",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "consistent-attachments-and-links"
 ]

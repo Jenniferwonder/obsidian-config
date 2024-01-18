@@ -13,7 +13,7 @@
   "annotateTop": 0,
   "annotateBottom": 0,
   "useCustomShortcut": false,
-  "highlightFormat": "\n- <span style=\"color:rgb({{color}})\">■</span>:{{highlightText}} [📌Page:{{page}}]({{link}})\n{{comment}} \n",
+  "highlightFormat": "\n- <span style=\"color:rgb({{color}})\">■</span>:{{highlightText}} [Page:{{page}}]({{link}})\n{{comment}} \n",
   "uid": "00p01001200p01000q01200s01000r01300q00o",
   "pdfjsPath": "59c6b0b87d8686142db7d495cf5c8f4/E:/BaiduSyncdisk/JENNote/.obsidian/pdfjs",
   "setup": 1682516182463,
@@ -30,5 +30,6 @@
   "autoCreateNodeWhenAnnotate": true,
   "cacheFolder": "Capture",
   "onlyCopyLink": true,
-  "addCollapseNodeMark": true
+  "addCollapseNodeMark": true,
+  "annotateFormat": "{{highlightText}} []({{link}})\n"
 }

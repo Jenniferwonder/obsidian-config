@@ -1,7 +1,7 @@
 {
-  "shouldDebug": false,
+  "logLevel": "off",
   "createAtObsidianAttachmentFolder": false,
-  "customFolderForNewFiles": "OKRTs",
+  "customFolderForNewFiles": "",
   "removeMarkdownOnExport": true,
   "defaultEmbedWidth": "100%",
   "defaultEmbedHeight": "340px",
@@ -9,8 +9,6 @@
   "showWelcomeModal": false,
   "showWhatsNewModal": true,
   "defaultFrozenColumnCount": 1,
-  "pluginVersion": "8.12.2",
-  "showSupportModal": true,
-  "showDonationModal": true,
-  "exportRenderMarkdown": true
+  "pluginVersion": "8.15.11",
+  "shouldDebug": false
 }

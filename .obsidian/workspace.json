@@ -4,16 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "796daf8f05227a1d",
+        "id": "99585b8690e2f0eb",
         "type": "tabs",
         "children": [
           {
-            "id": "e760969fa0e24914",
+            "id": "9714ab3e166c56fb",
             "type": "leaf",
             "state": {
-              "type": "mindmapview",
+              "type": "markdown",
               "state": {
-                "file": "D-JS/D-JS Array Instance Methods.md"
+                "file": "Front-End Practice/前后端项目访问流程.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
               }
             }
           }
@@ -56,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "<%tp.file.title",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,8 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 238.50648498535156
   },
   "right": {
     "id": "d61dd7ecf96e5792",
@@ -94,7 +96,7 @@
       {
         "id": "19c151a1d66e54a8",
         "type": "tabs",
-        "dimension": 62.126642771804065,
+        "dimension": 70.37037037037037,
         "children": [
           {
             "id": "8e93fd9c33b2f598",
@@ -121,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "B-JS/ProJS-ZH Anno.md"
+                "file": "Front-End Practice/前后端项目访问流程.md"
               }
             }
           },
@@ -147,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "B-JS/ProJS-ZH Anno.md"
+                "file": "Front-End Practice/前后端项目访问流程.md"
               }
             }
           },
@@ -191,7 +193,7 @@
       {
         "id": "a05bbfc48ce53e61",
         "type": "tabs",
-        "dimension": 37.873357228195935,
+        "dimension": 29.629629629629626,
         "children": [
           {
             "id": "ff00e7329ca5b62d",
@@ -199,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "B-JS/ProJS-ZH Anno.md",
+                "file": "Front-End Practice/前后端项目访问流程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -211,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "B-JS/ProJS-ZH Anno.md",
+                "file": "Front-End Practice/前后端项目访问流程.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -222,8 +224,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -232,6 +233,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian42-brat:BRAT": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -249,98 +251,63 @@
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "notion-like-tables:Create loom": false,
       "omnisearch:Omnisearch": false,
-      "float-search:Search Obsidian In Modal": false,
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "spreadsheets:New Spreadsheet": false,
       "cloze:Toggle all clozes": false,
       "flashcards-obsidian:Generate flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "float-search:Search Obsidian In Modal": false
     }
   },
-  "floating": {
-    "id": "9ec11b2701f7453b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "9ab5565db20ed0ed",
-        "type": "window",
-        "children": [
-          {
-            "id": "36abde9f3d268505",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "58236d3f29152f22",
-                "type": "leaf",
-                "state": {
-                  "type": "mindmapview",
-                  "state": {
-                    "file": "B-JS/ProJS-ZH Anno.md"
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 827,
-        "height": 861,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "58236d3f29152f22",
+  "active": "9714ab3e166c56fb",
   "lastOpenFiles": [
-    "D-JS/D-JS Array Instance Methods.md",
-    "D-JS/D-JS Understanding Objects-理解对象.md",
-    "B-JS/ProJS-ZH Anno.md",
-    "Templates/Tp-Codespace/ts.md",
-    "Templates/Tp-Codespace/Untitled.md",
-    "Templates/Tp-Codespace/t-s.md",
-    "Templates/Tp-Codespace/te.md",
-    "Templates/Tp-Codespace/T-C.md",
-    "Templates/Tp-Codespace/tp-Component.md",
-    "Templates/tp-Component.md",
-    "Templates/Untitled.md",
-    "O-JS/O-JS C08-Objects, Classes, OOP.md",
-    "O-JS/O-JS.md",
-    "O-JS/O-JS C14-DOM.md",
-    "O-JS/D-JS DOM.md",
-    "O-JS/D-JS Function-函数.md",
-    "B-JS/JavaScript权威指南(第6版)-英文版.pdf",
-    "B-Algo/Algo-Textbook/C-AlgoILU-P1-anno.md",
-    "B-Algo/Algo-Textbook/C-AlgoDL-anno.md",
-    "B-Algo/DS-Textbook/大话数据结构.pdf",
-    "B-Algo/DS-Textbook/DS-Textbook-annotate.md",
-    "B-Algo/B-Algo.md",
-    "LeetNote/Searching (DS)/Stack and Queue.md",
-    "LeetNote/O-Algo.md",
-    "C Language/Valeo 编程题.md",
-    "Network/O-Network/TCP-IP.md",
-    "Network/O-Network/how-web-working.md",
-    "Network/O-Network/Browser-浏览器工作原理.md",
-    "DevOps/11-Performance Optimization/前端优化/网络优化.png",
-    "DevOps/11-Performance Optimization/前端优化/打包优化.png",
-    "DevOps/11-Performance Optimization/前端优化/Pasted image 20230310120508.png",
-    "DevOps/11-Performance Optimization/前端优化/Pasted image 20230310120449.png",
-    "DevOps/11-Performance Optimization/前端优化/Pasted image 20230310120426.png",
-    "DevOps/11-Performance Optimization/前端优化/Pasted image 20230310120346.png",
-    "Astro",
-    "DevTools/VSCode/S-VS Code/Shortcuts-Extensions-Themes (Light).pdf",
-    "DevTools/VSCode/S-VS Code/Shortcuts-Extensions-Themes (Dark).pdf",
-    "DevTools/Git&GitHub/O-Git/git-cheat-sheet-education.pdf",
-    "DevTools/Git&GitHub/O-Git/Git & GitHub 学习路线 by 程序员鱼皮.png",
-    "DevTools/Git&GitHub/S-Git/Y2Mate.is - Git and Github Tutorial  Learn Git & Github from Andrei Neagoie-JN63v_czZqI-720p-1656500876259.mp4",
-    "DevTools/Git&GitHub/B-Git/progit.pdf",
-    "DevTools/Git&GitHub/B-Git/git-started-guide.pdf",
-    "DevTools/VSCode/S-VS Code",
-    "OpenSource/git-into-open-source/web/src/assets/img/octocat-colored.svg",
-    "OpenSource/git-into-open-source/web/src/assets/img/octocat.svg",
-    "OpenSource/git-into-open-source/web/src/assets/img/logo.svg",
+    "Front-End Practice/Front-End Practice.md",
+    "Front-End Practice/WebDev Problems.md",
+    "Component-Driven Development/Create & Publish Component Library (React).md",
+    "DevTools/NodeJS/S-Node/B-Node/Node入门笔记.pdf",
+    "DevTools/NodeJS/S-Node/B-Node/Node.js开发指南.pdf",
+    "DevTools/NodeJS/O-Node/Node JS.emmx",
+    "DevTools/NodeJS/BugPack_Node/Dependency Installation Error.md",
+    "DevTools/NodeJS/O-Node/Node.js and Package manager.md",
+    "DevTools/NodeJS/S-Node/B-Node",
+    "DevTools/NodeJS/S-Node",
+    "DevTools/NodeJS/O-Node",
+    "DevTools/NodeJS/BugPack_Node",
+    "DevTools/NodeJS",
+    "Component-Driven Development/Component-Driven Development.md",
+    "React/O-React.md",
+    "O-HTML/D-HTML-Link.md",
+    "O-HTML/D-HTML-Input and label.md",
+    "O-HTML/O-HTML.md",
+    "O-HTML/D-HTML-Form.md",
+    "z-Assets/Paste image 1704435006562image.png",
+    "Front-End Practice/Testing/Storybook.md",
+    "Front-End Practice/Testing/Cypress.md",
+    "Front-End Practice/Testing/Testing.md",
+    "Templates/tp-Note-Mindmap.md",
+    "Templates/Bryan-Zotero/Inputs/New.md",
+    "Front-End Practice/Testing/Untitled 1.md",
+    "Templates/Tp-Atoms/tp-mindmap.md",
+    "NextJS/O-NextJS/O-NextJS.md",
+    "SSG/低代码建站方案.md",
+    "NextJS/O-NextJS/z-Assets/Paste image 1701323825262image.png",
+    "React/O-React/O-React.md",
+    "Front-End Practice/Testing/z-Assets",
+    "DevOps/DevOps-Reference/技术选型.emmx",
+    "DevOps/DevOps-Reference/DevOps-Reference.md",
+    "DevOps/DevOps-Reference/D6-绽放项目价值.md",
+    "DevOps/DevOps-Reference/D5-项目优化.md",
+    "DevOps/DevOps-Reference/D4-聪明地写代码.md",
+    "DevOps/DevOps-Reference/D2-System Architecture.md",
+    "DevOps/04-Sytem Design/Design Patterns/Pasted image 20230310112005.png",
+    "NextJS/O-NextJS/z-Assets/z-O-NextJS-server-actions.png",
+    "NextJS/O-NextJS/z-Assets/z-O-NextJS-streaming.png",
+    "O-JS/z-Assets/z-O-JS C14-DOM.png",
+    "DB-Components/zigzag-timeline.png",
+    "DB-Components/watermark.png",
+    "DB-Components/wizard.png",
+    "DB-Components/voting.png",
     "PKM-Tools/SM-Source Management/Backup, Sync and Recover/Mobile Study-iPhone, iPad/Note in iPhone.canvas",
     "PKM-Tools/SM-Source Management/Backup, Sync and Recover/Mobile Study-iPhone, iPad/Canvas in iPad.canvas",
     "PM-Tools/工作包优先级与进度管理-Projects, DB Folder, Dataview, Kanban, Dashboard, Table/CVS-Task Workflow.canvas",
