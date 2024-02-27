@@ -16,6 +16,7 @@
     "status": "multitext",
     "Topic": "multitext",
     "Up": "text",
-    "Reviewed": "number"
+    "Reviewed": "number",
+    "": "number"
   }
 }

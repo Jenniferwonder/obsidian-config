@@ -1,204 +1,204 @@
 {
   "recentFiles": [
     {
-      "basename": "前后端项目访问流程",
-      "path": "Front-End Practice/前后端项目访问流程.md"
+      "basename": "Media Query",
+      "path": "Rules and Functions/Media Query.md"
     },
     {
-      "basename": "Front-End Practice",
-      "path": "Front-End Practice/Front-End Practice.md"
+      "basename": "CSS Functions",
+      "path": "Rules and Functions/CSS Functions.md"
     },
     {
-      "basename": "Create & Publish Component Library (React)",
-      "path": "Component-Driven Development/Create & Publish Component Library (React).md"
+      "basename": "CSS @rules (at-rules)",
+      "path": "Rules and Functions/CSS @rules (at-rules).md"
     },
     {
-      "basename": "Component-Driven Development",
-      "path": "Component-Driven Development/Component-Driven Development.md"
+      "basename": "pseudo-classes selectors (伪类)",
+      "path": "CSS Selectors/pseudo-classes selectors (伪类).md"
     },
     {
-      "basename": "O-React",
-      "path": "React/O-React.md"
+      "basename": "pseudo-elements selectors (伪元素)",
+      "path": "CSS Selectors/pseudo-elements selectors (伪元素).md"
     },
     {
-      "basename": "D-HTML-Form",
-      "path": "O-HTML/D-HTML-Form.md"
+      "basename": "CSS Selectors",
+      "path": "CSS Selectors/CSS Selectors.md"
     },
     {
-      "basename": "D-HTML-Link",
-      "path": "O-HTML/D-HTML-Link.md"
-    },
-    {
-      "basename": "D-HTML-Input and label",
-      "path": "O-HTML/D-HTML-Input and label.md"
-    },
-    {
-      "basename": "O-HTML",
-      "path": "O-HTML/O-HTML.md"
-    },
-    {
-      "basename": "Storybook",
-      "path": "Front-End Practice/Testing/Storybook.md"
-    },
-    {
-      "basename": "Cypress",
-      "path": "Front-End Practice/Testing/Cypress.md"
-    },
-    {
-      "basename": "Testing",
-      "path": "Front-End Practice/Testing/Testing.md"
-    },
-    {
-      "basename": "tp-Note-Mindmap",
-      "path": "Templates/tp-Note-Mindmap.md"
-    },
-    {
-      "basename": "New",
-      "path": "Templates/Bryan-Zotero/Inputs/New.md"
-    },
-    {
-      "basename": "tp-mindmap",
-      "path": "Templates/Tp-Atoms/tp-mindmap.md"
-    },
-    {
-      "basename": "O-NextJS",
-      "path": "NextJS/O-NextJS/O-NextJS.md"
-    },
-    {
-      "basename": "Paste image 1701323825262image",
-      "path": "NextJS/O-NextJS/z-Assets/Paste image 1701323825262image.png"
-    },
-    {
-      "basename": "O-React",
-      "path": "React/O-React/O-React.md"
-    },
-    {
-      "basename": "O-JS C14-DOM",
-      "path": "O-JS/O-JS C14-DOM.md"
-    },
-    {
-      "basename": "ProJS-ZH Anno",
-      "path": "B-JS/ProJS-ZH Anno.md"
-    },
-    {
-      "basename": "O-JS C16-DOM Level 2 and 3",
-      "path": "O-JS/O-JS C16-DOM Level 2 and 3.md"
-    },
-    {
-      "basename": "O-JS C15-DOM Extensions",
-      "path": "O-JS/O-JS C15-DOM Extensions.md"
-    },
-    {
-      "basename": "ProJS-EN Anno",
-      "path": "B-JS/ProJS-EN Anno.md"
-    },
-    {
-      "basename": "D-JS DOM",
-      "path": "O-JS/D-JS DOM.md"
-    },
-    {
-      "basename": "O-JS",
-      "path": "O-JS/O-JS.md"
-    },
-    {
-      "basename": "Grids",
-      "path": "O-CSS/Grids.md"
-    },
-    {
-      "basename": "O-CSS",
-      "path": "O-CSS/O-CSS.md"
-    },
-    {
-      "basename": "Tailwind-CSS",
-      "path": "O-CSS/Tailwind-CSS.md"
+      "basename": "Attribute Selectors",
+      "path": "CSS Selectors/Attribute Selectors.md"
     },
     {
       "basename": "Typography",
-      "path": "O-CSS/Typography.md"
+      "path": "Typography/Typography.md"
     },
     {
-      "basename": "Font-字体",
-      "path": "S-CSS/S-Design/Font-字体.md"
+      "basename": "Styling Lists",
+      "path": "Typography/Styling Lists.md"
     },
     {
-      "basename": "D-JS Array Instance Methods",
-      "path": "D-JS/D-JS Array Instance Methods.md"
+      "basename": "Styling Links",
+      "path": "Typography/Styling Links.md"
     },
     {
-      "basename": "D-JS Understanding Objects-理解对象",
-      "path": "D-JS/D-JS Understanding Objects-理解对象.md"
+      "basename": "CSS Text Directions",
+      "path": "Typography/CSS Text Directions.md"
     },
     {
-      "basename": "O-JS C08-Objects, Classes, OOP",
-      "path": "O-JS/O-JS C08-Objects, Classes, OOP.md"
+      "basename": "SVG Style",
+      "path": "SVG Style/SVG Style.md"
     },
     {
-      "basename": "D-JS Function-函数",
-      "path": "O-JS/D-JS Function-函数.md"
+      "basename": "Absolute length units (For print styles)",
+      "path": "Sizing Units and Values/Absolute length units (For print styles).md"
     },
     {
-      "basename": "JavaScript权威指南(第6版)-英文版",
-      "path": "B-JS/JavaScript权威指南(第6版)-英文版.pdf"
+      "basename": "CSS Image-Video and other Replaced elements",
+      "path": "Sizing Units and Values/CSS Image-Video and other Replaced elements.md"
     },
     {
-      "basename": "DS-Textbook",
-      "path": "B-Algo/DS-Textbook/DS-Textbook.pdf"
+      "basename": "CSS Values and Units",
+      "path": "Sizing Units and Values/CSS Values and Units.md"
     },
     {
-      "basename": "C-AlgoILU-P1-anno",
-      "path": "B-Algo/Algo-Textbook/C-AlgoILU-P1-anno.md"
+      "basename": "Relative length units (For responsive design)",
+      "path": "Sizing Units and Values/Relative length units (For responsive design).md"
     },
     {
-      "basename": "C-AlgoDL-anno",
-      "path": "B-Algo/Algo-Textbook/C-AlgoDL-anno.md"
+      "basename": "Sizing Units",
+      "path": "Sizing Units and Values/Sizing Units.md"
     },
     {
-      "basename": "大话数据结构",
-      "path": "B-Algo/DS-Textbook/大话数据结构.pdf"
+      "basename": "Hiding Elements",
+      "path": "Interactivity/Layout/Hiding Elements.md"
     },
     {
-      "basename": "DS-Textbook-annotate",
-      "path": "B-Algo/DS-Textbook/DS-Textbook-annotate.md"
+      "basename": "Table Style",
+      "path": "Interactivity/Layout/Table Style.md"
     },
     {
-      "basename": "B-Algo",
-      "path": "B-Algo/B-Algo.md"
+      "basename": "Grids",
+      "path": "Interactivity/Layout/Grids.md"
     },
     {
-      "basename": "Stack and Queue",
-      "path": "LeetNote/Searching (DS)/Stack and Queue.md"
+      "basename": "Form Style",
+      "path": "Interactivity/Layout/Form Style.md"
     },
     {
-      "basename": "O-Algo",
-      "path": "LeetNote/O-Algo.md"
+      "basename": "Floats",
+      "path": "Interactivity/Layout/Floats.md"
     },
     {
-      "basename": "Valeo 编程题",
-      "path": "C Language/Valeo 编程题.md"
+      "basename": "Flexbox",
+      "path": "Interactivity/Layout/Flexbox.md"
     },
     {
-      "basename": "数据库怎样存储 Markdown 文档数据",
-      "path": "Database/数据库怎样存储 Markdown 文档数据.md"
+      "basename": "CSS Positioning",
+      "path": "Interactivity/Layout/CSS Positioning.md"
     },
     {
-      "basename": "TCP-IP",
-      "path": "Network/O-Network/TCP-IP.md"
+      "basename": "CSS Overflowing Content",
+      "path": "Interactivity/Layout/CSS Overflowing Content.md"
     },
     {
-      "basename": "how-web-working",
-      "path": "Network/O-Network/how-web-working.md"
+      "basename": "CSS Normal Flow",
+      "path": "Interactivity/Layout/CSS Normal Flow.md"
+    },
+    {
+      "basename": "Interactivity",
+      "path": "Interactivity/Interactivity.md"
+    },
+    {
+      "basename": "CSS Blending",
+      "path": "Effects/CSS Blending.md"
+    },
+    {
+      "basename": "Box Shadow",
+      "path": "Effects/Box Shadow.md"
+    },
+    {
+      "basename": "CSS Filters",
+      "path": "CSS Filters/CSS Filters.md"
+    },
+    {
+      "basename": "CSS Backgrounds",
+      "path": "CSS Backgrounds/CSS Backgrounds.md"
+    },
+    {
+      "basename": "DB-CSS",
+      "path": "Private/DB-CSS.md"
+    },
+    {
+      "basename": "DB-Components",
+      "path": "Private/DB-Components/DB-Components.md"
+    },
+    {
+      "basename": "Paste image 1695297501729image",
+      "path": "Sizing Units and Values/z-Assets/Paste image 1695297501729image.png"
+    },
+    {
+      "basename": "Combinators (Selector Combinations)",
+      "path": "CSS Selectors/Combinators (Selector Combinations).md"
+    },
+    {
+      "basename": "Basic Selectors",
+      "path": "CSS Selectors/Basic Selectors.md"
+    },
+    {
+      "basename": "Paste image 1695097054773image",
+      "path": "CSS Selectors/z-Assets/Paste image 1695097054773image.png"
+    },
+    {
+      "basename": "Border-Box Explained",
+      "path": "Box Model (Spacing)/Border-Box Explained.md"
+    },
+    {
+      "basename": "Borders",
+      "path": "Borders/Borders.md"
+    },
+    {
+      "basename": "Array Basics",
+      "path": "Array/Array Basics/Array Basics.md"
+    },
+    {
+      "basename": "Convert Array or Object to String (数组对象转字符串方法)",
+      "path": "Array/Array Instance Methods/Convert Array or Object to String (数组对象转字符串方法).md"
+    },
+    {
+      "basename": "Concat Arrays (合并数组)",
+      "path": "Array/Array Instance Methods/Concat Arrays (合并数组).md"
+    },
+    {
+      "basename": "Array Instance Methods",
+      "path": "Array/Array Instance Methods/Array Instance Methods.md"
+    },
+    {
+      "basename": "Array",
+      "path": "Array/Array.md"
+    },
+    {
+      "basename": "Git Commands",
+      "path": "DevPractice/DevTools/Git&GitHub/O-Git/Git Commands.md"
+    },
+    {
+      "basename": "Close Relationship",
+      "path": "Communication/Close Relationship/Close Relationship.md"
     },
     {
       "basename": "Browser-浏览器工作原理",
       "path": "Network/O-Network/Browser-浏览器工作原理.md"
     },
     {
-      "basename": "Web, Network, Internet",
-      "path": "Network/Web, Network, Internet.md"
+      "basename": "JSON",
+      "path": "Database/Local Storage/JSON.md"
     },
     {
-      "basename": "Web Worker",
-      "path": "Network/Web Worker.md"
+      "basename": "C23-JSON",
+      "path": "O-JS/Data/C23-JSON.md"
+    },
+    {
+      "basename": "Reduce Array (Get the Sum 归并方法)",
+      "path": "O-JS/Array/Array Instance Methods/Reduce Array (Get the Sum 归并方法).md"
     }
   ],
   "omittedPaths": [],

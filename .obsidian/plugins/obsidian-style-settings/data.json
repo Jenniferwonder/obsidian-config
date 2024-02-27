@@ -301,5 +301,6 @@
   "Components@@folder-font-bold": true,
   "Appearance-dark@@card-highlight-dark": false,
   "Appearance-dark@@card-layout-open-dark": false,
-  "Appearance-light@@theme-light-style-select": "theme-light-background-adapt"
+  "Appearance-light@@theme-light-style-select": "theme-light-background-adapt",
+  "Editor@@line-height-customize": 1.5
 }

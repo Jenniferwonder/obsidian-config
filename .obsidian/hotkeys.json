@@ -785,23 +785,6 @@
       "key": "P"
     }
   ],
-  "obsidian-timestamp-notes:pause-player": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "M"
-    }
-  ],
-  "obsidian-timestamp-notes:timestamp-insert": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "M"
-    }
-  ],
   "obsidian-fullscreen-plugin:fullscreen-focus": [
     {
       "modifiers": [
@@ -828,5 +811,135 @@
       ],
       "key": "M"
     }
-  ]
+  ],
+  "obsidian-markmind:Cover Node": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:open-search-replace": [],
+  "convert-url-to-iframe:url-to-iframe": [],
+  "obsidian-spaced-repetition:srs-review-flashcards-in-note": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "Enhanced-editing:xiahua-text": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "U"
+    }
+  ],
+  "Enhanced-editing:xiahua-format": [],
+  "Enhanced-editing:cuti-format": [],
+  "Enhanced-editing:xieti-text": [],
+  "Enhanced-editing:xieti-format": [],
+  "Enhanced-editing:tag-text": [],
+  "Enhanced-editing:add-daima": [],
+  "Enhanced-editing:gaoliang-text": [],
+  "Enhanced-editing:gaoliang-format": [],
+  "Enhanced-editing:shanchu-text": [],
+  "Enhanced-editing:shanchu-format": [],
+  "Enhanced-editing:biaoti1-text": [],
+  "Enhanced-editing:biaoti2-text": [],
+  "Enhanced-editing:biaoti3-text": [],
+  "Enhanced-editing:biaoti4-text": [],
+  "Enhanced-editing:biaoti5-text": [],
+  "Enhanced-editing:biaoti6-text": [],
+  "Enhanced-editing:modify-link-showname": [],
+  "Enhanced-editing:biaoti0-text": [],
+  "Enhanced-editing:del-lines": [],
+  "Enhanced-editing:add-Line0": [],
+  "Enhanced-editing:paste-text": [],
+  "Enhanced-editing:mouse-right": [],
+  "Enhanced-editing:mouse-end": [],
+  "Enhanced-editing:text-Color1": [],
+  "Enhanced-editing:text-Color2": [],
+  "Enhanced-editing:text-Color3": [],
+  "Enhanced-editing:text-Color4": [],
+  "Enhanced-editing:text-Color5": [],
+  "Enhanced-editing:text-background1": [],
+  "Enhanced-editing:text-background2": [],
+  "Enhanced-editing:text-background3": [],
+  "Enhanced-editing:text-background4": [],
+  "Enhanced-editing:text-background5": [],
+  "Enhanced-editing:internal-link": [],
+  "Enhanced-editing:internal-link2": [],
+  "Enhanced-editing:cuti-text": [],
+  "Enhanced-editing:Selection-juzi": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "/"
+    }
+  ],
+  "media-extended:open-media-switcher": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
+  ],
+  "media-extended:save-screenshot": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "O"
+    }
+  ],
+  "media-extended:take-timestamp": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "."
+    }
+  ],
+  "media-extended:toggle-play": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": " "
+    }
+  ],
+  "media-extended:forward-5s": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "media-extended:rewind-5s": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "notion-like-tables:add-column": [],
+  "notion-like-tables:add-row": [],
+  "notion-like-tables:create": [],
+  "notion-like-tables:delete-column": [],
+  "notion-like-tables:delete-row": [],
+  "obsidian-math-plus:insert-math-block": []
 }

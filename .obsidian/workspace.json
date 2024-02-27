@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "99585b8690e2f0eb",
+        "id": "2c2d3528520a048e",
         "type": "tabs",
         "children": [
           {
-            "id": "9714ab3e166c56fb",
+            "id": "552332da2dde0305",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Front-End Practice/前后端项目访问流程.md",
+                "file": "Rules and Functions/Media Query.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "<%tp.file.title",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.50648498535156
+    "width": 312.50648498535156
   },
   "right": {
     "id": "d61dd7ecf96e5792",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Front-End Practice/前后端项目访问流程.md"
+                "file": "Rules and Functions/Media Query.md"
               }
             }
           },
@@ -149,7 +149,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Front-End Practice/前后端项目访问流程.md"
+                "file": "Rules and Functions/Media Query.md"
               }
             }
           },
@@ -159,7 +159,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -172,7 +174,15 @@
             }
           },
           {
-            "id": "a0cb3b2f8accc65c",
+            "id": "86f5ff4806f9bd63",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "742058c6da64bd9f",
             "type": "leaf",
             "state": {
               "type": "quiet-outline",
@@ -180,15 +190,15 @@
             }
           },
           {
-            "id": "86f5ff4806f9bd63",
+            "id": "5fa483db538593ab",
             "type": "leaf",
             "state": {
-              "type": "tasks_timeline_view",
+              "type": "review-queue-list-view",
               "state": {}
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       },
       {
         "id": "a05bbfc48ce53e61",
@@ -201,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Front-End Practice/前后端项目访问流程.md",
+                "file": "Rules and Functions/Media Query.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +223,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Front-End Practice/前后端项目访问流程.md",
+                "file": "Rules and Functions/Media Query.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,15 +234,18 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 206.5,
+    "width": 231.5,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "media-extended:Open media": false,
       "obsidian42-brat:BRAT": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -242,72 +255,72 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "zk-prefixer:Create new unique note": false,
-      "dbfolder:Create a new database table": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "templater-obsidian:Templater": false,
       "obsidian-projects:Open projects": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
       "notion-like-tables:Create loom": false,
-      "omnisearch:Omnisearch": false,
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "spreadsheets:New Spreadsheet": false,
-      "cloze:Toggle all clozes": false,
       "flashcards-obsidian:Generate flashcards": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "float-search:Search Obsidian In Modal": false
+      "float-search:Search Obsidian In Modal": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "cloze:Toggle all clozes": false,
+      "dbfolder:Create a new database table": false,
+      "omnisearch:Omnisearch": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "9714ab3e166c56fb",
+  "active": "552332da2dde0305",
   "lastOpenFiles": [
-    "Front-End Practice/Front-End Practice.md",
-    "Front-End Practice/WebDev Problems.md",
-    "Component-Driven Development/Create & Publish Component Library (React).md",
-    "DevTools/NodeJS/S-Node/B-Node/Node入门笔记.pdf",
-    "DevTools/NodeJS/S-Node/B-Node/Node.js开发指南.pdf",
-    "DevTools/NodeJS/O-Node/Node JS.emmx",
-    "DevTools/NodeJS/BugPack_Node/Dependency Installation Error.md",
-    "DevTools/NodeJS/O-Node/Node.js and Package manager.md",
-    "DevTools/NodeJS/S-Node/B-Node",
-    "DevTools/NodeJS/S-Node",
-    "DevTools/NodeJS/O-Node",
-    "DevTools/NodeJS/BugPack_Node",
-    "DevTools/NodeJS",
-    "Component-Driven Development/Component-Driven Development.md",
-    "React/O-React.md",
-    "O-HTML/D-HTML-Link.md",
-    "O-HTML/D-HTML-Input and label.md",
-    "O-HTML/O-HTML.md",
-    "O-HTML/D-HTML-Form.md",
-    "z-Assets/Paste image 1704435006562image.png",
-    "Front-End Practice/Testing/Storybook.md",
-    "Front-End Practice/Testing/Cypress.md",
-    "Front-End Practice/Testing/Testing.md",
-    "Templates/tp-Note-Mindmap.md",
-    "Templates/Bryan-Zotero/Inputs/New.md",
-    "Front-End Practice/Testing/Untitled 1.md",
-    "Templates/Tp-Atoms/tp-mindmap.md",
-    "NextJS/O-NextJS/O-NextJS.md",
-    "SSG/低代码建站方案.md",
-    "NextJS/O-NextJS/z-Assets/Paste image 1701323825262image.png",
-    "React/O-React/O-React.md",
-    "Front-End Practice/Testing/z-Assets",
-    "DevOps/DevOps-Reference/技术选型.emmx",
-    "DevOps/DevOps-Reference/DevOps-Reference.md",
-    "DevOps/DevOps-Reference/D6-绽放项目价值.md",
-    "DevOps/DevOps-Reference/D5-项目优化.md",
-    "DevOps/DevOps-Reference/D4-聪明地写代码.md",
-    "DevOps/DevOps-Reference/D2-System Architecture.md",
-    "DevOps/04-Sytem Design/Design Patterns/Pasted image 20230310112005.png",
-    "NextJS/O-NextJS/z-Assets/z-O-NextJS-server-actions.png",
-    "NextJS/O-NextJS/z-Assets/z-O-NextJS-streaming.png",
-    "O-JS/z-Assets/z-O-JS C14-DOM.png",
-    "DB-Components/zigzag-timeline.png",
-    "DB-Components/watermark.png",
-    "DB-Components/wizard.png",
-    "DB-Components/voting.png",
+    "Templates",
+    "Templates/tp-test/tp-默认笔记模板.md",
+    "Templates/tp-test/tp-通用模板.md",
+    "Templates/tp-test/tp-自动选择模板.md",
+    "Templates/tp-test/tp-笔记收集箱-new.md",
+    "Templates/tp-test/tp-笔记分类模板-new.md",
+    "Templates/tp-test/tp-流水账模板-new.md",
+    "Templates/tp-test/tp-人物模板-new.md",
+    "Templates/tp-test",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Uniform size.svg",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Uniform size.md",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Split text by lines.svg",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Split text by lines.md",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Set Text Alignment.svg",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Set Text Alignment.md",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Rename Image.svg",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Fixed vertical distance.svg",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Rename Image.md",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Fixed vertical distance.md",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Fixed vertical distance between centers.svg",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Fixed vertical distance between centers.md",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Fixed spacing.svg",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Fixed horizontal distance between centers.svg",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Fixed horizontal distance between centers.md",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Fixed spacing.md",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Expand rectangles vertically.md",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Expand rectangles vertically.svg",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Expand rectangles vertically keep text centered.svg",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Expand rectangles vertically keep text centered.md",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Expand rectangles horizontally.md",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Expand rectangles horizontally keep text centered.md",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Deconstruct selected elements into new drawing.md",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Create DrawIO file.md",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Copy Selected Element Styles to Global.md",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Box Selected Elements.md",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Box Each Selected Groups.md",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Uniform size.md",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded",
+    "Templates/Tp-Plugins/script/tasksCalendar/view.css",
+    "Templates/Tp-Plugins/script/tasksCalendar/view.js",
+    "Templates/Tp-Plugins/script/Taskido/view.js",
+    "Templates/Tp-Plugins/script/Taskido/view.css",
+    "Templates/Tp-Plugins/script/template/getrandomImage.js",
+    "Templates/Tp-Plugins/script/template/taskprogress.js",
+    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded",
+    "Templates/Tp-Plugins/script/tasksCalendar",
     "PKM-Tools/SM-Source Management/Backup, Sync and Recover/Mobile Study-iPhone, iPad/Note in iPhone.canvas",
     "PKM-Tools/SM-Source Management/Backup, Sync and Recover/Mobile Study-iPhone, iPad/Canvas in iPad.canvas",
     "PM-Tools/工作包优先级与进度管理-Projects, DB Folder, Dataview, Kanban, Dashboard, Table/CVS-Task Workflow.canvas",
