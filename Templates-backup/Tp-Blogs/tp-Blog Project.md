@@ -1,20 +1,20 @@
 ---
 id: 2305.01.B
 Type: Blog
-Title: 
-Topic:
-tags:
+Topic: 
+tags: 
 status: 
-EST:
-ACT:
-Destination:
+EST: 
+ACT: 
+Destination: 
 DateStarted: 
 DateModified: 
-DateCompleted:
-DateDue:
+DateCompleted: 
+DateDue: 
 Published: false
-URL:
-Views:
+URL: 
+Views: 
+title: 
 ---
 ## KRs
 #### 1. Blog Link

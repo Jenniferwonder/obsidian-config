@@ -1,11 +1,11 @@
 ---
-Title: tp-BookNote
-tags:
-status:
+tags: 
+status: 
 DateStarted: 
 DateModified: 
-DateDue:
+DateDue: 
 DateDone: 
+title: tp-BookNote
 ---
 ## Metadata
 ### Relationships

@@ -1,16 +1,16 @@
 ---
 id: 2305.01.B.SRT
 Type: B-Script
-Title: 
-Topic:
-tags:
+Topic: 
+tags: 
 status: 
-EST:
-ACT:
+EST: 
+ACT: 
 DateStarted: 
 DateModified: 
-DateCompleted:
-DateDue:
+DateCompleted: 
+DateDue: 
+title: 
 ---
 ## 💡Title Ideas
 ## 🎣 1. Hook

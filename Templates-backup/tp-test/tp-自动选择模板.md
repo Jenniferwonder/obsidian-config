@@ -1,12 +1,12 @@
 ---
 UID: 20230426170313
-Title: tp-V-Project Template
-tags:
+tags: 
 DateStarted: 2023-04-26
 DateModified: NaN
-status: null
-due:
-cssclass:
+status: 
+due: 
+cssclass: 
+title: tp-V-Project Template
 ---
 
 ## Purpose

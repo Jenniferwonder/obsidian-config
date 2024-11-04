@@ -1,6 +1,6 @@
 {
   "folder": "Daily",
-  "autorun": false,
-  "template": "Templates/Tp-Notes/tp-Daily Plan",
+  "autorun": true,
+  "template": "Templates/Tp-Daily/tp-Daily Plan",
   "format": "YYYY-MM-DD"
 }

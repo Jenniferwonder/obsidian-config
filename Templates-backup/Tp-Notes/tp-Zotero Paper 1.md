@@ -1,13 +1,19 @@
 ---
-Title: {{title}}
 Type: Note
-tags: [{{allTags}}] 
-Pages: {{pages}}
-DOI: {{doi}}
-Citekey: {{citekey}}
+tags:
+  - "{ allTags }": 
+Pages:
+  "{ pages }": 
+DOI:
+  "{ doi }": 
+Citekey:
+  "{ citekey }": 
 DateStarted: 
 DateModified: 
-aliases: {{citekey}}
+aliases:
+  "{ citekey }": 
+title:
+  "{ title }": 
 ---
 # {{title}}
 ## Metadata

@@ -1,17 +1,17 @@
 ---
-Title: null
-Group: null
-Expertise: null
+Group: 
+Expertise: 
 tags: People
-DateStarted: null
-DateModified: null
-Location: null
-Close: null
-Near: null
-Take: null
-Give: null
-Interact: null
+DateStarted: 
+DateModified: 
+Location: 
+Close: 
+Near: 
+Take: 
+Give: 
+Interact: 
 Points: "0"
+title: 
 ---
 ### Why does this person interest me?
 - Why:: 

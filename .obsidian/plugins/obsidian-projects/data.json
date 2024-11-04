@@ -75,6 +75,139 @@
       ],
       "id": "93968e46-7ee9-4e3f-951e-1f55b3cc6cd9",
       "name": "JS"
+    },
+    {
+      "fieldConfig": {
+        "status": {
+          "options": [
+            "⚪Todo",
+            "🟡Doing",
+            "🟢Done",
+            "🟤Blocked"
+          ]
+        }
+      },
+      "defaultName": "",
+      "templates": [
+        "Templates/tp-task.md"
+      ],
+      "excludedNotes": [],
+      "isDefault": true,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Tasks",
+          "recursive": true
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "filepath": "Tasks/DB-Tasks.md"
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "DB-Tasks",
+          "name": "DB-Tasks",
+          "type": "dbfolder-view"
+        },
+        {
+          "config": {
+            "groupByField": "status",
+            "columns": {
+              "⚪Todo": {
+                "weight": 0,
+                "records": [
+                  "Tasks/lc-js-review-two-pointers.md",
+                  "Tasks/te-design-pattern-入门.md",
+                  "Tasks/te-Nginx-安装配置-基本用法.md",
+                  "Tasks/ca-入职环境及工具搭建.md"
+                ]
+              },
+              "🟡Doing": {
+                "weight": 1,
+                "records": [
+                  "Tasks/te-Node.js-入门-B.md"
+                ]
+              },
+              "🟢Done": {
+                "weight": 2,
+                "records": [
+                  "Tasks/te-Node.js-入门-A.md",
+                  "Tasks/ca-offer-Centific-入职体检-背调.md",
+                  "Tasks/ca-portfolio-v2-LinkedIn-简历更新.md",
+                  "Tasks/l2-仲裁出庭及经验总结.md",
+                  "Tasks/l2-庭审诉求与证据补充.md",
+                  "Tasks/lc-js-leecode-hash-table-review.md",
+                  "Tasks/ca-offer-Centific-入职复检-材料上传-协议签字.md",
+                  "Tasks/l2-仲裁庭后书面补充意见提交.md"
+                ]
+              },
+              "🟤Blocked": {
+                "records": [
+                  "Tasks/rv-nextjs-dashboard.md",
+                  "Tasks/rv-js.md",
+                  "Tasks/rv-react.md"
+                ],
+                "weight": 3
+              },
+              "No status": {
+                "records": [
+                  "Tasks/cpe-发布一篇技术公众号文章.md"
+                ]
+              }
+            }
+          },
+          "filter": {
+            "conditions": [
+              {
+                "field": "sprint",
+                "operator": "contains",
+                "enabled": true,
+                "value": "5"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "5937bf73-fdb3-4995-ab38-76e1f4c222ea",
+          "name": "Kanban",
+          "type": "board"
+        },
+        {
+          "config": {
+            "groupByField": "DateDone"
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "b5c2b41c-d264-43a1-a0e5-81091c830c38",
+          "name": "Board",
+          "type": "board"
+        }
+      ],
+      "id": "48b0afb8-b875-48f8-beae-9e17ac6ac9bb",
+      "name": "Projects"
     }
   ],
   "archives": [],
@@ -82,6 +215,9 @@
     "projectSizeLimit": 1000,
     "frontmatter": {
       "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "default"
     },
     "commands": [],
     "linkBehavior": "open-editor"

@@ -1,60 +1,70 @@
 {
   "main": {
-    "id": "ba4e978c4c8cd2b3",
+    "id": "93e0e47fb7975e18",
     "type": "split",
     "children": [
       {
-        "id": "2c2d3528520a048e",
+        "id": "5551df9d5a5a35ce",
         "type": "tabs",
         "children": [
           {
-            "id": "552332da2dde0305",
+            "id": "75affa9afecb787c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules and Functions/Media Query.md",
+                "file": "back-end/data-store/database/nosql-db/mongodb/mongodb.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "mongodb"
+            }
+          },
+          {
+            "id": "4c6585de2fcdf18d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "back-end/data-store/database/nosql-db/mongoose/mongoose.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "mongoose"
             }
           }
         ],
-        "stacked": true
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b051bc6be71898a8",
+    "id": "e58d30b10af221dd",
     "type": "split",
     "children": [
       {
-        "id": "7ce36c9a8e93a836",
+        "id": "f9cc922d901ec61a",
         "type": "tabs",
-        "dimension": 72.10796915167096,
         "children": [
           {
-            "id": "a5d432bc07bb1b99",
+            "id": "1dde4c6db8c29600",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "custom"
-              }
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "e24ffcc382906f2f",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {}
-            }
-          },
-          {
-            "id": "de435280f302cc8d",
+            "id": "d0e2a2ae20b1a25d",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,271 +75,137 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
-          }
-        ]
-      },
-      {
-        "id": "502d287525d5a433",
-        "type": "tabs",
-        "dimension": 27.89203084832905,
-        "children": [
+          },
           {
-            "id": "b42ca4bbb207e06f",
+            "id": "c34f592d752de084",
             "type": "leaf",
             "state": {
-              "type": "recent-files",
-              "state": {}
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 312.50648498535156
+    "width": 300
   },
   "right": {
-    "id": "d61dd7ecf96e5792",
+    "id": "54476ffa2e56f84b",
     "type": "split",
     "children": [
       {
-        "id": "19c151a1d66e54a8",
+        "id": "c8add87417973b74",
         "type": "tabs",
-        "dimension": 70.37037037037037,
         "children": [
           {
-            "id": "8e93fd9c33b2f598",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          },
-          {
-            "id": "47ba9a3e1dfa751d",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "ca60b5fdb63fdb5c",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Rules and Functions/Media Query.md"
-              }
-            }
-          },
-          {
-            "id": "3cf7c9212f19a2bf",
-            "type": "leaf",
-            "state": {
-              "type": "podcast_player_view",
-              "state": {}
-            }
-          },
-          {
-            "id": "2f9f6d61a553832d",
-            "type": "leaf",
-            "state": {
-              "type": "video-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "0f6fc04243f706ec",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Rules and Functions/Media Query.md"
-              }
-            }
-          },
-          {
-            "id": "b785b9647cee1307",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              }
-            }
-          },
-          {
-            "id": "1418eecee6cc01bf",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
-          },
-          {
-            "id": "86f5ff4806f9bd63",
-            "type": "leaf",
-            "state": {
-              "type": "tasks_timeline_view",
-              "state": {}
-            }
-          },
-          {
-            "id": "742058c6da64bd9f",
-            "type": "leaf",
-            "state": {
-              "type": "quiet-outline",
-              "state": {}
-            }
-          },
-          {
-            "id": "5fa483db538593ab",
-            "type": "leaf",
-            "state": {
-              "type": "review-queue-list-view",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 9
-      },
-      {
-        "id": "a05bbfc48ce53e61",
-        "type": "tabs",
-        "dimension": 29.629629629629626,
-        "children": [
-          {
-            "id": "ff00e7329ca5b62d",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Rules and Functions/Media Query.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "39e540faa673caf7",
+            "id": "30e02d398582a7d6",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules and Functions/Media Query.md",
-                "collapseAll": true,
+                "file": "back-end/data-store/database/nosql-db/mongoose/mongoose.md",
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for mongoose"
+            }
+          },
+          {
+            "id": "16e2fdc0b5e16ea0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "back-end/data-store/database/nosql-db/mongoose/mongoose.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from mongoose"
+            }
+          },
+          {
+            "id": "af2f8d10642b022e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "004eee1d82d85594",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "back-end/data-store/database/nosql-db/mongoose/mongoose.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of mongoose"
+            }
+          },
+          {
+            "id": "db8bb0bd15149845",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 231.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "media-extended:Open media": false,
-      "obsidian42-brat:BRAT": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
       "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false,
+      "dbfolder:Create a new database table": false,
+      "obsidian-kanban:Create new board": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "templater-obsidian:Templater": false,
       "obsidian-projects:Open projects": false,
       "obsidian-read-it-later:ReadItLater: Save clipboard": false,
-      "notion-like-tables:Create loom": false,
+      "float-search:Search obsidian in modal view": false,
       "obsidian-focus-mode:Toggle Focus Mode (Shift + Click to show active pane only)": false,
-      "spreadsheets:New Spreadsheet": false,
-      "flashcards-obsidian:Generate flashcards": false,
-      "float-search:Search Obsidian In Modal": false,
-      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-      "cloze:Toggle all clozes": false,
-      "dbfolder:Create a new database table": false,
-      "omnisearch:Omnisearch": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-spaced-repetition:Review flashcards": false
+      "periodic-notes:Open today": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "552332da2dde0305",
+  "active": "4c6585de2fcdf18d",
   "lastOpenFiles": [
-    "Templates",
-    "Templates/tp-test/tp-默认笔记模板.md",
-    "Templates/tp-test/tp-通用模板.md",
-    "Templates/tp-test/tp-自动选择模板.md",
-    "Templates/tp-test/tp-笔记收集箱-new.md",
-    "Templates/tp-test/tp-笔记分类模板-new.md",
-    "Templates/tp-test/tp-流水账模板-new.md",
-    "Templates/tp-test/tp-人物模板-new.md",
-    "Templates/tp-test",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Uniform size.svg",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Uniform size.md",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Split text by lines.svg",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Split text by lines.md",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Set Text Alignment.svg",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Set Text Alignment.md",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Rename Image.svg",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Fixed vertical distance.svg",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Rename Image.md",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Fixed vertical distance.md",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Fixed vertical distance between centers.svg",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Fixed vertical distance between centers.md",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Fixed spacing.svg",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Fixed horizontal distance between centers.svg",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Fixed horizontal distance between centers.md",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Fixed spacing.md",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Expand rectangles vertically.md",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Expand rectangles vertically.svg",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Expand rectangles vertically keep text centered.svg",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Expand rectangles vertically keep text centered.md",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Expand rectangles horizontally.md",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Expand rectangles horizontally keep text centered.md",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Deconstruct selected elements into new drawing.md",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Create DrawIO file.md",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Copy Selected Element Styles to Global.md",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Box Selected Elements.md",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded/Box Each Selected Groups.md",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Uniform size.md",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded/Downloaded",
-    "Templates/Tp-Plugins/script/tasksCalendar/view.css",
-    "Templates/Tp-Plugins/script/tasksCalendar/view.js",
-    "Templates/Tp-Plugins/script/Taskido/view.js",
-    "Templates/Tp-Plugins/script/Taskido/view.css",
-    "Templates/Tp-Plugins/script/template/getrandomImage.js",
-    "Templates/Tp-Plugins/script/template/taskprogress.js",
-    "Templates/Tp-Plugins/Excalidraw/Scripts/Downloaded",
-    "Templates/Tp-Plugins/script/tasksCalendar",
-    "PKM-Tools/SM-Source Management/Backup, Sync and Recover/Mobile Study-iPhone, iPad/Note in iPhone.canvas",
-    "PKM-Tools/SM-Source Management/Backup, Sync and Recover/Mobile Study-iPhone, iPad/Canvas in iPad.canvas",
-    "PM-Tools/工作包优先级与进度管理-Projects, DB Folder, Dataview, Kanban, Dashboard, Table/CVS-Task Workflow.canvas",
-    "PKM-Tools/Obsidian/模板工具有哪些、怎么用/How Memo Works.canvas",
-    "PKM-Tools/PKM-Map.canvas",
-    "Untitled.canvas",
-    "Tool Guide/Obsidian/模板工具有哪些、怎么用/How Memo Works.canvas",
-    "Tool Config/Obsidian/模板工具有哪些、怎么用/How Memo Works.canvas",
-    "Tools Config/Obsidian/模板工具有哪些、怎么用/How Memo Works.canvas",
-    "Tools/Obsidian/模板工具有哪些、怎么用/How Memo Works.canvas"
+    "back-end/data-store/database/nosql-db/mongodb/mongodb.md",
+    "back-end/data-store/database/nosql-db/mongodb/mongodb-operators-for-CRUD.md"
   ]
 }

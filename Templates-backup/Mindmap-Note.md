@@ -1,5 +1,4 @@
 ---
-Title: 
 Type: 
 Topic: 
 tags: 
@@ -9,6 +8,7 @@ DateDo:
 DateDone: 
 status: 
 mindmap-plugin: basic
+title: 
 ---
 
 <%-*  

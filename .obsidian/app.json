@@ -3,7 +3,7 @@
   "showFrontmatter": false,
   "promptDelete": false,
   "vimMode": false,
-  "useMarkdownLinks": false,
+  "useMarkdownLinks": true,
   "newFileLocation": "current",
   "attachmentFolderPath": "./z-Assets",
   "showLineNumber": true,
@@ -19,5 +19,9 @@
   "tabSize": 2,
   "spellcheck": true,
   "showInlineTitle": true,
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "relative",
+  "userIgnoreFilters": [
+    "z-Resonance/",
+    "Templates/"
+  ]
 }

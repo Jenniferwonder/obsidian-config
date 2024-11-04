@@ -1,17 +1,16 @@
 ---
-Title: Editing Checklist Template
 id: 2304.01.PUB
-tags:
-Topic:
+tags: 
+Topic: 
 status: 
-EST:
+EST: 
 DateStarted: 
 DateModified: 
 Completed: 0
 DateDue: 
 Total: 21
-Completed: 0
 Incomplete: 21
+title: Editing Checklist Template
 ---
 ## Publishing Checklist
 #### 1. Uploading and Publishing

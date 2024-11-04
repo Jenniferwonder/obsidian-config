@@ -1,5 +1,4 @@
 ---
-Title: <% tp.file.title %>
 Type: 
 tags: 
 DateStarted: ""
@@ -9,6 +8,7 @@ DateReviewed:
 Reviewed: 
 Difficulty: 
 status: 
-mindmap-plugin:
+mindmap-plugin: 
+title: <% tp.file.title %>
 ---
 # <% tp.file.title %>

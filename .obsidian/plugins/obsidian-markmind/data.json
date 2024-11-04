@@ -1,6 +1,6 @@
 {
   "canvasSize": 80000,
-  "headLevel": 2,
+  "headLevel": 3,
   "fontSize": 16,
   "background": "#2e2724",
   "layout": "mindmap",
@@ -19,7 +19,7 @@
   "setup": 1682516182463,
   "imageFolder": "z-Assets",
   "useMarkdownSaveAnnotation": "md",
-  "activeCode": "5cffb81e5c7461c94f3c077a35005d4295de666a419a6f91bdf9340d46d7aa53490c965db53f26b9acd6683a09e291372e5385f2703a9426246296a5d7ee6b0fc4667cf817cc53397992",
+  "activeCode": "74efd4fad608dcfadb9bf3f54deb807c3d19fe4799b636028b750c5917e2ad9a1c8f1eba951482733cc5b1796ef2b35fb2e2490355279935ac3e62adc4e8453c4a26b8474e3bd14f10ed76",
   "mobileActiveCode": "02F00Y01r01k00Y01400Y01000r00r00t00s00o01300o01k01h01300t00p00p01l01k01300q01301o01o01101l00r01200q01300t01001001j01300Y00i00Y02402001h02200Y01400Y00q00Y00i00Y01l02201k01E01h02801l00Y01400Y01O01h01O00j01h01O00j01h01O00Y02H",
   "onlyUseObsidianFolder": true,
   "openCodeBlock": true,
@@ -31,5 +31,6 @@
   "cacheFolder": "Capture",
   "onlyCopyLink": true,
   "addCollapseNodeMark": true,
-  "annotateFormat": "{{highlightText}} []({{link}})\n"
+  "annotateFormat": "{{highlightText}} []({{link}})\n",
+  "mindmapRenderType": "html"
 }

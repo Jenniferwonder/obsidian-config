@@ -1,6 +1,5 @@
 ---
 LCID: 
-Title: 35. (Search-insert-position)
 Type: 
 Similar: 
 tags: 
@@ -18,7 +17,8 @@ DateReviewed:
 Reviewed: 
 status: 
 aliases: 
-Comment:
+Comment: 
+title: 35. (Search-insert-position)
 ---
 # 
 ## 题目要求

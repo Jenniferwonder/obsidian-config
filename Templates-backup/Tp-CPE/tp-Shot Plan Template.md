@@ -1,5 +1,4 @@
 ---
-Title: 2302.0-Shot List
 id: 2302.01.OT
 tags: Content-Making
 Location: Home
@@ -8,6 +7,7 @@ DateModified: 2023-04-12
 DateDue: 2023-02-24
 status: ""
 Progress: NaN%
+title: 2302.0-Shot List
 ---
 
 ## Options

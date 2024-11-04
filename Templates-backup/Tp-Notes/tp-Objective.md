@@ -1,8 +1,7 @@
 ---
-Title: 
-tags: 
-- 
-- Objectives
+tags:
+  - 
+  - Objectives
 Priority: 
 status: 
 DateStarted: 
@@ -12,7 +11,8 @@ DateDue:
 Total: 0
 Completed: 0
 Incomplete: 0
-Progress:
+Progress: 
+title: 
 ---
 ## Metadata
 ### Alignment

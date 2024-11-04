@@ -1,17 +1,16 @@
 ---
-Title: Editing Checklist Template
 id: 2304.01.ED
-tags:
-Topic:
+tags: 
+Topic: 
 status: 
-EST:
+EST: 
 DateStarted: 
 DateModified: 
 Completed: 0
 DateDue: 
 Total: 22
-Completed: 0
 Incomplete: 22
+title: Editing Checklist Template
 ---
 
 ## A-Cut

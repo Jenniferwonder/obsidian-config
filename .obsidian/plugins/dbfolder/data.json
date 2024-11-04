@@ -1,7 +1,7 @@
 {
   "global_settings": {
     "enable_debug_mode": false,
-    "enable_show_state": false,
+    "enable_show_state": true,
     "enable_row_shadow": true,
     "enable_auto_update": true,
     "show_search_bar_by_default": true,
@@ -35,8 +35,8 @@
     "current_row_template": "",
     "pagination_size": 40,
     "font_size": 16,
-    "enable_js_formulas": false,
-    "formula_folder_path": "/",
+    "enable_js_formulas": true,
+    "formula_folder_path": "Templates/formula",
     "inline_default": false,
     "inline_new_position": "last_field",
     "date_format": "yyyy-MM-dd",

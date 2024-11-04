@@ -28,7 +28,7 @@
     },
     "insert-yaml-attributes": {
       "enabled": true,
-      "text-to-insert": "Title:\nTopic:\nType:\ntags: \nDateStarted: \nDateModified:\nDateDo:\nDateDone:\nDateDue:\nDateReviewed:\nReviewed:\nDifficulty:\nstatus:\nComment:\n"
+      "text-to-insert": "title:\ntype: \nproject:\ncategory:\ntags: Admin\nDateStarted: \nDateDone:\nDateModified:\nDateReviewed:\nreviewed:\ndifficulty:\nstatus:\ncomment:\naliases:\ndraft: true\nwechat:\nzhihu:\njuejin:\nbilibili:"
     },
     "move-tags-to-yaml": {
       "enabled": false,
@@ -36,12 +36,12 @@
       "tags-to-ignore": ""
     },
     "remove-yaml-keys": {
-      "enabled": false,
-      "yaml-keys-to-remove": ""
+      "enabled": true,
+      "yaml-keys-to-remove": "Pomo, sr-due, sr-ease, sr-interval, DateDo, DateDone, DateDue\n"
     },
     "yaml-key-sort": {
       "enabled": true,
-      "yaml-key-priority-sort-order": "Title Topic Type tags DateStarted DateModified DateDo DateDue DateDone DateReviewed Reviewed Difficulty Comment status ",
+      "yaml-key-priority-sort-order": "title type project category tags DateStarted DateDone DateModified DateReviewed reviewed points comment status aliases ",
       "priority-keys-at-start-of-yaml": true,
       "yaml-sort-order-for-other-keys": "None"
     },
@@ -49,20 +49,25 @@
       "enabled": true,
       "date-created": true,
       "date-created-key": "DateStarted",
-      "force-retention-of-create-value": true,
       "date-modified": true,
       "date-modified-key": "DateModified",
-      "format": "YYYY-MM-DD"
+      "format": "YYYY-MM-DD",
+      "date-created-source-of-truth": "frontmatter",
+      "date-modified-source-of-truth": "file system",
+      "convert-to-utc": false,
+      "update-on-file-contents-updated": "never"
     },
     "yaml-title": {
       "enabled": true,
-      "title-key": "Title"
+      "title-key": "title",
+      "mode": "first-h1-or-filename-if-h1-missing"
     },
     "yaml-title-alias": {
-      "enabled": false,
-      "preserve-existing-alias-section-style": true,
+      "enabled": true,
+      "preserve-existing-alias-section-style": false,
       "keep-alias-that-matches-the-filename": false,
-      "use-yaml-key-to-keep-track-of-old-filename-or-heading": false
+      "use-yaml-key-to-keep-track-of-old-filename-or-heading": true,
+      "alias-helper-key": "linter-yaml-title-alias"
     },
     "capitalize-headings": {
       "enabled": false,
@@ -95,7 +100,8 @@
       "style": "consistent"
     },
     "no-bare-urls": {
-      "enabled": false
+      "enabled": false,
+      "no-bare-uris": false
     },
     "ordered-list-style": {
       "enabled": true,
@@ -122,7 +128,8 @@
       "style": "consistent"
     },
     "two-spaces-between-lines-with-content": {
-      "enabled": true
+      "enabled": true,
+      "line-break-indicator": "  "
     },
     "unordered-list-style": {
       "enabled": true,
@@ -211,7 +218,9 @@
     },
     "auto-correct-common-misspellings": {
       "enabled": false,
-      "ignore-words": ""
+      "ignore-words": "",
+      "extra-auto-correct-files": [],
+      "skip-words-with-multiple-capitals": false
     },
     "remove-space-around-characters": {
       "enabled": false,
@@ -221,7 +230,9 @@
       "other-symbols": ""
     },
     "space-between-chinese-japanese-or-korean-and-english-or-numbers": {
-      "enabled": false
+      "enabled": false,
+      "english-symbols-punctuation-before": "-+;:'\"°%$)]",
+      "english-symbols-punctuation-after": "-+'\"([¥$"
     },
     "blockquote-style": {
       "enabled": false,
@@ -245,6 +256,24 @@
     "default-language-for-code-fences": {
       "enabled": false,
       "default-language": ""
+    },
+    "dedupe-yaml-array-values": {
+      "enabled": false,
+      "dedupe-alias-key": true,
+      "dedupe-tag-key": true,
+      "dedupe-array-keys": true,
+      "ignore-keys": ""
+    },
+    "sort-yaml-array-values": {
+      "enabled": false,
+      "sort-alias-key": true,
+      "sort-tag-key": true,
+      "sort-array-keys": true,
+      "ignore-keys": "",
+      "sort-order": "Ascending Alphabetical"
+    },
+    "empty-line-around-horizontal-rules": {
+      "enabled": false
     }
   },
   "lintOnSave": false,
@@ -257,13 +286,14 @@
     "Templates",
     "TemplaterJS"
   ],
+  "filesToIgnore": [],
   "linterLocale": "system-default",
   "logLevel": "ERROR",
   "lintCommands": [],
   "customRegexes": [],
   "commonStyles": {
     "aliasArrayStyle": "single-line",
-    "tagArrayStyle": "single-line",
+    "tagArrayStyle": "single string comma delimited",
     "minimumNumberOfDollarSignsToBeAMathBlock": 2,
     "escapeCharacter": "\""
   }

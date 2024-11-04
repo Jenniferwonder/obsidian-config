@@ -1,8 +1,8 @@
 ---
-Title: 
-tags:
+tags: 
 DateStarted: 
 DateModified: 
+title: 
 ---
 ## Metadata
 ### Relationships

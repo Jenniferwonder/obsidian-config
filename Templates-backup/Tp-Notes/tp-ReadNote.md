@@ -1,11 +1,11 @@
 ---
-Title: 
 Topic: 
-Type:
+Type: 
 tags: 
-status:
+status: 
 DateStarted: 
 DateModified: 
+title: 
 ---
 ## Metadata
 ### Source

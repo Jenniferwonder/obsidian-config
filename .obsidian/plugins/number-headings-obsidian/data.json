@@ -7,5 +7,7 @@
   "auto": false,
   "separator": ".",
   "contents": "",
-  "startAt": ""
+  "skipHeadings": "",
+  "startAt": "",
+  "off": false
 }

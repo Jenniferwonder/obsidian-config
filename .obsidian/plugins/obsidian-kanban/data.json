@@ -1,29 +1,46 @@
 {
-  "show-checkboxes": false,
-  "new-note-folder": "000-OKRTs/Tasks",
-  "show-relative-date": true,
-  "archive-with-date": false,
-  "append-archive-date": true,
-  "date-picker-week-start": 1,
+  "new-note-folder": "Tasks",
+  "link-date-to-daily-note": true,
   "metadata-keys": [
     {
+      "metadataKey": "project",
+      "label": "project",
+      "shouldHideLabel": false,
+      "containsMarkdown": false
+    },
+    {
       "metadataKey": "DateStarted",
-      "label": "Started",
+      "label": "DateStarted",
       "shouldHideLabel": false,
       "containsMarkdown": false
     },
     {
-      "metadataKey": "DateDue",
-      "label": "Due",
+      "metadataKey": "DateDone",
+      "label": "DateDone",
       "shouldHideLabel": false,
       "containsMarkdown": false
     },
     {
-      "metadataKey": "Priority",
-      "label": "",
+      "metadataKey": "priority",
+      "label": "priority",
+      "shouldHideLabel": false,
+      "containsMarkdown": false
+    },
+    {
+      "metadataKey": "points",
+      "label": "points",
       "shouldHideLabel": false,
       "containsMarkdown": false
     }
   ],
-  "new-note-template": "000-Templates/Tp-Notes/tp-Tasks.md"
+  "append-archive-date": true,
+  "new-note-template": "Templates/tp-task.md",
+  "date-colors": [
+    {
+      "isToday": false,
+      "distance": 1,
+      "unit": "days",
+      "direction": "after"
+    }
+  ]
 }

@@ -211,24 +211,8 @@
       "key": "R"
     }
   ],
-  "obsidian-outliner:move-list-item-down": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "ArrowDown"
-    }
-  ],
-  "obsidian-outliner:move-list-item-up": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "ArrowUp"
-    }
-  ],
+  "obsidian-outliner:move-list-item-down": [],
+  "obsidian-outliner:move-list-item-up": [],
   "backlink:toggle-backlinks-in-document": [
     {
       "modifiers": [
@@ -254,14 +238,6 @@
         "Mod"
       ],
       "key": "E"
-    }
-  ],
-  "metaedit:metaEditRun": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "M"
     }
   ],
   "editor:swap-line-down": [
@@ -436,15 +412,6 @@
       "key": "N"
     }
   ],
-  "podnotes:capture-timestamp": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "P"
-    }
-  ],
   "obsidian-footnotes:insert-footnote": [
     {
       "modifiers": [
@@ -615,33 +582,6 @@
       "key": "S"
     }
   ],
-  "obsidian-spaced-repetition:srs-note-review-hard": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "ArrowLeft"
-    }
-  ],
-  "obsidian-spaced-repetition:srs-note-review-good": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "ArrowDown"
-    }
-  ],
-  "obsidian-spaced-repetition:srs-note-review-easy": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "ArrowRight"
-    }
-  ],
   "quickadd:choice:c7bee892-b7b7-4f91-8e1b-883ecfd0fb6b": [
     {
       "modifiers": [
@@ -760,15 +700,6 @@
       "key": "T"
     }
   ],
-  "obsidian-spaced-repetition:srs-review-flashcards": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "D"
-    }
-  ],
   "zk-prefixer": [
     {
       "modifiers": [
@@ -857,11 +788,27 @@
   "Enhanced-editing:biaoti6-text": [],
   "Enhanced-editing:modify-link-showname": [],
   "Enhanced-editing:biaoti0-text": [],
-  "Enhanced-editing:del-lines": [],
+  "Enhanced-editing:del-lines": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "P"
+    }
+  ],
   "Enhanced-editing:add-Line0": [],
   "Enhanced-editing:paste-text": [],
   "Enhanced-editing:mouse-right": [],
-  "Enhanced-editing:mouse-end": [],
+  "Enhanced-editing:mouse-end": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "]"
+    }
+  ],
   "Enhanced-editing:text-Color1": [],
   "Enhanced-editing:text-Color2": [],
   "Enhanced-editing:text-Color3": [],
@@ -941,5 +888,135 @@
   "notion-like-tables:create": [],
   "notion-like-tables:delete-column": [],
   "notion-like-tables:delete-row": [],
-  "obsidian-math-plus:insert-math-block": []
+  "obsidian-math-plus:insert-math-block": [],
+  "duplicate-line:duplicate-line": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "duplicate-line:duplicate-line-up": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "duplicate-line:duplicate-selection-down": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "duplicate-line:duplicate-selection-up": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "duplicate-line:select-all-occurence": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:delete-paragraph": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Delete"
+    }
+  ],
+  "wikilinks-to-mdlinks-obsidian:toggle-wiki-md-links": [],
+  "file-explorer:move-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "M"
+    }
+  ],
+  "editor:insert-table": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "editor:table-col-after": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "editor:table-col-before": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "editor:table-row-after": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:table-row-before": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "Enhanced-editing:mouse-start": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "["
+    }
+  ],
+  "obsidian-markmind:Toggle search box": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "/"
+    }
+  ],
+  "obsidian-projects:show-projects": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
+  ]
 }

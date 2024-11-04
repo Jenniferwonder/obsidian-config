@@ -1,206 +1,207 @@
 {
   "recentFiles": [
     {
-      "basename": "Media Query",
-      "path": "Rules and Functions/Media Query.md"
+      "basename": "authentication-mongoose",
+      "path": "back-end/data-store/database/nosql-db/mongoose/authentication-mongoose.md"
     },
     {
-      "basename": "CSS Functions",
-      "path": "Rules and Functions/CSS Functions.md"
+      "basename": "login-user-and-send-JWT",
+      "path": "back-end/data-store/database/nosql-db/mongoose/login-user-and-send-JWT.md"
     },
     {
-      "basename": "CSS @rules (at-rules)",
-      "path": "Rules and Functions/CSS @rules (at-rules).md"
+      "basename": "create-JWT-token",
+      "path": "back-end/data-store/database/nosql-db/mongoose/create-JWT-token.md"
     },
     {
-      "basename": "pseudo-classes selectors (伪类)",
-      "path": "CSS Selectors/pseudo-classes selectors (伪类).md"
+      "basename": "jwt-basics",
+      "path": "back-end/data-store/database/nosql-db/mongoose/jwt-basics.md"
     },
     {
-      "basename": "pseudo-elements selectors (伪元素)",
-      "path": "CSS Selectors/pseudo-elements selectors (伪元素).md"
+      "basename": "modal-user",
+      "path": "back-end/data-store/database/nosql-db/mongoose/modal-user.md"
     },
     {
-      "basename": "CSS Selectors",
-      "path": "CSS Selectors/CSS Selectors.md"
+      "basename": "create-new-user",
+      "path": "back-end/data-store/database/nosql-db/mongoose/create-new-user.md"
     },
     {
-      "basename": "Attribute Selectors",
-      "path": "CSS Selectors/Attribute Selectors.md"
+      "basename": "hash-password",
+      "path": "back-end/data-store/database/nosql-db/mongoose/hash-password.md"
     },
     {
-      "basename": "Typography",
-      "path": "Typography/Typography.md"
+      "basename": "password-&-email-validation",
+      "path": "back-end/data-store/database/nosql-db/mongoose/password-&-email-validation.md"
     },
     {
-      "basename": "Styling Lists",
-      "path": "Typography/Styling Lists.md"
+      "basename": "CRUD-data-with-mongoose",
+      "path": "back-end/data-store/database/nosql-db/mongoose/CRUD-data-with-mongoose.md"
     },
     {
-      "basename": "Styling Links",
-      "path": "Typography/Styling Links.md"
+      "basename": "mongodb",
+      "path": "back-end/data-store/database/nosql-db/mongodb/mongodb.md"
     },
     {
-      "basename": "CSS Text Directions",
-      "path": "Typography/CSS Text Directions.md"
+      "basename": "node.js",
+      "path": "back-end/node.js/node.js.md"
     },
     {
-      "basename": "SVG Style",
-      "path": "SVG Style/SVG Style.md"
+      "basename": "express.js",
+      "path": "back-end/express.js/express.js.md"
     },
     {
-      "basename": "Absolute length units (For print styles)",
-      "path": "Sizing Units and Values/Absolute length units (For print styles).md"
+      "basename": "error-handle-with-express.js",
+      "path": "back-end/express.js/error-handle-with-express.js.md"
     },
     {
-      "basename": "CSS Image-Video and other Replaced elements",
-      "path": "Sizing Units and Values/CSS Image-Video and other Replaced elements.md"
+      "basename": "environment-variables-in-node.js",
+      "path": "back-end/node.js/environment-variables-in-node.js.md"
     },
     {
-      "basename": "CSS Values and Units",
-      "path": "Sizing Units and Values/CSS Values and Units.md"
+      "basename": "2024-11",
+      "path": "Daily/2024-11.md"
     },
     {
-      "basename": "Relative length units (For responsive design)",
-      "path": "Sizing Units and Values/Relative length units (For responsive design).md"
+      "basename": "2024-11-01",
+      "path": "Daily/2024-11-01.md"
     },
     {
-      "basename": "Sizing Units",
-      "path": "Sizing Units and Values/Sizing Units.md"
+      "basename": "js-leetcode",
+      "path": "Projects/Codespace/foundation/js-leetcode.md"
     },
     {
-      "basename": "Hiding Elements",
-      "path": "Interactivity/Layout/Hiding Elements.md"
+      "basename": "lc-js-review-two-pointers",
+      "path": "Tasks/lc-js-review-two-pointers.md"
     },
     {
-      "basename": "Table Style",
-      "path": "Interactivity/Layout/Table Style.md"
+      "basename": "lc-js-review-hash-table",
+      "path": "Tasks/lc-js-review-hash-table.md"
     },
     {
-      "basename": "Grids",
-      "path": "Interactivity/Layout/Grids.md"
+      "basename": "JS",
+      "path": "Projects/TechSkills/Front-End/JS.md"
     },
     {
-      "basename": "Form Style",
-      "path": "Interactivity/Layout/Form Style.md"
+      "basename": "DevOps",
+      "path": "Projects/TechSkills/DevOps/DevOps.md"
     },
     {
-      "basename": "Floats",
-      "path": "Interactivity/Layout/Floats.md"
+      "basename": "Web Design",
+      "path": "Projects/TechSkills/Front-End/Web Design/Web Design.md"
     },
     {
-      "basename": "Flexbox",
-      "path": "Interactivity/Layout/Flexbox.md"
+      "basename": "te-MySQL-安装配置及基本用法",
+      "path": "Tasks/te-MySQL-安装配置及基本用法.md"
     },
     {
-      "basename": "CSS Positioning",
-      "path": "Interactivity/Layout/CSS Positioning.md"
+      "basename": "te-Redis-安装配置及基本用法",
+      "path": "Tasks/te-Redis-安装配置及基本用法.md"
     },
     {
-      "basename": "CSS Overflowing Content",
-      "path": "Interactivity/Layout/CSS Overflowing Content.md"
+      "basename": "tp-task",
+      "path": "Templates/tp-task.md"
     },
     {
-      "basename": "CSS Normal Flow",
-      "path": "Interactivity/Layout/CSS Normal Flow.md"
+      "basename": "te-Node.js-入门-B",
+      "path": "Tasks/te-Node.js-入门-B.md"
     },
     {
-      "basename": "Interactivity",
-      "path": "Interactivity/Interactivity.md"
+      "basename": "pm-创建 DB-Tasks",
+      "path": "Tasks/pm-创建 DB-Tasks.md"
     },
     {
-      "basename": "CSS Blending",
-      "path": "Effects/CSS Blending.md"
+      "basename": "pm-建立敏捷工作流程-看板",
+      "path": "Tasks/pm-建立敏捷工作流程-看板.md"
     },
     {
-      "basename": "Box Shadow",
-      "path": "Effects/Box Shadow.md"
+      "basename": "ca-offer-Centific-入职复检-材料上传-协议签字",
+      "path": "Tasks/ca-offer-Centific-入职复检-材料上传-协议签字.md"
     },
     {
-      "basename": "CSS Filters",
-      "path": "CSS Filters/CSS Filters.md"
+      "basename": "2024-09至2024-10-前端求职",
+      "path": "Projects/Career/2024-09至2024-10-前端求职.md"
     },
     {
-      "basename": "CSS Backgrounds",
-      "path": "CSS Backgrounds/CSS Backgrounds.md"
+      "basename": "2024-10",
+      "path": "Daily/2024-10.md"
     },
     {
-      "basename": "DB-CSS",
-      "path": "Private/DB-CSS.md"
+      "basename": "2024-10-31",
+      "path": "Daily/2024-10-31.md"
     },
     {
-      "basename": "DB-Components",
-      "path": "Private/DB-Components/DB-Components.md"
+      "basename": "Career",
+      "path": "Projects/Career/Career.md"
     },
     {
-      "basename": "Paste image 1695297501729image",
-      "path": "Sizing Units and Values/z-Assets/Paste image 1695297501729image.png"
+      "basename": "Interview",
+      "path": "Projects/Career/Interview.md"
     },
     {
-      "basename": "Combinators (Selector Combinations)",
-      "path": "CSS Selectors/Combinators (Selector Combinations).md"
+      "basename": "Portfolio",
+      "path": "Projects/Career/Portfolio.md"
     },
     {
-      "basename": "Basic Selectors",
-      "path": "CSS Selectors/Basic Selectors.md"
+      "basename": "Centific",
+      "path": "Projects/Career/Centific.md"
     },
     {
-      "basename": "Paste image 1695097054773image",
-      "path": "CSS Selectors/z-Assets/Paste image 1695097054773image.png"
+      "basename": "tp-project",
+      "path": "Templates/tp-project.md"
     },
     {
-      "basename": "Border-Box Explained",
-      "path": "Box Model (Spacing)/Border-Box Explained.md"
+      "basename": "2024-06-前端求职",
+      "path": "Projects/Career/2024-06-前端求职.md"
     },
     {
-      "basename": "Borders",
-      "path": "Borders/Borders.md"
+      "basename": "ca-入职环境及工具搭建",
+      "path": "Tasks/ca-入职环境及工具搭建.md"
     },
     {
-      "basename": "Array Basics",
-      "path": "Array/Array Basics/Array Basics.md"
+      "basename": "2024-09",
+      "path": "Daily/2024-09.md"
     },
     {
-      "basename": "Convert Array or Object to String (数组对象转字符串方法)",
-      "path": "Array/Array Instance Methods/Convert Array or Object to String (数组对象转字符串方法).md"
+      "basename": "tp-Monthly",
+      "path": "Templates/Tp-Daily/tp-Monthly.md"
     },
     {
-      "basename": "Concat Arrays (合并数组)",
-      "path": "Array/Array Instance Methods/Concat Arrays (合并数组).md"
+      "basename": "te-taro-mini-app-demo-build",
+      "path": "Tasks/te-taro-mini-app-demo-build.md"
     },
     {
-      "basename": "Array Instance Methods",
-      "path": "Array/Array Instance Methods/Array Instance Methods.md"
+      "basename": "l2-仲裁出庭及经验总结",
+      "path": "Tasks/l2-仲裁出庭及经验总结.md"
     },
     {
-      "basename": "Array",
-      "path": "Array/Array.md"
+      "basename": "l2-仲裁庭后书面补充意见提交",
+      "path": "Tasks/l2-仲裁庭后书面补充意见提交.md"
     },
     {
-      "basename": "Git Commands",
-      "path": "DevPractice/DevTools/Git&GitHub/O-Git/Git Commands.md"
+      "basename": "l2-劳动仲裁申请材料提交、邮寄",
+      "path": "Tasks/l2-劳动仲裁申请材料提交、邮寄.md"
     },
     {
-      "basename": "Close Relationship",
-      "path": "Communication/Close Relationship/Close Relationship.md"
+      "basename": "cpe-发布一篇技术公众号文章",
+      "path": "Tasks/cpe-发布一篇技术公众号文章.md"
     },
     {
-      "basename": "Browser-浏览器工作原理",
-      "path": "Network/O-Network/Browser-浏览器工作原理.md"
+      "basename": "te-zustand-demo",
+      "path": "Tasks/te-zustand-demo.md"
     },
     {
-      "basename": "JSON",
-      "path": "Database/Local Storage/JSON.md"
+      "basename": "l2-离职结算协商 Email",
+      "path": "Tasks/l2-离职结算协商 Email.md"
     },
     {
-      "basename": "C23-JSON",
-      "path": "O-JS/Data/C23-JSON.md"
+      "basename": "l2-离职仲裁渠道流程",
+      "path": "Tasks/l2-离职仲裁渠道流程.md"
     },
     {
-      "basename": "Reduce Array (Get the Sum 归并方法)",
-      "path": "O-JS/Array/Array Instance Methods/Reduce Array (Get the Sum 归并方法).md"
+      "basename": "li-安居房认购-瑞璟湾居",
+      "path": "Tasks/li-安居房认购-瑞璟湾居.md"
     }
   ],
   "omittedPaths": [],
+  "omittedTags": [],
   "maxLength": null
 }

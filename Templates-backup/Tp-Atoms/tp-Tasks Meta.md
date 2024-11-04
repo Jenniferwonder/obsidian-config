@@ -1,18 +1,18 @@
 ---
-Title: 
 tags: 
 Type: Plan
-DateStarted:
-DateModified:
-Priority:
-Points:
+DateStarted: 
+DateModified: 
+Priority: 
+Points: 
 EST: 
-ACT:
-DateDo:
-DateDue:
-DateDone:
+ACT: 
+DateDo: 
+DateDue: 
+DateDone: 
 status: 
 Total: 0
 Completed: 0
 Incomplete: 0
+title: 
 ---

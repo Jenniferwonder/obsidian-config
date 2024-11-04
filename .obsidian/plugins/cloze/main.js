@@ -369,6 +369,8 @@ var utils = {
     if (!$hint || hint === void 0)
       return;
     $hint.textContent = hint;
+    if ($hint.parentElement)
+      $hint.parentElement.title = hint;
   },
   isClozeHide: (clozeEl) => {
     return !!clozeEl.getAttribute(ATTRS.hide);
@@ -590,7 +592,7 @@ var ClozePlugin = class extends import_obsidian3.Plugin {
         this.transformCurlyBracketedText(element);
       }
       element.querySelectorAll(this.clozeSelector()).forEach(this.renderCloze);
-      this.toggleAllHide(element, this.isPreviewHide);
+      this.toggleAllHide(element, this.isAllHide());
     });
   }
   onRightClick(event, $cloze) {
@@ -609,8 +611,13 @@ var ClozePlugin = class extends import_obsidian3.Plugin {
     menu.showAtMouseEvent(event);
   }
   isPreviewMode() {
-    var _a;
-    return ((_a = this.app.workspace.getActiveViewOfType(import_obsidian3.MarkdownView)) == null ? void 0 : _a.getMode()) === "preview";
+    const view = this.app.workspace.getActiveViewOfType(import_obsidian3.MarkdownView);
+    if (view == null)
+      return true;
+    return view.getMode() === "preview";
+  }
+  isAllHide() {
+    return this.isPreviewMode() ? this.isPreviewHide : this.isSourceHide;
   }
   // Extract and verify tags - works in both preview and edit mode
   checkTags() {

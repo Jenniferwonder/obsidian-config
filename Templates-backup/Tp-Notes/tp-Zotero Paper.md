@@ -1,10 +1,13 @@
 ---
-Title: {{title}}
 Type: Note
-tags: [{{allTags}}] 
-Pages: {{pages}}
+tags:
+  - "{ allTags }": 
+Pages:
+  "{ pages }": 
 DateStarted: 
 DateModified: 
+title:
+  "{ title }": 
 ---
 # {{title}}
 ## Metadata

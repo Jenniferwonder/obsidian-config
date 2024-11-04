@@ -1,5 +1,5 @@
 {
-  "defaultMode": "match",
+  "defaultMode": "source",
   "autoPin": "onMove",
   "triggerDelay": 400,
   "closeDelay": 400,
